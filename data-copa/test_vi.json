@@ -1,0 +1,2002 @@
+[
+    {
+        "input": "Question:\nCác mặt hàng đã được đóng gói trong bọc bong bóng. Based on the previous passage, choose the most reasonable cause.\nA:Nó dễ vỡ.\nB:Nó nhỏ.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi lục túi của tôi. Based on the previous passage, choose the most reasonable effect.\nA:Tôi lấy một cuống vé.\nB:Tôi tìm thấy một vũ khí.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMối đầy nhà. Based on the previous passage, choose the most reasonable effect.\nA:Mối biến mất khỏi nhà.\nB:Mối ăn gỗ trong nhà.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCác du khách đã đến biên giới. Based on the previous passage, choose the most reasonable effect.\nA:Các nhân viên tuần tra kiểm tra hộ chiếu của họ.\nB:Các nhân viên tuần tra buộc tội họ buôn lậu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nVăn phòng đóng cửa. Based on the previous passage, choose the most reasonable cause.\nA:Đang vào đợt nghỉ.\nB:Đang mùa hè.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCô gái hết năng lượng. Based on the previous passage, choose the most reasonable cause.\nA:Cô chơi cờ đam.\nB:Cô nhảy dây.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ mất chỗ trong hàng. Based on the previous passage, choose the most reasonable cause.\nA:Nhiều người hơn đaz vào hàng.\nB:Cô bước ra khỏi hàng.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCô gái véo mũi. Based on the previous passage, choose the most reasonable cause.\nA:Đứa bé chảy nước dãi trên chiếc yếm của cô.\nB:Đứa bé làm bẩn tã của mình.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBan nhạc chơi bài hát hit của họ. Based on the previous passage, choose the most reasonable effect.\nA:Khán giả vỗ tay theo điệu nhạc.\nB:Khán giả lịch sự lắng nghe trong im lặng.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCô gái muốn cảm ơn cô giáo dạy toán. Based on the previous passage, choose the most reasonable effect.\nA:Cô gái bị giữ lại sau giờ học.\nB:Cô gái mang cho cô giáo một quả táo.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCác trại viên trẻ cảm thấy sợ hãi. Based on the previous passage, choose the most reasonable cause.\nA:Cố vấn trại của họ kể cho họ một câu chuyện ma.\nB:Họ nướng marshmallows trên lửa trại.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười đàn ông đập đầu. Based on the previous passage, choose the most reasonable effect.\nA:Anh lạc trong suy nghĩ.\nB:Anh ấy bị chấn động.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCheck tôi viết bị trả lại. Based on the previous passage, choose the most reasonable cause.\nA:Tài khoản ngân hàng của tôi trống rỗng.\nB:Tôi đã được tăng lương.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nHộp thư đến của ông ấy đầy thư rác. Based on the previous passage, choose the most reasonable effect.\nA:Ông ấy xóa thư rác.\nB:Ông đã gửi một email hàng loạt.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười thủy thủ đã được cách ly. Based on the previous passage, choose the most reasonable cause.\nA:Anh đã tiếp xúc với dịch bệnh.\nB:Anh đã khỏi bệnh.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCô gái ghi nhớ mã. Based on the previous passage, choose the most reasonable cause.\nA:Cô tự đọc nhẩm lại.\nB:Cô quên viết nó xuống.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi rót nước vào ly. Based on the previous passage, choose the most reasonable effect.\nA:Nước làm dịu cơn khát của tôi.\nB:Chiếc ly trở nên đầy.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười đàn ông vẫn im lặng khi bạn mình nói xong. Based on the previous passage, choose the most reasonable cause.\nA:Ông ấy muốn hỗ trợ bạn mình.\nB:Ông ấy đang nghĩ về những lời nói của bạn mình.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTai nạn là lỗi của tôi. Based on the previous passage, choose the most reasonable effect.\nA:Tôi cảm thấy tội lỗi.\nB:Tôi kiện.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nDây xích đã bị đứt. Based on the previous passage, choose the most reasonable cause.\nA:Dây xích bị quấn quanh một lốp xe.\nB:Có một liên kết bị hỏng trong dây.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nHai vợ chồng quyết định thỏa hiệp. Based on the previous passage, choose the most reasonable cause.\nA:Họ trở nên mệt mỏi vì tranh cãi.\nB:Họ tránh thảo luận về vấn đề này.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ quyết định ứng cử công chức. Based on the previous passage, choose the most reasonable effect.\nA:Cô đã thuê một người quản lý chiến dịch.\nB:Cô làm chứng trước tòa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười đàn ông dự đoán thời tiết lạnh trong chuyến đi của mình. Based on the previous passage, choose the most reasonable effect.\nA:Anh xếp quần áo ấm vào vali.\nB:Anh đi du lịch với một chiếc vali lớn.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nHọc sinh biết câu trả lời cho câu hỏi. Based on the previous passage, choose the most reasonable effect.\nA:Cậu ấy giơ tay.\nB:Cậy ấy làm biếng.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười đàn ông ngấn lệ. Based on the previous passage, choose the most reasonable cause.\nA:Bụi bay vào mắt ông ấy.\nB:Anh đeo kính lên mắt.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười chơi đã thắng năm trận liên tiếp. Based on the previous passage, choose the most reasonable effect.\nA:Đối thủ của cô buộc tội cô gian lận.\nB:Đối thủ của cô cảm thấy tiếc cho cô.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGiáo viên xé bài kiểm tra của học sinh. Based on the previous passage, choose the most reasonable cause.\nA:Anh ấy bắt được học sinh gian lận.\nB:Câu trả lời của học sinh không chính xác.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi dừng lại để dừng nói chuyện. Based on the previous passage, choose the most reasonable cause.\nA:Tôi mất giọng.\nB:Tôi hết hơi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCác thực phẩm đông lạnh tan băng. Based on the previous passage, choose the most reasonable cause.\nA:Tôi cho nó vào lò vi sóng.\nB:Tôi bọc nó bằng bọc nhựa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNhân viên giả ốm. Based on the previous passage, choose the most reasonable cause.\nA:Anh ta bị đau bụng.\nB:Anh ta muốn một ngày nghỉ.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCô gái rớt xuống bể bơi. Based on the previous passage, choose the most reasonable cause.\nA:Cô chạy trên sàn hồ bơi.\nB:Cô nhảy khỏi bảng lặn.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nVé xem phim đã bán hết. Based on the previous passage, choose the most reasonable cause.\nA:Đó là ngày khai mạc cho bộ phim.\nB:Bộ phim nhận được đánh giá kém.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười đàn ông giảm cân. Based on the previous passage, choose the most reasonable effect.\nA:Mọi người cô lập anh.\nB:Mọi người khen anh.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBàn tay của cô gái trở nên phồng rộp. Based on the previous passage, choose the most reasonable cause.\nA:Cô gõ một lá thư.\nB:Cô trèo lên một sợi dây.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười biểu diễn xiếc tung hứng trong khi đi xe đạp một bánh. Based on the previous passage, choose the most reasonable effect.\nA:Khán giả reo hò trong sự ngạc nhiên.\nB:Acrobat vung lên từ một cái bẫy.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi mất kiên nhẫn. Based on the previous passage, choose the most reasonable cause.\nA:Bạn tôi làm tôi chờ.\nB:Bạn tôi đến đúng giờ.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCác nước tham chiến muốn hòa bình. Based on the previous passage, choose the most reasonable effect.\nA:Họ đã phát triển vũ khí hạt nhân.\nB:Họ đã thương lượng một hiệp ước.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười đàn ông uống thuốc ngủ. Based on the previous passage, choose the most reasonable effect.\nA:Ông trở nên buồn ngủ.\nB:Ông bị sốt.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ va vào ghế sofa. Based on the previous passage, choose the most reasonable effect.\nA:Chân ghế sofa bị lỏng ra.\nB:Cô bầm tím đầu gối.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCậu bé bóp bóng bay. Based on the previous passage, choose the most reasonable effect.\nA:Bong bóng nổ.\nB:Bong bóng bay đi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nDu khách đã nhận phòng khách sạn. Based on the previous passage, choose the most reasonable effect.\nA:Họ tháo vali ra.\nB:Họ đã đến sân bay.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi cắn vào quả đào. Based on the previous passage, choose the most reasonable effect.\nA:Quả đào bầm dập.\nB:Nước trái cây tràn ra.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTay tôi trở nên dính. Based on the previous passage, choose the most reasonable cause.\nA:Tôi đã ăn một chiếc bánh rán.\nB:Tôi thích ăn ngọt.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi đẩy cửa. Based on the previous passage, choose the most reasonable effect.\nA:Cánh cửa mở ra.\nB:Cánh cửa bị khóa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCác nhà hoạt động tẩy chay các sản phẩm. Based on the previous passage, choose the most reasonable cause.\nA:Các sản phẩm đã được kiểm tra để đảm bảo chất lượng.\nB:Các sản phẩm được sản xuất thông qua lao động trẻ em.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi khoan một cái lỗ trên tường. Based on the previous passage, choose the most reasonable effect.\nA:Một con chuột bò ra khỏi cái lỗ.\nB:Bụi bay ra khỏi lỗ.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ cảm thấy ghen tị với chị gái mình. Based on the previous passage, choose the most reasonable cause.\nA:Chị cô hạnh phúc.\nB:Chị gái cô đã ly hôn.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi làm đổ rượu lên áo. Based on the previous passage, choose the most reasonable effect.\nA:Tôi đeo tạp dề.\nB:Tôi đã thay áo.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNhân viên thu ngân mở máy tính tiền. Based on the previous passage, choose the most reasonable cause.\nA:Vị khách kiếm trong ví của mình.\nB:Khách hàng đưa tiền cho cô.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNhạc sĩ đường phố thu hút một đám đông. Based on the previous passage, choose the most reasonable effect.\nA:Mọi người cho anh tiền lẻ.\nB:Anh tiễn đám đông đi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCậu bé khóc với người trông trẻ. Based on the previous passage, choose the most reasonable cause.\nA:Cậu ấy nhớ bố mẹ.\nB:Đó là thời gian ăn nhẹ.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nRadar của phi công đã phát hiện ra một cơn bão. Based on the previous passage, choose the most reasonable effect.\nA:Phi công điều hướng khỏi cơn bão.\nB:Phi công đã bay qua cơn bão.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCây rụng lá. Based on the previous passage, choose the most reasonable effect.\nA:Lá chuyển màu.\nB:Lá dồn trên mặt đường.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCậu bé đang trong tâm trạng tinh nghịch. Based on the previous passage, choose the most reasonable effect.\nA:Cậu quyết định chơi một ván bài với chị gái.\nB:Cậu quyết định chọc em gái mình.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nĐứa trẻ phàn nàn rằng nó phải đi vệ sinh. Based on the previous passage, choose the most reasonable effect.\nA:Bố nó cho nó uống soda.\nB:Bố nó dừng xe ở trạm xăng.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nĐứa trẻ rắc thức ăn cho cá vào bể. Based on the previous passage, choose the most reasonable effect.\nA:Con cá nhảy ra khỏi bể.\nB:Con cá bơi về phía thức ăn.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nQuan điểm chính trị của người phụ nữ đã thay đổi. Based on the previous passage, choose the most reasonable effect.\nA:Cô chuyển liên kết đảng của mình.\nB:Cô tham gia vào một cuộc biểu tình.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBồn rửa trong phòng tắm bị tắc. Based on the previous passage, choose the most reasonable effect.\nA:Tôi bật vòi nước.\nB:Tôi đổ nước xả vào đó.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCác hành khách đã xuống tàu. Based on the previous passage, choose the most reasonable cause.\nA:Tàu đến ga.\nB:Tàu nổ còi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười đàn ông ấn mặt ẩm của phong bì. Based on the previous passage, choose the most reasonable effect.\nA:Ông dán tem lên phong bì.\nB:Ông đóng kín phong bì.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBạn bè mất liên lạc. Based on the previous passage, choose the most reasonable cause.\nA:Họ rất thích được ở cạnh nhau.\nB:Họ chuyển đến các thành phố khác nhau.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKế toán quản lý sai quỹ của công ty. Based on the previous passage, choose the most reasonable effect.\nA:Cô bị sa thải khỏi vị trí của mình.\nB:Cô đi nghỉ thai sản.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi nhìn đồng hồ. Based on the previous passage, choose the most reasonable cause.\nA:Tôi nghe tiếng tích tắc.\nB:Tôi muốn kiểm tra thời gian.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTay tôi bị chuột rút. Based on the previous passage, choose the most reasonable cause.\nA:Tôi đã viết bài luận bằng tay.\nB:Vợ chồng tôi nắm tay nhau.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCái chốt siết chặt. Based on the previous passage, choose the most reasonable cause.\nA:Tôi thay chốt.\nB:Tôi vặn mỏ lết.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nHai vợ chồng ký hợp đồng thuê một căn hộ. Based on the previous passage, choose the most reasonable effect.\nA:Hai vợ chồng chuyển vào căn hộ.\nB:Thành phố lên án căn hộ.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ ngồi ngoài hiên. Based on the previous passage, choose the most reasonable cause.\nA:Cô muốn ngắm hoàng hôn.\nB:Cô nghĩ mình đã thấy sét.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười đàn ông mặc áo phao. Based on the previous passage, choose the most reasonable cause.\nA:Anh ấy không biết bơi.\nB:Nước cạn.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ mắc lỗi đánh máy trong trình xử lý văn bản. Based on the previous passage, choose the most reasonable effect.\nA:Cô xóa tài liệu.\nB:Cô nhấn phím xóa lùi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCô gái khoe khoang với bạn bè. Based on the previous passage, choose the most reasonable cause.\nA:Cô bị điểm kém.\nB:Cô đã thắng một cuộc thi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBãi cỏ lầy lội. Based on the previous passage, choose the most reasonable cause.\nA:Trời mưa vào đêm qua.\nB:Nó đầy cỏ dại.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ ngủ quên. Based on the previous passage, choose the most reasonable cause.\nA:Cô ở lại đêm trong một khách sạn.\nB:Cô quên cài đồng hồ báo thức.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười đàn ông bôi kem chống nắng. Based on the previous passage, choose the most reasonable cause.\nA:Anh ngồi trong bóng râm.\nB:Anh ấy đã đi đến bãi biển.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCác nhà nghiên cứu đã chứng được minh lý thuyết. Based on the previous passage, choose the most reasonable effect.\nA:Các nhà nghiên cứu rút lại lý thuyết.\nB:Mọi người chấp nhận lý thuyết.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNhững người hâm mộ la ó. Based on the previous passage, choose the most reasonable cause.\nA:Trận đấu phải bước vào phút bù giờ.\nB:Trọng tài ra quyết định sai.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi nhập dãy mã vào ổ khóa. Based on the previous passage, choose the most reasonable effect.\nA:Tôi đóng khóa.\nB:Khóa bật mở.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nĐám đông nhiều lên. Based on the previous passage, choose the most reasonable effect.\nA:Người cha đưa cho con trai một ít tiền.\nB:Người cha nắm lấy tay con trai mình.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTuyết đã chặn đường lái xe. Based on the previous passage, choose the most reasonable effect.\nA:Tôi nặn thành một quả cầu tuyết.\nB:Tôi xúc tuyết ra khỏi đường.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNhững người chèo thuyền kayak chèo mái chèo của họ. Based on the previous passage, choose the most reasonable effect.\nA:Thuyền kayak đến bờ.\nB:Chiếc thuyền kayak gặp một con sóng.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCô gái mất kiểm soát chiếc xe đạp của mình. Based on the previous passage, choose the most reasonable effect.\nA:Cô buông tay lái.\nB:Cô đâm vào một hàng rào.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi bật quạt. Based on the previous passage, choose the most reasonable effect.\nA:Nước rắc lên da tôi.\nB:Không khí mát mẻ lướt qua tôi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNhững người lướt sóng trở lại bãi biển. Based on the previous passage, choose the most reasonable cause.\nA:Họ ướt đẫm.\nB:Họ đã nhìn thấy một con cá mập.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi rút phích cắm trong bồn tắm. Based on the previous passage, choose the most reasonable effect.\nA:Nước rút ra khỏi bồn.\nB:Nước văng lên sàn nhà.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười chồng cảm thấy có lỗi khi lừa dối vợ. Based on the previous passage, choose the most reasonable effect.\nA:Anh buộc tội cô ngoại tình.\nB:Anh thú nhận ngoại tình với cô.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMực trên poster bị lem. Based on the previous passage, choose the most reasonable cause.\nA:Tôi đợi mực khô.\nB:Tôi làm đổ nước lên poster.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nĐứa trẻ tỉnh dậy la hét. Based on the previous passage, choose the most reasonable cause.\nA:Nó gặp ác mộng.\nB:Nó làm ướt giường.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCậu bé gác chân lên bàn. Based on the previous passage, choose the most reasonable effect.\nA:Bố cậu ngồi xuống bàn.\nB:Bố cậu giáo huấn cậu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBạn tôi quay đầu về phía tôi. Based on the previous passage, choose the most reasonable cause.\nA:Tôi hét to tên anh.\nB:Tôi vẫy tay.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nChính phủ đàn áp công dân của mình. Based on the previous passage, choose the most reasonable effect.\nA:Các công dân đã tổ chức một cuộc nổi dậy.\nB:Các công dân đăng ký bỏ phiếu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCậu bé bị lạc trong rừng. Based on the previous passage, choose the most reasonable effect.\nA:Cậu dựng lều.\nB:Cậu hét lên cầu cứu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ đi du lịch nước ngoài. Based on the previous passage, choose the most reasonable cause.\nA:Cô muốn học vẽ.\nB:Cô muốn tìm hiểu về các nền văn hóa khác.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười đàn ông ghen tị với đồng nghiệp của mình. Based on the previous passage, choose the most reasonable cause.\nA:Đồng nghiệp của anh ấy đã được thăng chức.\nB:Đồng nghiệp của anh ấy ở lại  muộn.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười đàn ông thấy người ngoài hành tinh. Based on the previous passage, choose the most reasonable cause.\nA:Anh ta bị ảo giác.\nB:Anh ta đang ngồi thiền.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTóc của người đàn ông chuyển sang màu vàng. Based on the previous passage, choose the most reasonable cause.\nA:Ông ấy bỏ thuốc tẩy lên tóc.\nB:Ông ấy thoa dầu gội lên đó.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCác nghệ sĩ đã tạo ra tác phẩm mới. Based on the previous passage, choose the most reasonable cause.\nA:Cô phê bình công việc trước đây của mình.\nB:Cô cảm thấy một cơn cảm hứng.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười con trai dọn ra khỏi nhà. Based on the previous passage, choose the most reasonable cause.\nA:Anh ấy được xuất ngũ.\nB:Anh ấy đi học đại học.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSách rơi ra khỏi tủ sách. Based on the previous passage, choose the most reasonable cause.\nA:Các kệ sách phủ bụi.\nB:Một trận động đất làm rung chuyển tủ sách.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nĐiện trong nhà tôi tắt. Based on the previous passage, choose the most reasonable effect.\nA:Tôi bật đèn lên.\nB:Tôi cài đặt lại bộ ngắt mạch.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nChúng tôi đi tàu lượn siêu tốc. Based on the previous passage, choose the most reasonable cause.\nA:Trông nó thật đáng sợ.\nB:Trông nó rất vui.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTúi bỏng ngô bắt đầu phồng lên. Based on the previous passage, choose the most reasonable cause.\nA:Tôi đổ bơ vào túi.\nB:Tôi  hâm nóng nó trong lò vi sóng.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMột cái cây rơi trên đường dây điện. Based on the previous passage, choose the most reasonable effect.\nA:Điện trong khu phố đã tắt.\nB:Dự báo có gió lớn.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nDiễn giả đã bình luận không chính xác. Based on the previous passage, choose the most reasonable effect.\nA:Anh làm khán giả chán.\nB:Anh xúc phạm khán giả.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi tự chích bằng kim. Based on the previous passage, choose the most reasonable effect.\nA:Một giọt mồ hôi chảy ra từ mặt tôi.\nB:Một giọt máu hình thành trên ngón tay của tôi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCon cá nổi trên mặt bể. Based on the previous passage, choose the most reasonable cause.\nA:Nó đói rồi.\nB:Nó đã chết.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nGiọng nói của người đàn ông khàn khàn. Based on the previous passage, choose the most reasonable cause.\nA:Anh ấy bị cảm.\nB:Anh bỏ thuốc lá.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCửa thang máy mở ra. Based on the previous passage, choose the most reasonable cause.\nA:Thang máy đã đến tầng được chỉ định.\nB:Thang máy bị kẹt giữa các tầng.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCậu thiếu niên lẻn ra khỏi nhà. Based on the previous passage, choose the most reasonable cause.\nA:Cậu nói dối bố mẹ.\nB:Bố mẹ cậu nhốt cậu anh.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPhòng tắm ngập nước. Based on the previous passage, choose the most reasonable cause.\nA:Nước nhà vệ sinh tràn ra.\nB:Máy nước nóng bị hỏng.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCon chó con ở gần chủ của nó. Based on the previous passage, choose the most reasonable cause.\nA:Người chủ mặc cho con chó con một cổ áo.\nB:Người chủ xích con chó con.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười đàn ông bắt gặp hình ảnh phản chiếu của mình. Based on the previous passage, choose the most reasonable cause.\nA:Anh đứng dưới gốc cây ngổn ngang.\nB:Anh đứng trên mặt hồ tĩnh lặng.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi nhỡ cuộc gọi của bạn gái tôi. Based on the previous passage, choose the most reasonable effect.\nA:Tôi gọi lại cho cô ấy.\nB:Tôi gặp cô ấy đi ăn tối.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGia đình tìm kiếm khắp khu phố. Based on the previous passage, choose the most reasonable cause.\nA:Con chó của họ bỏ nhà ra đi.\nB:Đồ trang sức đắt tiền đã bị mất khỏi nhà.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi thấy hơi thở của mình khi tôi thở ra. Based on the previous passage, choose the most reasonable cause.\nA:Thời tiết se lạnh.\nB:Ngực tôi cảm thấy căng cứng.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCác nhân viên thành lập một công đoàn. Based on the previous passage, choose the most reasonable cause.\nA:Họ muốn điều kiện làm việc tốt hơn.\nB:Họ được tăng lương.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi nướng một chiếc bánh táo. Based on the previous passage, choose the most reasonable effect.\nA:Một mùi thối rữa tràn ngập bếp.\nB:Một mùi thơm ấm áp tràn ngập nhà bếp.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ chật vật bước đi. Based on the previous passage, choose the most reasonable cause.\nA:Cô đi giày cao gót.\nB:Cô cởi giày ra.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nHơi nước bốc lên từ nồi nước. Based on the previous passage, choose the most reasonable cause.\nA:Nước sôi.\nB:Tôi đậy nắp nồi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nToàn bộ tất của tôi đã ở trong máy giặt. Based on the previous passage, choose the most reasonable effect.\nA:Tôi đi dép.\nB:Tôi đi giày bốt.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLập luận của chính trị gia được coi là vô lý. Based on the previous passage, choose the most reasonable effect.\nA:Ông mất sự ủng hộ của cử tri.\nB:Ông bị buộc tội tham nhũng.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMọi người đều không ủng hộ cặp đôi đính hôn. Based on the previous passage, choose the most reasonable effect.\nA:Hai vợ chồng có thai.\nB:Hai vợ chồng chạy trốn.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTòa nhà vinh danh vị triệu phú. Based on the previous passage, choose the most reasonable cause.\nA:Vị triệu phú muốn tòa nhà bị phá hủy.\nB:Vị triệu phú đã đóng góp kinh phí để xây dựng nó.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNhân viên bán hàng buộc tội cô gái ăn cắp. Based on the previous passage, choose the most reasonable cause.\nA:Nhân viên bán hàng nhìn thấy cô gái bỏ hàng hóa vào ví.\nB:Nhân viên bán hàng đã giúp cô gái tìm được chiếc ví mình thích.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nĐất nước tuyên chiến với lãnh thổ láng giềng. Based on the previous passage, choose the most reasonable effect.\nA:Những người lính được phái ra chiến đấu.\nB:Những người lính được đoàn tụ với gia đình họ.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTòa án giữ nguyên phán quyết gây tranh cãi. Based on the previous passage, choose the most reasonable effect.\nA:Một cuộc bạo loạn đã nổ ra trước tòa án.\nB:Một cặp vợ chồng trao nhau lời thề trước tòa án.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCô gái ngửi thấy mùi gì đó bốc cháy. Based on the previous passage, choose the most reasonable cause.\nA:Cô lấy bánh quy ra khỏi bình.\nB:Cô quên bánh quy trong lò nướng.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMưa đã trút xuống. Based on the previous passage, choose the most reasonable effect.\nA:Cơn bão trở nên tồi tệ hơn.\nB:Tôi lao vào trong.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTòa nhà đã được sơ tán. Based on the previous passage, choose the most reasonable cause.\nA:Thang máy ngừng hoạt động.\nB:Chuông báo cháy reng.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười cha buồn bực việc con trai nghiện rượu. Based on the previous passage, choose the most reasonable effect.\nA:Người cha mua cho con trai một cốc bia.\nB:Người cha đuổi con trai ra khỏi nhà.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLuật sư đi cầu thang lên văn phòng của cô. Based on the previous passage, choose the most reasonable cause.\nA:Thư ký đã về nhà.\nB:Thang máy không hoạt động.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười đàn ông trở nên khó chịu với bạn mình. Based on the previous passage, choose the most reasonable cause.\nA:Bạn anh ngắt lời anh.\nB:Bạn anh mua cho anh bữa trưa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCô gái đưa tiền cho nhân viên thu ngân. Based on the previous passage, choose the most reasonable effect.\nA:Nhân viên thu ngân thối tiền lẻ cho cô.\nB:Nhân viên thu ngân quên đưa cho cô gái một biên lai.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ được đưa lên xe lăn. Based on the previous passage, choose the most reasonable cause.\nA:Cô bị liệt trong một tai nạn.\nB:Cô vào bệnh viện trong cáng.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười dân treo cờ quốc gia bên ngoài nhà của họ. Based on the previous passage, choose the most reasonable cause.\nA:Đất nước đang kỷ niệm độc lập.\nB:Đất nước đã phải đối mặt với khó khăn kinh tế.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nĐội thua giải đấu. Based on the previous passage, choose the most reasonable effect.\nA:Họ làm người hâm mộ thất vọng.\nB:Họ truyền cảm hứng cho người hâm mộ của họ.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBạn tôi chỉ ra rằng tôi có thức ăn bị mắc kẹt trong răng. Based on the previous passage, choose the most reasonable effect.\nA:Tôi cảm thấy xấu hổ.\nB:Tôi cảm thấy tự hào.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCậu bé thất bại trong kỳ thi lịch sử. Based on the previous passage, choose the most reasonable cause.\nA:Cậu rất tập trung trong lớp.\nB:Cậu quên học bài.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTòa nhà trung tâm bị sập. Based on the previous passage, choose the most reasonable cause.\nA:Một trận động đất ập đến thành phố.\nB:Tỷ lệ tội phạm trong thành phố tăng.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBạn gái của anh ấy đã chia tay với anh ta. Based on the previous passage, choose the most reasonable effect.\nA:Anh cầu xin cô quay trở lại.\nB:Cô giới thiệu anh với bố mẹ.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nHai đứa đồng loạt thò tay xuống lấy bóng. Based on the previous passage, choose the most reasonable effect.\nA:Bóng lăn đi.\nB:Đầu chúng va vào nhau.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCon gấu trúc lục lọi thùng rác. Based on the previous passage, choose the most reasonable cause.\nA:Có thùng các tông trong thùng rác.\nB:Cái nắp rơi ra khỏi thùng rác.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCậu bé gọt bút chì. Based on the previous passage, choose the most reasonable cause.\nA:Nó rẻ tiền.\nB:Thật là buồn tẻ.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNhân viên thu ngân từ chối hoàn tiền chiếc váy cho người phụ nữ. Based on the previous passage, choose the most reasonable cause.\nA:Cô bị mất biên lai.\nB:Chiếc váy không vừa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nVết xước trên da tôi thật sâu. Based on the previous passage, choose the most reasonable effect.\nA:Nó lành nhanh chóng.\nB:Nó để lại một vết sẹo.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười đàn ông nhận được ánh mắt kỳ lạ từ hành khách trên tàu. Based on the previous passage, choose the most reasonable cause.\nA:Anh đang nhìn chằm chằm xuống đất.\nB:Anh đang nói chuyện với chính mình.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nĐứa trẻ để lại vụn bánh trên sàn nhà. Based on the previous passage, choose the most reasonable effect.\nA:Kiến bò đến vụn bánh.\nB:Đứa trẻ bỏ bánh mì đi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ đưa khăn giấy cho em gái. Based on the previous passage, choose the most reasonable cause.\nA:Em gái của cô ấy khoanh tay.\nB:Em gái của cô ấy bắt đầu khóc.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười đàn ông ngậm bạc hà. Based on the previous passage, choose the most reasonable cause.\nA:Môi anh nứt nẻ.\nB:Anh lo bị hôi miệng.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCặp đôi đi sớm xem biểu diễn. Based on the previous passage, choose the most reasonable cause.\nA:Họ đoán giao thông ùn tắc xung quanh nhà hát.\nB:Họ đã có chỉ đường đến nhà hát.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ ở nhà. Based on the previous passage, choose the most reasonable effect.\nA:Ông chủ của cô khen ngợi cô.\nB:Đồng nghiệp của cô làm thay cho cô.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười đàn ông đã ký tên lên thỉnh nguyện của các nhà hoạt động. Based on the previous passage, choose the most reasonable cause.\nA:Ông ủng hộ mục đích của họ.\nB:Ông tố cáo họ điên.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTim của nam diễn viên đập mạnh trước màn biểu diễn. Based on the previous passage, choose the most reasonable cause.\nA:Anh ấy sợ sân khấu.\nB:Anh ghi nhớ lời thoại của mình.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi đã thua. Based on the previous passage, choose the most reasonable effect.\nA:Tôi đếm tiền mặt của tôi.\nB:Tôi mở  bản đồ.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNhững quả chín đung đưa dưới nắng. Based on the previous passage, choose the most reasonable effect.\nA:Nó đã bị ăn.\nB:Nó co rúm lại.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nChiếc xe bị hỏng. Based on the previous passage, choose the most reasonable cause.\nA:Tôi bật lửa.\nB:Động cơ quá nóng.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười đàn ông đau lưng. Based on the previous passage, choose the most reasonable effect.\nA:Anh đi gặp bác sĩ tâm lý.\nB:Anh nằm trên giường vài ngày.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi bắt đầu đốt lửa trong lò sưởi. Based on the previous passage, choose the most reasonable cause.\nA:Tôi đã hết củi.\nB:Trong nhà thật lạnh.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ ngừng chạy bộ. Based on the previous passage, choose the most reasonable cause.\nA:Cô bị chuột rút ở bên.\nB:Cô có năng lượng trở lại.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi gõ cửa nhà hàng xóm. Based on the previous passage, choose the most reasonable effect.\nA:Hàng xóm của tôi mời tôi vào.\nB:Hàng xóm của tôi rời khỏi nhà cô ấy.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ thở dài vì thất vọng. Based on the previous passage, choose the most reasonable cause.\nA:Chồng cô hiểu lầm mối quan tâm của cô.\nB:Chồng cô hôn tạm biệt cô.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGiáo viên khen học sinh. Based on the previous passage, choose the most reasonable cause.\nA:Học sinh trả lời đúng câu hỏi.\nB:Học sinh ngập ngừng trả lời câu hỏi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ hết trứng. Based on the previous passage, choose the most reasonable effect.\nA:Cô đi đến trang trại.\nB:Cô đi siêu thị.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi gặp một người bạn cũ. Based on the previous passage, choose the most reasonable effect.\nA:Tôi tiết lộ một bí mật cho anh ta.\nB:Tôi ôm anh.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ tránh đi trong hồ. Based on the previous passage, choose the most reasonable cause.\nA:Cô bắt được một con cá.\nB:Trông nó thật ô nhiễm.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nHọc sinh đến lớp ướt sũng. Based on the previous passage, choose the most reasonable cause.\nA:Chiếc ô của anh bị hỏng.\nB:Chiếc xe đạp của anh đã bị đánh cắp.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCon trỏ trên màn hình máy tính di chuyển. Based on the previous passage, choose the most reasonable cause.\nA:Người dùng nhấp chuột.\nB:Người dùng đã di chuyển chuột.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười lái xe đi đường vòng. Based on the previous passage, choose the most reasonable cause.\nA:Một vụ tai nạn xảy ra trên đường chính.\nB:Cô đi theo chiếc xe tải trước mặt.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi treo tấm vải ướt lên dây phơi ngoài trời. Based on the previous passage, choose the most reasonable effect.\nA:Vải khô.\nB:Vải nhuộm màu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ đeo kính râm. Based on the previous passage, choose the most reasonable cause.\nA:Ánh sáng mặt trời chói lóa.\nB:Cô gọi một chiếc taxi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười đàn ông nhìn chằm chằm vào bầu trời đêm. Based on the previous passage, choose the most reasonable cause.\nA:Anh ước đó là mùa hè.\nB:Anh nghĩ nó thật đẹp.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi cảm thấy kiệt sức. Based on the previous passage, choose the most reasonable effect.\nA:Tôi đi ngủ sớm.\nB:Tôi thức cả đêm.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười đàn ông đi đến tiệm cắt tóc. Based on the previous passage, choose the most reasonable cause.\nA:Anh ấy đang nuôi tóc.\nB:Tóc anh ngày càng dài.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCậu bé bắt nạt bạn mới. Based on the previous passage, choose the most reasonable cause.\nA:Cậu chào đón người bạn mới.\nB:Cậu không ưa người bạn mới.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi thèm một ly sữa. Based on the previous passage, choose the most reasonable cause.\nA:Tôi đang ăn bánh quy.\nB:Tôi đang nướng bánh mì.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTrời bắt đầu mưa. Based on the previous passage, choose the most reasonable effect.\nA:Tài xế bật đèn pha.\nB:Tài xế lùi xe.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBãi đậu xe của tòa nhà trống rỗng. Based on the previous passage, choose the most reasonable effect.\nA:Tôi đậu xe bên kia đường.\nB:Tôi đậu gần lối vào.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNhà văn đã bỏ lỡ thời hạn của cô cho bản dự thảo. Based on the previous passage, choose the most reasonable cause.\nA:Cô ấy tịt ngòi.\nB:Cô chỉnh sửa bản nháp.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười cộng sự cúp máy. Based on the previous passage, choose the most reasonable cause.\nA:Tôi yêu cầu nói chuyện với quản lí.\nB:Tôi đã cung cấp số nhận dạng của tôi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGió thổi qua cửa sổ. Based on the previous passage, choose the most reasonable effect.\nA:Chuông cửa reo.\nB:Rèm cửa rung rinh.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nĐiện trong nhà tôi tắt. Based on the previous passage, choose the most reasonable cause.\nA:Tôi rút phích cắm đèn.\nB:Tôi rất tức giận.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười cử tạ nghiến răng. Based on the previous passage, choose the most reasonable cause.\nA:Anh uốn cong cơ bắp trong gương.\nB:Anh nâng thanh xà trên đầu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nHọc sinh đã cố gắng tính nhẩm trong đầu. Based on the previous passage, choose the most reasonable effect.\nA:Anh lấy ra một cái máy tính.\nB:Anh bối rối.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nĐứa bé ngủ thiếp đi. Based on the previous passage, choose the most reasonable cause.\nA:Người cha đã thay tã cho em bé.\nB:Người cha nhẹ nhàng đá đứa bé.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCô gái ném quả bóng nước vào cậu bé. Based on the previous passage, choose the most reasonable effect.\nA:Cậu bé bị chấn động.\nB:Cậu bé đã ướt sũng.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNhiếp ảnh gia quên sử dụng đèn flash trên máy ảnh. Based on the previous passage, choose the most reasonable effect.\nA:Những bức ảnh trở nên mờ ảo.\nB:Mọi người trong ảnh đều từ chối mỉm cười.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi từ chối lời mời đến bữa tiệc sinh nhật. Based on the previous passage, choose the most reasonable cause.\nA:Tôi cô đơn.\nB:Tôi không có nhà.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi tập thể dục. Based on the previous passage, choose the most reasonable cause.\nA:Tôi cảm thấy tràn đầy năng lượng.\nB:Tôi đã hoảng sợ.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi bóp miếng bọt biển ẩm ướt. Based on the previous passage, choose the most reasonable effect.\nA:Nó ngấm nước.\nB:Nước thấm chảy ra.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNhững người đi nghỉ đã đi phà đến khu nghỉ mát. Based on the previous passage, choose the most reasonable cause.\nA:Khu nghỉ dưỡng đã được đặt trước.\nB:Khu nghỉ mát nằm trên một hòn đảo.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nThiếu niên có một hình xăm. Based on the previous passage, choose the most reasonable cause.\nA:Cô sợ kim tiêm.\nB:Cô muốn nổi loạn.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMột chiếc ô tô lạ đỗ bên ngoài nhà tôi. Based on the previous passage, choose the most reasonable effect.\nA:Tôi trở nên nghi ngờ.\nB:Tôi gọi cho cảnh sát.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTên tội phạm đầu thú. Based on the previous passage, choose the most reasonable cause.\nA:Bằng chứng liên quan đến anh ta.\nB:Không có bằng chứng chống lại anh ta.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười đàn ông nặng ký quyết định giảm cân. Based on the previous passage, choose the most reasonable effect.\nA:Ông ấy cắt giảm đồ ngọt.\nB:Anh tránh cafein.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCô gái bước lên băng. Based on the previous passage, choose the most reasonable effect.\nA:Cô trượt dài.\nB:Cô rùng mình.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ có quầng thâm dưới mắt. Based on the previous passage, choose the most reasonable cause.\nA:Cô thức cả đêm.\nB:Cô đặt con trai lên giường.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nDung nham chảy từ núi lửa. Based on the previous passage, choose the most reasonable cause.\nA:Núi lửa phun trào.\nB:Núi lửa không hoạt động.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ đi giày vào. Based on the previous passage, choose the most reasonable cause.\nA:Cô biết tất cả mọi người trong bữa tiệc.\nB:Cô muốn rời khỏi bữa tiệc.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi đã trả tiền cho nhân viên thu phí. Based on the previous passage, choose the most reasonable effect.\nA:Cô ấy cho tôi đi qua trạm thu phí.\nB:Cô ấy đã giam giữ tôi tại trạm thu phí.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nVị giám đốc điều hành đã phá sản. Based on the previous passage, choose the most reasonable cause.\nA:Ông đã bán cổ phiếu công ty của mình.\nB:Ông phung phí tài sản của mình.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười đàn ông đã đi đến bác sĩ. Based on the previous passage, choose the most reasonable cause.\nA:Bác sĩ được nghỉ phép.\nB:Người đàn ông bị bệnh.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi thoát ra khỏi phòng ngủ qua cửa sổ. Based on the previous passage, choose the most reasonable cause.\nA:Ngôi nhà bị cháy.\nB:Ngôi nhà trống rỗng.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNhững ngón tay của cậu bé trở nên nhăm nhúm. Based on the previous passage, choose the most reasonable cause.\nA:Cậu tắm lâu.\nB:Cậu rửa tay bằng xà phòng.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi nhổ sữa ra. Based on the previous passage, choose the most reasonable cause.\nA:Sữa có vị chua.\nB:Miệng tôi khô khốc.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi đã lỡ xe buýt. Based on the previous passage, choose the most reasonable effect.\nA:Tôi đã đi làm sớm.\nB:Tôi đi làm muộn.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nXe tải va chạm với xe hơi. Based on the previous passage, choose the most reasonable effect.\nA:Chiếc xe tải tăng tốc.\nB:Chiếc xe hơi bị đập vỡ.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNhóm đã tổ chức cuộc thi theo hướng có lợi cho họ. Based on the previous passage, choose the most reasonable effect.\nA:Họ đã thắng.\nB:Họ bỏ cuộc.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nChai soda rít lên. Based on the previous passage, choose the most reasonable cause.\nA:Tôi lật chai.\nB:Tôi vặn nắp.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCậu bé bị nhốt ngoài nhà. Based on the previous passage, choose the most reasonable effect.\nA:Cậu bò vào bằng đường cửa sổ.\nB:Cậu trèo lên mái nhà.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nChuông cửa reo. Based on the previous passage, choose the most reasonable effect.\nA:Vị khách gõ cửa.\nB:Người phụ nữ nhìn qua lỗ khóa ở cửa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười đàn ông nhuộm màu bộ đồ vest của mình. Based on the previous passage, choose the most reasonable effect.\nA:Ông ấy đem nó đi giặt khô.\nB:Ông ấy treo nó vào trong tủ quần áo của mình.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCô gái bóp ống kem đánh răng. Based on the previous passage, choose the most reasonable effect.\nA:Kem đánh răng phun ra khỏi ống.\nB:Cô gái nhổ kem đánh răng.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNhững cái chết dân sự từ cuộc chiến tăng vọt. Based on the previous passage, choose the most reasonable effect.\nA:Những người theo chủ nghĩa hòa bình đã tổ chức một cuộc biểu tình.\nB:Những người theo chủ nghĩa hòa bình đã tổ chức một cuộc diễu hành.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCô gái giật mạnh dải băng ra khỏi tóc. Based on the previous passage, choose the most reasonable cause.\nA:Cô buộc dây ruy băng.\nB:Dải băng trông trẻ con.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười đàn ông đã phẫu thuật thẩm mỹ. Based on the previous passage, choose the most reasonable effect.\nA:Ông già.\nB:Ông trông trẻ hơn.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMột con gà con nổi lên từ quả trứng. Based on the previous passage, choose the most reasonable cause.\nA:Trứng nở.\nB:Tôi đập trứng.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười tù chết đói. Based on the previous passage, choose the most reasonable effect.\nA:Anh ấy đã chết.\nB:Anh chạy trốn.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười đàn ông mất thăng bằng trên thang. Based on the previous passage, choose the most reasonable effect.\nA:Anh leo lên thang.\nB:Anh ngã khỏi thang.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nĐứa trẻ ợ. Based on the previous passage, choose the most reasonable cause.\nA:Nó uống một ngụm soda.\nB:Nó mở lon soda.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMột làn gió lạnh luồn qua cửa sổ. Based on the previous passage, choose the most reasonable effect.\nA:Tôi thư giãn.\nB:Tôi rùng mình.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nHọc sinh nhận được học bổng để đi học đại học. Based on the previous passage, choose the most reasonable cause.\nA:Các bạn cùng lớp tôn trọng cô.\nB:Cô ấy đạt điểm cao.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCô gái chọc quê cậu bé. Based on the previous passage, choose the most reasonable cause.\nA:Cô sống kế nhà cậu.\nB:Cô đã phải lòng cậu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười ăn xin đói khát đã trộm thức ăn. Based on the previous passage, choose the most reasonable cause.\nA:Anh gây thương cảm.\nB:Anh không có tiền.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi gọi cho bạn tôi để trò chuyện. Based on the previous passage, choose the most reasonable cause.\nA:Tôi muốn sự riêng tư.\nB:Tôi cảm thấy cô đơn.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười đàn ông đưa tay về phía tôi. Based on the previous passage, choose the most reasonable effect.\nA:Tôi bắt tay anh.\nB:Tôi tát anh ta.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi cúi xuống. Based on the previous passage, choose the most reasonable cause.\nA:Pháo hoa được phóng lên không trung.\nB:Chiếc dĩa nhựa bay vút lên đầu tôi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCô gái cắn móng tay. Based on the previous passage, choose the most reasonable cause.\nA:Cô lo lắng.\nB:Cô ngạc nhiên.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi lật trang lịch. Based on the previous passage, choose the most reasonable cause.\nA:Tôi đánh dấu một cuộc hẹn trên lịch.\nB:Đó là sự khởi đầu của một tháng mới.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười chồng phát hiện ra rằng vợ mình đang ngoại tình. Based on the previous passage, choose the most reasonable effect.\nA:Anh ta sa thải luật sư của mình.\nB:Anh nộp đơn ly hôn.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCô gái đánh rơi quả bóng cao su. Based on the previous passage, choose the most reasonable effect.\nA:Bóng nảy lên.\nB:Bóng phát sáng.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCô gái mắc lỗi trong bài thi của mình. Based on the previous passage, choose the most reasonable effect.\nA:Cô đoán câu trả lời.\nB:Cô xóa câu trả lời của mình.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười chơi tấn công đối thủ của mình. Based on the previous passage, choose the most reasonable effect.\nA:Đối thủ của anh bắt được đường chuyền.\nB:Đối thủ của anh ta ngã xuống đất.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi hái cà chua từ cành của chúng. Based on the previous passage, choose the most reasonable cause.\nA:Chúng đã chín.\nB:Tôi tưới nước cho chúng.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười đàn ông muốn hành động lãng mạn. Based on the previous passage, choose the most reasonable effect.\nA:Anh gặp bạn gái cũ đi ăn trưa.\nB:Anh mua sô cô la cho bạn gái.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nThủy ngân trong nhiệt kế tăng. Based on the previous passage, choose the most reasonable cause.\nA:Tôi đánh rơi nhiệt kế.\nB:Thời tiết trở nên ấm hơn.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMột cơn lốc xoáy đi qua thị trấn. Based on the previous passage, choose the most reasonable effect.\nA:Mái của tòa án bị thổi bay.\nB:Đường cao tốc trở nên băng giá.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nHọc sinh được dạy kèm. Based on the previous passage, choose the most reasonable effect.\nA:Điểm số của anh được cải thiện.\nB:Anh gian lận trong kì thi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi cảm thấy thoải mái. Based on the previous passage, choose the most reasonable cause.\nA:Tôi quỳ xuống đất.\nB:Tôi quấn mình trong chăn.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi đánh bóng đá. Based on the previous passage, choose the most reasonable effect.\nA:Nó trở nên trơn trượt.\nB:Nó trở nên sáng bóng.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi thêm đường vào cà phê. Based on the previous passage, choose the most reasonable effect.\nA:Cà phê có mùi nồng.\nB:Cà phê có vị ngọt.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười đàn ông xáo trộn qua giấy tờ. Based on the previous passage, choose the most reasonable effect.\nA:Anh ấy đã cắt giấy.\nB:Anh xé giấy tờ.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi đập cái đinh bằng búa. Based on the previous passage, choose the most reasonable effect.\nA:Chiếc đinh chìm vào gỗ.\nB:Cái đinh trở nên rỉ sét.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCon cá cắn câu. Based on the previous passage, choose the most reasonable effect.\nA:Người ngư dân kéo con cá vào.\nB:Người ngư dân đánh cá tiếp.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nThiếu niên xấu hổ đi học. Based on the previous passage, choose the most reasonable cause.\nA:Cô ấy nổi mụn.\nB:Cô ấy đã tháo niềng răng ra.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nVẻ mặt tôi sáng lên. Based on the previous passage, choose the most reasonable cause.\nA:Tôi nhận được tin tốt.\nB:Tôi mất kiên nhẫn.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi lau tay bằng khăn. Based on the previous passage, choose the most reasonable cause.\nA:Khăn ướt.\nB:Tay tôi ướt.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười đàn ông mất thăng bằng trên ghế đẩu. Based on the previous passage, choose the most reasonable cause.\nA:Chiếc ghế đung đưa bên dưới anh ta.\nB:Anh đổ sơn lên ghế đẩu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCác đồng đội đổ lỗi cho nhau. Based on the previous passage, choose the most reasonable cause.\nA:Họ thua.\nB:Huấn luyện viên của họ đã hủy bỏ buổi tập.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi xin tha thứ. Based on the previous passage, choose the most reasonable cause.\nA:Tôi hối hận về lỗi lầm của mình.\nB:Tôi đã đạt được mục tiêu của mình.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ trở nên buồn chán với cuộc hẹn của mình. Based on the previous passage, choose the most reasonable cause.\nA:Anh hỏi cô những câu hỏi về bản thân cô ấy.\nB:Anh nói không ngừng về bản thân.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCô gái nở một nụ cười. Based on the previous passage, choose the most reasonable effect.\nA:Má cô ửng đỏ.\nB:Lúm đồng tiền của cô hiện rõ.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTàu địch nổ tung. Based on the previous passage, choose the most reasonable cause.\nA:Nó đi qua một cái mỏ.\nB:Nó đi thuyền vào bến cảng.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười đàn ông đâm thủng chân anh. Based on the previous passage, choose the most reasonable cause.\nA:Anh bước vào một vũng nước.\nB:Anh bước lên kính vỡ.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCác thám tử đã làm bẩn hiện trường vụ án để lấy dấu vân tay. Based on the previous passage, choose the most reasonable effect.\nA:Họ đã phát hiện ra danh tính của kẻ giết người.\nB:Họ tìm thấy vũ khí tại hiện trường vụ án.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGiao thông tắc nghẽn trên đường cao tốc. Based on the previous passage, choose the most reasonable effect.\nA:Tôi đi đường vòng.\nB:Tôi yêu cầu đi nhờ.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNền kinh tế của quốc gia suy giảm. Based on the previous passage, choose the most reasonable effect.\nA:Nhiều người mắc bệnh.\nB:Nhiều người phải đối mặt với thất nghiệp.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười bảo vệ tuýt còi bọn trẻ. Based on the previous passage, choose the most reasonable cause.\nA:Chúng suýt chạy vào làn xe đang chạy.\nB:Cô nhận ra chúng từ khu phố của mình.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi tròn mắt nhìn bạn mình. Based on the previous passage, choose the most reasonable cause.\nA:Cậu ấy nói với tôi sự thật.\nB:Cậu ấy đưa ra một nhận xét mỉa mai.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nXe hết xăng. Based on the previous passage, choose the most reasonable effect.\nA:Tài xế bị mắc kẹt trên đường.\nB:Tài xế cho một người đi nhờ.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ đi đẻ. Based on the previous passage, choose the most reasonable effect.\nA:Đứa bé được sinh ra.\nB:Người phụ nữ bị ốm nghén.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nChiếc mũ của người đàn ông bị thổi bay. Based on the previous passage, choose the most reasonable cause.\nA:Anh cởi mũ.\nB:Bên ngoài trời có gió.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCô gái tham dự bữa tiệc sinh nhật của bạn cùng lớp. Based on the previous passage, choose the most reasonable cause.\nA:Cô nhận được lời mời.\nB:Cô mua một món quà.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTrán cậu bé nóng. Based on the previous passage, choose the most reasonable effect.\nA:Mẹ cậu đo nhiệt độ cho cậu.\nB:Mẹ cậu đưa cậu đến công viên.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười đàn ông xịt nước hoa. Based on the previous passage, choose the most reasonable cause.\nA:Anh ấy muốn gây ấn tượng với buổi hẹn hò của mình.\nB:Anh bôi gel lên tóc.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nĐiện trong nhà tắt. Based on the previous passage, choose the most reasonable effect.\nA:Tôi tìm đèn pin.\nB:Tôi nhặt một cái xẻng.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGia đình nọ chuyển đến một ngôi nhà lớn hơn. Based on the previous passage, choose the most reasonable cause.\nA:Người con trai tốt nghiệp cấp ba.\nB:Người mẹ vừa sinh đôi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nVận động viên marathon giữ tốc độ chậm. Based on the previous passage, choose the most reasonable cause.\nA:Cô muốn tiết kiệm năng lượng của mình.\nB:Cô nhìn thấy vạch đích.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCậu bé đá máy bán hàng tự động. Based on the previous passage, choose the most reasonable cause.\nA:Máy phun ra tiền thối.\nB:Túi khoai tây chiên bị kẹt.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCon chó của bạn tôi bị chết. Based on the previous passage, choose the most reasonable effect.\nA:Tôi tròn mắt nhìn anh.\nB:Tôi ôm anh.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nThẻ tín dụng của doanh nhân đã bị từ chối. Based on the previous passage, choose the most reasonable effect.\nA:Anh ấy đã viết một IOU.\nB:Anh trả bằng tiền mặt.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười đàn ông chửi thề. Based on the previous passage, choose the most reasonable cause.\nA:Anh cắt móng tay.\nB:Anh bị dập ngón chân.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười đàn ông cảm thấy tự hào về anh trai mình. Based on the previous passage, choose the most reasonable cause.\nA:Anh trai của anh ấy đã cãi nhau với bố mẹ.\nB:Anh trai của anh ấy đã được nhận vào trường luật.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCô gái muốn tìm hiểu về hệ mặt trời. Based on the previous passage, choose the most reasonable effect.\nA:Cô đi đến thư viện.\nB:Cô nhìn những vì sao.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCác poster dán vào tường. Based on the previous passage, choose the most reasonable cause.\nA:Tôi đặt tấm áp phích phía trên cánh cửa.\nB:Tôi dán băng dính vào mặt sau của poster.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKhách hàng đã phê duyệt kế hoạch của kiến trúc sư. Based on the previous passage, choose the most reasonable effect.\nA:Các kiến trúc sư xây dựng tòa nhà.\nB:Kiến trúc sư đã điều chỉnh các kế hoạch.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười đàn ông đánh rơi thìa. Based on the previous passage, choose the most reasonable cause.\nA:Tay anh run run.\nB:Anh liếm cái muỗng.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCEO của công ty đã từ chức. Based on the previous passage, choose the most reasonable effect.\nA:Hội đồng quản trị đã giải thể công ty.\nB:Hội đồng quản trị tìm thấy người thay thế ông.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi đến giảng đường muộn. Based on the previous passage, choose the most reasonable effect.\nA:Tôi ngồi ở hàng ghế sau.\nB:Tôi đến gần bục giảng.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười đàn ông đã ra tù. Based on the previous passage, choose the most reasonable cause.\nA:Gia đình anh trả tiền bảo lãnh.\nB:Anh ta tấn công một bạn tù.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCả gia đình mất hết đồ đạc. Based on the previous passage, choose the most reasonable cause.\nA:Họ đã bán căn nhà.\nB:Ngôi nhà của họ bốc cháy.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi dẫm lên lon nhôm. Based on the previous passage, choose the most reasonable effect.\nA:Chiếc lon được tái chế.\nB:Chiếc lon bị nghiền nát.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCô gái tham gia nhóm tranh luận. Based on the previous passage, choose the most reasonable effect.\nA:Cô học cách sử dụng máy tính.\nB:Cô học được kỹ năng giao tiếp.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTâm trạng của tôi được cải thiện. Based on the previous passage, choose the most reasonable cause.\nA:Tôi nghe nhạc.\nB:Tôi rửa chén.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCác tổ chức từ thiện đã hoàn thành mục tiêu quyên tiền. Based on the previous passage, choose the most reasonable effect.\nA:Họ nuôi những người vô gia cư.\nB:Họ đã tổ chức một cuộc đấu giá.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTàu lượn siêu tốc lao xuống dốc cao. Based on the previous passage, choose the most reasonable effect.\nA:Các hành khách cười khúc khích.\nB:Các hành khách hét lên.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi tức giận. Based on the previous passage, choose the most reasonable effect.\nA:Tôi kiểm tra hộp thư khi rời khỏi nhà.\nB:Tôi đóng sầm cửa khi rời khỏi nhà.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười đàn ông muốn ngắm mặt trời mọc. Based on the previous passage, choose the most reasonable effect.\nA:Anh đi về phía bắc.\nB:Anh dậy sớm.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi gấp tờ giấy lại. Based on the previous passage, choose the most reasonable effect.\nA:Tôi tái chế giấy.\nB:Giấy nhăn.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nĐất nước vừa chịu đựng một thảm họa thiên nhiên. Based on the previous passage, choose the most reasonable effect.\nA:Các nhà lãnh đạo của các quốc gia khác đã thành lập một liên minh.\nB:Lãnh đạo các nước khác đã gửi cứu trợ khẩn cấp.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nQuần áo của cậu bé đã ướt sũng. Based on the previous passage, choose the most reasonable cause.\nA:Cậu trèo ra khỏi bể bơi.\nB:Cậu ngã xuống bể.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nHọc sinh vội vàng hoàn thành cuốn sách. Based on the previous passage, choose the most reasonable cause.\nA:Sắp đến hạn trả lại cho thư viện.\nB:Anh mượn nó từ một người bạn.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTên tội phạm đã bị xử tử. Based on the previous passage, choose the most reasonable cause.\nA:Anh ta bị tống vào tù.\nB:Anh ta bị kết tội giết người.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nÁnh nắng chiếu vào phòng. Based on the previous passage, choose the most reasonable cause.\nA:Tôi mở rèm cửa.\nB:Tôi mở khóa cửa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi kéo tóc kẻ mạo danh. Based on the previous passage, choose the most reasonable effect.\nA:Tóc giả của cô ta văng ra.\nB:Cô ta hói đầu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBiên tập viên viết lại một câu trong bản thảo. Based on the previous passage, choose the most reasonable cause.\nA:Ông thấy bản thảo thật hấp dẫn.\nB:Ông nghĩ câu văn không rõ ràng.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ đã hủy tài khoản thẻ tín dụng của mình. Based on the previous passage, choose the most reasonable cause.\nA:Cô nhận ra thẻ bị mất.\nB:Cô nhận ra thẻ đã hết hạn.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười đàn ông và người phụ nữ đã yêu nhau. Based on the previous passage, choose the most reasonable effect.\nA:Họ học đại học.\nB:Họ đã kết hôn.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTiếng nhạc quá nhỏ để nghe thấy. Based on the previous passage, choose the most reasonable effect.\nA:Tôi tăng âm lượng.\nB:Tôi sáng tác bài hát của riêng tôi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTóc của cậu bé dựng lên. Based on the previous passage, choose the most reasonable cause.\nA:Cô bé xoa xoa đầu cậu bé.\nB:Cô bé giật nó.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCon bọ bị nghiền nát. Based on the previous passage, choose the most reasonable cause.\nA:Tôi tự xịt thuốc chống côn trùng.\nB:Tôi dẫm lên con bọ.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi mở mắt. Based on the previous passage, choose the most reasonable cause.\nA:Tôi tỉnh dậy.\nB:Tôi thư giãn.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nHàng xóm tôi mở nhạc ầm ĩ. Based on the previous passage, choose the most reasonable effect.\nA:Tôi yêu cầu anh ta vặn nhỏ lại.\nB:Tôi hỏi mượn đĩa CD từ anh ấy.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGia đình của người đàn ông sống trong nghèo khổ. Based on the previous passage, choose the most reasonable cause.\nA:Anh ấy tiết kiệm với thu nhập của mình.\nB:Anh ấy kiếm được ít hơn mức lương tối thiểu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSinh viên tốt nghiệp đại học. Based on the previous passage, choose the most reasonable effect.\nA:Anh tìm việc.\nB:Anh theo đuổi một sở thích.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười họa sĩ trộn sơn vàng và sơn xanh. Based on the previous passage, choose the most reasonable effect.\nA:Sơn văng khắp nơi.\nB:Sơn chuyển sang màu xanh lá cây.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi đã thay đổi chủ đề của cuộc trò chuyện. Based on the previous passage, choose the most reasonable cause.\nA:Tôi hết chuyện để nói.\nB:Cuộc trò chuyện trở nên căng thẳng.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAnh tôi được xuất viện. Based on the previous passage, choose the most reasonable effect.\nA:Tôi đón anh về nhà.\nB:Tôi thờ ơ với anh.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBức màn sân khấu được vén lên. Based on the previous passage, choose the most reasonable effect.\nA:Cảnh mở đầu vở kịch bắt đầu.\nB:Các diễn viên trong vở kịch đã rời khỏi sân khấu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCon tin đầu hàng yêu cầu của kẻ bắt cóc. Based on the previous passage, choose the most reasonable cause.\nA:Kẻ bắt cóc đe dọa làm hại con tin.\nB:Kẻ bắt cóc đã tự thả con tin.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMột tiếng ồn vang khắp sân khấu. Based on the previous passage, choose the most reasonable cause.\nA:Nhạc sĩ gõ chân.\nB:Nhạc sĩ đập trống.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBố mẹ vội chạy vào phòng ngủ của con. Based on the previous passage, choose the most reasonable cause.\nA:Đứa trẻ tỉnh dậy gào thét từ một cơn ác mộng.\nB:Đứa trẻ sợ hãi nhìn xuống gầm giường.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ giao tiếp bằng ngôn ngữ ký hiệu. Based on the previous passage, choose the most reasonable cause.\nA:Cô ấy bị sinh non.\nB:Cô ấy bị điếc bẩm sinh.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMột đợt hạn hán xảy ra trong khu vực. Based on the previous passage, choose the most reasonable effect.\nA:Nước trở nên ô nhiễm.\nB:Các vụ mùa bị diệt vong.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCon mèo đuổi theo con chim. Based on the previous passage, choose the most reasonable effect.\nA:Con chim bay đi.\nB:Con chim bắt được con sâu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCô gái chuyển trường. Based on the previous passage, choose the most reasonable cause.\nA:Trường học đóng cửa vào mùa hè.\nB:Cô chuyển đến một thị trấn mới.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nChủ nhà máy từ chối tăng lương cho nhân viên. Based on the previous passage, choose the most reasonable effect.\nA:Chủ sở hữu bổ nhiệm một người quản lý mới.\nB:Các nhân viên đã đình công.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNhà lãnh đạo đã chống lại những kẻ cực đoan trong nước mình. Based on the previous passage, choose the most reasonable effect.\nA:Những kẻ cực đoan đã ảnh hưởng anh ta.\nB:Những kẻ cực đoan ám sát anh ta.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi đi chân trần trên bãi biển. Based on the previous passage, choose the most reasonable effect.\nA:Cát dính vào chân tôi.\nB:Sóng vỗ dọc bờ biển.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi thức dậy giữa đêm vì cảm thấy lạnh. Based on the previous passage, choose the most reasonable effect.\nA:Tôi mặc thêm quần bó sát.\nB:Tôi uống một ly nước.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười mẹ ôm con trai. Based on the previous passage, choose the most reasonable cause.\nA:Con trai cô nhếch mép.\nB:Con trai cô rên rỉ.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMột lỗ thủng xé toạc quần jean của tôi. Based on the previous passage, choose the most reasonable cause.\nA:Tôi kéo khóa quần jean lên.\nB:Tôi vấp trên vỉa hè.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCậu bé đeo niềng răng. Based on the previous passage, choose the most reasonable effect.\nA:Cậu có một lỗ sâu răng.\nB:Răng cậu trở nên thẳng.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi tập thể dục tại phòng gym ngày hôm qua. Based on the previous passage, choose the most reasonable effect.\nA:Hôm nay tôi thức dậy với cơ bắp đau nhức.\nB:Hôm nay tôi thức dậy với một cơn đau họng.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCác cô gái thì thầm qua lại với nhau ở bàn ăn trưa. Based on the previous passage, choose the most reasonable effect.\nA:Những học sinh khác ngồi xuống bàn ăn trưa.\nB:Các sinh viên khác ở bàn ăn trưa cảm thấy bị bỏ rơi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nĐứa trẻ đáp xuống tấm bạt lò xo. Based on the previous passage, choose the most reasonable effect.\nA:Nó bật ngược lên không trung.\nB:Nó quyết định thử làm một cú lật.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi gửi thư trong hộp thư. Based on the previous passage, choose the most reasonable effect.\nA:Bưu điện chuyển thư.\nB:Bưu điện xúc tiến bức thư.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCon bạc rất tự tin. Based on the previous passage, choose the most reasonable effect.\nA:Anh ta đặt cược tất cả tiền của mình.\nB:Anh về nhà rỗng túi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLửa rừng lan rộng. Based on the previous passage, choose the most reasonable cause.\nA:Những cơn gió trở nên mạnh hơn.\nB:Những kẻ chủ mưu đã bị bắt giữ.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nĐứa trẻ bị tróc da đầu gối. Based on the previous passage, choose the most reasonable effect.\nA:Mẹ cậu đuổi cậu về phòng.\nB:Mẹ cậu băng bó vết thương.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười đàn ông sống sót sau căn bệnh hiểm nghèo. Based on the previous passage, choose the most reasonable cause.\nA:Ông ấy đã ký di chúc.\nB:Ông được ghép tạng.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi nhấp một ngụm cà phê nóng. Based on the previous passage, choose the most reasonable effect.\nA:Tôi cắn phải lưỡi.\nB:Tôi bị bỏng lưỡi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBiên tập viên sa thải nhà văn. Based on the previous passage, choose the most reasonable cause.\nA:Nhà văn tránh có sự thiên vị trong những câu chuyện của cô.\nB:Nhà văn đã bỏ lỡ một thời hạn quan trọng.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi cảm thấy kiệt sức. Based on the previous passage, choose the most reasonable cause.\nA:Tôi đã ngủ cả ngày.\nB:Tôi học cả ngày.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBác sĩ chẩn đoán bệnh nhân. Based on the previous passage, choose the most reasonable cause.\nA:Cô đã xác định các triệu chứng của bệnh nhân.\nB:Cô kê thuốc cho bệnh nhân.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi gãi da. Based on the previous passage, choose the most reasonable cause.\nA:Nó ướt mồ hôi.\nB:Nó ngứa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười đàn ông đã trải qua ca phẫu thuật khẩn cấp. Based on the previous passage, choose the most reasonable cause.\nA:Anh mất bình tĩnh.\nB:Anh bị đau tim.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCơ bắp cánh tay của người đàn ông phồng lên. Based on the previous passage, choose the most reasonable cause.\nA:Anh khoanh tay.\nB:Anh xoa tay.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười đàn ông nhướng mày. Based on the previous passage, choose the most reasonable cause.\nA:Anh ấy ngạc nhiên.\nB:Anh cảm thấy nản lòng.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi xin lỗi thay cho sự ngớ ngẩn của đồng nghiệp của tôi. Based on the previous passage, choose the most reasonable cause.\nA:Tôi tin rằng anh ấy có ý tốt.\nB:Tôi nghĩ anh ấy đã có thể suy nghĩ tốt hơn.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười đàn ông bỏ thuốc lá. Based on the previous passage, choose the most reasonable effect.\nA:Anh bắt đầu tập thể dục nhiều hơn.\nB:Anh bắt đầu thức dậy sớm hơn.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ đấm vào mũi kẻ tấn công. Based on the previous passage, choose the most reasonable effect.\nA:Cơ thể của kẻ tấn công trở nên vô hồn.\nB:Kẻ tấn công bắt đầu chảy máu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPhi tiêu đã bỏ lỡ mục tiêu. Based on the previous passage, choose the most reasonable cause.\nA:Tầm ngắm của người đàn ông không chính xác.\nB:Người đàn ông đã thua cuộc.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nChủ nhà yêu cầu một người diệt mối đến nhà anh ta. Based on the previous passage, choose the most reasonable cause.\nA:Anh phát hiện ra chuột trong tầng hầm.\nB:Anh ta giữ một trang trại kiến trong phòng của mình.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi đề nghị với khách đi ra ngoài ăn tối. Based on the previous passage, choose the most reasonable cause.\nA:Tôi đã quá mệt mỏi để chuẩn bị bất cứ điều gì.\nB:Khách của tôi ở quá lâu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCô gái bắt gặp anh trai đang đọc nhật ký của mình. Based on the previous passage, choose the most reasonable effect.\nA:Cô bắt đầu giấu cuốn nhật ký.\nB:Cô ấy có một cuốn nhật ký mới.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ thiếu tiền thuê nhà. Based on the previous passage, choose the most reasonable effect.\nA:Cô làm thêm giờ.\nB:Cô nghỉ việc.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBàn tay đứa trẻ nhanh chóng thu lại. Based on the previous passage, choose the most reasonable cause.\nA:Nó chạm vào bếp nóng.\nB:Nó vỗ đầu con chó con.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCông ty muốn đánh giá sự hài lòng của khách hàng. Based on the previous passage, choose the most reasonable effect.\nA:Họ giảm giá cho khách hàng mới.\nB:Họ đã tiến hành một cuộc khảo sát khách hàng.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSàn gỗ bị trầy xước. Based on the previous passage, choose the most reasonable cause.\nA:Cậu bé ném đệm ra khỏi đi văng.\nB:Cậu bé kéo một chiếc ghế trên sàn nhà.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi che mặt lại. Based on the previous passage, choose the most reasonable cause.\nA:Kẻ thù chế nhạo tôi.\nB:Kẻ thù vung nắm đấm.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBức tượng nổi tiếng bị thiêu rụi. Based on the previous passage, choose the most reasonable cause.\nA:Nó bị sét đánh.\nB:Mọi người đến để tôn kính nó.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi để trái cây trên bàn. Based on the previous passage, choose the most reasonable effect.\nA:Quả rụng hạt.\nB:Ruồi tràn ngập trái cây.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNữ diễn viên ba lê bị xé dây chằng. Based on the previous passage, choose the most reasonable cause.\nA:Cô nhón chân.\nB:Cô vặn cổ chân.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nDây giày của đứa bé bị tuột. Based on the previous passage, choose the most reasonable cause.\nA:Nó học cách buộc chúng.\nB:Nó chạy quanh sân.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi bị cuốn hút vào cuốn sách. Based on the previous passage, choose the most reasonable effect.\nA:Tôi trả lại cuốn sách.\nB:Tôi quên cả thời gian.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nChàng trai có những niềm tin tương tự như cha mẹ mình. Based on the previous passage, choose the most reasonable cause.\nA:Cha mẹ anh ảnh hưởng đến anh.\nB:Cha mẹ anh từ mặt anh.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nChiếc xe dần dần dừng lại. Based on the previous passage, choose the most reasonable cause.\nA:Nó hết xăng.\nB:Người lái xe ngủ thiếp đi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười đàn ông ăn kem dưới ánh mặt trời. Based on the previous passage, choose the most reasonable effect.\nA:Kem mất hương vị của nó.\nB:Kem chảy ra từ que.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi treo tác phẩm nghệ thuật trong phòng. Based on the previous passage, choose the most reasonable cause.\nA:Tấm thảm trông bẩn thỉu.\nB:Những bức tường trông trống trải.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi về nhà sớm. Based on the previous passage, choose the most reasonable cause.\nA:Tôi bị nhức đầu.\nB:Ông chủ của tôi đã tổ chức một cuộc họp.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCon chó con làm bẩn thảm. Based on the previous passage, choose the most reasonable effect.\nA:Người chủ mắng con chó.\nB:Người chủ cho con chó một món quà.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi đã xin lỗi bạn tôi. Based on the previous passage, choose the most reasonable effect.\nA:Bạn tôi đã tha thứ cho tôi.\nB:Bạn tôi trở nên tức giận.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười đàn ông nổi bật trong đám đông. Based on the previous passage, choose the most reasonable cause.\nA:Anh mang ba lô.\nB:Anh mặc vest neon.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNhân chứng nói dối mặc dù đã tuyên thệ. Based on the previous passage, choose the most reasonable effect.\nA:Anh ta đã hoàn thành lời khai của mình.\nB:Anh ta bị buộc tội khai man.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ nhuộm tóc. Based on the previous passage, choose the most reasonable cause.\nA:Cô muốn một cái nhìn mới.\nB:Cô muốn hòa nhập.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNhững người nhập cư bị bắt gặp cư trú bất hợp pháp trong nước. Based on the previous passage, choose the most reasonable effect.\nA:Họ tìm được việc làm.\nB:Họ đã bị trục xuất.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nDiễn giả nói đùa. Based on the previous passage, choose the most reasonable effect.\nA:Khán giả bật cười.\nB:Khán giả đứng dậy.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi nhìn vào mặt trời. Based on the previous passage, choose the most reasonable effect.\nA:Mặt trời làm tôi mờ mắt.\nB:Mặt trời làm rám nắng da tôi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi cảm thấy buồn chán. Based on the previous passage, choose the most reasonable effect.\nA:Tôi khịt mũi.\nB:Tôi ngáp.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMiếng bít tết rất khó cắt. Based on the previous passage, choose the most reasonable cause.\nA:Con dao cùn.\nB:Bít tết chưa chín.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ tuyên bố phá sản. Based on the previous passage, choose the most reasonable cause.\nA:Cô đã nhận được tiền cấp dưỡng.\nB:Cô có một khoản nợ lớn.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nĐèn trong căn hộ của bạn tôi bật sáng. Based on the previous passage, choose the most reasonable effect.\nA:Tôi tự hỏi có phải anh ấy đã ra ngoài không.\nB:Tôi quyết định ghé thăm anh một chuyến.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi đặt bông hoa dưới mũi mình. Based on the previous passage, choose the most reasonable effect.\nA:Những cánh hoa rơi ra hoa.\nB:Tôi ngửi thấy mùi hương của hoa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ cảm thấy nhớ nhung quá khứ. Based on the previous passage, choose the most reasonable cause.\nA:Cô gặp một người bạn thời thơ ấu.\nB:Cô mắng con.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nHọc sinh chần chừ không viết bài. Based on the previous passage, choose the most reasonable effect.\nA:Cậu ấy nộp bài sớm.\nB:Cậu ấy nộp bài không hoàn chỉnh.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nXe tôi bị hỏng. Based on the previous passage, choose the most reasonable effect.\nA:Tôi đã đi đến trung tâm mua sắm.\nB:Tôi gọi thợ sửa máy.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi đã bỏ tờ ghi chú. Based on the previous passage, choose the most reasonable cause.\nA:Nó ẩn danh.\nB:Nó không đọc được.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCon chim vỗ cánh. Based on the previous passage, choose the most reasonable effect.\nA:Nó đẻ trứng.\nB:Nó bay lên cao.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi đỗ xe ở lối đi. Based on the previous passage, choose the most reasonable cause.\nA:Nhà để xe đã mở.\nB:Nhà xe đã đầy.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTên tội phạm nhắm súng vào nạn nhân của mình. Based on the previous passage, choose the most reasonable effect.\nA:Tên tội phạm đặt súng xuống.\nB:Nạn nhân đưa tay lên.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi mong đến cuối tuần. Based on the previous passage, choose the most reasonable cause.\nA:Tôi dự định tham dự đám tang của chú tôi.\nB:Tôi dự định tham dự đám cưới của bạn tôi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi quên cả thời gian. Based on the previous passage, choose the most reasonable cause.\nA:Tôi đã mơ mộng.\nB:Tôi buồn nôn.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCác tài liệu in ra không đọc được. Based on the previous passage, choose the most reasonable cause.\nA:Máy in bị hết mực.\nB:Máy in đã hết giấy.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSân vận động đã mở nhạc quốc ca. Based on the previous passage, choose the most reasonable effect.\nA:Các cổ động viên chào cờ.\nB:Các cổ động viên đổ xô ra sân.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCác món nếm nhạt nhẽo. Based on the previous passage, choose the most reasonable effect.\nA:Tôi dọn nó ra.\nB:Tôi bỏ muối vào đó.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi đặt khăn giấy lên chỗ đổ. Based on the previous passage, choose the most reasonable effect.\nA:Khăn giấy hấp thụ chất lỏng.\nB:Chỗ đổ nước còn dính.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ bị quấy rầy trong lúc đang đọc sách. Based on the previous passage, choose the most reasonable effect.\nA:Cô đánh dấu trang của mình.\nB:Cô đọc lại cuốn sách.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMáy bay gặp một số nhiễu loạn. Based on the previous passage, choose the most reasonable effect.\nA:Người đàn ông thắt dây an toàn.\nB:Người đàn ông nhìn ra cửa sổ.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCậu bé nhăn mặt. Based on the previous passage, choose the most reasonable cause.\nA:Cô bé bỏ mặc cậu.\nB:Cô bé chọt cậu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCác bác sĩ đã cho bệnh nhân lắp một cái xương sườn giả. Based on the previous passage, choose the most reasonable cause.\nA:Họ cắt cụt chân cô.\nB:Họ theo dõi sức sống của cô.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCậu bé véo khuỷu tay cô bé. Based on the previous passage, choose the most reasonable effect.\nA:Cô nhún vai nhìn anh.\nB:Cô hất tay ra khỏi anh.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi nhờ bạn tôi tư vấn. Based on the previous passage, choose the most reasonable cause.\nA:Tôi coi trọng ý kiến của anh ấy.\nB:Tôi biết tôi đã đúng.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCậu bé bước xuống bùn. Based on the previous passage, choose the most reasonable effect.\nA:Bùn dính vào giày cậu.\nB:Bùn đập vào mặt cậu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTuyết phủ dày vài inch trong thị trấn. Based on the previous passage, choose the most reasonable effect.\nA:Các trường học đóng cửa.\nB:Người dân trốn dưới lòng đất.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCa trực của nhân viên đã kết thúc. Based on the previous passage, choose the most reasonable effect.\nA:Anh về nhà.\nB:Anh dọa bỏ việc.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCây làm hư nhà. Based on the previous passage, choose the most reasonable cause.\nA:Cây ngã xuống mái nhà.\nB:Cây che bóng sân sau.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGỗ tách làm đôi. Based on the previous passage, choose the most reasonable cause.\nA:Tôi xếp gỗ trong lò sưởi.\nB:Tôi vung rìu xuống gỗ.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nGia đình chúc mừng cặp đôi. Based on the previous passage, choose the most reasonable cause.\nA:Cặp đôi tuyên bố họ đang ly thân.\nB:Cặp đôi tuyên bố họ sắp có con.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCô bé gửi cho cậu bé một lá thư valentine. Based on the previous passage, choose the most reasonable cause.\nA:Cô thích cậu.\nB:Cô đã hôn cậu ấy.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi gật đầu trước tuyên bố của bạn tôi. Based on the previous passage, choose the most reasonable cause.\nA:Tôi đã nhầm lẫn.\nB:Tôi đồng ý với anh.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNhóm bạn tung đồng xu. Based on the previous passage, choose the most reasonable cause.\nA:Họ muốn tìm được sự thỏa hiệp.\nB:Họ muốn đưa ra một quyết định công bằng.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nĐồng hồ bấm giờ trong bếp reng. Based on the previous passage, choose the most reasonable effect.\nA:Người đàn ông dỡ đồ tạp hóa vào tủ lạnh.\nB:Người đàn ông lấy pizza ra khỏi lò.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ đặt mục tiêu đầy tham vọng. Based on the previous passage, choose the most reasonable effect.\nA:Cô làm biếng.\nB:Cô ấy làm việc chăm chỉ.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười đàn ông giàu có chết vì già. Based on the previous passage, choose the most reasonable effect.\nA:Con trai ông ta gặp rắc rối về pháp lý.\nB:Con trai ông được thừa hưởng gia tài.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ dẫm lên ngọn lửa. Based on the previous passage, choose the most reasonable effect.\nA:Ngọn lửa đã tắt.\nB:Khói bốc lên từ ngọn lửa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nXe của người phụ nữ đã ở trong cửa hàng. Based on the previous passage, choose the most reasonable cause.\nA:Bằng lái xe của cô đã bị thu hồi.\nB:Cô gặp tai nạn xe hơi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi ngủ quên. Based on the previous passage, choose the most reasonable effect.\nA:Tôi làm bữa sáng.\nB:Tôi đã bỏ bữa sáng.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười nổi tiếng bước ra khỏi xe limousine. Based on the previous passage, choose the most reasonable effect.\nA:Các máy ảnh lóe lên về phía anh.\nB:Gia đình anh tham dự buổi họp báo.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ nán lại trong bồn tắm. Based on the previous passage, choose the most reasonable effect.\nA:Nước tắm trở nên bớt ấm.\nB:Nước tắm chảy ra khỏi bồn.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCậu sinh viên muốn gặp các sinh viên khác trong trường. Based on the previous passage, choose the most reasonable effect.\nA:Cậu tham gia một hội anh em.\nB:Cậu học chuyên ngành kỹ sư.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi lật đệm ghế lên. Based on the previous passage, choose the most reasonable cause.\nA:Tôi đang tìm tiền lẻ.\nB:Tôi đang sắp xếp lại phòng khách.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCon ong bay về phía cậu bé. Based on the previous passage, choose the most reasonable effect.\nA:Cậu bé bỏ chạy.\nB:Cậu bé hái một bông hoa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ bị kết tội nhẹ. Based on the previous passage, choose the most reasonable effect.\nA:Cô bị kết án lao động công ích.\nB:Cô đã bị xử bắn.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi khuấy đường vào trà nóng. Based on the previous passage, choose the most reasonable effect.\nA:Trà nóng.\nB:Đường tan.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười cựu binh bước đi khập khiễng. Based on the previous passage, choose the most reasonable cause.\nA:Ông ấy chuẩn bị nhập ngũ.\nB:Ông ấy bị thương trong trận chiến.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTên tội phạm bỏ chạy khỏi cảnh sát. Based on the previous passage, choose the most reasonable effect.\nA:Cảnh sát chăm sóc nạn nhân.\nB:Cảnh sát đuổi theo tên tội phạm.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMáy tính xách tay không bật lên được. Based on the previous passage, choose the most reasonable cause.\nA:Tôi đã đánh rơi nó.\nB:Tôi đã sạc pin nó.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ không còn chỗ trong tủ quần áo của mình. Based on the previous passage, choose the most reasonable cause.\nA:Cô có nhiều quần áo.\nB:Cô gấp quần áo của mình.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười đàn ông rất đau lòng. Based on the previous passage, choose the most reasonable cause.\nA:Vợ anh sinh con.\nB:Vợ anh bỏ anh.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười đàn ông đã hoàn thành bằng cấp. Based on the previous passage, choose the most reasonable effect.\nA:Anh ta có đủ điều kiện cho công việc anh ta muốn.\nB:Lời đề nghị công việc của anh đã bị hủy bỏ.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGiọng nói của người đàn ông vang vọng khắp khán phòng. Based on the previous passage, choose the most reasonable cause.\nA:Ông chào khán giả.\nB:Ông nói vào micro.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi ném một đồng xu vào vòi nước. Based on the previous passage, choose the most reasonable effect.\nA:Đồng xu chìm xuống đáy.\nB:Đồng xu đã vỡ làm đôi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười chơi đánh bóng về phía lỗ. Based on the previous passage, choose the most reasonable effect.\nA:Bóng đi vào lỗ.\nB:Bóng bay ngược về phía cầu thủ.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi hít bụi trong căn gác. Based on the previous passage, choose the most reasonable effect.\nA:Tôi nấc cụt.\nB:Tôi hắt xì.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNhân viên thu ngân gọi bảo vệ. Based on the previous passage, choose the most reasonable cause.\nA:Khách hàng đã sử dụng tiền giả.\nB:Khách hàng bật đèn pha lên.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi đem rác đi đổ. Based on the previous passage, choose the most reasonable cause.\nA:Rác làm nhà bếp bốc mùi khó chịu.\nB:Tôi vô tình vứt mất danh sách mua sắm của tôi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGia đình đã đi đến sở thú. Based on the previous passage, choose the most reasonable effect.\nA:Bọn trẻ ngưỡng mộ những con vật.\nB:Bọn trẻ đuổi theo những con vật.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nHơi thở của người đàn ông rất to. Based on the previous passage, choose the most reasonable cause.\nA:Thận của anh ta không còn hoạt động.\nB:Phổi anh ta bị tắc nghẽn.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi có thêm một vé cho buổi hòa nhạc. Based on the previous passage, choose the most reasonable effect.\nA:Tôi hỏi bạn tôi đường đến địa điểm.\nB:Tôi hỏi bạn tôi rằng anh ta có thích đi cùng không.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMáy điều hòa trong nhà bị hỏng. Based on the previous passage, choose the most reasonable effect.\nA:Tôi mang chăn ra.\nB:Tôi mở cửa sổ.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCậu bé bị đau lưng. Based on the previous passage, choose the most reasonable cause.\nA:Ba lô của cậu mở.\nB:Ba lô của cậu nặng trĩu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi đã mua cho mẹ tôi một món quà. Based on the previous passage, choose the most reasonable cause.\nA:Tôi nướng cho bà ấy một cái bánh.\nB:Đó là sinh nhật của bà ấy.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nHoa thủy tiên trong vườn bị phá hủy. Based on the previous passage, choose the most reasonable cause.\nA:Một con ong chích người làm vườn.\nB:Những con sóc đào xới những luống đất.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi quẹt diêm. Based on the previous passage, choose the most reasonable effect.\nA:Ngọn lửa tắt dần.\nB:Que diêm tạo ra lửa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCác bên tranh chấp đã đạt được thoả thuận. Based on the previous passage, choose the most reasonable cause.\nA:Họ không muốn tranh luận trước tòa.\nB:Họ muốn cứu vãn mối quan hệ cá nhân của họ.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNhững đứa trẻ được gửi đến một trại trẻ mồ côi. Based on the previous passage, choose the most reasonable cause.\nA:Cha mẹ của chúng đã chết.\nB:Cha mẹ chúng chiều chuộng chúng.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMột thiên thạch rơi xuống đại dương. Based on the previous passage, choose the most reasonable effect.\nA:Một cơn sóng thần đã xảy ra.\nB:Nó bắt đầu mưa đá.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười leo núi gặp một con rắn độc. Based on the previous passage, choose the most reasonable effect.\nA:Cô trở nên mất nước.\nB:Cô hốt hoảng.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLò nướng trở nên nóng. Based on the previous passage, choose the most reasonable cause.\nA:Tôi bật lò nướng.\nB:Tôi cho món ăn vào lò nướng.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi vắt chanh. Based on the previous passage, choose the most reasonable effect.\nA:Chanh bị mốc.\nB:Chanh phụt nước ra.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nQuốc gia này phát hiện ra vùng đất mới. Based on the previous passage, choose the most reasonable effect.\nA:Quốc gia bỏ mặc vùng đất.\nB:Quốc gia biến vùng đất thành thuộc địa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nChiếc ly lật khỏi bàn. Based on the previous passage, choose the most reasonable effect.\nA:Nó vỡ tan khắp sàn nhà.\nB:Nó đáp xuống một đống đồ giặt.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCái bàn chao đảo. Based on the previous passage, choose the most reasonable cause.\nA:Sàn nhà không bằng phẳng.\nB:Sàn nhà trơn trượt.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười cha bắt con trai nói dối. Based on the previous passage, choose the most reasonable effect.\nA:Con trai thú nhận sự thật.\nB:Người cha tin tưởng con trai mình.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nĐầu người đàn ông đau nhói. Based on the previous passage, choose the most reasonable effect.\nA:Anh uống siro ho.\nB:Anh uống aspirin.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTàu chạy chậm lại. Based on the previous passage, choose the most reasonable cause.\nA:Nó đang đến gần nhà ga.\nB:Nó bị chậm so với lịch trình.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười đàn ông đã trải qua trị liệu. Based on the previous passage, choose the most reasonable cause.\nA:Bệnh tâm thần di truyền trong gia đình anh.\nB:Anh bị chẩn đoán mắc bệnh trầm cảm.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ nắm chặt cổ họng. Based on the previous passage, choose the most reasonable cause.\nA:Cô nuốt thức ăn.\nB:Cô nghẹn thức ăn.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ bị đau họng. Based on the previous passage, choose the most reasonable effect.\nA:Giọng cô khàn khàn.\nB:Cô nói với giọng điệu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCon chó nhìn miếng bít tết ngon ngọt trên bàn. Based on the previous passage, choose the most reasonable effect.\nA:Nó chảy nước dãi.\nB:Nó nằm xuống.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCông việc kinh doanh của người phụ nữ đã thành công. Based on the previous passage, choose the most reasonable effect.\nA:Cô sa thải nhân viên của mình.\nB:Cô trở nên giàu có.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCác sinh viên rời khỏi lớp học. Based on the previous passage, choose the most reasonable cause.\nA:Chuông reo.\nB:Giáo viên giao bài tập về nhà.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ tuyên bố cô nhìn thấy một con ma. Based on the previous passage, choose the most reasonable effect.\nA:Những người quen của cô bày tỏ sự hoài nghi.\nB:Những người quen của cô liên quan đến cô.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười đàn ông mất thính giác. Based on the previous passage, choose the most reasonable cause.\nA:Ông suýt chết đuối.\nB:Ông suýt bị giết trong một vụ nổ.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nĐứa trẻ buông dây bóng bay. Based on the previous passage, choose the most reasonable effect.\nA:Bong bóng xì hơi.\nB:Bong bóng bay lên không trung.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười đàn ông mất khả năng nói. Based on the previous passage, choose the most reasonable cause.\nA:Ông bị đột quỵ.\nB:Ông hít một hơi thật sâu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ vấp ngã trên vỉa hè. Based on the previous passage, choose the most reasonable cause.\nA:Có một vết nứt trong xi măng.\nB:Cô nghe thấy ai gọi tên mình.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười đàn nhảy canon vào hồ bơi. Based on the previous passage, choose the most reasonable effect.\nA:Nhân viên cứu hộ nhảy vào sau anh ta.\nB:Người đàn ông làm ướt viên cứu hộ.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi đã uống thuốc kháng sinh. Based on the previous passage, choose the most reasonable effect.\nA:Nhiễm trùng hết hẳn.\nB:Nhiễm trùng lây lan.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nĐèn giao thông chuyển sang màu vàng. Based on the previous passage, choose the most reasonable effect.\nA:Tài xế nhấn phanh.\nB:Người lái xe bấm còi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nHộp đựng nhựa tan chảy. Based on the previous passage, choose the most reasonable cause.\nA:Tôi ngâm hộp đựnh trong nước ấm.\nB:Tôi đặt hộp đựng lên bếp nóng.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nChiếc xe bị móp méo. Based on the previous passage, choose the most reasonable cause.\nA:Tài xế đâm vào cột điện thoại.\nB:Tài xế vượt đèn đỏ.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCậu bé học cả đêm. Based on the previous passage, choose the most reasonable effect.\nA:Cậu không làm bài kiểm tra.\nB:Cậu thi đỗ.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCậu bé trẻ bám vào gờ của hồ bơi. Based on the previous passage, choose the most reasonable cause.\nA:Cậu sợ học bơi.\nB:Nhân viên cứu hộ đang làm nhiệm vụ.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi đưa tay lên ngực. Based on the previous passage, choose the most reasonable effect.\nA:Tôi cảm nhận nhịp tim của tôi.\nB:Nhịp tim của tôi tăng tốc.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTòa nhà liền kề văn phòng của tôi đang được xây dựng. Based on the previous passage, choose the most reasonable effect.\nA:Văn phòng tôi rất đông.\nB:Văn phòng tôi trở nên ồn ào.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nGia đình muốn làm quen với hàng xóm mới của họ. Based on the previous passage, choose the most reasonable effect.\nA:Gia đình mời hàng xóm qua ăn tối.\nB:Gia đình vẫy tay chào hàng xóm từ sân của họ.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNước văng lên từ hồ bơi. Based on the previous passage, choose the most reasonable cause.\nA:Người bơi nhảy xuống hồ bơi.\nB:Người bơi nổi trong hồ bơi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi cắn một lát dưa hấu. Based on the previous passage, choose the most reasonable effect.\nA:Tôi vô tình nuốt hạt dưa.\nB:Tôi vô tình sứt mẻ răng.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCậu bé vấp ngã. Based on the previous passage, choose the most reasonable cause.\nA:Áo khoác của cậu không kéo khoá.\nB:Dây giày của cậu không buộc chặt.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ đeo bông nhét tai. Based on the previous passage, choose the most reasonable cause.\nA:Cô bị phân tâm bởi tiếng ồn.\nB:Cô ấy vừa bấm lỗ tai.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi đổ nước đầy chai. Based on the previous passage, choose the most reasonable cause.\nA:Tôi đã uống hết nước trong đó.\nB:Tôi giữ nó trong tủ lạnh.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nChương trình truyền hình bị kiểm duyệt. Based on the previous passage, choose the most reasonable cause.\nA:Nó chứa ngôn ngữ thô tục.\nB:Nó có một cốt truyện phức tạp.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCon tàu đắm. Based on the previous passage, choose the most reasonable effect.\nA:Tất cả các nhân viên chết đuối.\nB:Các nhân viên gặp phải cướp biển.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCậu bé cảm thấy bối rối bởi câu đố. Based on the previous passage, choose the most reasonable effect.\nA:Cậu giải được câu đố.\nB:Cậu yêu cầu một gợi ý.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nĐiện thoại reo. Based on the previous passage, choose the most reasonable effect.\nA:Người đàn ông cúp điện thoại.\nB:Người đàn ông nhấc máy.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười phụ nữ đang nhìn chằm chằm vào tôi. Based on the previous passage, choose the most reasonable effect.\nA:Tôi đã ôm cô ấy.\nB:Tôi cảm thấy khó chịu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCả nhóm rời khỏi bảo tàng. Based on the previous passage, choose the most reasonable cause.\nA:Họ chụp ảnh các tác phẩm triển lãm.\nB:Họ đã xem tất cả các tác phẩm triển lãm.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười đàn ông bắt đầu một cuộc cãi vã với tôi. Based on the previous passage, choose the most reasonable effect.\nA:Bạn tôi giới thiệu tôi với người đàn ông.\nB:Bạn tôi bảo vệ tôi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLốp xe đạp của tôi bị xẹp. Based on the previous passage, choose the most reasonable effect.\nA:Tôi bơm không khí vào lốp xe.\nB:Tôi tăng ga trên xe.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCô gái trông tái nhợt. Based on the previous passage, choose the most reasonable effect.\nA:Cha cô đọc cho cô nghe một câu chuyện.\nB:Cha cô sờ trán cô.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBút hết mực. Based on the previous passage, choose the most reasonable effect.\nA:Tôi sử dụng bút chì.\nB:Tôi ký tên tôi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười đàn ông bị từ chối cho vay. Based on the previous passage, choose the most reasonable cause.\nA:Anh ta đang mắc nợ.\nB:Anh ta bắt đầu kinh doanh.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCô gái nghỉ học ở nhà. Based on the previous passage, choose the most reasonable cause.\nA:Cô bị thủy đậu.\nB:Cô rất thích học toán.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTúi rác đã đầy. Based on the previous passage, choose the most reasonable effect.\nA:Tôi đem nó đến bãi rác.\nB:Tôi đổ nó xuống bồn rửa chén.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTôi hút bụi thảm. Based on the previous passage, choose the most reasonable cause.\nA:Bạn cùng phòng của tôi làm đổ đồ uống.\nB:Con chó của tôi rụng lông.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười đàn ông mất bình tĩnh. Based on the previous passage, choose the most reasonable effect.\nA:Anh tắt máy tính.\nB:Anh ném ghế qua phòng.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCô gái ném một cành cây vào lửa trại. Based on the previous passage, choose the most reasonable effect.\nA:Cành cây bị đốt cháy.\nB:Ngọn lửa đã tắt.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười đàn ông ra khỏi phòng tắm. Based on the previous passage, choose the most reasonable cause.\nA:Nước nóng đã hết.\nB:Anh ta không tm thấy khăn tắm.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBố mẹ muốn con đi học đại học. Based on the previous passage, choose the most reasonable effect.\nA:Họ dành một quỹ tiết kiệm cho học phí.\nB:Họ khuyến khích con cái họ chơi bên ngoài.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười đàn ông cởi giày ra. Based on the previous passage, choose the most reasonable effect.\nA:Đôi giày nới lỏng.\nB:Đôi giày bị mòn.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười đàn ông chỉ ăn một nửa món khai vị. Based on the previous passage, choose the most reasonable effect.\nA:Anh để tủ lạnh thức ăn thừa.\nB:Anh lưu công thức nấu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMắt cá chân của tôi bị sưng. Based on the previous passage, choose the most reasonable effect.\nA:Tôi chườm đá.\nB:Tôi xoa kem dưỡng.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCửa văn phòng của tôi mở. Based on the previous passage, choose the most reasonable effect.\nA:Tôi nói chuyện với đồng nghiệp của tôi tại bàn.\nB:Tôi tình cờ nghe được cuộc trò chuyện trong hội trường.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi đã phải chờ xếp hàng. Based on the previous passage, choose the most reasonable effect.\nA:Tôi ngồi xuống.\nB:Tôi đọc lướt qua một tạp chí.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNgười đàn ông đập ruồi. Based on the previous passage, choose the most reasonable effect.\nA:Con ruồi bay đi.\nB:Con ruồi vẫn đứng yên.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười đàn ông đã viết di chúc. Based on the previous passage, choose the most reasonable cause.\nA:Ông ấy sắp chết.\nB:Ông ấy là một người góa vợ.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nVận động viên chạy cảm nhận được đối thủ đang bám sát. Based on the previous passage, choose the most reasonable effect.\nA:Anh bỏ cuộc đua.\nB:Anh tăng tốc.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTôi đã suy nghĩ cẩn thận về vấn đề này. Based on the previous passage, choose the most reasonable effect.\nA:Tôi xin lời khuyên.\nB:Tôi đã đưa ra một giải pháp.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLữ khách đi trên cây cầu treo bấp bênh. Based on the previous passage, choose the most reasonable effect.\nA:Anh cảm thấy sợ hãi.\nB:Anh cảm thấy ngây ngất.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNgười đàn ông dự đoán chiến thắng của đội. Based on the previous passage, choose the most reasonable effect.\nA:Anh ấy gặp bạn bè để xem trận đấu.\nB:Anh ấy đã đặt cược với bạn bè của mình.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCậu bé không ngủ được. Based on the previous passage, choose the most reasonable effect.\nA:Cậu đặt đồng hồ báo thức.\nB:Cậu đếm cừu.\n\nAnswer:\n",
+        "output": "B"
+    }
+]

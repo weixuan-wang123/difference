@@ -1,0 +1,2002 @@
+[
+    {
+        "input": "Question:\nÜrün balonlu naylonla paketlenmişti. Based on the previous passage, choose the most reasonable effect.\nA:Kırılgandı.\nB:Küçüktü.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCeplerimi boşalttım. Based on the previous passage, choose the most reasonable effect.\nA:Bir bilet koçanı aldım.\nB:Bir silah buldum.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTermitler evi işgal etti. Based on the previous passage, choose the most reasonable effect.\nA:Termitler evden kayboldu.\nB:Termitler evin içindeki ahşabı yediler.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nYolcular sınıra ulaştı. Based on the previous passage, choose the most reasonable effect.\nA:Devriye ajanı pasaportlarını kontrol etti.\nB:Devriye ajanı onları kaçakçılıkla suçladı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nOfis kapalıydı. Based on the previous passage, choose the most reasonable effect.\nA:Tatildi.\nB:Yaz mevsimiydi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKızın enerjisi tükendi. Based on the previous passage, choose the most reasonable effect.\nA:Dama oynadı.\nB:İp atladı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKadın sıradaki yerini kaybetti. Based on the previous passage, choose the most reasonable effect.\nA:Sıraya daha fazla kişi girdi.\nB:Sıradan çıktı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKız burnunu tıkadı. Based on the previous passage, choose the most reasonable effect.\nA:Bebeğin salyası önlüğüne aktı.\nB:Bebek bezini kirletti.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nGrup hit şarkılarını çaldı. Based on the previous passage, choose the most reasonable effect.\nA:Seyirci müziğe alkışla eşlik etti.\nB:Seyirciler kibarca sessizce dinledi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKız matematik öğretmenine teşekkür etmek istedi. Based on the previous passage, choose the most reasonable effect.\nA:Kız okuldan sonra cezaya kaldı.\nB:Kız öğretmene bir elma getirdi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nGenç kampçılar korkmuş hissettiler. Based on the previous passage, choose the most reasonable effect.\nA:Kamp danışmanları onlara bir hayalet hikayesi anlattı.\nB:Kamp ateşinde marshmallow kızarttılar.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdam kafasını vurdu. Based on the previous passage, choose the most reasonable effect.\nA:Düşüncede kayboldu.\nB:Beyin sarsıntısı geçirdi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nYazdığım çek karşılıksız çıktı. Based on the previous passage, choose the most reasonable effect.\nA:Banka hesabımda para yoktu.\nB:Maaş zammı kazandım.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdamın e-posta gelen kutusu spam ile doluydu. Based on the previous passage, choose the most reasonable effect.\nA:Spam'i sildi.\nB:Toplu bir e-posta gönderdi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nDenizci karantinaya alındı. Based on the previous passage, choose the most reasonable effect.\nA:Bir hastalığa maruz kaldı.\nB:Hastalıktan kurtuldu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKız kodu ezberledi. Based on the previous passage, choose the most reasonable effect.\nA:Kendi kendine okudu.\nB:Yazmayı unuttu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBardağa su doldurdum. Based on the previous passage, choose the most reasonable effect.\nA:Su susuzluğumu giderdi.\nB:Bardak doldu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAdam, arkadaşı konuşmayı bitirdiğinde sessiz kaldı. Based on the previous passage, choose the most reasonable effect.\nA:Arkadaşına destek vermek istedi.\nB:Arkadaşının söylediklerini düşünüyordu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKaza benim hatamdı. Based on the previous passage, choose the most reasonable effect.\nA:Suçlu hissettim.\nB:Suçlamada bulundum.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nZincir dağıldı. Based on the previous passage, choose the most reasonable effect.\nA:Zincir bir lastiğin etrafına sarılıydı.\nB:Zincirde kopuk bir halka vardı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nÇift uzlaşmaya karar verdi. Based on the previous passage, choose the most reasonable effect.\nA:Tartışmaktan yoruldular.\nB:Sorunu tartışmaktan kaçındılar.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKadın devlet görevi için aday olmaya karar verdi. Based on the previous passage, choose the most reasonable effect.\nA:Bir kampanya yöneticisi tuttu.\nB:Mahkemede ifade verdi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdam yolculuğunda soğuk hava bekliyordu. Based on the previous passage, choose the most reasonable effect.\nA:Bavuluna sıcak tutacak giysiler koydu.\nB:Büyük bir bavulla seyahat etti.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nÖğrenci sorunun cevabını biliyordu. Based on the previous passage, choose the most reasonable effect.\nA:Elini kaldırdı.\nB:Kaçtı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdamın gözleri sulandı. Based on the previous passage, choose the most reasonable effect.\nA:Gözüne toz kaçtı.\nB:Gözlük taktı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nOyuncu arka arkaya beş maç kazandı. Based on the previous passage, choose the most reasonable effect.\nA:Rakibi onu hile yapmakla suçladı.\nB:Rakibi onun için üzüldü.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nÖğretmen öğrencinin sınavını yırttı. Based on the previous passage, choose the most reasonable effect.\nA:Öğrenciyi kopya çekerken yakaladı.\nB:Öğrencinin cevapları yanlıştı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKonuşurken durdum. Based on the previous passage, choose the most reasonable effect.\nA:Sesimi kaybettim.\nB:Nefesim tükendi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nDonmuş yemek çözüldü. Based on the previous passage, choose the most reasonable effect.\nA:Mikrodalga fırına koydum.\nB:Plastik sargı ile kapladım.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nÇalışan, hasta numarası yaptı. Based on the previous passage, choose the most reasonable effect.\nA:Karın ağrısı vardı.\nB:Bir gün izin istedi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKız havuza atladı. Based on the previous passage, choose the most reasonable effect.\nA:Havuz güvertesinde koştu.\nB:Tramplenden atladı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSinema biletleri tükendi. Based on the previous passage, choose the most reasonable effect.\nA:Filmin vizyona girdiği gündü.\nB:Film kötü eleştiriler aldı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdam kilo verdi. Based on the previous passage, choose the most reasonable effect.\nA:İnsanlar onu dışladı.\nB:İnsanlar ona iltifat etti.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKızın elleri kabarmıştı. Based on the previous passage, choose the most reasonable effect.\nA:Mektup yazdı.\nB:Bir ipe tırmandı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTek tekerlekli sirk bisikletine binerken sirk sanatçısı hokkabazlık yaptı. Based on the previous passage, choose the most reasonable effect.\nA:Seyirciler şaşkınlıkla alkışladılar.\nB:Akrobat bir trapezde döndü.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSabrımı kaybettim. Based on the previous passage, choose the most reasonable effect.\nA:Arkadaşım beni bekletmeye devam etti.\nB:Arkadaşım zamanında geldi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSavaşan ülkeler barış istiyorlardı. Based on the previous passage, choose the most reasonable effect.\nA:Nükleer silah geliştirdiler.\nB:Bir antlaşma müzakere ettiler.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAdam uyku ilacı aldı. Based on the previous passage, choose the most reasonable effect.\nA:Uykusu geldi.\nB:Ateşi çıktı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKadın kanepeye çarptı. Based on the previous passage, choose the most reasonable effect.\nA:Kanepenin ayağı gevşedi.\nB:Dizini morarttı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nÇocuk balonu sıktı. Based on the previous passage, choose the most reasonable effect.\nA:Balon patladı.\nB:Balon uçtu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGezginler otel odalarına girdiler. Based on the previous passage, choose the most reasonable effect.\nA:Valizlerini boşalttılar.\nB:Havaalanına gittiler.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nŞeftaliyi ısırdım. Based on the previous passage, choose the most reasonable effect.\nA:Şeftali ezildi.\nB:Su fışkırdı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nEllerim yapışkan hale geldi. Based on the previous passage, choose the most reasonable effect.\nA:Donut yedim.\nB:Tatlı seviyordum.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKapıyı ittim. Based on the previous passage, choose the most reasonable effect.\nA:Kapı açıldı.\nB:Kapı kilitliydi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAktivistler ürünleri boykot ettiler. Based on the previous passage, choose the most reasonable effect.\nA:Ürünler kalite güvencesi için test edilmiştir.\nB:Ürünler çocuk işçiliği ile üretildi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nDuvarda bir delik açtım. Based on the previous passage, choose the most reasonable effect.\nA:Bir fare delikten sürünerek çıktı.\nB:Delikten toz çıktı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKadın kız kardeşini kıskandı. Based on the previous passage, choose the most reasonable effect.\nA:Kız kardeşi mutluydu.\nB:Kardeşi boşandı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGömleğime şarap döktüm. Based on the previous passage, choose the most reasonable effect.\nA:Bir önlük giydim.\nB:Gömleğimi değiştirdim.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKasiyer kasayı açtı. Based on the previous passage, choose the most reasonable effect.\nA:Müşteri cüzdanını aradı.\nB:Müşteri parasını uzattı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSokak müzisyeni bir kalabalık çekti. Based on the previous passage, choose the most reasonable effect.\nA:İnsanlar ona madeni para verdi.\nB:Kalabalığı dağıttı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKüçük çocuk bakıcısına ağladı. Based on the previous passage, choose the most reasonable effect.\nA:Ebeveynlerini özledi.\nB:Atıştırmalık zamanıydı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPilotun radarı bir fırtına tespit etti. Based on the previous passage, choose the most reasonable effect.\nA:Pilot fırtınadan uzaklaştı.\nB:Pilot fırtınanın içinden uçtu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAğaç yapraklarını döktü. Based on the previous passage, choose the most reasonable effect.\nA:Yapraklar renkleri değişti.\nB:Yerlerde yapraklar birikti.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nÇocuk yaramaz bir haldeydi. Based on the previous passage, choose the most reasonable effect.\nA:Kız kardeşi ile bir kart oyunu oynamaya karar verdi.\nB:Kız kardeşine bir şaka yapmaya karar verdi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nÇocuk tuvalete gitmek zorunda olduğundan şikayet etti. Based on the previous passage, choose the most reasonable effect.\nA:Babası ona gazlı bir içecek verdi.\nB:Babası bir benzin istasyonunda durdu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nÇocuk tanka balık yemi serpti. Based on the previous passage, choose the most reasonable effect.\nA:Balık tanktan sıçradı.\nB:Balık yeme doğru yüzdü.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKadının politik görüşü değişti. Based on the previous passage, choose the most reasonable effect.\nA:Parti üyeliğini değiştirdi.\nB:Bir protesto gösterisine katıldı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBanyo lavabosu tıkanmış. Based on the previous passage, choose the most reasonable effect.\nA:Musluğu açtım.\nB:Lavabo temizleyicisini içine döktüm.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nYolcular trenden indi. Based on the previous passage, choose the most reasonable effect.\nA:Tren istasyona vardı.\nB:Tren düdüğünü çaldı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdam zarfın nemli kapağına bastırdı. Based on the previous passage, choose the most reasonable effect.\nA:Zarfın üzerine bir pul koydu.\nB:Zarfı kapattı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nArkadaşların teması kesildi. Based on the previous passage, choose the most reasonable effect.\nA:Birbirleriyle zaman geçirmekten hoşlanıyorlardı.\nB:Farklı şehirlere taşındılar.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMuhasebeci şirketin parasını yanlış yönetti. Based on the previous passage, choose the most reasonable effect.\nA:Görevinden kovuldu.\nB:Doğum iznine çıktı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaate baktım. Based on the previous passage, choose the most reasonable effect.\nA:Saatin sesini duydum.\nB:Zamanı kontrol etmek istedim.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nElime kramp girdi. Based on the previous passage, choose the most reasonable effect.\nA:Elimle yazı yazdım.\nB:Karımla el ele tutuştuk.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCıvata sıkıldı. Based on the previous passage, choose the most reasonable effect.\nA:Cıvatayı değiştirdim.\nB:Anahtarı sıkıştırdım.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nÇift bir daire için kira imzaladı. Based on the previous passage, choose the most reasonable effect.\nA:Çift daireye taşındı.\nB:Şehir apartmana el koydu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKadın dışarıda verandaya oturdu. Based on the previous passage, choose the most reasonable effect.\nA:Gün batımını izlemek istedi.\nB:Yıldırım gördüğünü sandı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdam su içindeyken can yeleği giyiyordu. Based on the previous passage, choose the most reasonable effect.\nA:Yüzme bilmiyordu.\nB:Su sığdı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKadın kelime işlemci bir yazım hatası yaptı. Based on the previous passage, choose the most reasonable effect.\nA:Belgeyi sildi.\nB:Geri tuşuna bastı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKız arkadaşlarına övündü. Based on the previous passage, choose the most reasonable effect.\nA:Kötü bir not aldı.\nB:Yarışmayı kazandı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBahçe çamurluydu. Based on the previous passage, choose the most reasonable effect.\nA:Gece yağmur yağmıştı.\nB:Otlarla doluydu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKadın uyuyakaldı. Based on the previous passage, choose the most reasonable effect.\nA:Geceyi bir otelde geçirdi.\nB:Çalar saatini kurmayı unuttu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAdam güneş kremi sürdü. Based on the previous passage, choose the most reasonable effect.\nA:Gölgede oturdu.\nB:Sahile gitti.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAraştırmacılar teoriyi kanıtladı. Based on the previous passage, choose the most reasonable effect.\nA:Araştırmacılar teoriyi geri çekti.\nB:Bireyler teoriyi kabul etti.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMaçtaki taraftarlar yuhaladı. Based on the previous passage, choose the most reasonable effect.\nA:Oyun uzatmalara kaldı.\nB:Hakem yanlış karar verdi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nŞifremi kilide girdim. Based on the previous passage, choose the most reasonable effect.\nA:Kilitledim.\nB:Kilit açıldı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKalabalık yoğunlaştı. Based on the previous passage, choose the most reasonable effect.\nA:Baba oğluna biraz para verdi.\nB:Baba oğlunun elini tuttu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKar yolu kapatıyordu. Based on the previous passage, choose the most reasonable effect.\nA:Karları bir kartopuna topladım.\nB:Yoldan karı temizledim.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKanocular kürek çekti. Based on the previous passage, choose the most reasonable effect.\nA:Kayık kıyıya ulaştı.\nB:Kayık bir dalgaya çarptı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKız bisikletinin kontrolunu kaybetti. Based on the previous passage, choose the most reasonable effect.\nA:Gidonları serbest bıraktı.\nB:Bir çite çarptı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nFanı açtım. Based on the previous passage, choose the most reasonable effect.\nA:Tenime su sıçradı.\nB:Soğuk havanın üstüme geldiğini hissettim.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSörfçüler sahile döndü. Based on the previous passage, choose the most reasonable effect.\nA:Sırılsıklam olmuşlardı.\nB:Köpekbalığı gördüler.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKüvetteki tıpayı çektim. Based on the previous passage, choose the most reasonable effect.\nA:Su, küvetten boşaltıldı.\nB:Yere su sıçradı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdam karısını aldattığı için suçlu hissetti. Based on the previous passage, choose the most reasonable effect.\nA:Onu sadakatsizlikle suçladı.\nB:Sadakatsizliğini ona itiraf etti.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPosterdeki mürekkep bulaştı. Based on the previous passage, choose the most reasonable effect.\nA:Mürekkebin kurumasını bekledim.\nB:Postere su döktüm.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nÇocuk çığlık atarak uyandı. Based on the previous passage, choose the most reasonable effect.\nA:Kabus gördü.\nB:Yatağını ıslattı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nÇocuk ayaklarını masaya koydu. Based on the previous passage, choose the most reasonable effect.\nA:Babası masaya oturdu.\nB:Babası ona ders verdi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nArkadaşım kafasını bana doğru çevirdi. Based on the previous passage, choose the most reasonable effect.\nA:Adını bağırdım.\nB:El salladım.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nHükümet vatandaşlarına baskı yaptı. Based on the previous passage, choose the most reasonable effect.\nA:Vatandaşlar isyan etti.\nB:Vatandaşlar oy vermek için kayıt oldular.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nÇocuk ormanda kayboldu. Based on the previous passage, choose the most reasonable effect.\nA:Bir çadır kurdu.\nB:Yardım için çığlık attı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKadın yurt dışına seyahat etti. Based on the previous passage, choose the most reasonable effect.\nA:Nasıl çizim yapmayı öğrenmek istedi.\nB:Diğer kültürleri öğrenmek istiyordu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAdam iş arkadaşını kıskanıyordu. Based on the previous passage, choose the most reasonable effect.\nA:İş arkadaşı terfi aldı.\nB:İş arkadaşı geç saatlere kadar çalıştı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdam uzaylılara tanık oldu. Based on the previous passage, choose the most reasonable effect.\nA:Halüsinasyon görüyordu.\nB:Meditasyon yapıyordu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdamın saçı sarı oldu. Based on the previous passage, choose the most reasonable effect.\nA:Saçını boyadı.\nB:Şampuanladı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSanatçı yeni çalışmalar yaptı. Based on the previous passage, choose the most reasonable effect.\nA:Önceki çalışmasını eleştirdi.\nB:Kadına ilham geldi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nÇocuk evden uzağa taşındı. Based on the previous passage, choose the most reasonable effect.\nA:Askerden taburcu edildi.\nB:Üniversiteye gidiyordu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKitaplar kitaplıktan düştü. Based on the previous passage, choose the most reasonable effect.\nA:Raflar tozla kaplıydı.\nB:Bir deprem kitaplığı salladı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nEvimde elektrikler kesildi. Based on the previous passage, choose the most reasonable effect.\nA:Işığı açtım.\nB:Sigortayı yeniden açtım.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLunapark treni sürdük. Based on the previous passage, choose the most reasonable effect.\nA:Korkutucu görünüyordu.\nB:Eğlenceli görünüyordu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPatlamış mısır torbası patlamaya başladı. Based on the previous passage, choose the most reasonable effect.\nA:Torbaya tereyağı döktüm.\nB:Mikrodalgada ısıttım.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nElektrik hattının üzerine bir ağaç devrildi. Based on the previous passage, choose the most reasonable effect.\nA:Semtteki elektrik gitti.\nB:Hava tahmini ağır rüzgar tahminininde bulundu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKonuşmacı politik olarak yanlış yorumlar yaptı. Based on the previous passage, choose the most reasonable effect.\nA:O izleyicileri sıktı.\nB:O izleyicleri rencide etti.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nİğne ile kendimi yaraladım. Based on the previous passage, choose the most reasonable effect.\nA:Bir tane ter damladı yüzümden.\nB:Parmağımda bir kan damlası oluştu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBalık deponun yüzeyinde duruyordu. Based on the previous passage, choose the most reasonable cause.\nA:O açtı.\nB:O ölmüştü.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAdamın sesi boğuktu. Based on the previous passage, choose the most reasonable cause.\nA:Onun soğuk algınlığı vardı.\nB:O sigarayı bıraktı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAsansörün kapıları açıldı. Based on the previous passage, choose the most reasonable cause.\nA:Asansör belirlenen kata varmıştı.\nB:Asansör katlar arasında sıkışmıştı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nErgen evden kaçtı. Based on the previous passage, choose the most reasonable cause.\nA:O evebeynlerine yalan söyledi.\nB:Evebeynleri onu dışarı çıkmasını yasaklamıştı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBanyoyu su bastı. Based on the previous passage, choose the most reasonable cause.\nA:Tuvalet taştı.\nB:Su ısıtıcısı kırıldı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nYavru köpek sahibinin yanında kaldı. Based on the previous passage, choose the most reasonable cause.\nA:Sahibi köpeğe tasma taktı.\nB:Sahibi köpeği tasmasından tuttu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAdam kendi yansımasını yakaladı. Based on the previous passage, choose the most reasonable cause.\nA:Geniş bir ağacın altında durdu.\nB:Sakin gölün ününde durdu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKız arkadaşımın aramasını kaçırdım. Based on the previous passage, choose the most reasonable effect.\nA:Onu geri aradım.\nB:Onunlar akşam yemeğinde buluştuk.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAile semti aradı. Based on the previous passage, choose the most reasonable cause.\nA:Köpekleri evden kaçmıştı.\nB:Pahalı mücevherleri evden kaybolmuştu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNefes verirken nefesimi gördüm. Based on the previous passage, choose the most reasonable cause.\nA:Hava soğuktu.\nB:Göğsüm sıkışmış hissettim.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nİşçiler sendika kurdu. Based on the previous passage, choose the most reasonable cause.\nA:Onlar daha iyi çalışma koşulları istiyorlardı.\nB:İş verenleri onların maaşlarını yükseltti.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nELma pastası pişirdim. Based on the previous passage, choose the most reasonable effect.\nA:Mutfağı bir çürüme kokusu doldurdu.\nB:Taze bir arona mutfağı doldurdu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKadın yürümekte zorluk çekiyordu. Based on the previous passage, choose the most reasonable cause.\nA:O yüksek topuklu ayakkabı giymişti.\nB:O ayakkabılarını çıkarmıştı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSu kabından buhar yükseldi. Based on the previous passage, choose the most reasonable cause.\nA:Su kaynamıştı.\nB:Kabı kapamıştım.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBütün çoraplarım çamaşırhanede. Based on the previous passage, choose the most reasonable effect.\nA:Sandaletlerimi giydim.\nB:Botumu giydim.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPolitikacının argümanı absürt bulundu. Based on the previous passage, choose the most reasonable effect.\nA:O oy verenlerin desteğini kaybetti.\nB:O yolsuzlukla suçlandı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nHerkes çiftin nişanından kayboldu. Based on the previous passage, choose the most reasonable effect.\nA:Çift hamile kaldı.\nB:Çift gizlice kaçtı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBina milyonere adandı. Based on the previous passage, choose the most reasonable cause.\nA:Milyoner binayı yımak istedi.\nB:Milyoner binanın yapımı için katkı yaptı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSatış görevlisi kızı çalmakla suçladı. Based on the previous passage, choose the most reasonable cause.\nA:Satış görevlisi kızı el çantasına ürün koyarken gördü.\nB:Satış görevlisi  kıza istediği el çantasını bulmasında yardım etti.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nÜlke komşu ülkeye savaş ilan etti. Based on the previous passage, choose the most reasonable effect.\nA:Askerler savaşa gönderilidi.\nB:Askerler aileleriyle bir araya getirildi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMhkeme tartışmalı kararı onayladı. Based on the previous passage, choose the most reasonable effect.\nA:Mahmeke binası önünde isyan çıktı.\nB:Bir çift mahkeme binası önünde evlendi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKız yanık kokusu aldı. Based on the previous passage, choose the most reasonable cause.\nA:O kurabiyeleri kavanozdan çıkardı.\nB:O kurabiyeleri fırnda bıraktı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nYağmur yağıyordu. Based on the previous passage, choose the most reasonable effect.\nA:Fırtına daha kötü oldu.\nB:İçeri girmek için hızla koştum.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBina tahliye edildi. Based on the previous passage, choose the most reasonable cause.\nA:Asansör çalımayı durdurdu.\nB:Yangın alarmı çaldı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBaba oğlunun alkolikliğine sinirlendi. Based on the previous passage, choose the most reasonable effect.\nA:Baba oğluna bir bira aldı.\nB:Baba oğlunu evden kovdu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAvukat ofisine mervidenlerden çıktı. Based on the previous passage, choose the most reasonable cause.\nA:Sekreter eve gitmişti.\nB:Asansör çalışmıyordu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAdam arkadaşına sinirlendi. Based on the previous passage, choose the most reasonable cause.\nA:Arkadaşı onun sözüne kesti.\nB:Arkadaşı ona öğle yemeği aldı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKız parayı kasiyere verdi. Based on the previous passage, choose the most reasonable effect.\nA:Kasiyer kıza para üstünü verdi.\nB:Kasiyer kıza fiş vermeyi unuttu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKadın tekerlekli sandalyeye konuldu. Based on the previous passage, choose the most reasonable cause.\nA:O kazada felç kaldı.\nB:O hastaneye bir sedye içinde girdi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nŞehir sakinlei evlerinin dışına milli bayrak bayrak astı. Based on the previous passage, choose the most reasonable cause.\nA:Ülke bağımsızlığını anıyordu.\nB:Ülke economik zorluklarla yüzleşiyordu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTakım turnuvayı kaybetti. Based on the previous passage, choose the most reasonable effect.\nA:Onlar taraftarlarını hayal kırıklığına uğrattı.\nB:Onlar taraftarlarına ilham oldu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nArkadaşım dişimde yemek kaldığını belirtti. Based on the previous passage, choose the most reasonable effect.\nA:Utanç duydum.\nB:Gurur duydum.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nErkek çocuk tarih sınavından kaldı. Based on the previous passage, choose the most reasonable cause.\nA:O derse dikkati verdi.\nB:O çalışmayı unuttu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nŞehir merkezi binası yıkıldı. Based on the previous passage, choose the most reasonable cause.\nA:Şehri deprem vurdu.\nB:Suç oranları arttı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdamın kız arkadaşı ondan ayrıldı. Based on the previous passage, choose the most reasonable effect.\nA:O onu geri alması için yalvardı.\nB:Onu ailesine tanıttı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nİki çocuk aynı anda topu almak için aşağı uzandı. Based on the previous passage, choose the most reasonable effect.\nA:Top uzağa yuvarlandı.\nB:Başları birbirine çarptı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nRakun çöp kutusunu karıştırdı. Based on the previous passage, choose the most reasonable cause.\nA:Çöp kutusunda karton vardı.\nB:Çöp kutusunun kapağı açıktı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nErkek çocuk kalemi sivriltti. Based on the previous passage, choose the most reasonable cause.\nA:Kalem ucuzdu.\nB:Kalem körleşmişti.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKasiyer kıyafetin iadesini reddetti. Based on the previous passage, choose the most reasonable cause.\nA:O fişi kaybetmişti.\nB:Kıyafet uymamıştı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nDerimdeki çizgi derindi. Based on the previous passage, choose the most reasonable effect.\nA:Hızlıca iyileşti.\nB:O yara izi bıraktı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAdam trendeki yolcuların garip bakışlarıyla karşılaştı. Based on the previous passage, choose the most reasonable cause.\nA:O yere bakıyodu.\nB:O kendi kendine konuşuyordu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nÇocuk kırıntıları yerde bıraktı. Based on the previous passage, choose the most reasonable effect.\nA:Karıncalar kırıntılara gittiler.\nB:Çocuk ekmeği bir kenara koydu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKadın kardeşine bir peçete uzattı. Based on the previous passage, choose the most reasonable cause.\nA:Kadının kardeşi ellerini büktü.\nB:Kadının kız kardeşi ağlamaya başladı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAdam bir nane şekeri aldı. Based on the previous passage, choose the most reasonable cause.\nA:Onun dudakları çatladı.\nB:O kötü nefes kokusundan endişe etti.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nÇift şov için erken ayrıldı. Based on the previous passage, choose the most reasonable cause.\nA:Onlar tiyatro çevresinde trafik tahmin ettiler.\nB:Onlar tiyatroya giden yön tarifini edindiler.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKadın işten evde kaldı. Based on the previous passage, choose the most reasonable effect.\nA:Patronu onu övdü.\nB:Meslektaşı onun için örtbas edildi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAdam aktivistlerin dilekçesini imzaladı. Based on the previous passage, choose the most reasonable cause.\nA:Onların amacını destekliyordu.\nB:Onları deli olmakla eleştirdi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdamın kalbi performansından önce güm güm atıyordu. Based on the previous passage, choose the most reasonable cause.\nA:Onun sahne korkusu vardı.\nB:Kendi repliğini hatırladı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKaybolmuştum. Based on the previous passage, choose the most reasonable effect.\nA:Paramı saydım.\nB:Haritayı açtım.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nOlgunlaşmış meyve güneşin altında kaldo. Based on the previous passage, choose the most reasonable effect.\nA:Yendi.\nB:İçi geçti.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAraba bozuldu. Based on the previous passage, choose the most reasonable cause.\nA:Kontağı açtım.\nB:Motor fazla ısındı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAdam sırtını incitti. Based on the previous passage, choose the most reasonable effect.\nA:O psikiyatristi görmeye gitti.\nB:O birkaç gün yatakta kaldı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nŞömenide ateş yaktım. Based on the previous passage, choose the most reasonable cause.\nA:Yakacak odununum yoktu.\nB:Evin içi soğuktu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKadın koşuyu durdurdu. Based on the previous passage, choose the most reasonable cause.\nA:Yan tarafına kramp girdi.\nB:Kadın soluklanıp enerjisini tekrar topladı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKomuşumun kapısını tıklattım. Based on the previous passage, choose the most reasonable effect.\nA:Komşum beni içeri davet etti.\nB:Komşum evini terk etmişti.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKadın hayal kırıklığıyla iç çekti. Based on the previous passage, choose the most reasonable cause.\nA:Kocası onun endişelerini yanlış anladı.\nB:Kocası ona veda etti.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nÖğretmen öğrenciyi övdü. Based on the previous passage, choose the most reasonable cause.\nA:Öğrenci soruyu doğru cevapladı.\nB:Öğrenci soruyu çevaplamakta tereddüt etti.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKadının yumurtası kalmadı. Based on the previous passage, choose the most reasonable effect.\nA:Kadın çiftliğe gitti.\nB:Kadın süpermarkete gitti.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nEski bir arkadaşla karşılaştım. Based on the previous passage, choose the most reasonable effect.\nA:Ona bir sır verdim.\nB:Ona sarıldım.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKadın göle girmekten kaçındı. Based on the previous passage, choose the most reasonable cause.\nA:Kadın bir balık yakaladı.\nB:O kirlenmiş görünüyordu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nÖğrenci sınıfa sırılsıklam vardı. Based on the previous passage, choose the most reasonable cause.\nA:Şemsiyesi kırıldı.\nB:Bisikleti çalındı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBilgisayar ekranındaki imleç hareket etti. Based on the previous passage, choose the most reasonable cause.\nA:Kullanıcı fareye tıkladı.\nB:Kullanıcı fareyi kaydırdı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSürücü dolambaçlı yoldan gitti. Based on the previous passage, choose the most reasonable cause.\nA:Ana yolda bir kaza olmuştu.\nB:O önündeki kamyonu takip etti.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIslak çarşafı dışarıdaki çamaşır ipine astım. Based on the previous passage, choose the most reasonable effect.\nA:Çamaşır kurudu.\nB:Çamaşır lekelendi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKadın gölgeliğini açtı. Based on the previous passage, choose the most reasonable cause.\nA:Güneş parlaktı.\nB:O taksi çağırdı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdam gece gökyüzüne baktı. Based on the previous passage, choose the most reasonable cause.\nA:Yaz olmasını diledi.\nB:Güzel olduğunu düşündü.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nYorgunluktan tükenmiş hissettim. Based on the previous passage, choose the most reasonable effect.\nA:Yatağa erken gittim.\nB:Bütün gece ayakta kaldım.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdam berbere gitti. Based on the previous passage, choose the most reasonable cause.\nA:O saçlarını uzatıyordu.\nB:Saçları uzamıştı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nÇocuk yeni sınıf arkadışına kötü numaralar yaptı. Based on the previous passage, choose the most reasonable cause.\nA:Çocuk yeni sınıf arkadışını hoş karşıladı.\nB:Çocuk yeni sınıf arkadışını sevmedi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCanım bir bardak süt çekti. Based on the previous passage, choose the most reasonable cause.\nA:Kurabiye yiyordum.\nB:Ekmek yapıyordum.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nYağmur yağmaya başladı. Based on the previous passage, choose the most reasonable effect.\nA:Sürücü farları açtı.\nB:Sürücü arabayı geriye vitese aldı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBinanın park yeri boştu. Based on the previous passage, choose the most reasonable effect.\nA:Sokağın karşısına park ettim.\nB:Girişin yanına park ettim.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nYazar taslak teslimi için olan son tarihi kaçırdı. Based on the previous passage, choose the most reasonable cause.\nA:Yazar yazamadı.\nB:O taslağı düzenledi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nİş arkadaşım bana kafayı taktı. Based on the previous passage, choose the most reasonable cause.\nA:Yöneticiyle konuşmak istedim.\nB:Kimlik numaramı verdim.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nRüzgar açık pencereden içeri esti. Based on the previous passage, choose the most reasonable effect.\nA:Kapı zili çaldı.\nB:Perdeler titredi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nEvimdeki elektirik gitti. Based on the previous passage, choose the most reasonable cause.\nA:Lambayı fişten çıkardım.\nB:Sigortayı attırdım.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nHalter homurdandı. Based on the previous passage, choose the most reasonable cause.\nA:Ayna karşısında kaslarını esnetti.\nB:Barı kafasının üzerine kaldırdı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nÖğrenci  hesabı kafasından yapmayı denedi. Based on the previous passage, choose the most reasonable effect.\nA:Hesap makinesini çıkardı.\nB:Onun kafası karıştı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBebek uykuya daldı. Based on the previous passage, choose the most reasonable cause.\nA:Bbası bebeğin bezini değiştirdi.\nB:Babası bebeği yavaşça salladı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKız oğlana su balonu attı. Based on the previous passage, choose the most reasonable effect.\nA:Oğlan sarsıldı.\nB:Oğlan ıslandı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nFotoğrafçı kameradaki flaşı kullanmayı unuttu. Based on the previous passage, choose the most reasonable effect.\nA:Fotoğraflar bulanık çıktı.\nB:Fotoğraftaki herkes gülmeyi reddetti.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nDoğum günü partisin davetini geri çevirdim. Based on the previous passage, choose the most reasonable cause.\nA:Yalnızdım.\nB:Şehir dışındaydım.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nEgzersiz yaptım. Based on the previous passage, choose the most reasonable cause.\nA:Enerjik hissettim.\nB:Korktum.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIslak süngeri sıktım. Based on the previous passage, choose the most reasonable effect.\nA:Suyu içine çekti.\nB:İçinden su sızdı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTatilciler tatil yeri için vapur kullandılar. Based on the previous passage, choose the most reasonable cause.\nA:Tatil yeri rezerve edilmişti.\nB:Tatil yeri adadaydı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nErgen dövme yaptırdı. Based on the previous passage, choose the most reasonable cause.\nA:O iğnelerden korktu.\nB:Asilik yapmak istedi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAlışılmadık bir araba evimin dışına park etti. Based on the previous passage, choose the most reasonable effect.\nA:Şüphelendim.\nB:Polisi aradım.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSuçlu teslim oldu. Based on the previous passage, choose the most reasonable cause.\nA:Deliller onu işaret ediyordu.\nB:Onun aleyhine delil yoktu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nİri ve ağır adam kilo vermeye karar verdi. Based on the previous passage, choose the most reasonable effect.\nA:Tatlıyı kesti.\nB:Kafeğinden kaçındı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKız buza bastı. Based on the previous passage, choose the most reasonable effect.\nA:O kaydı.\nB:O titredi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKadının gözlerinin altında halkaları var. Based on the previous passage, choose the most reasonable cause.\nA:O bütün gece ayakta kaldı.\nB:O oğlunu yatağa koydu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLav volkandan aktı. Based on the previous passage, choose the most reasonable cause.\nA:Volkan patladı.\nB:Volkan aktif değildi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKadın ayakkabılarını giydi. Based on the previous passage, choose the most reasonable cause.\nA:O partideki herkesi biliyordu..\nB:O partiden erken ayrıldı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nGişe görevlisine ödedim. Based on the previous passage, choose the most reasonable effect.\nA:Gişeden geçmeme izin verdi.\nB:O beni gişede tuttu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nYönetici iflas etti. Based on the previous passage, choose the most reasonable cause.\nA:O şirket hissesini sattı.\nB:O şansını harcadı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAdam doktora gitti. Based on the previous passage, choose the most reasonable cause.\nA:Doktor izindeydi.\nB:Adam hasta hissetti.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nYatak odamı pencereden terk ettim. Based on the previous passage, choose the most reasonable cause.\nA:Ev yanıyordu.\nB:Ev boştu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nÇocuğun parmakları buruşuk oldu. Based on the previous passage, choose the most reasonable cause.\nA:O uzun bir duş aldı.\nB:Ellerini sabunla köpürttü.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSütü tükürdüm. Based on the previous passage, choose the most reasonable cause.\nA:Süt tadı ekşiydi.\nB:Ağzım kuruydu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nOtobüsü kaçırdım. Based on the previous passage, choose the most reasonable effect.\nA:İşe erken geldim.\nB:İşe geç kaldım.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKamyon arabayla çarpıştı. Based on the previous passage, choose the most reasonable effect.\nA:Kamyon hızlandı.\nB:Araba paramparça oldu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTakım yarışmayı kendi lehine  düzenledi. Based on the previous passage, choose the most reasonable effect.\nA:Onlar kazandı.\nB:Onlar bıraktılar.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSoda şişesi tısladı. Based on the previous passage, choose the most reasonable cause.\nA:Şişeyi devirdim.\nB:Kapağı çevirip açtım.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nOğlan evde kitli kaldı. Based on the previous passage, choose the most reasonable effect.\nA:O açık pencereden sürünerek ilerledi.\nB:O çatıya çıktı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKapı zili çaldı. Based on the previous passage, choose the most reasonable effect.\nA:Ziyaretçi kapıdaki tokmağa dokundu.\nB:Kadın kapı deliğinden baktı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAdam takım elbisesini leke yaptı. Based on the previous passage, choose the most reasonable effect.\nA:Ona kuruma temizleme yaptırdı.\nB:Dolabına astı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKız diş macunu tüpünü sıktı. Based on the previous passage, choose the most reasonable effect.\nA:Diş macunu tüpten fışkırdı.\nB:Kız diş macununu tükürdü.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSavaştaki sivil ölümler hızlıca çok arttı. Based on the previous passage, choose the most reasonable effect.\nA:Savaş karşıtları  protesto  düzenlediler.\nB:Savaş karşıtları geçit düzenlediler.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKız kurdeleyi saçından çekti. Based on the previous passage, choose the most reasonable cause.\nA:O kurdeleyi bağladı.\nB:Kurdele çocuksu görünüyordu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAdam estetik ameliyatı oldu. Based on the previous passage, choose the most reasonable effect.\nA:O yaşlandı.\nB:O genç görünüyor.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBir civciv yumurtadan çıktı. Based on the previous passage, choose the most reasonable cause.\nA:Yumurta çatladı.\nB:Yumurtayı çatlattım.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMahkum çok açlık çekti. Based on the previous passage, choose the most reasonable effect.\nA:O öldü.\nB:O kaçtı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdam merdivende dengesini kaybetti. Based on the previous passage, choose the most reasonable effect.\nA:O merdivene tırmandı.\nB:O medivenden düştü.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nÇocuk geğirdi. Based on the previous passage, choose the most reasonable cause.\nA:O sodadan bir yudum aldı.\nB:O soda kapağını açtı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPenceren soğuk bir hava geldi. Based on the previous passage, choose the most reasonable effect.\nA:Rahatladım.\nB:Titredim.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nÖğrenci üniversiteye gitmek için burs aldı. Based on the previous passage, choose the most reasonable cause.\nA:Sınıf arkadaşları ona saygı duydu.\nB:İyi notlar aldı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKız oğlanla alay etti. Based on the previous passage, choose the most reasonable cause.\nA:O onun yanındaki evde yaşıyordu.\nB:Ona aşık oldu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAç berduş yemek çaldı. Based on the previous passage, choose the most reasonable cause.\nA:Merhamete ilham verdi.\nB:Parası yoktu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nArkadaşımı sohbet etmeye çağırdım. Based on the previous passage, choose the most reasonable cause.\nA:Mahremiyet istedim.\nB:Yalnız hissettim.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAdam elini bana uzattı. Based on the previous passage, choose the most reasonable effect.\nA:Elini sıktım.\nB:Onu tokatladım.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBaşımı hızlıca eğdim. Based on the previous passage, choose the most reasonable cause.\nA:Havai fişekler yukarı çıkmaya başladı.\nB:Frizbi kafama doğru yükseldi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKız tırnaklarını yedi. Based on the previous passage, choose the most reasonable cause.\nA:O endişelendi.\nB:O şaşırdı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTakvimdeki sayfayı çevirdim. Based on the previous passage, choose the most reasonable cause.\nA:Takvime bir randevu işaretledim.\nB:Yeni ayın başlangıcıydı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKoca eşinin başkasıyla birlikte olduğunu keşfetti. Based on the previous passage, choose the most reasonable effect.\nA:O avukatını kovdu.\nB:O boşanma davası açtı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKız plastik topu düşürdü. Based on the previous passage, choose the most reasonable effect.\nA:Top sekti.\nB:Top parladı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKız sınavda bir hata yaptı. Based on the previous passage, choose the most reasonable effect.\nA:O cevabı tahmin etti.\nB:O cevabını sildi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nOyuncu rakibi ile mücadele etti. Based on the previous passage, choose the most reasonable effect.\nA:Rakibi pası yakaladı.\nB:Rakibi yere düştü.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nDomatesleri asmadan aldım. Based on the previous passage, choose the most reasonable cause.\nA:Onlar olgunlaşmıştı.\nB:Onları yıkadım.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdam romantik davranmak istedi. Based on the previous passage, choose the most reasonable effect.\nA:O eski kız arkadaşıyla öğle yemeği için buluştu.\nB:O kız arkadaşına çikolatalar aldı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTermometredeki civa yükseldi. Based on the previous passage, choose the most reasonable cause.\nA:Termometreyi düşürdüm.\nB:Hava ısındı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBir kasırga kasabadan geçti. Based on the previous passage, choose the most reasonable effect.\nA:Adliyenin çatısı uçtu.\nB:Otoyol tehlikeli derecede buzlu oldu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nÖğrenci özel ders aldı. Based on the previous passage, choose the most reasonable effect.\nA:Notları iyileşti.\nB:O sınavda kopya çekti.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nRahat hissediyorum. Based on the previous passage, choose the most reasonable cause.\nA:Yere diz çöktüm.\nB:Kendimi battaniye ile sardım.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTaşı cilaladım. Based on the previous passage, choose the most reasonable effect.\nA:Kaygan oldu.\nB:Parlak oldu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKahveye şeker ekledim. Based on the previous passage, choose the most reasonable effect.\nA:Kahve güçlü kokuyordu.\nB:Kahve tatlı oldu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAdam kağıtları karıştırdı. Based on the previous passage, choose the most reasonable effect.\nA:Ona kağıt kesiği oldu.\nB:O kağıtları parçaladı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nÇiviyi çekiçle çaktım. Based on the previous passage, choose the most reasonable effect.\nA:Çivi oduna girdi.\nB:Çivi paslandı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBalık oltayı ısırdı. Based on the previous passage, choose the most reasonable effect.\nA:Balıkçı balığı çekti.\nB:Balıkçı oltayı yeniden attı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nErgen okula getmeye utanmıştı. Based on the previous passage, choose the most reasonable cause.\nA:Onun sivilcesi vardı.\nB:O diş tellerini çıkardı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nYüz ifadem aydınlandı. Based on the previous passage, choose the most reasonable cause.\nA:İyi haberler aldım.\nB:Sabrımı kaybettim.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nEllerimi havlu ile sildim. Based on the previous passage, choose the most reasonable cause.\nA:Havlu ıslaktı.\nB:Ellerim ıslaktı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAdam oturak üzerindeki dengesini kaybetti. Based on the previous passage, choose the most reasonable cause.\nA:Oturak altında sallandı.\nB:Tabureye boya döktü.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTakımarkadaşları  suçlamaya birbirlerine yönelttiler. Based on the previous passage, choose the most reasonable cause.\nA:Oyunu kaybettiler.\nB:Koçları çalışmayı iptal etti.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAffetmesini istedim. Based on the previous passage, choose the most reasonable cause.\nA:Hatamdam pişman oldum.\nB:Amacıma ulaştım.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKadın flört ettiği kişiden sıkıldı. Based on the previous passage, choose the most reasonable cause.\nA:Onun hakkında sorular sordu.\nB:O aralıksız kendi hakkında konuştu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKız gülümsedi. Based on the previous passage, choose the most reasonable effect.\nA:Yanakları kızardı.\nB:Gamzeleri göründü.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nDüşman gemisi havaya uçtu. Based on the previous passage, choose the most reasonable cause.\nA:Madenin üzerinden geçti.\nB:O limana yelken açtı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdam ayağını deldi. Based on the previous passage, choose the most reasonable cause.\nA:Su birikintisine girdi.\nB:O kırıklmış cama bastı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nDetektifler parmak izi için suç mahallinin tozunu aldılar. Based on the previous passage, choose the most reasonable effect.\nA:Suçlunun kimliğini keşfettiler.\nB:Onlar suç mahallinde silah buldular.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nOtoyolda çok trafik vardı. Based on the previous passage, choose the most reasonable effect.\nA:Farklı bir yola saptım.\nB:Arabayla gezmek  istedim.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nÜlkenin ekonomisi inişe geçti. Based on the previous passage, choose the most reasonable effect.\nA:Birçok insan hastalandı.\nB:Birçok insan işsizlikle yüzleşti.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nGeçiş görevlisi çocuklara düdüğünü çaldı. Based on the previous passage, choose the most reasonable cause.\nA:Onlar yaklaşmakta olan trafiğe girmek üzereydiler.\nB:Onları kendi semtinden tanıdı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGözlerimi arkadışıma devirdim. Based on the previous passage, choose the most reasonable cause.\nA:Bana doğruyu söyledi.\nB:Alaycı bir açıklama yaptı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nArabada benzin bitti. Based on the previous passage, choose the most reasonable effect.\nA:Sürücü yolda mahsur kaldı.\nB:Sürücü bir otostopçu aldı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKadın doğum yaptı. Based on the previous passage, choose the most reasonable effect.\nA:Bebek doğdu.\nB:Kadının sabah bulantısı vardı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdamın şapkası uçtu. Based on the previous passage, choose the most reasonable cause.\nA:O şapkasını çıkardı.\nB:Dışarısı rüzgarlıydı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKız sınıf arkadaşının doğum günü partisine katıldı. Based on the previous passage, choose the most reasonable cause.\nA:O bir davetiye aldı.\nB:O bir hediye aldı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nOğlanın alnı sıcaktı. Based on the previous passage, choose the most reasonable effect.\nA:Annesi ateşine baktı.\nB:Annesi onu parka götürdü.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdam kendisine parfüm sıktı. Based on the previous passage, choose the most reasonable cause.\nA:Flörtünü etkilemek istedi.\nB:O saçına jole sürdü.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nEvdeki elektirikler kesildi. Based on the previous passage, choose the most reasonable effect.\nA:Bir el feneri aradım.\nB:Bir kürek aldım.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAile daha büyük bir eve taşındı. Based on the previous passage, choose the most reasonable cause.\nA:Oğlan liseden mezun oldu.\nB:Ane ikiz doğurdu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMaratoncu yavaş temposunu korudu. Based on the previous passage, choose the most reasonable cause.\nA:O enerjisini korumak istiyordu.\nB:O bitiş çizgisini gördü.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nÇocuk otomatı tekmeledi. Based on the previous passage, choose the most reasonable cause.\nA:Makine para üstünü fırlattı.\nB:Cips kutusu sıkıştı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nArkadaşımın köpeği öldü. Based on the previous passage, choose the most reasonable effect.\nA:Gözlerimi ona devirdim.\nB:Ona sarıldım.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nİş adamının kredi kartı kabul edilmedi. Based on the previous passage, choose the most reasonable effect.\nA:O bir borç senedi yazdı.\nB:O nakit ile ödedi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAdam lanet etti. Based on the previous passage, choose the most reasonable cause.\nA:O tırnaklarını kesti.\nB:O ayak parmağını vurdu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAdam kardeşiyle gurur duydu. Based on the previous passage, choose the most reasonable cause.\nA:Kardeşi evebeynleri ile tartışmaya girdi.\nB:Kardeşi hukuk fakültesine kabul edildi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKız güneş sistemi hakkında öğrenmek istedi. Based on the previous passage, choose the most reasonable effect.\nA:Kütüphaneye gitti.\nB:Yıldızlara baktı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPoster duvara yapıştı. Based on the previous passage, choose the most reasonable cause.\nA:Posteri kapının üstüne yerleştirdim.\nB:Posterin arkasına bant koydum.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMüşteri mimarın bina için planını onayladı. Based on the previous passage, choose the most reasonable effect.\nA:Mimar binayı inşa etti.\nB:Mimar planı düzenledi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdam kaşığını düşürdü. Based on the previous passage, choose the most reasonable cause.\nA:Elleri titriyordu.\nB:Kaşığı yaladı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nŞirketin ceosu istifa etti. Based on the previous passage, choose the most reasonable effect.\nA:Yönetim kurulu şirketi feshetti.\nB:Yönetim kurulu onun yerine birini buldu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nDerse geç vardım. Based on the previous passage, choose the most reasonable effect.\nA:Arka sıraya oturdum.\nB:Podyuma yaklaştım.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdam hapisten salındı. Based on the previous passage, choose the most reasonable cause.\nA:Ailesi kefaletini ödedi.\nB:O mahkuma saldırdı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAile bütün sahip olduklarını kaybetti. Based on the previous passage, choose the most reasonable cause.\nA:Onlar evlerini sattılar.\nB:Onların evi ateş aldı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAleminyum kutuyu ayağımla ezdim. Based on the previous passage, choose the most reasonable effect.\nA:Kutu geri dönüştürüldü.\nB:Kutu ezildi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKız münazara takımına katıldı. Based on the previous passage, choose the most reasonable effect.\nA:O bilgisayar kullnmayı öğrendi.\nB:O iletişim becerileri öğrendi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nRuh halim iyileşti. Based on the previous passage, choose the most reasonable cause.\nA:Müzik dinledim.\nB:Yemekleri yaptım.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nHayır kuruluşu para toplamayı amaçladı. Based on the previous passage, choose the most reasonable effect.\nA:Onlar evsizleri beslediler.\nB:Onlar bir açık artırma düzenlediler.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLunaparktaki hız treni dik bir şekilde aşşağı hızla indi. Based on the previous passage, choose the most reasonable effect.\nA:Yolcular kıkırdadılar.\nB:Yolcular çığlık attılar.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nÖfkeliydim. Based on the previous passage, choose the most reasonable effect.\nA:Evden ayrılırken posta kutusunu kontrol ettim.\nB:Evi terk ederken kapıyı çarptım.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAdam güneşin doğuşunu seyretmek istedi. Based on the previous passage, choose the most reasonable effect.\nA:O kuzeye yolculuk etti.\nB:O erken kalktı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKağıdı katladım. Based on the previous passage, choose the most reasonable effect.\nA:Kağıdı geri dönüştürdüm.\nB:Kağıt buruştu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nUlus doğal felakete katlandı. Based on the previous passage, choose the most reasonable effect.\nA:Diğer ülkelerin liderleri bir birlik kurdu.\nB:Diğer ülkelerin liderleri acil durum yardım gönderdi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nOğlanın kıyafetleri ıslandı. Based on the previous passage, choose the most reasonable cause.\nA:O havuzdan çıktı.\nB:O havuza düştü.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nÖğrenci kitabı bitirmek için acele etti. Based on the previous passage, choose the most reasonable cause.\nA:Onun kütüphaneye iade edilmesi gerekiyordu.\nB:Onu bir arkadaşından ödünç aldı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSuçlu idam edildi. Based on the previous passage, choose the most reasonable cause.\nA:O hapse atıldı.\nB:Cinayetten hüküm giydi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nGüneş ışığı odaya girdi. Based on the previous passage, choose the most reasonable cause.\nA:Perdeleri açtım.\nB:Kapının kilidini açtım.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSahtekarın saçını çektim. Based on the previous passage, choose the most reasonable effect.\nA:Peruğu çıktı.\nB:O kel oldu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nEditör metindeki bir cümleyi yeniden düzenledi. Based on the previous passage, choose the most reasonable cause.\nA:Makaleyi etkili buldu.\nB:O cümleyi karışık buldu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKadın kredi kartı hesabını iptal etti. Based on the previous passage, choose the most reasonable cause.\nA:O kartının kaybolduğunu fark etti.\nB:O kartının süresinin dolmuş olduğunu fark etti.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdam ve kadın aşık oldu. Based on the previous passage, choose the most reasonable effect.\nA:Üniversiteye gittiler.\nB:Evlendiler.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMüziğin sesi duymak için çok zayıftı. Based on the previous passage, choose the most reasonable effect.\nA:Sesi açtım.\nB:Kendi şarkımı besteledim.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nOğlanın saçı yukarı kalktı. Based on the previous passage, choose the most reasonable cause.\nA:Kız onu kabarttı.\nB:Kız onu çekti.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBöcek ezildi. Based on the previous passage, choose the most reasonable cause.\nA:Kendime böceksavar spyreyledim.\nB:Böceğin üzerinde bastım.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nGözlerimi açtım. Based on the previous passage, choose the most reasonable cause.\nA:Uyandım.\nB:Rahatladım.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKomşumun müziği yüksek sesliydi. Based on the previous passage, choose the most reasonable effect.\nA:Ondan kısmasını istedim.\nB:Ona CD ödünç almak için sordum.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdamın ailesi yoksulluk içinde yaşıyordu. Based on the previous passage, choose the most reasonable cause.\nA:Küpelerine değer veriyordu.\nB:Asgari maaşın altında kazanıyordu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nÖğrenci, üniversiteden mezun oldu. Based on the previous passage, choose the most reasonable effect.\nA:İş aradı.\nB:Bir hobi edindi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSanatçı, sarı boyayı mavi boya ile karıştırdı. Based on the previous passage, choose the most reasonable effect.\nA:Boya her yere bulaştı.\nB:Boya yeşile dönüştü.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSohbetin konusunu değiştirdim. Based on the previous passage, choose the most reasonable cause.\nA:Konuşacak bir şeyim kalmadı.\nB:Sohbet gergin bir hale geldi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKardeşim taburcu edildi. Based on the previous passage, choose the most reasonable effect.\nA:Onu evde karşıladım.\nB:Ona soğuk davrandım.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSahne perdesi kalktı. Based on the previous passage, choose the most reasonable effect.\nA:Açılış sahnesi başladı.\nB:Oyuncular sahneyi terk etti.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nRehine, onu kaçıran kişinin eline düştü. Based on the previous passage, choose the most reasonable cause.\nA:Onu kaçıran kişi rehineyi canını yakmakla tehdit etti.\nB:Onu kaçıran kişi rehineyi kendi haline bıraktı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSahnede bir gümbürtü yankılandı. Based on the previous passage, choose the most reasonable cause.\nA:Müziyen ayağını yere vurdu.\nB:Müzisyen davula vurdu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nEbeveynleri çocuklarının odasına koştu. Based on the previous passage, choose the most reasonable cause.\nA:Çocuk çığlık içinde kabusundan uyandı.\nB:Çocuk yatağının altına bakmaktan korkuyordu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKadın işaret diliyle iletişim kuruyordu. Based on the previous passage, choose the most reasonable cause.\nA:Kadın erken doğum sonucu dünyaya gelmişti.\nB:Kadın doğuştan sağırdı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBölgede bir kuraklık meydana geldi. Based on the previous passage, choose the most reasonable effect.\nA:Su zehirlendi.\nB:Ekinler mahvoldu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKedi, kuşu kovaladı. Based on the previous passage, choose the most reasonable effect.\nA:Kuş uçup gitti.\nB:Kuş bir solucan yakaladı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKız okul değiştirdi. Based on the previous passage, choose the most reasonable cause.\nA:Okul yaz tatiline girdi.\nB:Kız başka bir şehire taşındı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nFabrika sahibi çalışanlarına zam yapmayı reddetti. Based on the previous passage, choose the most reasonable effect.\nA:Patron yeni bir idareci atadı.\nB:Çalışanlar greve gitti.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLider ülkesindeki radikalleri kendine düşman edindi. Based on the previous passage, choose the most reasonable effect.\nA:Radikaller onu etkisi altına aldı.\nB:Radikaller ona suikast düzenledi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSahilde yalın ayak yürüdüm. Based on the previous passage, choose the most reasonable effect.\nA:Ayağıma kum yapıştı.\nB:Dalgalar sahil boyunca kıyıya vurdu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGecenin bir yarısı üşüyerek uyandım. Based on the previous passage, choose the most reasonable effect.\nA:Eşofman altı giydim.\nB:Bir bardak su içtim.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAnne çocuğunu susturdu. Based on the previous passage, choose the most reasonable cause.\nA:Çocuk sırıttı.\nB:Çocuk mızmızlandı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPantalonumda bir delik açıldı. Based on the previous passage, choose the most reasonable cause.\nA:Pantalonumun fermuarını çektim.\nB:Kaldırımda ayağım taşa takıldı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nÇocuk diş teli takıyordu. Based on the previous passage, choose the most reasonable effect.\nA:Dişinde bir oyuk oluştu.\nB:Dişleri düzleşti.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nDün spor salonunda çalıştım. Based on the previous passage, choose the most reasonable effect.\nA:Bugün kas ağrılarıyla uyandım.\nB:Bugün boğazım acıyarak uyandım.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKızlar yemek masasında birbirilerine fısıldadı. Based on the previous passage, choose the most reasonable effect.\nA:Diğer öğrenciler yemek masasına oturdu.\nB:Yemek masasındaki diğer öğrenciler masadan kalktı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nÇocuk tramboline indi. Based on the previous passage, choose the most reasonable effect.\nA:Tekrar havaya uçtu.\nB:Havada takla atmayı denemeye karar verdi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMektubu posta kutusuna bıraktım. Based on the previous passage, choose the most reasonable effect.\nA:Postacı mektubu teslim etti.\nB:Posta ofisi mektubun işlenmesini hızlandırdı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKumarbaz kendinden emindi. Based on the previous passage, choose the most reasonable effect.\nA:Tüm parasıyla bahse girdi.\nB:Eve meteliksiz döndü.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nOrman yangını yayıldı. Based on the previous passage, choose the most reasonable cause.\nA:Rüzgar güçlendi.\nB:Kundakçı yakalandı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nÇocuk dizini yaraladı. Based on the previous passage, choose the most reasonable effect.\nA:Annesi onu odasına gönderdi.\nB:Annesi yarasını sardı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAdam ölümcül hastalığı atlattı. Based on the previous passage, choose the most reasonable cause.\nA:Vasiyetini imzaladı.\nB:Adama organ nakli yapıldı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKaynar kahveden bir yudum aldım. Based on the previous passage, choose the most reasonable effect.\nA:Dilimi ısırdım.\nB:Dilimi yaktım.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nEditör yazarı kovdu. Based on the previous passage, choose the most reasonable cause.\nA:Yazar hikayelerinde taraflı olmaktan kaçındı.\nB:Yazar önemli son teslim tarihlerini kaçırdı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nYorgun hissettim. Based on the previous passage, choose the most reasonable cause.\nA:Tüm gün uyudum.\nB:Tüm gün çalıştım.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nDoktor hastaya tanı koydu. Based on the previous passage, choose the most reasonable cause.\nA:Hastanın hastalık belirtilerini tanımladı.\nB:Hastaya hap reçeteleri verdi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nDerimi kaşıdım. Based on the previous passage, choose the most reasonable cause.\nA:Terliydi.\nB:Kaşıntı hissettim.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAdam acil bir ameliyat geçirdi. Based on the previous passage, choose the most reasonable cause.\nA:Sinirleri bozuldu.\nB:Kalp krizi geçirdi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAdamın kol kasları şişti. Based on the previous passage, choose the most reasonable cause.\nA:Kollarını kastı.\nB:Kollarını ovaladı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdam kaşlarını kaldırdı. Based on the previous passage, choose the most reasonable cause.\nA:Adam şaşırdı.\nB:Adamın cesareti kırılmıştı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nİş arkadaşımın yaptığı gafı görmezden geldim. Based on the previous passage, choose the most reasonable cause.\nA:İyi niyetli olduğunu düşünüyordum.\nB:Daha düşünceli olması gerektiğini düşünüyordum.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdam sigara içmeyi bıraktı. Based on the previous passage, choose the most reasonable effect.\nA:Daha çok egzersiz yapmaya başladı.\nB:Daha erken uyanmaya başladı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKadın saldırganın burnuna yumruk attı. Based on the previous passage, choose the most reasonable effect.\nA:Saldırgan hareketsiz kaldı.\nB:Saldırgan kanamaya başladı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nDart tam isabet edemedi. Based on the previous passage, choose the most reasonable cause.\nA:Adam düzgün nişan alamadı.\nB:Adam oyunu kaybediyordu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nEv sahibi evinin böceklere karşı ilaçlanmasını istedi. Based on the previous passage, choose the most reasonable cause.\nA:Bodrumda fareler gördü.\nB:Odasında karınca çiftliği tutuyordu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMisafirime dışarda yemek yemeyi teklif ettim. Based on the previous passage, choose the most reasonable cause.\nA:Bir şey hazırlamak için çok yorgundum.\nB:Misafirim evde beklediğimden fazla kaldı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKız, erkek kardeşini günlüğünü okurken yakaladı. Based on the previous passage, choose the most reasonable effect.\nA:Günlüğünü saklamaya başladı.\nB:Yeni bir günlük aldı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKadın kirayı denk getiremedi. Based on the previous passage, choose the most reasonable effect.\nA:Fazladan mesai yapmaya başladı.\nB:İstifa etti.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nÇocuk elini aniden geri çekti. Based on the previous passage, choose the most reasonable cause.\nA:Sıcak ocağa dokundu.\nB:Köpeğin başını okşadı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nŞirket müşteri memnuniyetini ölçmek istedi. Based on the previous passage, choose the most reasonable effect.\nA:Yeni müşterilerine indirim teklif ettiler.\nB:Müşterilerine anket gönderdiler.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTahta zemin çizilmeye başladı. Based on the previous passage, choose the most reasonable cause.\nA:Genç, koltuktaki yastıkları kaldırdı.\nB:Genç, bir sandalyeyi zeminde sürükledi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSuratımı korudum. Based on the previous passage, choose the most reasonable cause.\nA:Rakibim benimle alay etti.\nB:Rakibim bir yumruk salladı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nÜnlü heykel yandı. Based on the previous passage, choose the most reasonable cause.\nA:Üzerine yıldırım düştü.\nB:İnsanlar ona saygı göstermek için geldiler.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMeyveyi masanın üstünde bıraktım. Based on the previous passage, choose the most reasonable effect.\nA:Meyve tohumlarını döktü.\nB:Meyvenin etrafını sinekler sardı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBalerinin bağ dokularından biri koptu. Based on the previous passage, choose the most reasonable cause.\nA:Ayak parmaklarını sivrileştirdi.\nB:Bileğini burktu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nÇocuğun ayakkabı bağcıkları çözüldü. Based on the previous passage, choose the most reasonable cause.\nA:Nasıl düğüm atılacağını öğrendi.\nB:Çocuk parkında koşuşturdu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKitaptan büyülendim. Based on the previous passage, choose the most reasonable effect.\nA:Kitabı iade ettim.\nB:Zaman nasıl geçti anlamadım.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAdam ailesiyle benzer inanışlara sahipti. Based on the previous passage, choose the most reasonable cause.\nA:Ailesi onu etkiledi.\nB:Aile onu evlatlıktan reddetti.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAraba yavaşça durdu. Based on the previous passage, choose the most reasonable cause.\nA:Benzini bitmişti.\nB:Şoför uyuya kaldı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdam güneş altında dondurmasını yedi. Based on the previous passage, choose the most reasonable effect.\nA:Dondurmanın tadı kayboldu.\nB:Dondurma külahtan eridi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nOdaya sanat eserleri astım. Based on the previous passage, choose the most reasonable cause.\nA:Halı pis duruyordu.\nB:Duvar çok boş duruyordu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nİşten erken çıktım. Based on the previous passage, choose the most reasonable cause.\nA:Başım ağrıyordu.\nB:Patron toplantı düzenledi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKöpek yavrusu halıya pisledi. Based on the previous passage, choose the most reasonable effect.\nA:Sahibi köpeğini azarladı.\nB:Sahibi köpeğine bir ödül verdi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nArkadaşıma özür diledim. Based on the previous passage, choose the most reasonable effect.\nA:Arkadaşım beni affetti.\nB:Arkadaşım öfkelendi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdam kabalıkta çok belli oluyordu. Based on the previous passage, choose the most reasonable cause.\nA:Sort çantası taşıyordu.\nB:Adam neon bir ceket giyiyordu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nGörgü tanığı yeminliyken yalan söyledi. Based on the previous passage, choose the most reasonable effect.\nA:İfadesini tamamladı.\nB:Yalancı şahitlikle suçlandı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKadın saçını boyadı. Based on the previous passage, choose the most reasonable cause.\nA:Yeni bir görünüş istedi.\nB:Araya karışmak istedi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMülteciler yasa dışı şekilde yaşarken yakalandı. Based on the previous passage, choose the most reasonable effect.\nA:İş buldular.\nB:Sınır dışı edildiler.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKonuşmacı bir espri patlattı. Based on the previous passage, choose the most reasonable effect.\nA:Dinleyiciler güldü.\nB:Dinleyiciler ayağa kalktı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGüneşe baktım. Based on the previous passage, choose the most reasonable effect.\nA:Güneş gözümü aldı.\nB:Güneş beni bronzlaştırdı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSıkıldığımı hissettim. Based on the previous passage, choose the most reasonable effect.\nA:Horladım.\nB:Esnedim.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBifteği kesmesi zordu. Based on the previous passage, choose the most reasonable cause.\nA:Bıçak körelmişti.\nB:Biftek çiğdi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKadın iflasını açıkladı. Based on the previous passage, choose the most reasonable cause.\nA:Nafaka almaya başladı.\nB:Çok büyük borçlandı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nArkadaşımın evindeki ışıklar açıktı. Based on the previous passage, choose the most reasonable effect.\nA:Acaba dışarda mı diye düşündüm.\nB:Onu ziyaret etmeye karar verdim.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nÇiçeği burnumun altına koydum. Based on the previous passage, choose the most reasonable effect.\nA:Çiçeğin yaprakları döküldü.\nB:Çiçeğin kokusunu aldım.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKadın nostaljik hissetti. Based on the previous passage, choose the most reasonable cause.\nA:Çocukluk arkadaşıyla karşılaştı.\nB:Çocuklarına bağırdı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nÖğrenci yazı ödevini yapmayı erteledi. Based on the previous passage, choose the most reasonable effect.\nA:Kağıdını erken gönderdi.\nB:Kağıdını tamamlamadan gönderdi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nArabam bozuldu. Based on the previous passage, choose the most reasonable effect.\nA:Alışveriş merkezine gittim.\nB:Araba tamircisi çağırdım.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNotu görmezden geldim. Based on the previous passage, choose the most reasonable cause.\nA:Sahibi belirsizdi.\nB:Okunabilir değildi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKuş kanatlarını çırptı. Based on the previous passage, choose the most reasonable effect.\nA:Yumurtladı.\nB:Yükselmeye başladı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nYol kenarına park ettim. Based on the previous passage, choose the most reasonable cause.\nA:Garaj açıktı.\nB:Garaj doluydu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSuçlu silahını mağdura yöneltti. Based on the previous passage, choose the most reasonable effect.\nA:Suçlu silahını indirdi.\nB:Mağdur ellerini kaldırdı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nHaftasonunu dört gözle bekliyordum. Based on the previous passage, choose the most reasonable cause.\nA:Amcamın cenazesine katılma planım vardı.\nB:Arkadaşımın düğününe katılma planım vardı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nZaman nasıl geçti bilemedim. Based on the previous passage, choose the most reasonable cause.\nA:Hayal kuruyordum.\nB:Midem bulanıyordu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAldığım çıktı okunaklı değildi. Based on the previous passage, choose the most reasonable cause.\nA:Yazıcının kartuşu bitmişti.\nB:Yazıcıda kağıt kalmamıştı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nStadyum milli marşı çaldı. Based on the previous passage, choose the most reasonable effect.\nA:Fanlar bayrağa döndü.\nB:Fanlar sahaya atladı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSos hafif geldi. Based on the previous passage, choose the most reasonable effect.\nA:Onu servis ettim.\nB:Tuz ekledim.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nDökülen şeyin üzerine kağıt havlu koydum. Based on the previous passage, choose the most reasonable effect.\nA:Havlu sıvıyı emdi.\nB:Sıvı yapışkan bir iz bıraktı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKadını kitabının ortasındayken böldüler. Based on the previous passage, choose the most reasonable effect.\nA:Okuduğu sayfaya işaret koydu.\nB:Kitabı baştan okudu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nUçak türbilansa girdi. Based on the previous passage, choose the most reasonable effect.\nA:Adam emniyet kemerini sıktı.\nB:Adam camdan dışarı baktı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nÇocuk ürktü. Based on the previous passage, choose the most reasonable cause.\nA:Kız onu görmezden geldi.\nB:Kız onu dürttü.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nDoktorlar hastaya protez taktılar. Based on the previous passage, choose the most reasonable cause.\nA:Bacağını ampute ettiler.\nB:Yaşam belirtilerini incelediler.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nÇocuk kızın dirseğini cimcikledi. Based on the previous passage, choose the most reasonable effect.\nA:Kız çocuğa omuz silkmeledi.\nB:Kız kolunu ondan uzağa çekti.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nArkadaşımdan tavsiye istedim. Based on the previous passage, choose the most reasonable cause.\nA:Görüşüne değer veriyordum.\nB:Haklı olduğunu biliyordum.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nÇocuk çamura bastı. Based on the previous passage, choose the most reasonable effect.\nA:Ayakkabısına çamur yapıştı.\nB:Çamur suratına sıçradı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKasabaya birkaç inç kar yağdı. Based on the previous passage, choose the most reasonable effect.\nA:Okullar tatil oldu.\nB:İnsanlar yeraltında sakladı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nÇalışanların mesaisi bitti. Based on the previous passage, choose the most reasonable effect.\nA:Eve döndüler.\nB:İstifa etmekle tehdit etti.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAğaç eve zarar verdi. Based on the previous passage, choose the most reasonable cause.\nA:Ağaç evin çatısına düştü.\nB:Ağaç bahçeye gölge yapıyordu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKütük ikiye bölündü. Based on the previous passage, choose the most reasonable cause.\nA:Şömineye odunları dizdim.\nB:Baltayı oduna vurdum.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAile çifti tebrik etti. Based on the previous passage, choose the most reasonable cause.\nA:Çift boşanacağını duyurdu.\nB:Çift bebekleri olacağını duyurdu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKız çocuğa bir aşk mektubu gönderdi. Based on the previous passage, choose the most reasonable cause.\nA:Kız ondan hoşlanıyordu.\nB:Kız onu öptü.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKafamı sallayarak arkadaşıma katıldığımı gösterdim. Based on the previous passage, choose the most reasonable cause.\nA:Kafam karışmıştı.\nB:Onunla aynı fikirdeydim.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nArkadaşlar yazı tura attı. Based on the previous passage, choose the most reasonable cause.\nA:Orta yol bulmak istiyorlardı.\nB:Bir karar vermek istediler.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMutfaktaki sayaç ötmeye başladı. Based on the previous passage, choose the most reasonable effect.\nA:Adam buzdolabından malzeeleri çıkardı.\nB:Adam fırından pizzayı çıkardı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKadın hırslı bir hedef belirledi. Based on the previous passage, choose the most reasonable effect.\nA:Tembellik yaptı.\nB:Çok çalıştı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nZengin adam yaşlılıktan vefat etti. Based on the previous passage, choose the most reasonable effect.\nA:Oğlunun başı yasalarla belaya girdi.\nB:Oğlu onun mirasına sahip çıktı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKadın alevin üzerine bastı. Based on the previous passage, choose the most reasonable effect.\nA:Alev söndü.\nB:Alevden duman çıktı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKadının arabası tamirdedi. Based on the previous passage, choose the most reasonable cause.\nA:Ehlyetine el koyulmuşyu.\nB:Bir kazaya karışmıştı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAlarmıma uyanmadım. Based on the previous passage, choose the most reasonable effect.\nA:Kahvaltı hazırladım.\nB:Kahvaltıyı kaçırdım.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nÜnlü, limuzinden çıktı. Based on the previous passage, choose the most reasonable effect.\nA:Kameraların flaşları onun yönünde patladı.\nB:Ailesi basın toplantısına katıldı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKadın küvette oyalandı. Based on the previous passage, choose the most reasonable effect.\nA:Küvet suyu ılıklaştı.\nB:Küvet suyu küvetten taştı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nÜniversite öğrencisi kampüste diğerleriyle tanışmak istedi. Based on the previous passage, choose the most reasonable effect.\nA:Okul birliğine katıldı.\nB:Mühendislik okudu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKanepe yastıklarını kaldırdım. Based on the previous passage, choose the most reasonable cause.\nA:Bozuk para arıyordum.\nB:Salonu yeniden düzenliyordum.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nArı çocuğa doğru uçtu. Based on the previous passage, choose the most reasonable effect.\nA:Çocuk kaçtı.\nB:Çocuk bir çiçek kopardı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKadın bir suçtan hüküm giydi. Based on the previous passage, choose the most reasonable effect.\nA:Toplum hizmeti cezası aldı.\nB:İdam cezası aldı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSıcak çayla şekeri karıştırdım. Based on the previous passage, choose the most reasonable effect.\nA:Çay duman çıkardı.\nB:Şeker eridi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nGazi sekerek yürüyordu. Based on the previous passage, choose the most reasonable cause.\nA:Savaşa çağırılmıştı.\nB:Savaşta yaralanmıştı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSuçlu polisten kaçtı. Based on the previous passage, choose the most reasonable effect.\nA:Polis mağdurla ilgilendi.\nB:Polis suçluyu takip etti.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLaptop açılmıyordu. Based on the previous passage, choose the most reasonable cause.\nA:Onu düşürdüm.\nB:Onu şarj ettim.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKadının dolabında yer kalmadı. Based on the previous passage, choose the most reasonable cause.\nA:Büyük bir dolap edindi.\nB:Çamaşırlarını katladı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdamın kalbi kırıldı. Based on the previous passage, choose the most reasonable cause.\nA:Karısı doğum yaptı.\nB:Karısı onu terk etti.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAdam lisans aldı. Based on the previous passage, choose the most reasonable effect.\nA:İstediği iş için kalifiye duruma geldi.\nB:İş teklifi iptal oldu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdamın sesi koferans salonunda çok iyi iletiliyordu. Based on the previous passage, choose the most reasonable cause.\nA:Dinleyicileri selamladı.\nB:Mikrofona konuştu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKuyuya bozuk para attım. Based on the previous passage, choose the most reasonable effect.\nA:Bozuk para dibe battı.\nB:Bozuk para ikiye bölündü.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nOyuncu topu deliğe doğru vurdu. Based on the previous passage, choose the most reasonable effect.\nA:Top deliğe girdi.\nB:Top oyuncuya geri geldi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nÇatı katında toz yuttum. Based on the previous passage, choose the most reasonable effect.\nA:Hıçkırdım.\nB:Hapşurdum.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKasiyer güvenliği çağırdı. Based on the previous passage, choose the most reasonable cause.\nA:Müşteri sahte para kullandu.\nB:Müşteri farlarını açık unuttu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nÇöpü dışarıya çıkardım. Based on the previous passage, choose the most reasonable cause.\nA:Çöp mutfağı kötü kokuttu.\nB:Yanlışlıkla alışveriş listemi çöpe attım.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAile hayvanat bahçesine gitti. Based on the previous passage, choose the most reasonable effect.\nA:Çocuklar hayvanları hayranlıkla izledi.\nB:Çocuklar hayvanları kovaladı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdamın nefes alışı çok sesliydi. Based on the previous passage, choose the most reasonable cause.\nA:Böbrekleri iflas ediyordu.\nB:Akciğerleri sıkışmıştı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKonsere fazladan bir biletim vardı. Based on the previous passage, choose the most reasonable effect.\nA:Arkadaşımdan mekanın yol tarifini istedim.\nB:Arkadaşıma gelmek isteyip istemeyeceğini sordum.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nEvdeki klima bozuldu. Based on the previous passage, choose the most reasonable effect.\nA:Yorganları çıkardım.\nB:Camları açtım.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nÇocuğun sırtı ağrıyordu. Based on the previous passage, choose the most reasonable cause.\nA:Çantası açıktı.\nB:Çantası ağırdı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAnneme bir hediye aldım. Based on the previous passage, choose the most reasonable cause.\nA:Ona pasta pişirdim.\nB:Onun doğum günüydü.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBahçedeki nergisler mahvolmuştu. Based on the previous passage, choose the most reasonable cause.\nA:Bahçıvanı arı soktu.\nB:Sincaplar bitkilerin soğanını kazıdı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBir kibrit yaktım. Based on the previous passage, choose the most reasonable effect.\nA:Ateş söndü.\nB:Kibrit ateş yaktı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTartışan gruplar uzlaştı. Based on the previous passage, choose the most reasonable cause.\nA:Mahkemede tartışmak istemiyorlardı.\nB:Aralarındaki ilişkiyi tamir etmek istiyorlardı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nÇocuklar yetimhaneye gönderildi. Based on the previous passage, choose the most reasonable cause.\nA:Aileleri vefat etti.\nB:Aileleri onları şımarttı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nOkyanusa bir meteor düştü. Based on the previous passage, choose the most reasonable effect.\nA:Bir tsunami oluştu.\nB:Dolu yağmaya başladı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nYürüyüştü zehirli bir yılana rastladı. Based on the previous passage, choose the most reasonable effect.\nA:Susamıştı.\nB:Panik yaptı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nFırın ısındı. Based on the previous passage, choose the most reasonable cause.\nA:Fırını açtım.\nB:Yemeği fırına koydum.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLimon dilimini sıktım. Based on the previous passage, choose the most reasonable effect.\nA:Limon küflendi.\nB:Limonun suyu çıktı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nÜle yeni karalar keştti. Based on the previous passage, choose the most reasonable effect.\nA:Ülke toprakları terk etti.\nB:Ülke toprakları kolonileştirdi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBardak masadan düştü. Based on the previous passage, choose the most reasonable effect.\nA:Yerde param parça oldu.\nB:Bir kıyafet yığını üzerine düştü.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMasa yalpalıyordu. Based on the previous passage, choose the most reasonable cause.\nA:Zemin düz değildi.\nB:Zemin kaygandı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBaba çocuğunu yalan söylerken yakaladı. Based on the previous passage, choose the most reasonable effect.\nA:Çocuğu doğruyu itiraf etti.\nB:Baba çocuğuna güvendi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdamın kafası acı içinde zonkladı. Based on the previous passage, choose the most reasonable effect.\nA:Öksürük şurubu aldı.\nB:Aspirin içti.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTren yavaşladı. Based on the previous passage, choose the most reasonable cause.\nA:İstasyona yaklaşıyordu.\nB:Planın gerisinde kalmıştı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdam terapi süreci geçirdi. Based on the previous passage, choose the most reasonable cause.\nA:Zihinsel hastalık kalıtsaldı.\nB:Depresyon tanısı koyuldu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKadın boğazını tuttu. Based on the previous passage, choose the most reasonable cause.\nA:Lokmasını yuttu.\nB:Lokmasında boğuldu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKadının boğazı acıyordu. Based on the previous passage, choose the most reasonable effect.\nA:Sesi gıcırtılıydı.\nB:Aksanlı konuşuyordu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKöpek masadaki sulu bifteğe bakıyordu. Based on the previous passage, choose the most reasonable effect.\nA:Ağzı sulandı.\nB:Yere yattı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKadının işi başarılı oldu. Based on the previous passage, choose the most reasonable effect.\nA:Çalışanlarını kovdu.\nB:Zengin oldu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nÖğrenciler sınıfı terk etti. Based on the previous passage, choose the most reasonable cause.\nA:Zil çaldı.\nB:Öğretmen ödev verdi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKadın bir hayalet gördüğünü söyledi. Based on the previous passage, choose the most reasonable effect.\nA:Tanıdıkları şühelerini belirtti.\nB:Tanıdıkları bu olayı yakın buldu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdam duyma yetisini kaybetti. Based on the previous passage, choose the most reasonable cause.\nA:Okyanusta neredeyse boğuluyordu.\nB:Bir patlamada neredeyse ölüyordu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nÇocuk balonun ipini bıraktı. Based on the previous passage, choose the most reasonable effect.\nA:Balon söndü.\nB:Balon havaya uçtu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAdam konuşma yetisini kaybetti. Based on the previous passage, choose the most reasonable cause.\nA:İnme geçirdi.\nB:Derin bir nefes aldı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKadının kaldırımda ayağı takıldı. Based on the previous passage, choose the most reasonable cause.\nA:Betonda bir çatlak vardı.\nB:Birinin ona seslendiğini duydu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdam havuza bombalama atladı. Based on the previous passage, choose the most reasonable effect.\nA:Cankurtaran arkasından atladı.\nB:Cankurtaranı ıslattı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAntibiyotik aldım. Based on the previous passage, choose the most reasonable effect.\nA:Enfeksiyonum temizlendi.\nB:Enfeksiyonum yayıldı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTrafik ışığı sarıya döndü. Based on the previous passage, choose the most reasonable effect.\nA:Şoför frene bastı.\nB:Şoför kornaya bastı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPlastik kap eridi. Based on the previous passage, choose the most reasonable cause.\nA:Kabı ılık suya batırdım.\nB:Kabı sıcak ocağın üstüne koydum.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nArabada vuruk oluştu. Based on the previous passage, choose the most reasonable cause.\nA:Şoför bir telefon kulübesine vurdu.\nB:Şoför kırmızı ışıta geçti.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nÇocuk gece boyu çalıştı. Based on the previous passage, choose the most reasonable effect.\nA:Sınava girmedi.\nB:Sınavı geçti.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nÇocuk havuzun kenarına tutundu. Based on the previous passage, choose the most reasonable cause.\nA:Yüzmeyi öğrenmekten korkuyordu.\nB:Cankurtaran hazır bekliyordu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nElimi göğsüme koydum. Based on the previous passage, choose the most reasonable effect.\nA:Kalp atışımı hissettim.\nB:Kalp atışım hızlandı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nOfisimin dibindeki binada inşaat vardı. Based on the previous passage, choose the most reasonable effect.\nA:Ofisim kalabalıktı.\nB:Ofisim gürültülüydü.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAile komşularını tanımak istiyordu. Based on the previous passage, choose the most reasonable effect.\nA:Aile komşılarını yemeğe çağırdı.\nB:Aile bahçeden komşularına el salladı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nHavuzdan su sıçradı. Based on the previous passage, choose the most reasonable cause.\nA:Yüzücü havuza daldı.\nB:Yüzücü havuzda su yüzüne çıktı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBir dilim karpuz ısırdım. Based on the previous passage, choose the most reasonable effect.\nA:Yanlışlıkla çekirdek yuttum.\nB:Yanlışlıkla dişimi kırdım.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nÇocuğun ayağı takıldı. Based on the previous passage, choose the most reasonable cause.\nA:Montunun fermuarı kapatılmamıştı.\nB:Bağcıkları bağlı değildi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKadın kulak tıkaçlarını taktı. Based on the previous passage, choose the most reasonable cause.\nA:Sesten dikkati dağıldu.\nB:Kulaklarını deldirdi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSu şişemi yeniden doldurdum. Based on the previous passage, choose the most reasonable cause.\nA:İçindeki tüm suyu içtim.\nB:Onu buzdolabında tuttum.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTelevizyon programı sansürlendi. Based on the previous passage, choose the most reasonable cause.\nA:Sert bir dil içeriyordu.\nB:Karışık bir konusu vardı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGemi battı. Based on the previous passage, choose the most reasonable effect.\nA:Mürettebat boğuldu.\nB:Mürettebat korsanlarla karşılaştı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nÇocuk bilmeceyi zor buldu. Based on the previous passage, choose the most reasonable effect.\nA:Bilmeceyi çözdü.\nB:Bir ipucu istedi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTelefon çaldı. Based on the previous passage, choose the most reasonable effect.\nA:Adam telefonu kapattı.\nB:Adam telefonu kaldırdı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKadın bana bakıyordu. Based on the previous passage, choose the most reasonable effect.\nA:Ona sarıldım.\nB:Rahatsız hissettim.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nGrup müzeyi terk etti. Based on the previous passage, choose the most reasonable cause.\nA:Sergilerin fotoğraflarını çektiler.\nB:Tüm sergileri gezdiler.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAdam benimle tartışmaya başladı. Based on the previous passage, choose the most reasonable effect.\nA:Arkadaşım beni adamla tanıştırdı.\nB:Arkadaşım beni korudu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBisikletimin tekerleği indi. Based on the previous passage, choose the most reasonable effect.\nA:Tekerleğe hava bastım.\nB:Bisiklette vites değiştirdim.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKız solgun gözüküyordu. Based on the previous passage, choose the most reasonable effect.\nA:Babası ona bir hikaye okudu.\nB:Babası alnını kontrol etti.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKalemin mürekkebi bitti. Based on the previous passage, choose the most reasonable effect.\nA:Kurşun kalem kullandım.\nB:İmzamı attım.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdamın kredi talebi reddedildi. Based on the previous passage, choose the most reasonable cause.\nA:Adam borçluydu.\nB:Adam bir iş başlattı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKız okula gitmedi. Based on the previous passage, choose the most reasonable cause.\nA:Suçiçeği olmuştu.\nB:Matematik öğrenmeyi seviyordu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nÇöp kutusu tamamen dolmuştu. Based on the previous passage, choose the most reasonable effect.\nA:Çöpe boşalttım.\nB:Lavabodan döktüm.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nHalıyı süpürdüm. Based on the previous passage, choose the most reasonable cause.\nA:Oda arkadaşım içeceğini döktü.\nB:Köpeğim saç döktü.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAdamın sinirleri bozuldu. Based on the previous passage, choose the most reasonable effect.\nA:Bilgisayarını kapattı.\nB:Sandalyeyi odanın diğer ucuna fırlattı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKız kamp ateşine bir dal fırlattı. Based on the previous passage, choose the most reasonable effect.\nA:Dal yandı.\nB:Ateş söndü.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdam duştan çıktı. Based on the previous passage, choose the most reasonable cause.\nA:Sıcak su akmıyordu.\nB:Havlu bulamadı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAilesi çocuklarının üniversiteye gitmesini istiyordu. Based on the previous passage, choose the most reasonable effect.\nA:Üniversite ücretini biriktirdiler.\nB:Çocuklarını dışarda oynamaya teşvik ettiler.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdam ayakkabılarının bağcıklarını söktü. Based on the previous passage, choose the most reasonable effect.\nA:Ayakkabı bollaştı.\nB:Ayakkabı aşındı.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdam antrenin yarısını yedi. Based on the previous passage, choose the most reasonable effect.\nA:Kalanları buzdolabına koydu.\nB:Yemek tarifini kaydetti.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBileğim şişti. Based on the previous passage, choose the most reasonable effect.\nA:Üzerine buz koydum.\nB:Üzerini kremledim.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nOfis kapım açıktı. Based on the previous passage, choose the most reasonable effect.\nA:Masadan iş arkadaşımla konultum.\nB:Koridorda konuşulanlara kulak misafiri oldum.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSırada beklemek zorundaydım. Based on the previous passage, choose the most reasonable effect.\nA:Oturdum.\nB:Bir dergiye göz attım.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAdam sineğe doğru kolunu salladı. Based on the previous passage, choose the most reasonable effect.\nA:Sinek uçtu.\nB:Sinek olduğu gibi durdu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdam vasiyetini yazdı. Based on the previous passage, choose the most reasonable cause.\nA:Ölüyordu.\nB:Duldu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKoşucu rakibinin ona yaklaştığını hissetti. Based on the previous passage, choose the most reasonable effect.\nA:Yarıştan çekildi.\nB:Hızlandı.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nProblemi taraflıca düşündüm. Based on the previous passage, choose the most reasonable effect.\nA:Tavsiye istedim.\nB:Bir çözüm aklıma geldi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nYolcu sallanan asmalı köprüde yürüdü. Based on the previous passage, choose the most reasonable effect.\nA:Korkmuş hissetti.\nB:Çok mutlu hissetti.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAdam takımının kazanacağını tahmin etmişti. Based on the previous passage, choose the most reasonable effect.\nA:Maçı izlemek için arkadaşlarıyla buluştu.\nB:Arkadaşlarıyla iddiaya girdi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nÇocuk uyuyamıyordu. Based on the previous passage, choose the most reasonable effect.\nA:Alarm kurdu.\nB:Kuzuları saymaya başladı.\n\nAnswer:\n",
+        "output": "B"
+    }
+]

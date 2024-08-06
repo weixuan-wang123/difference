@@ -1,0 +1,2002 @@
+[
+    {
+        "input": "Question:\nL'oggetto era incartato nella plastica bollata. Based on the previous passage, choose the most reasonable cause.\nA:Era delicato.\nB:Era piccolo.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAvevo svuotato le mie tasche. Based on the previous passage, choose the most reasonable effect.\nA:Estrassi la matrice di un biglietto.\nB:Trovai un'arma.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLe termiti invasero la casa. Based on the previous passage, choose the most reasonable effect.\nA:Le termiti sparirono dalla casa.\nB:Le termiti rosero il legno della casa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nI viaggiatori raggiunsero il confine. Based on the previous passage, choose the most reasonable effect.\nA:L'agente di pattuglia controllò i loro passaporti.\nB:L'agente di pattuglia li accusò di contrabbando.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'ufficio era chiuso. Based on the previous passage, choose the most reasonable cause.\nA:Era vacanza.\nB:Era estate.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa ragazza esaurì le energie. Based on the previous passage, choose the most reasonable cause.\nA:Aveva giocato a dama.\nB:Aveva saltato la corda.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa donna aveva perso il suo posto in fila. Based on the previous passage, choose the most reasonable cause.\nA:Più persone si misero in fila.\nB:Si era tolta dalla fila.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa ragazza si era tappata il naso. Based on the previous passage, choose the most reasonable cause.\nA:La bambina aveva sbavato sul bavaglino.\nB:La bambina aveva sporcato il pannolino.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl gruppo suonò la loro canzone di successo. Based on the previous passage, choose the most reasonable effect.\nA:Il pubblico applaudì a ritmo di musica.\nB:Il pubblico ascoltò educatamente in silenzio.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa ragazza voleva ringraziare l'insegnante di matematica. Based on the previous passage, choose the most reasonable effect.\nA:La ragazza rimase dopo scuola per punizione.\nB:La ragazza portò una mela all'insegnante.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nI giovani campeggiatori erano spaventati. Based on the previous passage, choose the most reasonable cause.\nA:L'animatore raccontò loro una storia di paura.\nB:Abbrustolirono marshmallows sul falò.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'uomo sbatté la testa. Based on the previous passage, choose the most reasonable effect.\nA:Si perse nei suoi pensieri.\nB:Subì una commozione cerebrale.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'assegno che avevo formato era scoperto. Based on the previous passage, choose the most reasonable cause.\nA:Il mio conto in banca era vuoto.\nB:Avevo ricevuto un aumento di stipendio.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa casella di posta dell'uomo era piena di spam. Based on the previous passage, choose the most reasonable effect.\nA:Cancellò lo spam.\nB:Inviò un email di massa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl marinaio fu messo in quarantena. Based on the previous passage, choose the most reasonable cause.\nA:Era stato esposto alla malattia.\nB:Guarì dalla malattia.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa ragazza aveva memorizzato il codice. Based on the previous passage, choose the most reasonable cause.\nA:Se lo era recitato fra sé e sé.\nB:Si era dimenticata di annotarlo.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nVersai l'acqua nel bicchiere. Based on the previous passage, choose the most reasonable effect.\nA:L'acqua appagò la mia sete.\nB:Il bicchiere si riempì.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'uomo rimase silenzioso quando l'amico finì di parlare. Based on the previous passage, choose the most reasonable cause.\nA:Voleva offrire supporto all'amico.\nB:Stava pensando alle parole dell'amico.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'incidente era colpa mia. Based on the previous passage, choose the most reasonable effect.\nA:Mi sentivo colpevole.\nB:Feci denuncia.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa catena si ruppe. Based on the previous passage, choose the most reasonable cause.\nA:La catena era montata su una ruota.\nB:C'era un anello rotto nella catena.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa coppia aveva deciso di venire a un compromesso. Based on the previous passage, choose the most reasonable cause.\nA:Si erano scocciati di litigare.\nB:Evitavano di discutere del problema.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa donna decise di candidarsi per una carica pubblica. Based on the previous passage, choose the most reasonable effect.\nA:Assunse un responsabile della campagna elettorale.\nB:Testimoniò in tribunale.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'uomo aveva previsto temperature basse durante il suo viaggio. Based on the previous passage, choose the most reasonable effect.\nA:Aveva messo in valigia indumenti caldi.\nB:Stava viaggiando con una grande valigia.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLo studente conosceva la risposta alla domanda. Based on the previous passage, choose the most reasonable effect.\nA:Alzò la mano.\nB:Oziò.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGli occhi dell'uomo si riempirono di lacrime. Based on the previous passage, choose the most reasonable cause.\nA:Gli era entrata della polvere negli occhi.\nB:Aveva indossato degli occhialini.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa giocatrice vinse cinque partite di fila. Based on the previous passage, choose the most reasonable effect.\nA:La sua avversaria l'accusò di imbrogliare.\nB:La sua avversaria si dispiacque per lei.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'insegnante strappò l'esame dello studente. Based on the previous passage, choose the most reasonable cause.\nA:Beccò lo studente mentre copiava.\nB:Le risposte dello studente erano sbagliate.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nFeci una pausa per smettere di parlare. Based on the previous passage, choose the most reasonable cause.\nA:Persi la voce.\nB:Rimasi senza fiato.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl cibo ghiacciato si scongelò. Based on the previous passage, choose the most reasonable cause.\nA:Lo misi nel microonde.\nB:Lo coprii con la pellicola trasparente.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'impiegato finse di stare poco bene. Based on the previous passage, choose the most reasonable cause.\nA:Aveva crampi allo stomaco.\nB:Voleva un giorno libero.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa ragazza atterrò in piscina. Based on the previous passage, choose the most reasonable cause.\nA:Corse sul bordo della piscina.\nB:Saltò dal trampolino.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nI biglietti del film fecero il tutto esaurito. Based on the previous passage, choose the most reasonable cause.\nA:Era il lancio del film.\nB:Il film aveva ricevuto brutte recensioni.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'uomo aveva perso peso. Based on the previous passage, choose the most reasonable effect.\nA:Le persone lo isolarono.\nB:Le persone si complimentarono con lui.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSulle mani della ragazza comparvero delle vesciche. Based on the previous passage, choose the most reasonable cause.\nA:Aveva scritto a macchina una lettera.\nB:Si era arrampicata su una corda.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'artista del circo faceva il giocoliere mentre guidava un monociclo. Based on the previous passage, choose the most reasonable effect.\nA:Il pubblico lo acclamò sbalordito.\nB:L'acrobata dondolò da un trapezio.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nHo perso la pazienza. Based on the previous passage, choose the most reasonable cause.\nA:Il mio amico mi aveva fatto aspettare.\nB:Il mio amico arrivò in tempo.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nI paesi in guerra volevano la pace. Based on the previous passage, choose the most reasonable effect.\nA:Svilupparono armi nucleari.\nB:Negoziarono un trattato.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'uomo prese delle pillole per dormire. Based on the previous passage, choose the most reasonable effect.\nA:Divenne sonnolento.\nB:Gli venne la febbre.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa donna urtò il divano. Based on the previous passage, choose the most reasonable effect.\nA:La gamba del divano si allentò.\nB:Si fece un livido sul ginocchio.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl ragazzo spremette il palloncino. Based on the previous passage, choose the most reasonable effect.\nA:Il palloncino scoppiò.\nB:Il palloncino volò via.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nI viaggiatori si registrarono nella loro stanza d'albergo. Based on the previous passage, choose the most reasonable effect.\nA:Svuotarono le valige.\nB:Andarono all'aeroporto.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAvevo dato un morso alla pesca. Based on the previous passage, choose the most reasonable effect.\nA:La pesca si ammaccò.\nB:Il succo schizzò fuori.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLe mie mani diventarono appiccicose. Based on the previous passage, choose the most reasonable cause.\nA:Avevo mangiato una ciambella.\nB:Ero goloso di dolci.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSpinsi la porta. Based on the previous passage, choose the most reasonable effect.\nA:La porta si aprì.\nB:La porta si chiuse.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGli attivisti boicottarono i prodotti. Based on the previous passage, choose the most reasonable cause.\nA:Il prodotto era stato testato per assicurarne la qualità.\nB:Il prodotto era stato fabbricato attraverso il lavoro minorile.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAvevo fatto un buco nel muro. Based on the previous passage, choose the most reasonable effect.\nA:Un topo sgusciò fuori dal buco.\nB:Si sollevò della polvere dal buco.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa donna era invidiosa della sorella. Based on the previous passage, choose the most reasonable cause.\nA:La sorella era felice.\nB:La sorella si era divorziata.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMi versai del vino sulla camicia. Based on the previous passage, choose the most reasonable effect.\nA:Mi misi un grembiule.\nB:Cambiai camicia.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl cassiere aprì la cassa. Based on the previous passage, choose the most reasonable cause.\nA:Il cliente cercò nel suo portafogli.\nB:Il cliente gli diede i propri soldi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl musicista di strada attirò una folla. Based on the previous passage, choose the most reasonable effect.\nA:La gente gli diede degli spiccioli.\nB:Lui mandò via la folla.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl ragazzino piagnucolò con la babysitter. Based on the previous passage, choose the most reasonable cause.\nA:Gli mancavano i genitori.\nB:Era l'ora della merenda.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl radar del pilota rilevò una tempesta. Based on the previous passage, choose the most reasonable effect.\nA:Il pilota navigò lontano dalla tempesta.\nB:Il pilota volò attraverso la tempesta.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'albero perse le foglie. Based on the previous passage, choose the most reasonable effect.\nA:Le foglie cambiarono colore.\nB:Le foglie si accumularono per terra.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl ragazzo era in vena di dispetti. Based on the previous passage, choose the most reasonable effect.\nA:Decise di giocare a carte con la sorella.\nB:Decise di fare uno scherzo alla sorella.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl bambino si lamentava che doveva andare in bagno. Based on the previous passage, choose the most reasonable effect.\nA:Il padre gli diede una soda da bere.\nB:Il padre si fermò alla stazione di servizio.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl bambino sparse il mangime per pesci nell'acquario. Based on the previous passage, choose the most reasonable effect.\nA:Il pesce balzò fuori dall'acquario.\nB:Il pesce nuotò verso il mangime.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLe opinioni politiche della donna erano mutate. Based on the previous passage, choose the most reasonable effect.\nA:Cambiò il partito alla quale era affiliata.\nB:Partecipò ad una protesta.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl lavandino del bagno era intasato. Based on the previous passage, choose the most reasonable effect.\nA:Aprii il rubinetto.\nB:Ci versai dentro dell'acido muriatico.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl passeggero scese dal treno. Based on the previous passage, choose the most reasonable cause.\nA:Il treno era arrivato alla stazione.\nB:Il treno emise un fischio.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'uomo premette il lembo umido dell'involucro. Based on the previous passage, choose the most reasonable effect.\nA:Mise un francobollo sull'involucro.\nB:Sigillò e chiuse l'involucro.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nGli amici persero i contatti. Based on the previous passage, choose the most reasonable cause.\nA:Si godevano la reciproca compagnia.\nB:Si spostarono in città diverse.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa contabile aveva malgestito i fondi della compagnia. Based on the previous passage, choose the most reasonable effect.\nA:Fu licenziata dal suo ruolo.\nB:Andò in maternità.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGuardai l'orologio. Based on the previous passage, choose the most reasonable cause.\nA:Avevo sentito l'orologio ticchettare.\nB:Volevo controllare l'ora.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nEbbi un crampo alla mano. Based on the previous passage, choose the most reasonable cause.\nA:Avevo scritto il tema a mano.\nB:Io e mia moglie ci tenevamo per mano.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl bullone si strinse. Based on the previous passage, choose the most reasonable cause.\nA:L'avevo sostituito.\nB:Avevo girato la chiave inglese.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa coppia firmò il contratto d'affitto per un appartamento. Based on the previous passage, choose the most reasonable effect.\nA:La coppia si trasferì nell'appartamento.\nB:La città dichiarò inagibile l'appartamento.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa donna si era seduta sulla veranda. Based on the previous passage, choose the most reasonable cause.\nA:Voleva guardare il tramonto.\nB:Pensò di aver visto un fulmine.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'uomo indossava un giubbotto di salvataggio in acqua. Based on the previous passage, choose the most reasonable cause.\nA:Non sapeva nuotare.\nB:L'acqua era bassa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa donna fece un errore di battitura nel programma. Based on the previous passage, choose the most reasonable effect.\nA:Cancellò il documento.\nB:Premette sul tasto backspace.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa ragazza si era vantata con le amiche. Based on the previous passage, choose the most reasonable cause.\nA:Aveva ricevuto un brutto voto.\nB:Aveva vinto una gara.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl prato era fangoso. Based on the previous passage, choose the most reasonable cause.\nA:Era diluviato nella notte.\nB:Era pieno d'erbacce.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa donna aveva dormito troppo. Based on the previous passage, choose the most reasonable cause.\nA:Aveva passato la notte in albergo.\nB:Aveva dimenticato di impostare la sveglia.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'uomo si era messo la protezione solare. Based on the previous passage, choose the most reasonable cause.\nA:Si era seduto all'ombra.\nB:Era andato in spiaggia.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nI ricercatori dimostrarono la teoria. Based on the previous passage, choose the most reasonable effect.\nA:I ricercatori ritrattarono la teoria.\nB:Le persone accettarono la teoria.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nI fan fischiarono durante la partita. Based on the previous passage, choose the most reasonable cause.\nA:La partita aveva superato i limiti di tempo.\nB:L'arbitro aveva preso una decisione sbagliata.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAvevo inserito la combinazione nel lucchetto. Based on the previous passage, choose the most reasonable effect.\nA:Chiusi il lucchetto.\nB:Il lucchetto si aprì di scatto.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa folla si infittì. Based on the previous passage, choose the most reasonable effect.\nA:Il padre diede dei soldi al figlio.\nB:Il padre prese il figlio per mano.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa neve stava bloccando il vialetto. Based on the previous passage, choose the most reasonable effect.\nA:Feci una palla di neve.\nB:Spalai via la neve.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nI canottieri pagaiarono con i loro remi. Based on the previous passage, choose the most reasonable effect.\nA:La canoa raggiunse la costa.\nB:La canoa colpì un'onda.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa ragazza perse il controllo della bicicletta. Based on the previous passage, choose the most reasonable effect.\nA:Lasciò andare il manubrio.\nB:Andò a sbattere contro un recinto.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAccesi il ventilatore. Based on the previous passage, choose the most reasonable effect.\nA:Spruzzò acqua sulla mia pelle.\nB:Sentii dell'aria fredda passarmi addosso.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nI surfisti ritornarono sulla spiaggia. Based on the previous passage, choose the most reasonable cause.\nA:Erano fradici.\nB:Avevano visto uno squalo.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTirai via il tappo dalla vasca. Based on the previous passage, choose the most reasonable effect.\nA:L'acqua della vasca si prosciugò.\nB:L'acqua schizzò sul pavimento.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl marito si sentì colpevole di aver tradito la moglie. Based on the previous passage, choose the most reasonable effect.\nA:L'accuso di infedeltà.\nB:Confessò di esserle stato infedele.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'inchiostro sul poster si sbavò. Based on the previous passage, choose the most reasonable effect.\nA:Avevo aspettato che l'inchiostro asciugasse.\nB:Avevo rovesciato dell'acqua sul poster.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl bambino si svegliò urlando. Based on the previous passage, choose the most reasonable cause.\nA:Aveva avuto un incubo.\nB:Aveva bagnato il letto.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl ragazzo mise i piedi sul tavolo. Based on the previous passage, choose the most reasonable effect.\nA:I padre si sedette al tavolo.\nB:Il padre lo sgridò.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl mio amicò girò la testa verso di me. Based on the previous passage, choose the most reasonable cause.\nA:Avevo gridato il suo nome.\nB:Avevo agitato le braccia.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl governo aveva oppresso i suoi cittadini. Based on the previous passage, choose the most reasonable effect.\nA:I cittadini inscenarono una rivolta.\nB:I cittadini si registrarono per votare.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nUn ragazzo si era perso nel bosco. Based on the previous passage, choose the most reasonable effect.\nA:Montò una tenda.\nB:Urlò aiuto.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa donna aveva viaggiato all'estero. Based on the previous passage, choose the most reasonable cause.\nA:Voleva imparare a disegnare.\nB:Voleva conoscere altre culture.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'uomo era geloso dei suoi colleghi. Based on the previous passage, choose the most reasonable cause.\nA:I suoi colleghi avevano avuto una promozione.\nB:I suoi colleghi lavoravano fino a tardi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'uomo aveva assistito agli alieni. Based on the previous passage, choose the most reasonable cause.\nA:Aveva avuto delle allucinazioni.\nB:Stava meditando.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nI capelli dell'uomo divennero biondi. Based on the previous passage, choose the most reasonable cause.\nA:Ci aveva messo della candeggina.\nB:Ci aveva messo dello shampoo.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'artista creò una nuova opera. Based on the previous passage, choose the most reasonable cause.\nA:Aveva criticato la sua opera precedente.\nB:Aveva avuto un impeto di ispirazione.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl figlio si trasferì lontano da casa. Based on the previous passage, choose the most reasonable cause.\nA:Era stato congedato dal servizio militare.\nB:Stava andando all'università.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nDei libri caddero dalla libreria. Based on the previous passage, choose the most reasonable cause.\nA:Gli scaffali erano ricoperti da polvere.\nB:Un terremoto aveva scosso la libreria.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'elettricità nella casa saltò. Based on the previous passage, choose the most reasonable effect.\nA:Accesi una luce.\nB:Resettai il salvavita.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nFacemmo un giro sulla montagne russe. Based on the previous passage, choose the most reasonable cause.\nA:Sembrava spaventoso.\nB:Sembrava divertente.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa busta di popcorn iniziò a scoppiettare. Based on the previous passage, choose the most reasonable cause.\nA:Avevo versato del burro nella busta.\nB:L'avevo riscaldata in microonde.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nUn albero è caduto sulla linea elettrica. Based on the previous passage, choose the most reasonable effect.\nA:È andata via la luce in tutto il quartiere.\nB:Le previsioni prevedevano dei venti forti.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'oratore ha fatto dei commenti politicamente scorretti. Based on the previous passage, choose the most reasonable effect.\nA:Ha annoiato il pubblico.\nB:Ha offeso il pubblico.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMi sono punto con la spilla. Based on the previous passage, choose the most reasonable effect.\nA:La mia faccia si è imperlata di sudore.\nB:Si è formata una goccia di sangue sul mio dito.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl pesce galleggiava sulla superficie della vasca. Based on the previous passage, choose the most reasonable cause.\nA:Aveva fame.\nB:Era morto.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'uomo aveva la voce rauca. Based on the previous passage, choose the most reasonable cause.\nA:Aveva un raffreddore.\nB:Ha smesso di fumare.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLe porte dell'ascensore si sono aperte. Based on the previous passage, choose the most reasonable cause.\nA:L'ascensore è arrivato al piano previsto.\nB:L'ascensore si è bloccato tra due piani.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl ragazzino è sgattaiolato via di casa. Based on the previous passage, choose the most reasonable cause.\nA:Ha mentito ai suoi genitori.\nB:I suoi genitori lo hanno messo in punizione.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl bagno si è allagato. Based on the previous passage, choose the most reasonable cause.\nA:Il gabinetto si è intasato.\nB:Lo scaldabagno si è rotto.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl cucciolo non si allontanava dal padrone. Based on the previous passage, choose the most reasonable cause.\nA:Il padrone ha messo un collare al cucciolo.\nB:Il padrone teneva il cucciolo al guinzaglio.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'uomo ha colto il suo riflesso. Based on the previous passage, choose the most reasonable cause.\nA:Stava sotto un albero dai rami tentacolari.\nB:Stava nei pressi di un lago calmo.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nHo perso la telefonata della mia ragazza. Based on the previous passage, choose the most reasonable effect.\nA:L'ho richiamata.\nB:L'ho incontrata per cena.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa famiglia ha setacciato il quartiere. Based on the previous passage, choose the most reasonable effect.\nA:Il loro cane era scappato di casa.\nB:Dei gioielli costosi erano spariti da casa loro.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nQuando espiravo vedevo il mio fiato. Based on the previous passage, choose the most reasonable cause.\nA:Fuori faceva freddo.\nB:Avevo delle fitte al petto.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGli impiegati hanno costituito un sindacato. Based on the previous passage, choose the most reasonable cause.\nA:Volevano delle condizioni lavorative migliori.\nB:Il loro datore di lavoro ha aumentato il loro salario.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nHo fatto una crostata di mele. Based on the previous passage, choose the most reasonable effect.\nA:La cucina puzzava di marcio.\nB:La cucina aveva un profumino accogliente.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa donna faticava a camminare. Based on the previous passage, choose the most reasonable cause.\nA:Indossava dei tacchi alti.\nB:Si era tolta le scarpe.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nDel vapore si è sollevato dalla pentola piena d'acqua. Based on the previous passage, choose the most reasonable cause.\nA:L'acqua bolliva.\nB:Ho coperto la pentola.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTutti i miei calzini erano nel bucato da lavare. Based on the previous passage, choose the most reasonable effect.\nA:Ho indossato dei sandali.\nB:Ho indossato degli stivali.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'argomentazione del politico fu considerata assurda. Based on the previous passage, choose the most reasonable effect.\nA:Perse l'appoggio degli elettori.\nB:Fu accusato di corruzione.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTutti erano contro il fidanzamento ufficiale della coppia. Based on the previous passage, choose the most reasonable effect.\nA:La coppia era in dolce attesa.\nB:La coppia si è sposata di nascosto.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl palazzo è stato dedicato al milionario. Based on the previous passage, choose the most reasonable cause.\nA:Il milionario voleva distruggere il palazzo.\nB:Il milionario ha contribuito ai fondi per la sua costruzione.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'assistente alle vendite ha accusato di furto la ragazza. Based on the previous passage, choose the most reasonable cause.\nA:L'assistente alle vendite ha visto la ragazza infilare della mercanzia dentro la sua borsetta.\nB:L'assistente alle vendite ha aiutato la ragazza a trovare la borsetta che le piaceva.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa nazione ha dichiarato guerra al territorio vicino. Based on the previous passage, choose the most reasonable effect.\nA:I soldati sono stati mandati in missione a combattere.\nB:I soldati si sono riuniti con le proprie famiglie.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl tribunale ha confermato la sentenza controversa. Based on the previous passage, choose the most reasonable effect.\nA:È scattata una rivolta davanti al tribunale di giustizia.\nB:Una coppia ha scambiato le promesse di matrimonio davanti al tribunale di giustizia.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa ragazza sentiva odore di bruciato. Based on the previous passage, choose the most reasonable cause.\nA:Ha preso dei biscotti dal barattolo.\nB:Ha lasciato i biscotti nel forno.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPioveva a dirotto. Based on the previous passage, choose the most reasonable effect.\nA:La tempesta è peggiorata.\nB:Sono scappato dentro casa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl palazzo è stato evacuato. Based on the previous passage, choose the most reasonable cause.\nA:L'ascensore ha smesso di funzionare.\nB:È scattato l'allarme antincendio.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl padre non sopportava l'alcolismo del figlio. Based on the previous passage, choose the most reasonable effect.\nA:Il padre ha comprato una birra al figlio.\nB:Il padre ha cacciato di casa il figlio.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'avvocata ha fatto le scale per salire al suo ufficio. Based on the previous passage, choose the most reasonable cause.\nA:La segretaria è tornata a casa dopo il lavoro.\nB:L'ascensore era guasto.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'uomo era infastidito dal suo amico. Based on the previous passage, choose the most reasonable cause.\nA:Il suo amico lo ha interrotto.\nB:Il suo amico gli ha offerto il pranzo.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa ragazza ha dato i soldi alla cassiera. Based on the previous passage, choose the most reasonable effect.\nA:La cassiera ha dato il resto alla ragazza.\nB:La cassiera si è dimenticata di dare lo scontrino alla ragazza.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa donna fu messa su una sedia a rotella. Based on the previous passage, choose the most reasonable cause.\nA:Era rimasta paralizzata in un incidente.\nB:È entrata in ospedale su di una barella.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nI cittadini appesero la bandiera nazionale sulla facciata delle loro case. Based on the previous passage, choose the most reasonable cause.\nA:Il paese stava commemorando la sua indipendenza.\nB:Il paese stava affrontando una grave situazione economica.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa squadra ha perso il torneo. Based on the previous passage, choose the most reasonable effect.\nA:Hanno deluso i loro fan.\nB:Hanno ispirato i loro fan.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl mio amico mi ha fatto notare che avevo del cibo incastrato fra i denti. Based on the previous passage, choose the most reasonable effect.\nA:Mi sono sentito in imbarazzo.\nB:Ero fiero di me stesso.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl ragazzo non ha passato l'esame di storia. Based on the previous passage, choose the most reasonable cause.\nA:Ha prestato attenzione in classe.\nB:Si è dimenticato di studiare.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl palazzo in centro città è crollato. Based on the previous passage, choose the most reasonable cause.\nA:Un terremoto ha colpito la città.\nB:La criminalità nella città è aumentata.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa ragazza dell'uomo l'ha lasciato. Based on the previous passage, choose the most reasonable effect.\nA:Lui l'ha implorata di tornare assieme.\nB:Lei lo ha presentato ai suoi genitori.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nI due bambini si abbassarono simultaneamente per prendere il pallone. Based on the previous passage, choose the most reasonable effect.\nA:Il pallone è rotolato via.\nB:Hanno battuto la testa uno contro l'altro.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl procione ha rovistato il bidone della spazzatura. Based on the previous passage, choose the most reasonable cause.\nA:C'era del cartone all'interno del bidone della spazzatura.\nB:Il coperchio non copriva il bidone della spazzatura.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl ragazzo ha temperato la matita. Based on the previous passage, choose the most reasonable cause.\nA:Costava poco.\nB:Era poco appuntita.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa cassiera non ha concesso alla donna un rimborso per il vestito. Based on the previous passage, choose the most reasonable cause.\nA:La donna ha perso lo scontrino.\nB:Il vestito non le stava bene addosso.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl graffio sulla mia pelle era profondo. Based on the previous passage, choose the most reasonable effect.\nA:È guarito velocemente.\nB:Ha lasciato una cicatrice.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nI passeggeri del treno guardarono strano l'uomo. Based on the previous passage, choose the most reasonable cause.\nA:Stava fissando il pavimento.\nB:Stava parlando da solo.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl bambino ha lasciato delle briciole sul pavimento. Based on the previous passage, choose the most reasonable effect.\nA:Le formiche si sono arrampicate verso le briciole.\nB:Il bambino ha messo via il pane.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa donna diede un fazzolleto a sua sorella. Based on the previous passage, choose the most reasonable cause.\nA:La sorella della donna intrecciò le mani.\nB:La sorella della donna cominciò a piangere.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'uomo prese una mentina. Based on the previous passage, choose the most reasonable cause.\nA:Le sue labbra erano screpolate.\nB:Temeva di avere l'alito cattivo.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa coppia se ne andò presto alla volta dello spettacolo. Based on the previous passage, choose the most reasonable cause.\nA:Avevano previsto del traffico attorno al teatro.\nB:Avevano ottenuto le indicazioni per il teatro.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa donna era rimasta a casa dal lavoro. Based on the previous passage, choose the most reasonable effect.\nA:Il suo capo l'ha lodata.\nB:La sua collega di lavoro l'ha coperta.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'uomo ha firmato la petizione degli attivisti. Based on the previous passage, choose the most reasonable cause.\nA:Sosteneva la loro causa.\nB:Li ha denunciati come pazzi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAll'uomo batteva forte il cuore prima della sua esibizione. Based on the previous passage, choose the most reasonable cause.\nA:Aveva il panico da palcoscenico.\nB:Aveva memorizzato le sue battute.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMi ero perso. Based on the previous passage, choose the most reasonable effect.\nA:Ho contato i miei soldi.\nB:Ho aperto una mappa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa frutta matura rimase esposta al sole. Based on the previous passage, choose the most reasonable effect.\nA:È stata mangiata.\nB:Si è avvizzita.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa macchina si è rotta. Based on the previous passage, choose the most reasonable cause.\nA:L'ho messa in moto.\nB:Il motore si è surriscaldato.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'uomo si è fatto male alla schiena. Based on the previous passage, choose the most reasonable effect.\nA:Ha visitato uno psichiatra.\nB:È rimasto a letto per svariati giorni.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nHo acceso un fuoco nel caminetto. Based on the previous passage, choose the most reasonable cause.\nA:Non c'era più legna.\nB:Faceva freddo nella casa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa donna ha smesso di fare jogging. Based on the previous passage, choose the most reasonable cause.\nA:Le è venuto un crampo al fianco.\nB:Si è ripresa un po'.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nHo bussato alla porta della mia vicina. Based on the previous passage, choose the most reasonable effect.\nA:La mia vicina mi ha invitata dentro.\nB:La mia vicina ha lasciato casa sua.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa donna emise un sospiro di frustrazione. Based on the previous passage, choose the most reasonable cause.\nA:Suo marito non ha compreso le sue preoccupazioni.\nB:Suo marito le ha dato un bacio di addio.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa maestra ha elogiato lo studente. Based on the previous passage, choose the most reasonable cause.\nA:Lo studente ha risposto correttamente.\nB:Lo studente ha esitato nel rispondere alla domanda.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa donna aveva finito le uova. Based on the previous passage, choose the most reasonable effect.\nA:È andata alla fattoria.\nB:È andata al supermercato.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nHo incontrato un vecchio amico. Based on the previous passage, choose the most reasonable effect.\nA:Gli ho svelato un segreto.\nB:L'ho abbracciato.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa donna evitò di entrare nel lago. Based on the previous passage, choose the most reasonable cause.\nA:Ha pescato un pesce.\nB:Sembrava inquinato.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLo studente arrivò in classe completamente fradicio. Based on the previous passage, choose the most reasonable cause.\nA:Il suo ombrello si era rotto.\nB:La sua bici era stata rubata.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl cursore sullo schermo del computer si è mosso. Based on the previous passage, choose the most reasonable cause.\nA:L'utente ha cliccato il mouse.\nB:L'utente ha spostato il mouse.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'autista ha fatto una deviazione. Based on the previous passage, choose the most reasonable cause.\nA:C'è stato un incidente sulla strada principale.\nB:Ha seguito il furgone davanti a lei.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nHo appeso la biancheria bagnata sullo stendino di fuori. Based on the previous passage, choose the most reasonable effect.\nA:La biancheria si è asciugata.\nB:La biancheria si è macchiata.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa donna ha indossato gli occhiali da sole. Based on the previous passage, choose the most reasonable cause.\nA:La luce del sole era abbagliante.\nB:Ha fermato un taxi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'uomo ammirò il cielo notturno. Based on the previous passage, choose the most reasonable cause.\nA:Desiderava fosse estate.\nB:Pensava che fosse stupendo.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMi sentivo esausto. Based on the previous passage, choose the most reasonable effect.\nA:Sono andato a dormire presto.\nB:Sono rimasto sveglio tutta la notte.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'uomo è andato dal barbiere. Based on the previous passage, choose the most reasonable cause.\nA:Si stava lasciando crescere i capelli.\nB:I suoi capelli stavano diventando lunghi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl ragazzino faceva dei brutti scherzi al suo nuovo compagno di classe. Based on the previous passage, choose the most reasonable cause.\nA:Il ragazzino ha dato il benvenuto al suo nuovo compagno di classe.\nB:Al ragazzino non piaceva il nuovo compagno di classe.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBramavo un bicchiere di latte. Based on the previous passage, choose the most reasonable cause.\nA:Stavo mangiando dei biscotti.\nB:Stavo infornando del pane.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nÈ iniziato a piovere. Based on the previous passage, choose the most reasonable effect.\nA:L'autista ha accesso i fari.\nB:L'autista ha messo la macchina in retromarcia.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl parcheggio del palazzo era vuoto. Based on the previous passage, choose the most reasonable effect.\nA:Ho parcheggiato dall'altro lato della strada.\nB:Ho parcheggiato vicino all'entrata.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa scrittrice ha mancato la scadenza per inviare la bozza. Based on the previous passage, choose the most reasonable cause.\nA:Aveva il blocco dello scrittore.\nB:Ha corretto la bozza.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'impiegato mi ha chiuso il telefono in faccia. Based on the previous passage, choose the most reasonable cause.\nA:Ho chiesto di rivolgermi ad un superiore.\nB:Gli ho fornito il mio numero identificativo.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl vento soffiò attraverso la finestra aperta. Based on the previous passage, choose the most reasonable effect.\nA:Il campanello squillò.\nB:Le tende oscillarono.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nC'è stata una interruzione di corrente elettrica a casa mia. Based on the previous passage, choose the most reasonable cause.\nA:Ho scollegato una lampada.\nB:Ho bruciato un fusibile.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl cuturista ha lanciato un gemito. Based on the previous passage, choose the most reasonable cause.\nA:Ha flesso i muscoli allo specchio.\nB:Ha sollevato la barra sopra la sua testa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLo studente ha provato a fare i calcoli a mente. Based on the previous passage, choose the most reasonable effect.\nA:Ha estratto una calcolatrice.\nB:Si è confuso.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl bambino si è addormentato. Based on the previous passage, choose the most reasonable cause.\nA:Il papà ha cambiato il pannolino del bambino.\nB:Il padre ha cullato dolcemente il bambino.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa bambina ha tirato il gavettone al bambino. Based on the previous passage, choose the most reasonable effect.\nA:Il ragazzo ha avuto una commozione cerebrale.\nB:Il ragazzo si è inzuppato.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl fotografo si è dimenticato di usare il flash. Based on the previous passage, choose the most reasonable effect.\nA:Le foto sono uscite sfocate.\nB:Tutte le persone nella foto si sono rifiutate di sorridere.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nHo rifiutato l'invito alla festa di compleanno. Based on the previous passage, choose the most reasonable cause.\nA:Ero solo.\nB:Ero fuori città.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nHo fatto ginnastica. Based on the previous passage, choose the most reasonable cause.\nA:Mi sentivo pieno di energie.\nB:Ero spaventato.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nHo strizzato la spugna umida. Based on the previous passage, choose the most reasonable effect.\nA:Ha assorbito dell'acqua.\nB:È colata dell'acqua.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nI vacanzieri hanno raggiunto il villaggio turistico con un traghetto. Based on the previous passage, choose the most reasonable cause.\nA:Il villaggio turistico era pieno.\nB:Il villaggio turistico si trovava su di una isola.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa ragazzina si è fatta un tatuaggio. Based on the previous passage, choose the most reasonable cause.\nA:Aveva paura degli aghi.\nB:Voleva ribellarsi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nUna macchina ignota ha parcheggiato fuori casa mia. Based on the previous passage, choose the most reasonable effect.\nA:Mi sono insospettita.\nB:Ho chiamato la polizia.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl criminale si è costituito. Based on the previous passage, choose the most reasonable cause.\nA:Le prove lo hanno incriminato.\nB:Non c'erano prove contro di lui.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nUn uomo robusto ha deciso di perdere peso. Based on the previous passage, choose the most reasonable effect.\nA:Ha escluso i dolci dalla dieta.\nB:Ha evitato la caffeina.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa ragazza ha calpesatato del ghiaccio. Based on the previous passage, choose the most reasonable effect.\nA:È scivolata.\nB:Ha rabbrividito.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa donna aveva le borse sotto gli occhi. Based on the previous passage, choose the most reasonable cause.\nA:È rimasta tutta la notte sveglia.\nB:Ha fatto addormentare il figlio.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa lava fuoriusciva dal vulcano. Based on the previous passage, choose the most reasonable cause.\nA:Il vulcano ha eruttato.\nB:Il vulcano era dormiente.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa donna ha indossato le sue scarpe. Based on the previous passage, choose the most reasonable cause.\nA:Conosceva tutti alla festa.\nB:Voleva lasciare la festa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nHo pagato l'addetto del casello. Based on the previous passage, choose the most reasonable effect.\nA:Mi ha lasciato passare oltre il casello.\nB:Mi ha trattenuto al casello.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl dirigente è andato in bancarotta. Based on the previous passage, choose the most reasonable cause.\nA:Ha venduto tutte le azioni della compagnia.\nB:Ha sperperato le sue fortune.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'uomo è andato dal dottore. Based on the previous passage, choose the most reasonable cause.\nA:Il dottore era in congedo.\nB:L'uomo si era ammalato.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSono uscito dalla mia stanza da letto attraverso la finestra. Based on the previous passage, choose the most reasonable cause.\nA:La casa era in fiamme.\nB:La casa era vuota.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLe dita del bambino erano raggrinzite. Based on the previous passage, choose the most reasonable cause.\nA:Ha fatto una doccia lunga.\nB:Si è cosparso le mani di sapone.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nHo sputato il latte. Based on the previous passage, choose the most reasonable cause.\nA:Il latte era acido.\nB:La mia bocca era asciutta.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nHo perso l'autobus. Based on the previous passage, choose the most reasonable effect.\nA:Ero in anticipo per il lavoro.\nB:Sono arrivato tardi a lavoro.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl camion si è scontrato con l'auto. Based on the previous passage, choose the most reasonable effect.\nA:Il camion ha accelerato.\nB:La macchina si è sfasciata.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa squadra ha truccato il concorso a proprio favore. Based on the previous passage, choose the most reasonable effect.\nA:Hanno vinto.\nB:Si sono ritirati.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa bottiglia della bevanda ha frizzato. Based on the previous passage, choose the most reasonable cause.\nA:Ho capovolto la bottiglia.\nB:Ho svitato il tappo.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl bambino è rimasto chiuso fuori di casa. Based on the previous passage, choose the most reasonable effect.\nA:È rientrato infilandosi in una finestra.\nB:Si è arrampicato sul tetto.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl campanello suonò. Based on the previous passage, choose the most reasonable effect.\nA:Il visitatore bussò alla porta con il battente .\nB:La donna sbirciò fuori attraverso il buco della serratura nella porta.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'uomo si macchiò l'abito. Based on the previous passage, choose the most reasonable effect.\nA:L'ha lavato a secco.\nB:L'ha appeso nell'armadio.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa ragazza schiacciò il tubetto del dentifricio. Based on the previous passage, choose the most reasonable effect.\nA:Il dentifricio schizzò fuori dal tubetto.\nB:La ragazza sputò il dentifricio.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLe morti civili dovute alla guerra si impennarono. Based on the previous passage, choose the most reasonable effect.\nA:I pacifisti organizzarono una protesta.\nB:I pacifisti tennero una parata.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa ragazza si è strappata via il fiocco dai capelli. Based on the previous passage, choose the most reasonable cause.\nA:Ha legato il fiocco.\nB:Il fiocco la faceva sembrare infantile.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'uomo si è fatto una chirurgia plastica. Based on the previous passage, choose the most reasonable effect.\nA:È invecchiato.\nB:Sembrava più giovane.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nUn pulcino ha fatto capolino dall'uovo. Based on the previous passage, choose the most reasonable cause.\nA:L'uovo si è schiuso.\nB:Ho rotto l'uovo.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl prigioniero era denutrito. Based on the previous passage, choose the most reasonable effect.\nA:È morto.\nB:È scappato via.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'uomo perse l'equilibrio sulla scala. Based on the previous passage, choose the most reasonable effect.\nA:Ha salito la scala.\nB:È caduto dalla scala.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl bambino ha ruttato. Based on the previous passage, choose the most reasonable cause.\nA:Ha bevuto un sorso di soda.\nB:Ha aperto una lattina di soda.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nUno spiffero freddo entrò dalla finestra. Based on the previous passage, choose the most reasonable effect.\nA:Mi sono rilassata.\nB:Ho rabbrividito.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLo studente ha ricevuto una borsa di studio per l'università. Based on the previous passage, choose the most reasonable cause.\nA:I suoi compagni di classe la rispettavano.\nB:Aveva dei voti alti.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa ragazza ha scherzato con il ragazzo. Based on the previous passage, choose the most reasonable cause.\nA:Lei abitava alla porta accanto.\nB:Lei aveva una cotta per lui.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl vagabondo affamato ha rubato del cibo. Based on the previous passage, choose the most reasonable cause.\nA:Faceva pietà.\nB:Non aveva denaro.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nHo chiamato il mio amico per chiaccherare. Based on the previous passage, choose the most reasonable cause.\nA:Cercavo la solitudine.\nB:Mi sentivo solo.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'uomo protese la mano verso di me. Based on the previous passage, choose the most reasonable effect.\nA:Gli ho stretto la mano.\nB:L'ho schiaffeggiato.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMi sono scansato. Based on the previous passage, choose the most reasonable cause.\nA:I fuochi d'artificio sono stati lanciati in aria.\nB:Il frisbee è planato verso la mia testa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa ragazza si mordeva le unghia. Based on the previous passage, choose the most reasonable cause.\nA:Era preoccupata.\nB:Era sorpresa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nHo girato pagina al calendario. Based on the previous passage, choose the most reasonable cause.\nA:Ho segnato un appuntamento sul calendario.\nB:Era l'inizio di un nuovo mese.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl marito ha scoperto che la moglie lo tradiva. Based on the previous passage, choose the most reasonable effect.\nA:Ha licenziato il suo avvocato.\nB:Ha chiesto il divorzio.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa ragazza ha fatto cadere la palla di gomma. Based on the previous passage, choose the most reasonable effect.\nA:La palla ha rimbalzato.\nB:La palla brillava.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa ragazza ha commesso un errore nel suo compito. Based on the previous passage, choose the most reasonable effect.\nA:Ha indovinato la risposta.\nB:Ha cancellato la risposta.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl giocatore ha placcato il suo avversario. Based on the previous passage, choose the most reasonable effect.\nA:Il suo avversario ha preso il passaggio.\nB:Il suo avversario è caduto a terra.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nHo raccolto i pomodori a grappolo. Based on the previous passage, choose the most reasonable cause.\nA:Erano maturi.\nB:Li ho annaffiati.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'uomo voleva fare il romantico. Based on the previous passage, choose the most reasonable effect.\nA:Ha incontrato la sua ex a pranzo.\nB:Ha comprato dei cioccolatini alla sua ragazza.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl mercurio nel termometro si è alzato. Based on the previous passage, choose the most reasonable cause.\nA:Ho fatto cadere il termometro.\nB:Il clima si è scaldato.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nUn tornado è passato attraverso la città. Based on the previous passage, choose the most reasonable effect.\nA:Il tetto del tribunale è volato via.\nB:L'autostrada era pericolosamente ghiacciata.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLo studente andava a ripetizioni. Based on the previous passage, choose the most reasonable effect.\nA:I suoi voti sono migliorati.\nB:Ha copiato all'esame.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMi sentivo a mio agio. Based on the previous passage, choose the most reasonable cause.\nA:Mi sono inginocchiato per terra.\nB:Mi sono avvolta in una coperta.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nHo lucidato la pietra. Based on the previous passage, choose the most reasonable effect.\nA:È diventata scivolosa.\nB:È diventata lucida.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nHo aggiunto dello zucchero nel caffè. Based on the previous passage, choose the most reasonable effect.\nA:Il caffè emanava un odore fortissimo.\nB:Il caffè aveva un sapore dolce.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'uomo sfogliava le pagine. Based on the previous passage, choose the most reasonable effect.\nA:Si è tagliato con la carta.\nB:Ha distrutto le pagine col tritacarta.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nHo battuto il chiodo con il martello. Based on the previous passage, choose the most reasonable effect.\nA:Il chiodo è affondato nel legno.\nB:Il chiodo si è arrugginito.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl pesce ha morso la lenza. Based on the previous passage, choose the most reasonable effect.\nA:Il pescatore ha tirato su il pesce.\nB:Il pescatore ha buttato di nuovo la lenza.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa ragazzina era in imbarazzo ad andare a scuola. Based on the previous passage, choose the most reasonable cause.\nA:Aveva un brufolo.\nB:Si è tolta l'apparecchio per i denti.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl mio viso si è illuminato. Based on the previous passage, choose the most reasonable cause.\nA:Ho ricevuto delle buone notizie.\nB:Ho perso la pazienza.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nHo asciugato le mie mani con un asciugamano. Based on the previous passage, choose the most reasonable cause.\nA:L'asciugamano era bagnato.\nB:Le mie mani erano bagnate.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'uomo ha perso l'equilibrio sullo sgabello. Based on the previous passage, choose the most reasonable cause.\nA:Lo sgabello traballava sotto di lui.\nB:Ha rovesciato della pittura sullo sgabello.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nI compagni di squadra si sono incolpati a vicenda. Based on the previous passage, choose the most reasonable cause.\nA:Hanno perso la partita.\nB:Il loro allenatore ha cancellato l'allenamento.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nHo chiesto perdono. Based on the previous passage, choose the most reasonable cause.\nA:Mi sono pentito del mio errore.\nB:Ho raggiunto il mio obiettivo.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa donna si è annoiata con il suo fidanzato. Based on the previous passage, choose the most reasonable cause.\nA:Lui chiedeva domande su di lei.\nB:Parlava di se stesso in maniera incessante.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa ragazza ha sfoderato un sorriso. Based on the previous passage, choose the most reasonable effect.\nA:Le sue guance sono arrossite.\nB:Sono emerse le fossette.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa nave nemica è esplosa. Based on the previous passage, choose the most reasonable cause.\nA:È passata su di una mina.\nB:È attraccata in porto.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'uomo si è perforato un piede. Based on the previous passage, choose the most reasonable cause.\nA:Ha calpestato una pozzanghera.\nB:Ha calpestato del vetro rotto.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nGli investigatori hanno controllato le impronte sulla scena del crimine. Based on the previous passage, choose the most reasonable effect.\nA:Hanno scoperto l'identità dell'assassino.\nB:Hanno trovato l'arma del delitto sulla scena del crimine.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nC'era molto traffico sull'autostrada. Based on the previous passage, choose the most reasonable effect.\nA:Ho preso una deviazione.\nB:Ho chiesto un passaggio.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'economia nazionale era in declino. Based on the previous passage, choose the most reasonable effect.\nA:Molte persone si sono ammalate.\nB:Molte persone hanno affrontato la disoccupazione.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl vigile urbano ha soffiato il fischietto ai bambini. Based on the previous passage, choose the most reasonable cause.\nA:I bambini stavano per attraversare con il traffico in arrivo.\nB:Il vigile li ha riconosciuti dal suo quartiere.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nHo alzato gli occhi al cielo con il mio amico. Based on the previous passage, choose the most reasonable cause.\nA:Mi ha detto la verità.\nB:Ha fatto un commento sarcastico.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'auto è rimasta senza benzina. Based on the previous passage, choose the most reasonable effect.\nA:L'autista è rimasto bloccato sulla strada.\nB:L'autista ha preso su un autostoppista.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa donna è entrata in travaglio. Based on the previous passage, choose the most reasonable effect.\nA:Il bambino è stato partorito.\nB:La donna aveva la nausea mattutina.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl cappello dell'uomo è volato via. Based on the previous passage, choose the most reasonable cause.\nA:L'uomo si è tolto il cappello.\nB:Tirava vento fuori.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa ragazza ha partecipato alla festa di compleanno della sua compagna di classe. Based on the previous passage, choose the most reasonable cause.\nA:Ha ricevuto un invito.\nB:Ha comprato un regalo.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa fronte del ragazzo scottava. Based on the previous passage, choose the most reasonable effect.\nA:Sua madre ha misurato la febbre.\nB:Sua madre l'ha portato al parco.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'uomo si è spruzzato il profumo. Based on the previous passage, choose the most reasonable cause.\nA:Voleva fare colpo sulla sua accompagnatrice.\nB:Si è ingellato i capelli.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'elettricità in casa è saltata. Based on the previous passage, choose the most reasonable effect.\nA:Ho cercato una torcia.\nB:Ho raccolto una pala.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa famiglia ha traslocato in una casa più grande. Based on the previous passage, choose the most reasonable cause.\nA:Il figlio si è diplomato al liceo.\nB:La madre ha dato vita a due gemelli.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa maratoneta manteneva un ritmo lento. Based on the previous passage, choose the most reasonable cause.\nA:Voleva risparmiare energie.\nB:Ha scorto il traguardo.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl ragazzo ha preso a calci il distributore automatico. Based on the previous passage, choose the most reasonable cause.\nA:Il distributore ha sputato fuori il resto.\nB:Il pacco di patatine era rimasto incastrato dentro.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl cane del mio amico è morto. Based on the previous passage, choose the most reasonable effect.\nA:Ho alzato gli occhi al cielo.\nB:L'ho abbracciato.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa carta di credito dell'imprenditore è stata rifiutata. Based on the previous passage, choose the most reasonable effect.\nA:Ha scritto una cambiale.\nB:Ha pagato in contanti.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'uomo imprecò. Based on the previous passage, choose the most reasonable cause.\nA:Si è tagliato le unghie.\nB:Ha sbattuto il dito.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'uomo era fiero di suo fratello. Based on the previous passage, choose the most reasonable cause.\nA:Suo fratello ha litigato con i loro genitori.\nB:Suo fratello è entrato a giurisprudenza.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa ragazza voleva saperne di più sul sistema solare. Based on the previous passage, choose the most reasonable effect.\nA:È andata alla biblioteca.\nB:Ha guardato le stelle.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl poster si è attaccato al muro. Based on the previous passage, choose the most reasonable cause.\nA:Ho posizionato il poster sopra la porta.\nB:Ho messo del nastro adesivo dietro il poster.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl cliente ha approvato il progetto del palazzo creato dall'architetto. Based on the previous passage, choose the most reasonable effect.\nA:L'architetto ha costruito il palazzo.\nB:L'architetto ha sistemato il progetto.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'uomo ha fatto cadere il suo cucchiaio. Based on the previous passage, choose the most reasonable cause.\nA:La sua mano stava tremando.\nB:Ha leccato il cucchiaio.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'amministratore delegato della società si è dimesso. Based on the previous passage, choose the most reasonable effect.\nA:Il consiglio di amministrazione ha sciolto la società.\nB:Il consiglio di amministrazione ha trovato il suo sostituto.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSono arrivato tardi a lezione. Based on the previous passage, choose the most reasonable effect.\nA:Ho trovato posto in fondo all'aula.\nB:Mi sono avvicinato al podio.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'uomo è stato rilasciato dal carcere. Based on the previous passage, choose the most reasonable cause.\nA:La sua famiglia ha pagato la cauzione.\nB:Lui ha attaccato un altro prigioniero.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa famiglia ha perso tutti i suoi averi. Based on the previous passage, choose the most reasonable cause.\nA:Hanno venduto la casa.\nB:La loro casa è andata in fiamme.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nHo calpestato la lattina. Based on the previous passage, choose the most reasonable effect.\nA:La lattina è stata riciclata.\nB:La lattina è stata schiacciata.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa ragazza si è unita al gruppo di dibattito. Based on the previous passage, choose the most reasonable effect.\nA:Ha imparato ad usare un computer.\nB:Ha imparato delle abilità comunicative.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl mio umore è migliorato. Based on the previous passage, choose the most reasonable cause.\nA:Ho ascoltato della musica.\nB:Ho lavato i piatti.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'ente di beneficenza si è posto l'obiettivo di raccogliere fondi. Based on the previous passage, choose the most reasonable effect.\nA:Hanno nutrito i senzatetto.\nB:Hanno indetto un'asta.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa vettura si è tuffata lungo la discesa repentina delle montagne russe. Based on the previous passage, choose the most reasonable effect.\nA:I passeggeri hanno riso.\nB:I passeggeri hanno urlato.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nEro furioso. Based on the previous passage, choose the most reasonable effect.\nA:Ho controllato la cassetta della posta prima lasciare casa.\nB:Ho sbattuto la porta uscendo di casa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'uomo voleva vedere l'alba. Based on the previous passage, choose the most reasonable effect.\nA:Ha viaggiato verso nord.\nB:Si è alzato presto.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nHo piegato il foglio. Based on the previous passage, choose the most reasonable effect.\nA:Ho riciclato il foglio.\nB:Il foglio si è stropicciato.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa nazione ha subito un disastro naturale. Based on the previous passage, choose the most reasonable effect.\nA:I capi delle altre nazioni hanno creato un'alleanza.\nB:I capi delle altre nazioni hanno mandato dei soccorsi d'emergenza.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nI vestiti del ragazzo si sono inzuppati. Based on the previous passage, choose the most reasonable cause.\nA:Si è arrampicato fuori dalla piscina.\nB:È caduto in piscina.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLo studente ha finito il libro in fretta. Based on the previous passage, choose the most reasonable cause.\nA:Era tempo di riportarlo in biblioteca.\nB:L'ha preso in prestito da un amico.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl criminale è stato giustiziato. Based on the previous passage, choose the most reasonable cause.\nA:È stato sbattuto in prigione.\nB:È stato incriminato di omicidio.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa luce del sole era entrata nella stanza. Based on the previous passage, choose the most reasonable cause.\nA:Ho aperto le tapparelle.\nB:Ho aperto la porta con la chiave.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nHo strappato i capelli all'impostore. Based on the previous passage, choose the most reasonable effect.\nA:La sua parrucca si è staccata.\nB:È diventato pelato.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'editore ha riformulato una frase del manoscritto. Based on the previous passage, choose the most reasonable cause.\nA:Ha trovato il manoscritto interessante.\nB:Ha ritenuto la frase poco chiara.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa donna ha cancellato il conto della sua carta di credito. Based on the previous passage, choose the most reasonable cause.\nA:Si è accorta di aver perso la carta.\nB:Si è accorta che la carta era scaduta.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'uomo e la donna si innamorarono. Based on the previous passage, choose the most reasonable effect.\nA:Sono andati all'università.\nB:Si sono sposati.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa musica era troppo bassa per essere sentita. Based on the previous passage, choose the most reasonable effect.\nA:Ho alzato il volume.\nB:Ho composto una mia canzone.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nI capelli del ragazzo erano arruffati. Based on the previous passage, choose the most reasonable cause.\nA:La ragazza li ha scompigliati.\nB:La ragazza li ha tirati.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'insetto è statto schiacciato. Based on the previous passage, choose the most reasonable cause.\nA:Mi sono spruzzata lo spray repellente addosso.\nB:Ho calpestato l'insetto.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nHo aperto gli occhi. Based on the previous passage, choose the most reasonable cause.\nA:Mi sono svegliato.\nB:Mi sono rilassato.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa musica del vicino era assordante. Based on the previous passage, choose the most reasonable effect.\nA:Gli ho chiesto di abbassare il volume.\nB:Gli ho chiesto di prestarmi il CD.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa famiglia dell'uomo viveva in povertà. Based on the previous passage, choose the most reasonable cause.\nA:Era parsimonioso con il suo stipendio.\nB:Guadagnava meno del salario minimo.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLo studente si laureò all'università. Based on the previous passage, choose the most reasonable effect.\nA:Cercò un lavoro.\nB:Si trovò un passatempo.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'artista miscelò la tempera gialla con quella blu. Based on the previous passage, choose the most reasonable effect.\nA:La tempera spruzzò dappertutto.\nB:La tempera diventò verde.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCambiai argomento di conversazione. Based on the previous passage, choose the most reasonable cause.\nA:Avevo finito le cose di cui parlare.\nB:La conversazione divenne tesa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMio fratello fu dimesso dall'ospedale. Based on the previous passage, choose the most reasonable effect.\nA:Gli diedi il bentornato a casa.\nB:Lo trattai con freddezza.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa tenda sul parco si alzò. Based on the previous passage, choose the most reasonable effect.\nA:Iniziò la scena di apertura dello spettacolo.\nB:Gli attori dello spettacolo uscirono di scena.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'ostaggio si sottomise agi ordini del rapitore. Based on the previous passage, choose the most reasonable cause.\nA:Il rapitore minacciò di fare del male all'ostaggio.\nB:Il rapitore lasciò l'ostaggio da solo.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nUn rimbombo riverberò sul palco. Based on the previous passage, choose the most reasonable cause.\nA:Il musicista batté il piede.\nB:Il musicista pestò sul tamburo.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nI genitori accorsero alla camera da letto del figlio. Based on the previous passage, choose the most reasonable cause.\nA:Il figlio si era svegliato da un incubo urlando.\nB:Il figlio aveva paura di guardare sotto il letto.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa donna comunicò attraverso la lingua dei segni. Based on the previous passage, choose the most reasonable cause.\nA:Era nata prematura.\nB:Era sorda dalla nascita.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCi fu siccità nella regione. Based on the previous passage, choose the most reasonable effect.\nA:L'acqua fu contaminata.\nB:Il raccolto andò distrutto.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl gatto diede la caccia all'uccello. Based on the previous passage, choose the most reasonable effect.\nA:L'uccello volò via.\nB:L'uccello catturò un verme.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa ragazza cambiò scuola. Based on the previous passage, choose the most reasonable cause.\nA:Erano le vacanze estive.\nB:Si era transferita in una nuova città.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl padrone della fabbrica si rifiutò di aumentare il salario dei suoi operai. Based on the previous passage, choose the most reasonable effect.\nA:Il padrone assunse un nuovo amministratore.\nB:Gli operai andarono in sciopero.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl capo di partito si inimicò gli estremisti all'interno del proprio paese. Based on the previous passage, choose the most reasonable effect.\nA:Gli estremisti lo influenzarono.\nB:Gli estremisti lo assassinarono.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCamminai a piedi nudi sulla spiaggia. Based on the previous passage, choose the most reasonable effect.\nA:La sabbia si appiccicò ai miei piedi.\nB:Le onde si infransero lungo la spiaggia.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMi svegliai nel mezzo della notte per il freddo. Based on the previous passage, choose the most reasonable effect.\nA:Indossai i pantaloni della tuta.\nB:Bevvi un bicchier d'acqua.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa madre zittì suo figlio. Based on the previous passage, choose the most reasonable cause.\nA:Suo figlio fece una smorfia di soddisfazione.\nB:Suo figlio piagnucolava.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nI miei jeans si squarciarono. Based on the previous passage, choose the most reasonable cause.\nA:Tirai su la cerniera.\nB:Inciampai sul marciapiede.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl ragazzo indossava l'apparecchio. Based on the previous passage, choose the most reasonable effect.\nA:Prese le carie.\nB:Il suoi denti si raddrizzarono.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIeri mi esercitai in palestra. Based on the previous passage, choose the most reasonable effect.\nA:Oggi mi  sono svegliato con i muscoli doloranti.\nB:Oggi mi sono svegliato con la gola infiammata.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLe ragazze continuavano a parlarsi all'orecchio a tavola. Based on the previous passage, choose the most reasonable effect.\nA:Altri studenti si sedettero alla tavola.\nB:Gli altri studenti a tavola si sentirono esclusi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa bambina atterrò sul tappeto elastico. Based on the previous passage, choose the most reasonable effect.\nA:Si librò di nuovo in aria.\nB:Decise di provare a fare una capriola.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nDepositai una lettera nella buca. Based on the previous passage, choose the most reasonable effect.\nA:L'ufficio postale recapitò la lettera.\nB:L'ufficio postale accelerò la lettera.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl giocatore d'azzardo era sicuro di sé. Based on the previous passage, choose the most reasonable effect.\nA:Scommise tutto il suo denaro.\nB:Tornò a casa squattrinato.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'incendio si diffuse per la foresta. Based on the previous passage, choose the most reasonable cause.\nA:I venti si intensificarono.\nB:Gli incendiari furono arrestati.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl bambino si sbucciò il ginocchio. Based on the previous passage, choose the most reasonable effect.\nA:La madre lo mandò in camera sua.\nB:La madre mise un cerotto sulla ferita.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'uomo soppravvisse a una malattia mortale. Based on the previous passage, choose the most reasonable cause.\nA:Aveva firmato il suo testamento.\nB:Aveva ricevuto un trapianto di organi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBevvi un sorso del caffè bollente. Based on the previous passage, choose the most reasonable effect.\nA:Mi morsi la lingua.\nB:Mi scottai la lingua.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'editore licenziò la scrittrice. Based on the previous passage, choose the most reasonable cause.\nA:La scrittrice evitava distorsioni nelle sue storie.\nB:La scrittrice aveva mancato una scadenza importante.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMi sentivo esausto. Based on the previous passage, choose the most reasonable cause.\nA:Dormii per tutto il giorno.\nB:Studiai per tutto il giorno.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa dottoressa fece una diagnosi al paziente. Based on the previous passage, choose the most reasonable cause.\nA:Identificò i sintomi del paziente.\nB:Prescrisse delle pillole al paziente.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMi grattai la pelle. Based on the previous passage, choose the most reasonable cause.\nA:Era sudata.\nB:Prudeva.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'uomo subì un intervento chirurgico d'urgenza. Based on the previous passage, choose the most reasonable cause.\nA:Aveva perso il controllo.\nB:Aveva avuto un infarto.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nI muscoli sul braccio dell'uomo sporsero. Based on the previous passage, choose the most reasonable cause.\nA:Aveva contratto le braccia.\nB:Aveva massaggiato le braccia.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'uomo sollevò le sopracciglia. Based on the previous passage, choose the most reasonable cause.\nA:Era sorpreso.\nB:Si sentiva scoraggiato.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nScusai la gaffe del mio collega. Based on the previous passage, choose the most reasonable cause.\nA:Credevo che aveva avuto buone intenzioni.\nB:Credevo fosse più giudizioso.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'uomo smise di fumare. Based on the previous passage, choose the most reasonable effect.\nA:Iniziò a esercitasi di più.\nB:Iniziò a svegliarsi prima.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa donna diede un pugno al naso dell'assalitore. Based on the previous passage, choose the most reasonable effect.\nA:Il corpo dell'assalitore cadde esanime.\nB:L'assalitore iniziò a sanguinare.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa freccetta mancò il centro del bersaglio. Based on the previous passage, choose the most reasonable cause.\nA:L'uomo aveva mirato male.\nB:L'uomo stava perdendo la partita.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl proprietario richiese che un disinfestatore venisse a casa sua. Based on the previous passage, choose the most reasonable cause.\nA:Scoprì dei topi in cantina.\nB:Teneva un allevamento di formiche in camera sua.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nProposi al mio ospite di cenare fuori. Based on the previous passage, choose the most reasonable cause.\nA:Ero troppo stanco per preparare alcunché.\nB:Il mio ospite aveva prolungato troppo la sua permanenza.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa ragazza sorprese il fratello a sbirciare il suo diario. Based on the previous passage, choose the most reasonable effect.\nA:Iniziò a nascondere il diario.\nB:Comprò un diario nuovo.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAlla donna mancavano i soldi per l'affitto. Based on the previous passage, choose the most reasonable effect.\nA:Fece gli straordinari a lavoro.\nB:Si licenziò da lavoro.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa mano del mabino si ritrasse rapidamente. Based on the previous passage, choose the most reasonable cause.\nA:Aveva toccato i fornelli caldi.\nB:Aveva accarezzato la testa del cucciolo di cane.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'azienda voleva misurare la soddisfazione del cliente. Based on the previous passage, choose the most reasonable effect.\nA:Offrirono uno sconto ai nuovi clienti.\nB:Distribuirono un questionario fra i clienti.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl pavimento in legno era graffiato. Based on the previous passage, choose the most reasonable cause.\nA:Il ragazzo aveva gettato i cuscini giù dal divano.\nB:Il ragazzo aveva trascinato una sedia sul pavimento.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMi schermai la faccia. Based on the previous passage, choose the most reasonable cause.\nA:Il mio nemico mi aveva schernito.\nB:Il mio nemico aveva stretto il pugno.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa famosa statua era bruciata. Based on the previous passage, choose the most reasonable cause.\nA:Era stata colpita da un fulmine.\nB:La gente veniva a venerarla.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLasciai la frutta fuori sul tavolo. Based on the previous passage, choose the most reasonable effect.\nA:Dalla frutta caddero i semi.\nB:Dei moscerini giravano attorno alla frutta.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa ballerina si strappò un legamento. Based on the previous passage, choose the most reasonable cause.\nA:Si era messa in punta di piedi.\nB:Si era storta la caviglia.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl bambino aveva le scarpe slacciate. Based on the previous passage, choose the most reasonable cause.\nA:Aveva imparato ad allacciarle.\nB:Aveva corso in giro per il parco giochi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl libro mi aveva ammaliato. Based on the previous passage, choose the most reasonable effect.\nA:Restituii il libro.\nB:Persi la cognizione del tempo.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'uomo aveva convinzioni simili a quelle dei suoi genitori. Based on the previous passage, choose the most reasonable cause.\nA:I suoi genitori lo avevano influenzato.\nB:I suoi genitori lo avevano ripudiato.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa macchina rallentò gradualmente fino a fermarsi. Based on the previous passage, choose the most reasonable cause.\nA:Aveva finito la benzina.\nB:L'autista si era addormentato.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'uomo mangiò il gelato sotto il sole. Based on the previous passage, choose the most reasonable effect.\nA:Il gelato perse il suo sapore.\nB:Il gelato sgocciolò dal cono.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAppesi un'opera d'arte in camera. Based on the previous passage, choose the most reasonable cause.\nA:Il tappeto sembrava sporco.\nB:Le pareti sembravano spoglie.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLasciai lavoro in anticipo. Based on the previous passage, choose the most reasonable cause.\nA:Avevo mal di testa.\nB:Il mio capo tenne un incontro.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl cucciolo insudiciò il tappeto. Based on the previous passage, choose the most reasonable effect.\nA:Il proprietario rimproverò il cucciolo.\nB:Il proprietario diede una ricompensa al cucciolo.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMi scusai con il mio amico. Based on the previous passage, choose the most reasonable effect.\nA:Il mio amico mi perdonò.\nB:Il mio amico si infuriò.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'uomo si stagliava fra la folla. Based on the previous passage, choose the most reasonable cause.\nA:Portava uno zaino.\nB:Indossava un giubbotto catarifrangente.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl testimone mentì sotto giuramento. Based on the previous passage, choose the most reasonable effect.\nA:Completò la sua testimonianza.\nB:Fu accusato di spergiuro.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa donna si tinse i capelli. Based on the previous passage, choose the most reasonable cause.\nA:Voleva un nuovo look.\nB:Voleva passare inosservata.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGli immigrati furono sorpresi a risiedere illegalmente nel paese. Based on the previous passage, choose the most reasonable effect.\nA:Trovarono un impiego.\nB:Furono deportati.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'oratrice fece una battuta. Based on the previous passage, choose the most reasonable effect.\nA:Il pubblico rise.\nB:Il pubblico si alzò.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nFissai il sole. Based on the previous passage, choose the most reasonable effect.\nA:Il sole mi accecò.\nB:Il sole abbronzò la mia pelle.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMi sentivo annoiato. Based on the previous passage, choose the most reasonable effect.\nA:Sbuffai.\nB:Sbadigliai.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa bistecca era difficile da tagliare. Based on the previous passage, choose the most reasonable cause.\nA:Il coltello era smussato.\nB:La bistecca era cruda.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa donna dichiarò bancarotta. Based on the previous passage, choose the most reasonable cause.\nA:Riceveva assegni di mantenimento.\nB:Aveva contratto un debito enorme.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLe luci nell'appartamento del mio amico erano accese. Based on the previous passage, choose the most reasonable effect.\nA:Mi chiesi se fosse uscito.\nB:Decisi di passare a visitarlo.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMisi il fiore sotto al naso. Based on the previous passage, choose the most reasonable effect.\nA:I petali caddero dal fiore.\nB:Percepii il profumo del fiore.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa donna si sentiva nostalgica. Based on the previous passage, choose the most reasonable cause.\nA:Si era imbattuta in un amico di infanzia.\nB:Aveva sgridato i suoi bambini.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLo studente procrastinava il tema. Based on the previous passage, choose the most reasonable effect.\nA:Consegnò il tema in anticipo.\nB:Consegnò un tema incompleto.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa mia macchina si è rotta. Based on the previous passage, choose the most reasonable effect.\nA:Sono andato al centro commerciale.\nB:Ho chiamato un meccanico.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nButtai via l'appunto. Based on the previous passage, choose the most reasonable cause.\nA:Era anonimo.\nB:Era illeggibile.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'uccello sbatté le ali. Based on the previous passage, choose the most reasonable effect.\nA:Depose le uova.\nB:Si innalzò in cielo.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nParcheggiai sul vialetto. Based on the previous passage, choose the most reasonable cause.\nA:Il garage era aperto.\nB:Il garage era pieno.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl criminale puntò la pistola contro la vittima. Based on the previous passage, choose the most reasonable effect.\nA:Il criminale abbassò la pistola.\nB:La vittima alzò le mani.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNon vedevo l'ora del fine settimana. Based on the previous passage, choose the most reasonable cause.\nA:Avevo intenzione di partecipare al funerale di mio zio.\nB:Avevo intenzione di partecipare al matrimonio del mio amico.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPersi cognizione del tempo. Based on the previous passage, choose the most reasonable cause.\nA:Stavo sognando a occhi aperti.\nB:Ero nauseato.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa stampa del documento era illeggibile. Based on the previous passage, choose the most reasonable cause.\nA:La stampante aveva quasi finito l'inchiostro.\nB:La stampante aveva finito la carta.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLo stadio suonò l'inno nazionale. Based on the previous passage, choose the most reasonable effect.\nA:I tifosi si rivolsero verso la bandiera.\nB:I tifosi si precipitarono in campo.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl condimento era insipido. Based on the previous passage, choose the most reasonable effect.\nA:Lo servii.\nB:Ci misi del sale.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMisi della carta assorbente sulla fuoriuscita. Based on the previous passage, choose the most reasonable effect.\nA:La carta assorbì il liquido.\nB:La fuoriuscita lasciò un residuo appiccicoso.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa donna fu interrotta mentre leggeva il suo libro. Based on the previous passage, choose the most reasonable effect.\nA:Mise un segnalibro sulla pagina.\nB:Lesse il libro da capo.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'aereo incontrò qualche turbolenza. Based on the previous passage, choose the most reasonable effect.\nA:L'uomo strinse la propria cintura di sicurezza.\nB:L'uomo guardò fuori dal finestrino.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl ragazzo sussultò. Based on the previous passage, choose the most reasonable cause.\nA:La ragazza lo aveva ignorato.\nB:La ragazza lo aveva punzecchiato.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nI dottori diedero un arto artificiale al paziente. Based on the previous passage, choose the most reasonable cause.\nA:Le avevano amputato la gamba.\nB:Avevano monitorato le sue funzioni vitali.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl ragazzo pizzicò il gomito della ragazza. Based on the previous passage, choose the most reasonable effect.\nA:Lei scrollò le spalle.\nB:Lei ritrasse il braccio di scatto.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nChiesi consiglio al mio amico. Based on the previous passage, choose the most reasonable cause.\nA:Stimavo la sua opinione.\nB:Sapevo di aver ragione.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl ragazzo camminò nel fango. Based on the previous passage, choose the most reasonable effect.\nA:Il fango si attaccò alle sue scarpe.\nB:Il fango lo colpì in faccia.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSulla città si depositarono svariati centimetri di neve. Based on the previous passage, choose the most reasonable effect.\nA:Le scuole chiusero.\nB:La gente si nascose sottoterra.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl turno dell'impiegato era finito. Based on the previous passage, choose the most reasonable effect.\nA:Andò a casa per quel giorno.\nB:Minacciò di licenziarsi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'albero danneggiò la casa. Based on the previous passage, choose the most reasonable cause.\nA:L'albero era caduto sul tetto.\nB:L'albero faceva ombra sul giardino.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl legno si spaccò a metà. Based on the previous passage, choose the most reasonable cause.\nA:Avevo impilato il legno nel camino.\nB:Avevo fatto scendere un colpo d'ascia sul legno.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa famiglia fece le sue congratulazioni alla coppia. Based on the previous passage, choose the most reasonable cause.\nA:La coppia aveva annunciato che si stavano separando.\nB:La coppia aveva annunciato che stavano avando un bambino.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa ragazza aveva inviato al ragazzo un biglietto di S. Valentino. Based on the previous passage, choose the most reasonable cause.\nA:Lui le piaceva.\nB:Lei lo aveva baciato.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAnnuii all'affermazione del mio amico. Based on the previous passage, choose the most reasonable cause.\nA:Ero confuso.\nB:Ero d'accordo con lui.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nGli amici lanciarono una moneta. Based on the previous passage, choose the most reasonable cause.\nA:Volevano trovare un compromesso.\nB:Volevano prendere la decisione giusta.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl timer aveva suonato in cucina. Based on the previous passage, choose the most reasonable effect.\nA:L'uomo scaricò la spesa nel frigorifero.\nB:L'uomo tirò fuori la pizza dal forno.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa donna stabilì un obiettivo ambizioso. Based on the previous passage, choose the most reasonable effect.\nA:Ha battuto la fiacca.\nB:Ha lavorato duramente.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'uomo ricco morì di vecchiaia. Based on the previous passage, choose the most reasonable effect.\nA:Suo figlio finì in qualche problema legale.\nB:Suo figlio ereditò la sua fortuna.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa donna calpestò le fiamme. Based on the previous passage, choose the most reasonable effect.\nA:Le fiamme si spensero.\nB:Del fumo si alzò dalle fiamme.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa macchina della donna era dal meccanico. Based on the previous passage, choose the most reasonable cause.\nA:Le era stata ritirata la patente.\nB:Era finita in un incidente.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMi riaddormentai dopo la sveglia. Based on the previous passage, choose the most reasonable effect.\nA:Preparai la colazione.\nB:Saltai la colazione.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa figura pubblica uscì dalla limousine. Based on the previous passage, choose the most reasonable effect.\nA:Delle macchine fotografiche lo accecarono coi flash.\nB:La sua famiglia partecipò alla conferenza stampa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa donna si trattenne nella vasca. Based on the previous passage, choose the most reasonable effect.\nA:L'acqua del bagno divenne tiepida.\nB:La vasca si prosciugò dell'acqua da bagno.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLo studente universitario voleva incontrare altri studenti nel campus. Based on the previous passage, choose the most reasonable effect.\nA:Si unì a una confraternita.\nB:Si laureò in ingegneria.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSollevai i cuscini del divano. Based on the previous passage, choose the most reasonable cause.\nA:Cercavo monetine.\nB:Stavo risistemando il salotto.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa vespa volò verso il ragazzo. Based on the previous passage, choose the most reasonable effect.\nA:Il ragazzo corse via.\nB:Il ragazzo raccolse un fiore.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa donna fu incriminata per un reato minore. Based on the previous passage, choose the most reasonable effect.\nA:Fu condannata a svolgere dei servizi sociali.\nB:Fu messa nel braccio della morte.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMischiai dello zucchero nel tè caldo. Based on the previous passage, choose the most reasonable effect.\nA:Il tè fumava.\nB:Lo zucchero si sciolse.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl veterano camminava zoppo. Based on the previous passage, choose the most reasonable cause.\nA:Era stato arruolato per la guerra.\nB:Si era infortunato in battaglia.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl criminale sfuggì alla polizia. Based on the previous passage, choose the most reasonable effect.\nA:La polizia si prese cura della vittima.\nB:La polizia inseguì il criminale.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl laptop non si accendeva. Based on the previous passage, choose the most reasonable cause.\nA:L'avevo fatto cadere.\nB:L'avevo caricato.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa donna esaurì lo spazio nel suo armadio. Based on the previous passage, choose the most reasonable cause.\nA:Aveva acquistato un ampio guardaroba.\nB:Aveva piegato il bucato.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'uomo aveva il cuore spezzato. Based on the previous passage, choose the most reasonable cause.\nA:La moglie aveva partorito.\nB:La moglie l'aveva lasciato.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'uomo ottenne un diploma. Based on the previous passage, choose the most reasonable effect.\nA:Divenne qualificato per il lavoro che voleva.\nB:La sua offerta di lavoro fu ritirata.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa voce dell'uomo si diffuse chiaramente per l'intero auditorio. Based on the previous passage, choose the most reasonable cause.\nA:Salutò il pubblico.\nB:Parlò nel microfono.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nGettai una moneta nell'acqua della fontana. Based on the previous passage, choose the most reasonable effect.\nA:La moneta si posò sul fondo.\nB:La moneta si ruppe a metà.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl giocatore colpì la palla verso la buca. Based on the previous passage, choose the most reasonable effect.\nA:La palla finì in buca.\nB:La palla ripiegò indietro verso il giocatore.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nInspirai la polvere in mansarda. Based on the previous passage, choose the most reasonable effect.\nA:Ebbi il singhiozzo.\nB:Starnutii.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl cassiere del negozio chiamò la sicurezza. Based on the previous passage, choose the most reasonable cause.\nA:Il cliente aveva usato denaro contraffatto.\nB:Il cliente aveva lasciato i fari accesi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPortai fuori la spazzatura. Based on the previous passage, choose the most reasonable cause.\nA:La spazzatura faceva puzzare la cucina.\nB:Buttai via accidentalmente la mia lista della spesa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa famiglia andò allo zoo. Based on the previous passage, choose the most reasonable effect.\nA:I bambini ammirarono gli animali.\nB:I bambini diedero la caccia agli animali.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl respiro dell'uomo era affannoso. Based on the previous passage, choose the most reasonable cause.\nA:Aveva un'insufficienza renale.\nB:Aveva una congestione polmonare.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAvevo un biglietto in più per il concerto. Based on the previous passage, choose the most reasonable effect.\nA:Chiesi al mio amico le indicazioni per la sala.\nB:Chiesi al mio amico se era interessato a venire.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl condizionatore dentro casa si era rotto. Based on the previous passage, choose the most reasonable effect.\nA:Tirai fuori le coperte.\nB:Aprii le finestre.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAl ragazzo doleva la schiena. Based on the previous passage, choose the most reasonable cause.\nA:Il suo zaino era aperto.\nB:Il suo zaino era pesante.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nComprai un regalo a mia madre. Based on the previous passage, choose the most reasonable cause.\nA:Le preparai una torta.\nB:Era il suo compleanno.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nI narcisi nel giardino erano stati distrutti. Based on the previous passage, choose the most reasonable cause.\nA:Un'ape aveva punto il giardiniere.\nB:Degli scoiattoli avevano dissotterrato i bulbi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nStrofinai il fiammifero. Based on the previous passage, choose the most reasonable effect.\nA:La fiamma si estinse.\nB:Il fiammifero produsse una fiamma.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLe parti della controversia raggiunsero un'intesa. Based on the previous passage, choose the most reasonable cause.\nA:Non volevano discutere in tribunale.\nB:Volevano risanare i loro rapporti personali.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nI bambini furono mandati in orfanotrofio. Based on the previous passage, choose the most reasonable cause.\nA:I loro genitori erano morti.\nB:I loro genitori li avevano viziati.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl meteorite atterrò nell'oceano. Based on the previous passage, choose the most reasonable effect.\nA:Si verificò uno tsunami.\nB:Iniziò a grandinare.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'escursionista incontrò un serpente velenoso. Based on the previous passage, choose the most reasonable effect.\nA:Si disidratò.\nB:Andò in panico.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl forno diventò bollente. Based on the previous passage, choose the most reasonable effect.\nA:Avevo accesso il forno.\nB:Avevo messo il piatto in forno.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSpremetti lo spicchio di limone. Based on the previous passage, choose the most reasonable effect.\nA:Il limone ammuffì.\nB:Il limone si spruzzò.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa nazione scoprì un nuovo territorio. Based on the previous passage, choose the most reasonable effect.\nA:La nazione abbandonò il territorio.\nB:La nazione colonizzò il territorio.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl bicchiere si rovesciò dal tavolo. Based on the previous passage, choose the most reasonable effect.\nA:Si frantumò su tutto il pavimento.\nB:Atterrò su un mucchio di stracci.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl tavolo oscillava. Based on the previous passage, choose the most reasonable cause.\nA:Il pavimento era irregolare.\nB:Il pavimento era scivoloso.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl padre colse il figlio a mentire. Based on the previous passage, choose the most reasonable effect.\nA:Suo figlio confessò la verità.\nB:Il padre si fidò del figlio.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa testa dell'uomo pulsava di dolore. Based on the previous passage, choose the most reasonable effect.\nA:Prese lo sciroppo per la tosse.\nB:Prese l'aspirina.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl treno rallentò. Based on the previous passage, choose the most reasonable cause.\nA:Si avvicinava alla stazione.\nB:Era in ritardo sulla tabella di marcia.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'uomo passò attraverso una terapia. Based on the previous passage, choose the most reasonable cause.\nA:Aveva casi di malattie mentali in famiglia.\nB:Gli era stata diagnosticata la depressione.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa donna si afferrò la gola. Based on the previous passage, choose the most reasonable cause.\nA:Aveva ingoiato del cibo.\nB:Si era strozzata con il cibo.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa donna aveva la gola infiammata. Based on the previous passage, choose the most reasonable effect.\nA:La sua voce suonava rauca.\nB:Parlava con un po' di accento.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl cane adocchiò la bistecca succulenta in tavola. Based on the previous passage, choose the most reasonable effect.\nA:Sbavò.\nB:Si sdraiò.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGli affari della donna avevano successo. Based on the previous passage, choose the most reasonable effect.\nA:Licenziò i suoi impiegati.\nB:Diventò ricca.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nGli studenti uscirono dalla classe. Based on the previous passage, choose the most reasonable cause.\nA:La campanella era suonata.\nB:La maestra aveva dato i compiti.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa donna sosteneva di aver visto un fantasma. Based on the previous passage, choose the most reasonable effect.\nA:I suoi conoscenti espressero il loro scetticismo.\nB:I suoi conoscenti le dimostrarono empatia.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'uomo perse il suo udito. Based on the previous passage, choose the most reasonable cause.\nA:Era quasi affogato nell'oceano.\nB:Era stato quasi ucciso da un'esplosione.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl bambino lasciò andare il filo del palloncino. Based on the previous passage, choose the most reasonable effect.\nA:Il palloncino si sgonfiò.\nB:Il palloncino si sollevò in aria.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'uomo perse l'abilità di parlare. Based on the previous passage, choose the most reasonable cause.\nA:Aveva avuto un infarto.\nB:Aveva fatto un respiro profondo.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa donna inciampò sul marciapiede. Based on the previous passage, choose the most reasonable effect.\nA:C'era una fessura nel cemento.\nB:Sentì chiamare il proprio nome.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'uomo fece un tuffo a bomba in piscina. Based on the previous passage, choose the most reasonable effect.\nA:Il bagnino si buttò dentro dopo di lui.\nB:L'uomo infradiciò il bagnino.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPresi degli antibiotici. Based on the previous passage, choose the most reasonable effect.\nA:La mia infezione guarì.\nB:La mia infezione si diffuse.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl semaforo diventò giallo. Based on the previous passage, choose the most reasonable effect.\nA:L'autista spinse il pedale del freno.\nB:L'autista suonò il clacson.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl contenitore di plastica si sciolse. Based on the previous passage, choose the most reasonable cause.\nA:Immersi il contenitore nell'acqua fredda.\nB:Misi il contenitore sui fornelli caldi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa macchina si era ammaccata. Based on the previous passage, choose the most reasonable cause.\nA:Il guidatore aveva colpito un palo del telefono.\nB:Il guidatore era passato col rosso.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl ragazzo studiò tutta la notte. Based on the previous passage, choose the most reasonable effect.\nA:Saltò l'esame.\nB:Passò l'esame.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl ragazzino si avvinghiò al bordo piscina. Based on the previous passage, choose the most reasonable cause.\nA:Aveva paura di imparare a nuotare.\nB:Il bagnino era in servizio.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMisi la mano sul petto. Based on the previous passage, choose the most reasonable effect.\nA:Sentii il battito del mio cuore.\nB:La frequenza cardiaca accelerò.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'edificio adiacente al mio ufficio era in costruzione. Based on the previous passage, choose the most reasonable effect.\nA:Il mio ufficio era affollato.\nB:Il mio ufficio era rumoroso.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa famiglia voleva conoscere i loro nuovi vicini. Based on the previous passage, choose the most reasonable effect.\nA:La famiglia invitò i vicini a cena.\nB:La famiglia salutò i vicini dal giardino.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nDell'acqua schizzò fuori dalla piscina. Based on the previous passage, choose the most reasonable cause.\nA:La nuotatrice si era tuffata in piscina.\nB:La nuotatrice galleggiava in piscina.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMangiai una fetta di anguria. Based on the previous passage, choose the most reasonable effect.\nA:Ingoiai un seme accidentalmente.\nB:Mi scheggiai un dente accidentalmente.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl ragazzo inciampò. Based on the previous passage, choose the most reasonable cause.\nA:La cerniera della sua giacca era aperta.\nB:I lacci delle sue scarpe erano slegati.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa donna indossò le cuffie. Based on the previous passage, choose the most reasonable cause.\nA:Era distratta dal rumore.\nB:Si era fatta i buchi alle orecchie.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nRiempii la mia bottiglia d'acqua. Based on the previous passage, choose the most reasonable cause.\nA:Avevo bevuto tutta l'acqua.\nB:L'avevo tenuta in frigorifero.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLo spettacolo televisivo fu censurato. Based on the previous passage, choose the most reasonable cause.\nA:Conteneva del linguaggio volgare.\nB:Aveva una trama complicata.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa nave naufragò. Based on the previous passage, choose the most reasonable effect.\nA:L'equipaggio annegò.\nB:L'equipaggio incontrò dei pirati.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl ragazzo era perplesso circa l'indovinello. Based on the previous passage, choose the most reasonable effect.\nA:Risolse l'indovinello.\nB:Richiese un indizio.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl telefono squillò. Based on the previous passage, choose the most reasonable effect.\nA:L'uomo riattaccò il telefono.\nB:L'uomo rispose al telefono.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa donna mi stava fissando. Based on the previous passage, choose the most reasonable effect.\nA:La abbracciai.\nB:Mi sentii a disagio.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl gruppo se ne andò dal museo. Based on the previous passage, choose the most reasonable cause.\nA:Avevano scattato foto della mostra.\nB:Avevano visto tutte le opere.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'uomo inizò a litigare con me. Based on the previous passage, choose the most reasonable effect.\nA:Il mio amico mi presentò all'uomo.\nB:Il mio amico mi difese.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa gomma della mia bici era a terra. Based on the previous passage, choose the most reasonable effect.\nA:Pompai aria nella gomma.\nB:Cambiai marcia.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa ragazza appariva pallida. Based on the previous passage, choose the most reasonable effect.\nA:Suo padre le raccontò una storia.\nB:Suo padre le sentì la fronte.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa penna aveva finito l'inchiostro. Based on the previous passage, choose the most reasonable effect.\nA:Usai una matita.\nB:Firmai con il mio nome.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAll'uomo fu rifiutato un prestito. Based on the previous passage, choose the most reasonable cause.\nA:Era indebitato.\nB:Aveva avviato un'impresa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa ragazze restò a casa da scuola. Based on the previous passage, choose the most reasonable cause.\nA:Aveva la varicella.\nB:Si divertiva ad imparare la matematica.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl cestino dell'immondizia era pieno. Based on the previous passage, choose the most reasonable effect.\nA:Lo buttai nel cassonetto.\nB:Lo scaricai giù per il lavandino.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPassai l'aspirapolvere sul tappeto. Based on the previous passage, choose the most reasonable cause.\nA:Il mio compagno di camera aveva rovesciato un cocktail.\nB:Il mio cane aveva perso dei peli.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'uomo andò su tutte le furie. Based on the previous passage, choose the most reasonable effect.\nA:Spense il computer.\nB:Lanciò una sedia attraverso la stanza.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLa ragazza lanciò un ramoscello nel falò. Based on the previous passage, choose the most reasonable effect.\nA:Il ramoscello bruciò.\nB:Il fuoco si estinse.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'uomo uscì dalla doccia. Based on the previous passage, choose the most reasonable cause.\nA:Era finita l'acqua calda.\nB:Non trovava un asciugamano.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nI genitori volevano che i loro figli andassero all'università. Based on the previous passage, choose the most reasonable effect.\nA:Misero da parte un fondo di risparmi per la retta.\nB:Incoraggiarono i figli a giocare all'aperto.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'uomo si slacciò le scarpe. Based on the previous passage, choose the most reasonable effect.\nA:Le scarpe si allentarono.\nB:Le scarpe si usurarono.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'uomo mangiò metà del primo. Based on the previous passage, choose the most reasonable effect.\nA:Refrigerò gli avanzi.\nB:Memorizzò la ricetta.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa mia caviglia era gonfia. Based on the previous passage, choose the most reasonable effect.\nA:Ci misi sopra del ghiaccio.\nB:Ci strofinai sopra della lozione.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLa porta del mio ufficio era aperta. Based on the previous passage, choose the most reasonable effect.\nA:Parlai al collega alla mia scrivania.\nB:Sentii per caso la conversazione nella sala.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nDovevo aspettare in fila. Based on the previous passage, choose the most reasonable effect.\nA:Mi misi a sedere.\nB:Sfogliai una rivista.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nL'uomo schiacciò la mosca. Based on the previous passage, choose the most reasonable effect.\nA:La mosca ronzò via.\nB:La mosca rimase immobile.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'uomo scrisse un testamento. Based on the previous passage, choose the most reasonable cause.\nA:Stava morendo.\nB:Era vedovo.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIl corridore avvertì che il rivale lo stava raggiungendo. Based on the previous passage, choose the most reasonable effect.\nA:Abbandonò la gara.\nB:Accelerò il ritmo.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nRiflettei sul problema con cura. Based on the previous passage, choose the most reasonable effect.\nA:Chiesi consiglio.\nB:Intuii una soluzione.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl viaggiatore camminò sul ponte sospeso traballante. Based on the previous passage, choose the most reasonable effect.\nA:Si sentiva terrorizzato.\nB:Si sentiva estatico.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nL'uomo aveva previsto la vittoria della squadra. Based on the previous passage, choose the most reasonable effect.\nA:Si incontrò con i suoi amici per guardare la partita.\nB:Fece una scommessa con i suoi amici.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIl ragazzo non riusciva ad addormentarsi. Based on the previous passage, choose the most reasonable effect.\nA:Puntò la sveglia.\nB:Contò le pecore.\n\nAnswer:\n",
+        "output": "B"
+    }
+]

@@ -1,0 +1,2002 @@
+[
+    {
+        "input": "Question:\nKifaa kilikuwa kimefungwa kwenye mfuko vibofu. Based on the previous passage, choose the most reasonable cause.\nA:Kikuwa nyepesi kuvunjika.\nB:Kilikuwa kidogo.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNiliiacha mitupu mifuko yangu. Based on the previous passage, choose the most reasonable effect.\nA:Nilikipata tena kipande cha tiketi.\nB:Niliona silaha.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMchwa walivamia nyumba. Based on the previous passage, choose the most reasonable effect.\nA:Mchwa waliondoka kutoka kwenye nyumba.\nB:Mchwa walikula kupitia mbao ndani ya nyumba.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nWasafiri wamefika mpakani. Based on the previous passage, choose the most reasonable effect.\nA:Afisa doria alikagua pasi zao za kusafiria.\nB:Afisa doria aliwatuhumu wao kwa kupenyeza magendo.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nOfisi ilikuwa imefungwa. Based on the previous passage, choose the most reasonable cause.\nA:Ilikuwa ni siku ya mapumziko.\nB:Ilikuwa nikipindi cha kiangazi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMsichana alipungua nguvu. Based on the previous passage, choose the most reasonable cause.\nA:Alicheza drafti.\nB:Aliruka kamba.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamke amepoteza nafasi yake kwenye mstari. Based on the previous passage, choose the most reasonable cause.\nA:Watu zaidi waliingia kwenye mstari.\nB:Alitoka nje ya mstari.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMsichanfinya pua yake. Based on the previous passage, choose the most reasonable cause.\nA:Mtoto alitoka mate kinywani mwake.\nB:Mtoto alichafua nepi yake.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBendi ilipiga nyimbo yake ipendwayo. Based on the previous passage, choose the most reasonable effect.\nA:Hadhira walipiga makofi kufuatia muziki.\nB:Hadhira walisikiliza kwa upole na ukimya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMsichana alitaka kumshukuru mwalimu wake wa  hesabu. Based on the previous passage, choose the most reasonable effect.\nA:Msichana alibakia kizuizini baada ya shule.\nB:Msichana alimletea tofaa mwalimu wake.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMpiga kambi mdogo alihisi woga. Based on the previous passage, choose the most reasonable cause.\nA:Mshauri wao wa kambi aliwambia kuhusu hadithi za mzuka.\nB:Walizichoma mashmalo katika moto wa kambi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamme alijigonga kichwa chake. Based on the previous passage, choose the most reasonable effect.\nA:Alipotea kwenye mawazo.\nB:Alipoteza fahamu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nHundi nilioiandika imedunda. Based on the previous passage, choose the most reasonable cause.\nA:Akauti yangu ya benki ilikuwa tupu.\nB:Nimepata ongezeko la mshahara.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKisanduku pokezi cha barua pepe ya mwanamme kilijaa barua taka. Based on the previous passage, choose the most reasonable effect.\nA:Alifuta barua taka.\nB:Alituma barua pepe ya halaiki.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBaharia alikuwa ametengwa. Based on the previous passage, choose the most reasonable cause.\nA:Alikuwa amegundulika kuwa na ugonjwa.\nB:Amepona kutoka kwenye ugonjwa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nYule msichana alihifadhi msimbo kwenye akili. Based on the previous passage, choose the most reasonable effect.\nA:Aliukariri.\nB:Alisahau kuuandika chini.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNilimimina maji kwenye gilasi. Based on the previous passage, choose the most reasonable effect.\nA:Maji yalizima kiu yangu.\nB:Maji yalikuwa yamejaa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamme alibakia kimya wakati rafiki yake alipomaliza kuongea. Based on the previous passage, choose the most reasonable cause.\nA:Alitaka kumpatia rafiki yake msaada.\nB:Alikuwa akifikiria kuhusu maneno ya rafiki yake.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAjali ilikuwa ni kosa langu. Based on the previous passage, choose the most reasonable effect.\nA:Nilijihisi mwenye hatia.\nB:Nilipeleka mashitaka.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMkufu ulikuwa mbali mbali. Based on the previous passage, choose the most reasonable cause.\nA:Mkufu ulizongwa kuzunguka tairi.\nB:Kulikuwa na kiungo kilichovunjika katika mkufu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nWanandoa waliamua kuafikiana. Based on the previous passage, choose the most reasonable cause.\nA:Walikuwa wamechoka na mabishano.\nB:Walikimbia kujadili tatizo.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamke ameamua kuendesha afisi ya umma. Based on the previous passage, choose the most reasonable effect.\nA:Aliajiri meneja wa kampeni.\nB:Alishuhudia ndani ya mahakamani.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamme alitarajia hali ya hewa ya baridi katika safari yake. Based on the previous passage, choose the most reasonable effect.\nA:Alipanga nguo za joto ndani ya sanduku lake.\nB:Alisafiri pamoja na sanduku kubwa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanafunzi alijua jibu la swali. Based on the previous passage, choose the most reasonable effect.\nA:Aliinua mkono wake.\nB:Hakujishughulisha.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMacho ya mwanamme yalitokwa na machozi. Based on the previous passage, choose the most reasonable cause.\nA:Vumbi lilingia ndani ya macho yake.\nB:Alivaa miwani juu ya macho yake.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMchezaji alishinda michezo kumi kwenye safu. Based on the previous passage, choose the most reasonable effect.\nA:Mpinzani wake alimtuhumu yeye kwa udanganyifu.\nB:Mpinzani wake alimuonea huruma yeye.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwalimu alichana mtihani wa mwanafunzi. Based on the previous passage, choose the most reasonable cause.\nA:Alimkamata mwanafunzi akifanya udanganyifu.\nB:Majibu ya mwanafunzi yalikuwa sio sahihi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNilisita kuacha kuongea. Based on the previous passage, choose the most reasonable cause.\nA:Nilipoteza sauti yangu.\nB:Nilikosa pumzi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nChakula kilichogandishwa kiliyeyuka. Based on the previous passage, choose the most reasonable cause.\nA:Nilikiweka kwenye mikrowevu.\nB:Nilikifunika na karatasi yaplastiki.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMuajiriwa alighushi kuumwa. Based on the previous passage, choose the most reasonable cause.\nA:Alikuwa na matatizo ya tumbo.\nB:Alitaka siku ya mapumziko.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMsichana aliteremka ndani ya bwawa. Based on the previous passage, choose the most reasonable cause.\nA:Alikimbia juu ya ukingo wa bwawa.\nB:Aliruka kutoka kutoka katika bao la kupigia mbizi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTiketi za filamu zimeuzwa zote. Based on the previous passage, choose the most reasonable cause.\nA:Ilikuwa ni siku ya uzinduzi wa filamu.\nB:Filamu lipata maoni mabaya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamme amepungua uzito. Based on the previous passage, choose the most reasonable effect.\nA:Watu wanamtenga yeye.\nB:Watu wanampongeza yeye.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMikono ya msichana ilikuwa na malengelenge. Based on the previous passage, choose the most reasonable cause.\nA:Alichapa barua.\nB:Aliparamia kamba.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMchezaji sarakasi alihadaa wakati anaendesha baiskeli ya ringi moja. Based on the previous passage, choose the most reasonable effect.\nA:Watazamaji walimshangiria kwa mshangao.\nB:Mwanasarakasi alining'ininia kutoka kwenye pembea.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNimepoteza uvumilivu wangu. Based on the previous passage, choose the most reasonable cause.\nA:Rafiki yangu alinifanya nimsubiri.\nB:Rafiki yangu alifika kwa wakati.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNchi zinazopigana zilitaka amani. Based on the previous passage, choose the most reasonable effect.\nA:Zilitengeneza silaha za nyuklia.\nB:Zilijadiliana mkataba.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamme alitumia madawa ya usingizi. Based on the previous passage, choose the most reasonable effect.\nA:Amekuwa mwenye kusinzia.\nB:Alipata homa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamke aligongwa na kiti. Based on the previous passage, choose the most reasonable effect.\nA:Mguu wa kiti ukafunguka.\nB:Aliumiza goti lake.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMvulana alibinya puto. Based on the previous passage, choose the most reasonable effect.\nA:Bofu lilichomoka.\nB:Bofu liliruka juu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWasafiri walikagua ndani ya chumba chao cha hoteli. Based on the previous passage, choose the most reasonable effect.\nA:Walifungua mizigo yao.\nB:Walikwenda uwanja wa ndege.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNiliuma fyulisi. Based on the previous passage, choose the most reasonable effect.\nA:Fyulisi iliumia.\nB:Juisi ilimwagika.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMkono wangu umekuwa unanatanata. Based on the previous passage, choose the most reasonable cause.\nA:Nimekula donati.\nB:Nilipata chakula chenye utamu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNilisukuma mlango. Based on the previous passage, choose the most reasonable effect.\nA:Mlango ulifunguka.\nB:Mlango ulijifunga.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWanaharakati waligomea bidhaa. Based on the previous passage, choose the most reasonable cause.\nA:Bidhaa zilikuwa zilipimwa kwa ajili ya kuthibitisha ubora.\nB:Bidhaa zilikuwa zikitengenezwa kupitia ajira kwa watoto.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNilitoboa tundu kwenye ukuta. Based on the previous passage, choose the most reasonable effect.\nA:Panya alitambaa kutoka nje ya tundu.\nB:Vumbi lilipeperuka kutoka katika tundu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamke alimuonea wivu dada yake. Based on the previous passage, choose the most reasonable cause.\nA:Dada yake alikuwa na furaha.\nB:Dada yake alipewa talaka.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNilijimwagia mvinyo juu ya shati langu. Based on the previous passage, choose the most reasonable effect.\nA:Nilivaa aproni.\nB:Nilibadili shati yangu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMshika fedha alifungua vitabu vya fedha. Based on the previous passage, choose the most reasonable cause.\nA:Mteja alitafuta pochi yake.\nB:Mteja alimkabidhi yeye pesa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamuziki anaetumbuiza babarani alivutia umati. Based on the previous passage, choose the most reasonable effect.\nA:Watu walimpa yeye sarafu.\nB:Aliuondoshea mbali umati.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMvulana mdogo alimlilia mlezi wake. Based on the previous passage, choose the most reasonable effect.\nA:Alitamani kuona wazazi wake.\nB:Ulikuwa wakati wa kula.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nRada ya rubani iligundua dhoruba. Based on the previous passage, choose the most reasonable effect.\nA:Rubani aliondoa kutoka kwenye dhoruba.\nB:Rubani aliruka kuielekea dhoruba.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMti uliangusha majani yake. Based on the previous passage, choose the most reasonable effect.\nA:Majani yalibadilika rangi.\nB:Majani yalikusanyika chini.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMvulana alikuwa katika hali ya utukutu. Based on the previous passage, choose the most reasonable effect.\nA:Aliamua kucheza karata pamoja na dada yake.\nB:Aliamua kucheza mchezo wa mzaha na dada yake.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMtoto alisikitika kuwa anataka kwenda chooni. Based on the previous passage, choose the most reasonable effect.\nA:Baba yake alimpa yeye sada na kinywaji.\nB:Baba alisimamisha gari kwenye kituo cha kuuza mafuta.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMtoto alinyunyiza chakula cha samaki ndani ya tangi. Based on the previous passage, choose the most reasonable effect.\nA:Samaki waliruka kutoka nje ya tangi.\nB:Samaki waliogelea kuelekea chakula.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMtazamo wa kisiasa wa  mwanamke ulibadilika. Based on the previous passage, choose the most reasonable effect.\nA:Alibadili mahusiano ya chama chake.\nB:Alijihusisha na mgomo.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSinki la chooni lilikuwa limeziba. Based on the previous passage, choose the most reasonable effect.\nA:Nilifungua bomba.\nB:Niliingiza kifaa cha kusafishia ndani yake.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAbiria walitoka nje ya kwenye treni. Based on the previous passage, choose the most reasonable cause.\nA:Treni liliwasili kituoni.\nB:Treni ilipiga king'ora.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMawanamme alishindilia chini bawa la bahasha lenye unyevunyevu. Based on the previous passage, choose the most reasonable effect.\nA:Aliweka stempu juu ya bahasha.\nB:Aliifunga bahasha.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMarafiki walipoteza mawasiliano. Based on the previous passage, choose the most reasonable cause.\nA:Walifurahia kuwa karibu ya kila mmoja wao.\nB:Walihama katika miji tafauti.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMhasibu alishindwa kusimamia fedha za kampuni. Based on the previous passage, choose the most reasonable effect.\nA:Aliondolewa kwenye nafasi yake.\nB:Alikwenda kwenye likizo ya kujifungua.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNiliangalia saa. Based on the previous passage, choose the most reasonable effect.\nA:Nilisikia mlio wa saa.\nB:Nilitaka kujua ni saa ngapi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMkono wangu uliuma. Based on the previous passage, choose the most reasonable effect.\nA:Niliandika insha kwa mkono.\nB:Mimi na mke wangu tulishikana mikono.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKomeo lilikaza. Based on the previous passage, choose the most reasonable effect.\nA:Nilibadilisha komeo.\nB:Niliviringa bisibisi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nWanandoa walisaini mkataba wa kodi kwa ajili ya fleti. Based on the previous passage, choose the most reasonable effect.\nA:Wanandoa walihamia kwenye fleti.\nB:Baraza la mji waliifelisha nyumba.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamke alikaa nje kwenye baraza. Based on the previous passage, choose the most reasonable cause.\nA:Alitaka kuangalia jua likizama.\nB:Alifikiria aliona radi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamme alivaa jaketi la kujiokolea. Based on the previous passage, choose the most reasonable cause.\nA:Hakuweza kuogelea.\nB:Maji yalikuwa ya kina kifupi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamke alifanya makosa ndani ya kichakata matini. Based on the previous passage, choose the most reasonable effect.\nA:Alifuta waraka.\nB:Alibonyeza kitufe cha cha kurudi nyuma.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMsichana alijisifu kwa rafiki zake. Based on the previous passage, choose the most reasonable cause.\nA:Alipata daraja baya.\nB:Alishinda shindano.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBustani lilikuwa na matope. Based on the previous passage, choose the most reasonable effect.\nA:Kulinyesha usiku.\nB:Lilikuwa limejaa magugu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamke alilala sana. Based on the previous passage, choose the most reasonable cause.\nA:Alibakia hotelini usiku.\nB:Alisahau kurekebisha saa yake ya kengele.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamme amepaka losheni ya kujikinga na jua. Based on the previous passage, choose the most reasonable cause.\nA:Alikaa kwenye kivuli.\nB:Alikwenda ufukweni.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nWatafiti walithibitisha nadharia. Based on the previous passage, choose the most reasonable effect.\nA:Watafiti waliifuta nadharia.\nB:Watu waliikubali nadharia.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMashabiki kwenye mechi walizomea. Based on the previous passage, choose the most reasonable cause.\nA:Mechi ilikwenda ndani ya muda wa ziada.\nB:Refa alifanya maamuzi mabovu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNiliingiza namba za siri kwenye kufuli. Based on the previous passage, choose the most reasonable effect.\nA:Nilifunga kufuli.\nB:Kufuli ilifunguka.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nUmati uliongezeka. Based on the previous passage, choose the most reasonable effect.\nA:Baba alimpa mwana wake pesa.\nB:Baba aliukamata mkono wa mwanawe.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBarafu ilikuwa imezuia njia. Based on the previous passage, choose the most reasonable effect.\nA:Nilikusanya theluji kuwa mpira wa theluji.\nB:Niliondoa theluji kutoka kwenye njia.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nWapiga makasia walipiga makasia yao. Based on the previous passage, choose the most reasonable effect.\nA:Kayak ilifika ufukweni.\nB:Kayak iligonga wimbi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMsichana alipoteza muelekeo wa baiskeli yake. Based on the previous passage, choose the most reasonable effect.\nA:Aliachia usukani.\nB:Alijigonga kwenye ukuta.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNiliwasha feni. Based on the previous passage, choose the most reasonable effect.\nA:Maji yalinimwagikia juu ya ngozi yangu.\nB:Nilihisi hewa baridi ikinipitia juu yangu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nWachejazi baharini walirudi pwani. Based on the previous passage, choose the most reasonable effect.\nA:Walijawa na unyevunyevu wa maji.\nB:Waliona papa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNilivuta plugi ya bomba katika beseni la kuogea. Based on the previous passage, choose the most reasonable effect.\nA:Maji yalichuruzika kwenye beseni.\nB:Maji yalitawanyika kwenye sakafu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMume alijihisi mwenye makosa kuhusu kumlangai mkewe. Based on the previous passage, choose the most reasonable effect.\nA:Alimtuhumu yeye kwa kukosa uaminifu.\nB:Alikiri uzizi wake kwake.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nWino kwenye bango ulipakaa. Based on the previous passage, choose the most reasonable cause.\nA:Nilisubiri wino ukauke.\nB:Nilimaga maji juu ya bango.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMtoto aliamka akilia. Based on the previous passage, choose the most reasonable cause.\nA:Alipata ndoto mbaya.\nB:Alirovya kitanda.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMvulana aliweka miguu yake juu ya meza. Based on the previous passage, choose the most reasonable effect.\nA:Baba yake alikaa chini ya meza.\nB:Baba yake alimkemea.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nRafiki yangu aligeuza kichwa upande wangu. Based on the previous passage, choose the most reasonable cause.\nA:Niliita jina lake.\nB:Nilipunga mkono.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSerikali iliwakandamiza raia wake. Based on the previous passage, choose the most reasonable effect.\nA:Raia walipanga uasi.\nB:Raia walijiandikisha kupoga kura.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMvulana alipotea ndani ya msitu. Based on the previous passage, choose the most reasonable effect.\nA:Aliweka hema.\nB:Alipiga kelele kwa ajili ya msaada.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamke alisafiri nchi za nje. Based on the previous passage, choose the most reasonable cause.\nA:Alitaka kujifunza jinsi ya kuchora.\nB:Alitaka kujifunza kuhusu utamaduni mwengine.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamme alikuwa na wivu na mfanyakazi mwenziwe. Based on the previous passage, choose the most reasonable cause.\nA:Mfanyakazi mwenziwe alipandishwa cheo.\nB:Mfanyakazi mwenziwe alifanya kazi hadi usiku mkubwa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamme alishudia viumbe kutoka sayari nyengine. Based on the previous passage, choose the most reasonable cause.\nA:Alikuwa akiwazia mambo ya kufikirika.\nB:Alikuwa akivuta tafakuri.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNywele za mwanamme ziligeuka rangi ya dhahabu. Based on the previous passage, choose the most reasonable cause.\nA:Aliweka blichi ndani yake.\nB:Aliweka shampuu ndani yake.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMsanii alibuni kazi mpya. Based on the previous passage, choose the most reasonable cause.\nA:Aliikosoa kazi yake iliyopita.\nB:Alijicikia kupata motisha.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMtoto wa kiume alihama kutoka nyumbani. Based on the previous passage, choose the most reasonable cause.\nA:Alikuwa amefunguzwa kutoka jeshini.\nB:Alikuwa anakwenda chuo.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nVitabu vilianguka kwenye kabati la vitabu. Based on the previous passage, choose the most reasonable cause.\nA:Rafu zilikuwa zimefunikwa na vumbi.\nB:Tetemeko la ardhi lilitikisa kabati la vitabu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nUmeme ndani ya nyumba yangu umezima. Based on the previous passage, choose the most reasonable effect.\nA:Niliwasha taa.\nB:Nilirekebisha fyuzi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTulibebwa na chombo kwenye hifadhi ya pumbao. Based on the previous passage, choose the most reasonable effect.\nA:Chombo hili lilitisha.\nB:Chombo hili lilifurahisha.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMfuko wa bisi ulianza kuchomoka. Based on the previous passage, choose the most reasonable cause.\nA:Nilimimina siagi ndani ya mfuko.\nB:Niliipasha moto ndani ya maikrowevu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMti ulianguka katika waya wa umeme. Based on the previous passage, choose the most reasonable effect.\nA:Umeme ulizima katika mtaa.\nB:Utabiri ulitabiri upepo mkali.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMsemaji alitoa maoni ya kisiasa yasiyo sahihi. Based on the previous passage, choose the most reasonable effect.\nA:Aliwachosha hadhira.\nB:Aliwaudhi hadhira.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNilijichoma mwenyewe kwa pini. Based on the previous passage, choose the most reasonable effect.\nA:Matone ya jasho yalitiririka kutoka usoni mwangu.\nB:Tone la damu lilichomoza kwenye kidole changu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSamaki allielea juu ya uso wa pipa. Based on the previous passage, choose the most reasonable cause.\nA:Alikuwa na njaa.\nB:Alikuwa amekufa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSauti ya mwanamme  kavu. Based on the previous passage, choose the most reasonable cause.\nA:Amepata mafua.\nB:Ameacha sigara.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMlango wa lifti ulifunguka. Based on the previous passage, choose the most reasonable cause.\nA:Lifti ilifika kwenye sakafu iliyochaguliwa.\nB:Lifti iliganda katikati ya sakafu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKijana alijipenyeza ndani ya nyumba kifichoficho. Based on the previous passage, choose the most reasonable cause.\nA:Aliwadanganya wazee wake.\nB:Wazee wake walimzuia asitoke.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nChoo kilijaa maji. Based on the previous passage, choose the most reasonable cause.\nA:Choo kilifurika sana.\nB:Tanki ya kupashia maji moto iliharibika.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMbwa mdogo alikaa karibu na mmiliki wake. Based on the previous passage, choose the most reasonable cause.\nA:Mmiliki alimuweka kidani mbwa mdogo.\nB:Mmiliki alimuweka mbwa mdogo kwenye mnyororo.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamme alipata mfanano wake. Based on the previous passage, choose the most reasonable cause.\nA:Alisimama chini ya mti uliosambaa.\nB:Alisimama katika ziwa lililotulia.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNimekosa simu ya rafiki yangu wa kike. Based on the previous passage, choose the most reasonable effect.\nA:Nilimpigia tena yeye.\nB:Nilionana nae kwa chakula cha usiku.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nFamilia ilipekuwa kwenye mtaa. Based on the previous passage, choose the most reasonable cause.\nA:Mbwa alikimbia nyumbani.\nB:Vito ghali vilikuwa vimepotea nyumbani kwao.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNiliona pumzi zangu nilipotoa pumzi. Based on the previous passage, choose the most reasonable cause.\nA:Hali ya hewa ilikuwa ya kutulia.\nB:Kifua kilihisi kubana.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWaajiriwa waliunda shirikisho. Based on the previous passage, choose the most reasonable cause.\nA:Walitaka mazingiza mazuri ya kufanya kazi.\nB:Muajiri wao aliongeza mshahara.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNilioka pai ya tofaa. Based on the previous passage, choose the most reasonable effect.\nA:Harufu ya uoza ilijaa jikono.\nB:Harufu ya kupendeza ilijaa jikoni.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamke alipata tabu kutembea. Based on the previous passage, choose the most reasonable cause.\nA:Alivaa viatu vyenye visigino virefu.\nB:Alivua viatu vyake.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMvuke ulitoka nje ya chngu cha maji. Based on the previous passage, choose the most reasonable cause.\nA:Maji yalichemka.\nB:Nilifunika chungu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSoksi zangu zote ziko kwenye ufuaji. Based on the previous passage, choose the most reasonable effect.\nA:Nilivaa vilivyo wazi.\nB:Nilivaa buti.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nHoja ya mwanasiasa ilikuwa imefikiriwa kuwa ya kipumbavu. Based on the previous passage, choose the most reasonable effect.\nA:Alipoteza msaada wa wapiga kura.\nB:Alikuwa ameshutumiwa kwa rushwa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKila mmoja alikataa kuchumbiana kwa wapenzi. Based on the previous passage, choose the most reasonable effect.\nA:Wapenzi walipata ujauzito.\nB:Wapenzi walikimbia.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nJengo lilikuwa maalumu kwa milionea. Based on the previous passage, choose the most reasonable cause.\nA:Milionea alitaka jengo libomolewe.\nB:Milionea alichangia fedha kulijenga.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMshirika wa mauzo alimtuhumu msichana kwa kuiba. Based on the previous passage, choose the most reasonable cause.\nA:Mshirika wa mauzo alimuona msichana akiweka bidhaa ndani ya pochi lake.\nB:Mshirika wa mauzo alimsaidia msichana kutafuta pochi aliyoipenda.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNchi ilitangaza vita na maeneo jirani. Based on the previous passage, choose the most reasonable effect.\nA:Wanajeshi walipelekwa kwa mapigano.\nB:Wanajeshi waliungana tena na familia zao.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMakahama iliunga mkono uamuzi huo wa utata. Based on the previous passage, choose the most reasonable effect.\nA:Ghasia zilizuka mbele ya jumba la mahakama.\nB:Wachumba walibadilishana viapo mbele ya jumba la mahakama.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMsichana alinuka harufu ya kitu kinachoungua. Based on the previous passage, choose the most reasonable cause.\nA:Alitoa biskuti nje ya chupa.\nB:Aliacha biskuti ndani ya oveni.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMvua ilikuwa ikimiminika chini. Based on the previous passage, choose the most reasonable effect.\nA:Dhoruba ilikuwa mbaya zaidi.\nB:Nilikimbia kuingia ndani.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nWaliokuwa ndani ya hilo jumba walitolewa. Based on the previous passage, choose the most reasonable effect.\nA:Lifti iliacha kufanya kazi.\nB:Kengela ya moto ililia.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBaba alichukia ulevi wa mtoto wake wa kiume. Based on the previous passage, choose the most reasonable effect.\nA:Baba alimnunulia mtoto wake wa kiume bia.\nB:Baba alimfukuza mtoto wake wa kiume nje ya nyumba.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nWakili alipanda ngazi hadi kwenye ofisi yake. Based on the previous passage, choose the most reasonable cause.\nA:Karani alikwenda nyumbani kwa mapumziko.\nB:Lifti ilikuwa mbovu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamme amekuwa akisononeshwa na rafiki zake. Based on the previous passage, choose the most reasonable cause.\nA:Rafiki zake walimkatisha yeye.\nB:Rafiki zake walimnunulia chakula cha mchana.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMsichana alimpa keshia pesa. Based on the previous passage, choose the most reasonable effect.\nA:Keshia alimrudishia chenji yake.\nB:Keshia alisahau kumpa msichana risiti.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamke aliwekwa kwenye kiti cha magurudumu. Based on the previous passage, choose the most reasonable cause.\nA:Alikuwa amepooza kutokana na ajali.\nB:Aliingia hospitali ndani ya machela.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nRaia walinin'giniza bendera ya taifa nje ya nyumba zao. Based on the previous passage, choose the most reasonable cause.\nA:Nchi ilikuwa ikikumbuka uhuru wao.\nB:Nchi ilikuwa ikipitia tabu za kiuchumi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTimu ilishindwa kwenye mashindano. Based on the previous passage, choose the most reasonable effect.\nA:Waliwasikitisha mashabiki wao.\nB:Waliwasisimua mashabiki wao.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nRafiki yangu alinionesha kuwa nilikuwa na chakula kimeganda kwenye meno. Based on the previous passage, choose the most reasonable effect.\nA:Nilihisi kuaibika.\nB:Nilijihisi fahari.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMvulana alifeli mtihani wake wa historia. Based on the previous passage, choose the most reasonable cause.\nA:Alikuwa makini darasani.\nB:Alisahau kusoma.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nJengo la kati ya mji liliporomoka. Based on the previous passage, choose the most reasonable cause.\nA:Tetemeko la ardhi lilipiga jiji.\nB:Kiwango cha uhalifu katika jiji kiliongezeka.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nRafiki wake wa kike ameachana na yeye. Based on the previous passage, choose the most reasonable effect.\nA:Alimuomba yeye arudiane nae.\nB:Alimtambulisha yeye kwa  wazazi wake.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWatoto wawili  walifika chini kupiga mpira kwa wakati mmoja. Based on the previous passage, choose the most reasonable effect.\nA:Mpira ulijibingirisha.\nB:Vichwa vyao viligongana.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nRakuni alifukua pipa la takataka. Based on the previous passage, choose the most reasonable cause.\nA:Kulikuwa na kadibodi ndani ya pipa la takataka.\nB:Mfuniko ulikuwa wazi kwenye pipa la takataka.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMvulana alichonga penseli. Based on the previous passage, choose the most reasonable cause.\nA:Ilikuwa rahisi.\nB:Ilikuwa butu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMshika fedha alimkatalia mwanamke kumrudisha pesa kwa ajili ya nguo. Based on the previous passage, choose the most reasonable cause.\nA:Alipoteza risiti yake.\nB:Nguo haikumfaa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMkwaruzo ndani ya ngozi yangu ulikuwa kubwa. Based on the previous passage, choose the most reasonable effect.\nA:Ulipoa kwa haraka.\nB:Uliacha kovu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamme alipata mtizamo wa ajabu kutoka kwa abiria ndani ya treni. Based on the previous passage, choose the most reasonable cause.\nA:Alikuwa akiangaza chini.\nB:Alikuwa akizunguza peke yake.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMtoto alibakisha makombo juu ya sakafu. Based on the previous passage, choose the most reasonable effect.\nA:Sisimizi walitambaa kwyenye makombo.\nB:Mtoto aliweka mkate mbali.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamke alimkabidhi tishu dada yake. Based on the previous passage, choose the most reasonable cause.\nA:Dada wa mwanamke alikunja mkono wake.\nB:Dada wa mwanamke alianza kulia.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamme alichukua nanaa. Based on the previous passage, choose the most reasonable cause.\nA:Midomo yake ilikuwa mikavu.\nB:Alikuwa na wasiwasi kuhusu harufu mbaya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nWanandoa waliondoka mapema kwa ajili ya onesho. Based on the previous passage, choose the most reasonable cause.\nA:Walitarajia mkusanyiko kuzunguka ukumbi.\nB:Walipata muongozo kuelekea ukumbini.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamke alibakia nyumbani kutoka kazini. Based on the previous passage, choose the most reasonable effect.\nA:Bosi wake alimpongeza yeye.\nB:Mfanyakazi mwenzake alichukua nafasi kwa ajili yake.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamme alisaini activists maombi ya mwanaharakati. Based on the previous passage, choose the most reasonable cause.\nA:Aliwaunga mkono sababu yao.\nB:Aliwakemea wao kama kichaa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMoyo wa muigizaji ulikuwa ukipapatika kabla ya uigizaji. Based on the previous passage, choose the most reasonable cause.\nA:Alipata hofu ya jukwaa.\nB:Alikariri mistari yake.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNilikuwa nimepotea. Based on the previous passage, choose the most reasonable effect.\nA:Nilihesabu pesa zangu.\nB:Sikukunjua ramani.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTunda bivu lilisalia kwenye jua. Based on the previous passage, choose the most reasonable effect.\nA:Lilikuwa limeliwa.\nB:Lilisinyaa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nGari iliharibika. Based on the previous passage, choose the most reasonable cause.\nA:Niliwasha moto.\nB:Injini ilipata moto sana.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamme aliumia mgongo wake. Based on the previous passage, choose the most reasonable effect.\nA:Alikwenda kumuona daktari wa magonjwa ya akili.\nB:Alibakia kitandani kwa siku saba.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNiliwasha moto ndani ya mahali pa kuotea moto. Based on the previous passage, choose the most reasonable cause.\nA:Nilikuwa nimepungukiwa na kuni.\nB:Ilikuwa baridi ndani ya nyumba.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamke aliacha kukimbia. Based on the previous passage, choose the most reasonable cause.\nA:Alipata kichomi ndani ya ubavu wake.\nB:Alipata nguvu mpya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNiligonga kwenye mlango wa jirani yangu. Based on the previous passage, choose the most reasonable effect.\nA:Jirani yangu alinikaribisha ndani.\nB:Jirani yangu aliondoka nyumbani kwake.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamke alishusha pumzi kwa mfadhaiko. Based on the previous passage, choose the most reasonable cause.\nA:Mume wake hakuelewa wasiwasi wake.\nB:Mume wake alimuaga kwa mabusu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwalimu aliwasifu wanafunzi. Based on the previous passage, choose the most reasonable cause.\nA:Wanafunzi walijibu suali kwa usahihi.\nB:Wanafunzi walisita kujibu suali.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamke amepungukia na mayai. Based on the previous passage, choose the most reasonable effect.\nA:Alikwenda shambani.\nB:Alikwenda supamaketi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNilikutana na rafiki wa zamani. Based on the previous passage, choose the most reasonable effect.\nA:Nilifichua siri kwake.\nB:Nilimkumbatia yeye.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamke alikataa kwenda ndani ya ziwa. Based on the previous passage, choose the most reasonable cause.\nA:Alikamata samaki.\nB:Lilionekana lenye uchafu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwnafunzi waliwasili darasani wamelowana chepechepe. Based on the previous passage, choose the most reasonable cause.\nA:Mwevuli wake ulikua umevunjika.\nB:Baiskeli yake ilikuwa imeibiwa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKasa kwenye kioo cha kompyuta alisogea. Based on the previous passage, choose the most reasonable cause.\nA:Mtumiaji alibonyeza kasa.\nB:Mtumiaji alimhamisha kasa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nDereva alichukua njia ya mzunguko. Based on the previous passage, choose the most reasonable cause.\nA:Ajali ilitokea kwenye barabara kuu.\nB:Alifuata gari ya mizigo mbele yake.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNilining'iniza lineni yenye maji maji kwenye kamba ya nje. Based on the previous passage, choose the most reasonable effect.\nA:Lasi ilikauka.\nB:Lasi iliingia madowa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamke alivaa miwani ya kiza. Based on the previous passage, choose the most reasonable cause.\nA:Muangaza wa jua ulilikuwa mkali.\nB:Alivua kofia.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamme alikazia macho anga la usiku. Based on the previous passage, choose the most reasonable cause.\nA:Alitamani iwe ni kiangazi.\nB:Alifikiria ilikuwa nzuri.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNilijihisi kuchoka. Based on the previous passage, choose the most reasonable effect.\nA:Nilikwenda kulala mapema.\nB:Nilikaa macho usiku kucha.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamme alikwenda kwa kinyozi. Based on the previous passage, choose the most reasonable cause.\nA:Alikuwa akikuzikuza nywele zake.\nB:Nywele zake zilikuwa refu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMvulana alimtania vibaya mwanafunzi mpya darasani. Based on the previous passage, choose the most reasonable effect.\nA:Mvulana alimkaribisha mwanafunzi mpya.\nB:Mvulana hakumpenda mwanafunzi mpya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNilitamani gilasi ya maziwa. Based on the previous passage, choose the most reasonable cause.\nA:Nilikuwa nikila biskuti.\nB:Nilikuwa nikioka mkate.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMvua ilianza kunyesha. Based on the previous passage, choose the most reasonable effect.\nA:Dereva aliwasha taa za vin'gora.\nB:Dereva aliibadilisha gari kwa kurudi nyuma.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMaengesho mengi kwenye majengo yalikuwa matupu. Based on the previous passage, choose the most reasonable effect.\nA:Niliegesha katikati ya mtaa.\nB:Niliegesha karibu na mlango.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwandishi alikosa tarehe ya mwisho ya kuwasilisha mswada. Based on the previous passage, choose the most reasonable cause.\nA:Alipewa zuio la mwandishi.\nB:Alihariri mswada.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMshirika alinikatia simu. Based on the previous passage, choose the most reasonable cause.\nA:Nilitaka kuzungumza na msimamizi.\nB:Nilijipatia nambari ya kitambulisho.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nUpepo ulivuma kupitia dirisha lililo wazi. Based on the previous passage, choose the most reasonable effect.\nA:Kengele ya mlango iligongwa.\nB:Mapazia yalitikisika.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nUmeme umezima kwenye nyumba yangu. Based on the previous passage, choose the most reasonable cause.\nA:Nilichomoa taa.\nB:Nilizma fyuzi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanariadha wa kuinua vyomba vya uzito alikoroma. Based on the previous passage, choose the most reasonable effect.\nA:Alionyesha misuli yake mbele ya kioo.\nB:Aliinua chuma juu ya kichwa chake.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanafunzi alijaribu kufanya hesabu kichwani mwake. Based on the previous passage, choose the most reasonable effect.\nA:Aliacha kikokotoo.\nB:Alichanganyikiwa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMtoto alichululiwa  na usingizi. Based on the previous passage, choose the most reasonable cause.\nA:Baba alibadilisha nepi ya mtoto.\nB:Baba taratibu alimtikisa mtoto.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMsichana alitupa puto lenye maji kwa mvulana. Based on the previous passage, choose the most reasonable effect.\nA:Mvulana alipata mtikiso.\nB:Mvulana aliroa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMpiga picha alisahau kutumia flashi kwenye kamera. Based on the previous passage, choose the most reasonable effect.\nA:Picha uziligeuka kuwa na ukungu.\nB:Kila mmoja kwenye picha alikataa kutabasamu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNilikataa mualiko wa siku ya kuzaliwa. Based on the previous passage, choose the most reasonable cause.\nA:Nilikuwa mpweke.\nB:Nilikuwa nje ya mji.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNilifanya mazoezi. Based on the previous passage, choose the most reasonable effect.\nA:Nilijihisi mwenye nguvu.\nB:Nilikuwa na hofu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNilikamua spongi tepetepe. Based on the previous passage, choose the most reasonable effect.\nA:Lilirowana maji.\nB:Maji yalitiririka nje yake.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nWatalii walipanda kivuko kwenda sehemu ya kupumzikia. Based on the previous passage, choose the most reasonable cause.\nA:Sehemu ya kupumzikia ilikuwa imewekwa mapema.\nB:Sehemu ya kupumzikia ilikuwa kwenye kisiwa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKijana ana tojo. Based on the previous passage, choose the most reasonable effect.\nA:Aliogopa sindano.\nB:Alitaka kuasi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nGari nisiyoijua iliegesha nje ya nyumba yangu. Based on the previous passage, choose the most reasonable effect.\nA:Nilikuwa na wasiwasi.\nB:Nilipigia simu askari.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMuhalifu alijisalimisha mwenyewe ndani. Based on the previous passage, choose the most reasonable cause.\nA:Ushahidi ulimhusisha yeye.\nB:Hakukuwa na ushahidi dhidi yake.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamme mnene aliamua kupungua uzito. Based on the previous passage, choose the most reasonable effect.\nA:Aliacha vyakula ya peremende.\nB:Alijiepusha na kafini.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMsichana alikanyaga barafu. Based on the previous passage, choose the most reasonable effect.\nA:Aliteleza.\nB:Alitetemeka.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamke  ana mviringo chini ya jicho lake. Based on the previous passage, choose the most reasonable cause.\nA:Alibakia macho  usiku kucha.\nB:Alimpeleka mtoto wake wa kiume kulala.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLava ilitiririka kutoka kwenye volcano. Based on the previous passage, choose the most reasonable cause.\nA:Volkano ililiripuka.\nB:Volkano ilikuwa imetulia.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamke alivaa viatu vyake. Based on the previous passage, choose the most reasonable cause.\nA:Alijua kila mmoja kwenye sherehe.\nB:Alitaka kuondoka shereheni.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNilimlipa mtumishi wa gerezani. Based on the previous passage, choose the most reasonable effect.\nA:Alinipa ruhusa kupita kuelekea gerezani.\nB:Alinizuia kwenye gereza.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMtendaji alifilisika. Based on the previous passage, choose the most reasonable cause.\nA:Aliuza hisa za kampuni .\nB:Alipoteza mali zake.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamme alikwenda kwa daktari. Based on the previous passage, choose the most reasonable cause.\nA:Daktari alikuwa likizo.\nB:Mwanamme alikuwa anaumwa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNilitoka chumba changu cha kulala kwa kupitia dirishani. Based on the previous passage, choose the most reasonable cause.\nA:Nyumba iliingia moto.\nB:Nyumba ilikuwa tupu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nVidole vya mvulana vilipata mikunjo. Based on the previous passage, choose the most reasonable effect.\nA:Alioga kwa muda mrefu.\nB:Alipaka sabuni kwenye vidole vyake.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNiliyatema maziwa. Based on the previous passage, choose the most reasonable cause.\nA:Maziwa yalikuwa na ladha ya ukali.\nB:Mdomo wangu ulikuwa mkavu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNilikosa basi. Based on the previous passage, choose the most reasonable effect.\nA:Nilikuwa nimewahi kazini.\nB:Nilikuwa nachelewa kazini.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nGari ya mizigo liligongana na gari. Based on the previous passage, choose the most reasonable effect.\nA:Gari la mizigo liliongeza mwendo.\nB:Gari lilipondekapondeka.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTimu ilidanganya mashindano kwa mapendeleo yao. Based on the previous passage, choose the most reasonable effect.\nA:Walishinda.\nB:Walijitoa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nChupa ya soda litoa sauti. Based on the previous passage, choose the most reasonable cause.\nA:Niliigeuza juu chupa.\nB:Nilikipinda kifuniko.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMvulana alikuwa amefungiwa nje ya nyumba yake. Based on the previous passage, choose the most reasonable effect.\nA:Alitambaa ndani kupitia dirisha lililo wazi.\nB:Alipanda juu ya paa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKengele ya mlango ililia. Based on the previous passage, choose the most reasonable effect.\nA:Mgeni alibisha mlango.\nB:Mwanamke aliangalia kupitia tundu ya funguo kwenye mlango.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamme alichafua suti yake. Based on the previous passage, choose the most reasonable effect.\nA:Alizipata kufuliwa kwa dobi.\nB:Aliining'iniza kwenye kabati lake.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMsichana alibinya tyubu ya dawa ya meno. Based on the previous passage, choose the most reasonable effect.\nA:Dawa ya meno ilichuruzika kutoka kwenye tyubu.\nB:Msichana aliitema dawa ya meno.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nVifo vya raia kutoka kwenye vita yaliongezeka maradufu. Based on the previous passage, choose the most reasonable effect.\nA:Wapinga vita waliandamana.\nB:Wapinga vita walifanya gwaride.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMsichana alivuta kwa haraka utepe kutoka kwenye nywele zake. Based on the previous passage, choose the most reasonable cause.\nA:Alifunga utepe.\nB:Utepe ulionekana wa kitoto.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamme alipata upasuaji wa maumbile. Based on the previous passage, choose the most reasonable effect.\nA:Alizeeka.\nB:Alionekana kijana.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMtoto wa kuku alijitokeza kutoka kwenye yai. Based on the previous passage, choose the most reasonable cause.\nA:Yai lilianguliwa.\nB:Nililivunja yai.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMfungwa alikaa na njaa. Based on the previous passage, choose the most reasonable effect.\nA:Alikufa.\nB:Alikimbia.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamme alipoteza balanzi juu ya ngazi. Based on the previous passage, choose the most reasonable effect.\nA:Alipanda ngazi.\nB:Alianguka chini ya ngazi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAlipiga mbweu. Based on the previous passage, choose the most reasonable cause.\nA:Alibugia soda.\nB:Alifungua kopo la soda.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nUpepo wenye baridi uliingililia dirishani. Based on the previous passage, choose the most reasonable effect.\nA:Nilitulia.\nB:Nilitetemeka.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanafunzi alipata nafasi ya kulipiwa masomo kwenda chuoni. Based on the previous passage, choose the most reasonable cause.\nA:Wanafunzi wenzake darasani walimuheshimu.\nB:Alipata matokeo mazuri.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMsichana alimtania mvulana. Based on the previous passage, choose the most reasonable effect.\nA:Aliishi karibu naye.\nB:Alikua na hisia za mapenzi kwake.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBedui mwenye njaa aliiba chakula. Based on the previous passage, choose the most reasonable cause.\nA:Alichochea huruma.\nB:Hakuwa na pesa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNilimpigia rafiki yangu kwa maongezi. Based on the previous passage, choose the most reasonable cause.\nA:Nilitaka faragha.\nB:Nilijihisi mpweke.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamme alinyoosha mkono wake kwangu. Based on the previous passage, choose the most reasonable effect.\nA:Nilitikisa mkono wake.\nB:Nilimpiga kibao.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNiliepuka. Based on the previous passage, choose the most reasonable effect.\nA:Fataki zilirushwa angani.\nB:Kisahani kilipaa kikielekea kichwana mwangu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMsichana alitafuna kucha zake. Based on the previous passage, choose the most reasonable cause.\nA:Alikuwa na wasiwasi.\nB:Alikuwa na mshangao.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNiligeuza hurasa juu ya kalenda. Based on the previous passage, choose the most reasonable cause.\nA:Niliweka alama kwenye miadi kwenye kalenda.\nB:Ilikuwa mwanzo wa mwezi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBwana aligundua kwamba mkewe alikua na uhusiano wa kando. Based on the previous passage, choose the most reasonable effect.\nA:Alimfuta kazi wakili wake.\nB:Alianzisha mchakato wa talaka.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMsichana aliangusha mpira. Based on the previous passage, choose the most reasonable effect.\nA:Mpira ulidunda.\nB:Mpira uling'ara.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMsichana alifanya makosa kwenye mtihani. Based on the previous passage, choose the most reasonable effect.\nA:Alibahatisha jawabu.\nB:Alifuta jawabu lake.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMchezaji alikabiliana na mpinzani wake. Based on the previous passage, choose the most reasonable effect.\nA:Mpinzani wake aliupata mpira.\nB:Mpinzani wake alianguka chini.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNilichuma nyanya kutoka shambani. Based on the previous passage, choose the most reasonable cause.\nA:Zilikuwa mbivu.\nB:Nilizimwagilia maji.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanaume alitaka kuonyesha mapenzi. Based on the previous passage, choose the most reasonable effect.\nA:Alikutana na mpenzi wake wa awali kwa chakula cha mchana.\nB:Alimnunulia mpenziwe chokoleti.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nZebaki ndani ya kipima joto ilipanda. Based on the previous passage, choose the most reasonable cause.\nA:Niliangusha kipimajoto.\nB:Hali ya hewa ilkuwa ya joto sana.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKimbunga kilikuja kuelekea mjini. Based on the previous passage, choose the most reasonable effect.\nA:Paa la mahakama lilipeperuka.\nB:Njia kuu iilikuwa ya hatari.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWanafunzi walipata twisheni. Based on the previous passage, choose the most reasonable effect.\nA:Alama zake ziliboresheka.\nB:Alidanganya kwenye mtihani.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNilihisi raha. Based on the previous passage, choose the most reasonable effect.\nA:Nilipiga magoti barabarani.\nB:Nilijifunika na blanketi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNililingarisha jiwe. Based on the previous passage, choose the most reasonable effect.\nA:Ilikuwa inateleza.\nB:Lilikuwa linang'ara.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNiliingiza sukari kwenye kahawa. Based on the previous passage, choose the most reasonable effect.\nA:Kahawa ilinukia uchungu.\nB:Kahawa ilikuwa na ladha ya utamu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanaume aliyapitia makaratasi. Based on the previous passage, choose the most reasonable effect.\nA:Alikatwa na karatasi.\nB:Aliyakatakata makaratasi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNiligonga msumari kwa nyundo. Based on the previous passage, choose the most reasonable effect.\nA:Msumari ulizama kwenye ubao.\nB:Msumari imeota kutu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSamaki alidonoa mshipi. Based on the previous passage, choose the most reasonable effect.\nA:Mvuvi alimvuta samaki kwa mshipi.\nB:Mvuvi alitupa tena mshipi majini.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKijana aliona aibu kuenda shuleni. Based on the previous passage, choose the most reasonable effect.\nA:Alikua na uvimbe.\nB:Alizitoa gango zake.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMuonekano wangu wa uso uliwaka. Based on the previous passage, choose the most reasonable cause.\nA:Nilipokea habari njema.\nB:Nilipoteza uvumilivu wangu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNilifuta mikono yangu kwa taulo. Based on the previous passage, choose the most reasonable cause.\nA:Taulo ilikuwa na majimaji.\nB:Mikono yangu ilikuwa na majimaji.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamme alikosa balanzi juu ya stuli. Based on the previous passage, choose the most reasonable cause.\nA:Stuli ilimyumbisha yeye chini.\nB:Alimwaga rangi kwenye kistuli.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWachezaji walilaumiana wao kwa wao moja kwa moja. Based on the previous passage, choose the most reasonable cause.\nA:Walishindwa mchezo wao.\nB:Kocha wao alighairisha mazoezi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNilitaka msamaha. Based on the previous passage, choose the most reasonable cause.\nA:Nilijutia maamuzi yangu.\nB:Nilitimiza malengo yangu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamke alichoswa na miadi yake. Based on the previous passage, choose the most reasonable cause.\nA:Alimuuliza masuali kuhusiana na yeye mwenyewe.\nB:Alizungumza mfululizo kuhusu yeye mwenyewe.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMsichana aliwaka kwa tabasamu. Based on the previous passage, choose the most reasonable effect.\nA:Mashavu yake yalifanya wekundu.\nB:Vibonyeo vyake vilijionesha.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMeli ya maadui iliripuka. Based on the previous passage, choose the most reasonable cause.\nA:Ilipita juu ya yangu.\nB:Ilitia nanga kwenye bandari.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamme aliumia mguu wake. Based on the previous passage, choose the most reasonable cause.\nA:Alitebea ndani ya dimbwi.\nB:Alikanyaga gilasi iliyevunjika.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nWapelelezi waliondoa vumbi sehemu ya uhalifu kwa kutumia vidole. Based on the previous passage, choose the most reasonable effect.\nA:Waligundua utambulisho wa muuwaji.\nB:Waliona silaha katika eneo la uhalifu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKulikuwa na trafiki wingi katika barabara kuu. Based on the previous passage, choose the most reasonable effect.\nA:Nilipita njia ya mkato.\nB:Niliulizia njia ya baskeli.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nUchumi wa nchi ulishuka. Based on the previous passage, choose the most reasonable effect.\nA:Watu wingi waliumwa.\nB:Watu wingi walikosa ajira.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMkatishaji wa barabara alipuliza firimbi kwa watoto. Based on the previous passage, choose the most reasonable cause.\nA:Walikuwa wanataka kwenda waliko trafiki wanaokuja.\nB:Aliwatambua kutokana na ujirani wake.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNiligeuza macho yangu kwa rafiki yangu. Based on the previous passage, choose the most reasonable cause.\nA:Aliniambia ukweli.\nB:Alitoa maelezo ya dhihaka.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nGari ilitembea bila gesi. Based on the previous passage, choose the most reasonable effect.\nA:Dereva alipigwa barabarani.\nB:Dereva aliwachukua wapiganaji.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamke alikwenda katika chumba cha kujifungua. Based on the previous passage, choose the most reasonable effect.\nA:Mtoto alizaliwa.\nB:Mwanamke alikuwa na maumivu ya asubuhi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKofia ya mwanamme ilipepeuka. Based on the previous passage, choose the most reasonable cause.\nA:Alivua kofia.\nB:Kulikuwa na upepo nje.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMsichana alihudhuria katika sherehe ya siku ya kuzaliwa ya mwanafunzi mwenzake. Based on the previous passage, choose the most reasonable cause.\nA:Alipokea mwaliko.\nB:Alinunua zawadi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKijana alihisi joto katika paji la uso. Based on the previous passage, choose the most reasonable effect.\nA:Mama yake alimuangalia joto lake.\nB:Mama yake alimpeleka bustanini.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamme alijipulizia rangi. Based on the previous passage, choose the most reasonable cause.\nA:Alitaka kupiga picha tarehe yake.\nB:Alitia mafuta nywele zake.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nUmeme ulizimwa ndani ya nyumba. Based on the previous passage, choose the most reasonable effect.\nA:Nilitafuta tochi.\nB:Niliokota koleo.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nFamilia ilihamia katika nyumba kubwa. Based on the previous passage, choose the most reasonable cause.\nA:Kijana alihitimu sekondari ya juu.\nB:Mama alijifungua mapacha.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMpigajimbio alitumia mwendo mdogomdogo. Based on the previous passage, choose the most reasonable cause.\nA:Alitaka kuhifadhi nguvu zake.\nB:Aliona mstari wa mwisho.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMvulana aligonga mashine ya kuuza. Based on the previous passage, choose the most reasonable effect.\nA:Mashine ilitema chenji yake.\nB:Mfuko wa vibanzi ulikuwa umekwama.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMbwa wa rafiki yangu alikufa. Based on the previous passage, choose the most reasonable effect.\nA:Niligeuza macho yangu kwake.\nB:Nilimkumbatia.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKadi ya mkopo ya mfanyabiashara ilishuka. Based on the previous passage, choose the most reasonable effect.\nA:Aliandika IOU.\nB:Alilipa fedha taslimu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nYule mwanaume alilaani. Based on the previous passage, choose the most reasonable effect.\nA:Alijikata kucha.\nB:Aligongwa kwenye kidole chake.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamme alijidai kwa sababu ya kaka yake. Based on the previous passage, choose the most reasonable cause.\nA:Kaka yake alipatiwa hoja na wazazi wao.\nB:Kaka yake alikubaliwa katika skuli ya sheria.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMsichana alitaka kujifunza kuhusu nguvu za jua. Based on the previous passage, choose the most reasonable effect.\nA:Alikwenda maktaba.\nB:Aliangalia nyota.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBango lilikwama katika ukuta. Based on the previous passage, choose the most reasonable cause.\nA:Nililiweka bango juu ya mlango.\nB:Niliweka utepe nyoma ya bangu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMteja aliidhinisha mipango ya mbunifu wa majengi kwa ajili ya jengo. Based on the previous passage, choose the most reasonable effect.\nA:Mbunifu wa majengo alitengeneza jengo.\nB:Mbunifu wa majengo alirekebisha mipango.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamme aliangusha kijiko chake. Based on the previous passage, choose the most reasonable cause.\nA:Mkono wake ulikuwa unatikisika.\nB:Aliramba kijiko.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCEO wa kampuni alijiuzulu. Based on the previous passage, choose the most reasonable effect.\nA:Bodi ya wakurugenzi waliifuta kampuni.\nB:Bodi ya wakurugenzi walitafuta mbadala wake.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNilichelewa kufika katika muhadhara. Based on the previous passage, choose the most reasonable effect.\nA:Nilikaa katika mstari wa nyuma.\nB:Nilisogelea Podium.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamme aliruhusiwa kutoka jela. Based on the previous passage, choose the most reasonable cause.\nA:Hamilia yake walilipia dhamada yake.\nB:Aliwashambulia wafungwa wenzake.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nFamilia ilipoteza mali zao zote. Based on the previous passage, choose the most reasonable cause.\nA:Waliuza nyumba yao.\nB:Nyumba yao iliungua.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNilipigwa katika kopo la alumini. Based on the previous passage, choose the most reasonable effect.\nA:Kopo lilikuwa linatengenezwa upya.\nB:Kopo liligongwa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMsichana alijiunga na timu ya mjadala. Based on the previous passage, choose the most reasonable effect.\nA:Alijifunza kutumia kompyuta.\nB:Alijifunza ujuzi wa mazungumzo.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nHisia zangu ziliimarika. Based on the previous passage, choose the most reasonable cause.\nA:Nilisikiliza mziki.\nB:Nilifanya masufuria.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nShirika la hisani lilifanya lengo la kuchanga pesa. Based on the previous passage, choose the most reasonable effect.\nA:Waliwalisha wasio na makazi.\nB:Walikuwa na mnada.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nRola kosta ilitumbukia chini kushuka mwinuko. Based on the previous passage, choose the most reasonable effect.\nA:Abiria walicheka cheka.\nB:Abiria walipiga makelele.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNilikuwa na hasira. Based on the previous passage, choose the most reasonable effect.\nA:Niliangalia sanduku la barua wakati wa kutoka katika nyumba.\nB:Nilijigonga mlango wakati wa kutoka katika nyumba.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamme alitaka kuangalia kuchomoza kwa jua. Based on the previous passage, choose the most reasonable effect.\nA:Alisafiri kaskazini.\nB:Aliamka mapema.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAlikunja karatasi. Based on the previous passage, choose the most reasonable effect.\nA:Nilitengeneza upya karatasi.\nB:Karatasi ilichanika.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNchi ilikumbwa na maafa ya asili. Based on the previous passage, choose the most reasonable effect.\nA:Viongozi wa nchi nyengine waliunda muungano.\nB:Viongozi wa nchi nyengine walipeleka misaada ya dharura.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNguo ya kijana iliroa. Based on the previous passage, choose the most reasonable cause.\nA:Alipanda juu ya bwawa.\nB:Alianguka ndani ya bwawa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanafunzi alifanya haraka kumaliza kitabu. Based on the previous passage, choose the most reasonable cause.\nA:Ilikuwa ni kwa sababu ya kutaka kurejeshwa maktaba.\nB:Alikiazima kutoka kwa rafiki yake.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMuhalifu aliuwawa. Based on the previous passage, choose the most reasonable cause.\nA:Alipelekwa jela.\nB:Alihukumiwa kifo.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwangaza wa jua uliingia chumbani. Based on the previous passage, choose the most reasonable cause.\nA:Nilifungua pazia.\nB:Nilifungua mlango.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNilizivuta nywele za mbabaishaji. Based on the previous passage, choose the most reasonable effect.\nA:Nywele zake bandia zilidondoka.\nB:Alinyoa kipara.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMhariri alirejea sentensi katika muswada. Based on the previous passage, choose the most reasonable cause.\nA:Aligundua muswada unalazimisha.\nB:Aliona sentensi ina utata.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamke alifutisha akaunti yake ya kadi ya mkopo. Based on the previous passage, choose the most reasonable effect.\nA:Aligundua kadi haipo.\nB:Aligundua muda wa kadi umekamilika.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamme na mwanamke walipendana. Based on the previous passage, choose the most reasonable effect.\nA:Walihudhuria chuoni.\nB:Walifunga ndoa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMuziki ulikuwa dhaifu sana kusikia. Based on the previous passage, choose the most reasonable effect.\nA:Niliongeza sauti.\nB:Nilitunga wimbo wangu mwenyewe.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNywele zake mvulana zilikuwa zimesimama. Based on the previous passage, choose the most reasonable effect.\nA:Msichana alizishikashika zile nywele.\nB:Msichana alizivuruta zile nywele.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMdudu alifinywa. Based on the previous passage, choose the most reasonable effect.\nA:Nilijifukiza na dawa ya kufukuza wadudu.\nB:Nilikanyaga yule mdudu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNilifungua macho yangu. Based on the previous passage, choose the most reasonable cause.\nA:Niliamka.\nB:Nilipumzika.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMziki wa jirani yangu ulilia. Based on the previous passage, choose the most reasonable effect.\nA:Nilimuomba apunguze sauti.\nB:Nilimuomba aniazime CD.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nFamilia ya mwanamme waliishi maisha ya umasikini. Based on the previous passage, choose the most reasonable cause.\nA:Alichekeshwa na kipato chake.\nB:Alipata mshahara chini ya kiwango cha chini kabisa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanafunzi alihitimu chuo kikuu. Based on the previous passage, choose the most reasonable effect.\nA:Alitafuta kazi.\nB:Alifanya kile anachokipenda.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMsanii alichanganya rangi ya njano katika rangi ya buluu. Based on the previous passage, choose the most reasonable effect.\nA:Rangi ilienea sehemu zote.\nB:Rangi iligeuka kuwa kijani.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNilibadilisha mada ya mazungumzo. Based on the previous passage, choose the most reasonable effect.\nA:Niliishiwa na mambo ya kuongea.\nB:Mazungumzo yakawa magumu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKaka yangu aliruhusiwa kutoka hospitali. Based on the previous passage, choose the most reasonable effect.\nA:Nilimkaribisha tena nyumbani.\nB:Nilimkataa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPazia katika jukwaa lilikwenda juu. Based on the previous passage, choose the most reasonable effect.\nA:Onesho la ufunguzi wa tamthilia lilianza.\nB:Waigizaji wa tamthilia walilichangamsha jukwaa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTeka alipelekwa katika mamlaka ya watekaji. Based on the previous passage, choose the most reasonable cause.\nA:Mtekaji alitishia kumuumiza teka.\nB:Mtekaji alimuacha teka mwenyewe.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMlio ulilia katika jukwaa. Based on the previous passage, choose the most reasonable cause.\nA:Mwanamuziki alipiga mguu wake.\nB:Mwanamuziki alipiga ngoma mfululizo.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nWazazi walikimbilia chumbani kwa mtoto wao. Based on the previous passage, choose the most reasonable cause.\nA:Mtoto aliamka na kupiga makelele kutokana na jinamizi.\nB:Mtoto alikuwa anaogopa kushuka kitandani.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWmwanamke aliwasiliana kwa lugha ya alama. Based on the previous passage, choose the most reasonable cause.\nA:Alizaliwa kabla ya wakati.\nB:Alizaliwa kiziwi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nUkame ulitokezea katika mkoa. Based on the previous passage, choose the most reasonable effect.\nA:Maji yalichafuka.\nB:Mazao yalipotea.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPaka alimkimbiza ndege. Based on the previous passage, choose the most reasonable effect.\nA:Ndege aliruka.\nB:Ndege alikamata mafunza.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMsichana alibadilisha skuli. Based on the previous passage, choose the most reasonable cause.\nA:Skuli ilifungwa kwa kiangazi.\nB:Alihamia mji mpya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMmiliki wa kiwanda alikataa kuongeza mshahara wa waajiriwa. Based on the previous passage, choose the most reasonable effect.\nA:Mmiliki aliteua meneja mpya.\nB:Waajiriwa walieka mgomo.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKiongozi aliwachokoza wenye nguvu miongini mwa nchi yake. Based on the previous passage, choose the most reasonable effect.\nA:Wenye nguvu walimshawishi yeye.\nB:Wenye nguvu walimuua yeye.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNilitembea pekupeku ufukweni. Based on the previous passage, choose the most reasonable effect.\nA:Mchanga uliganda miguuni mwangu.\nB:Mawimbi yalipiga pembeni mwa bahari.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNiliamka usiku wa manane nikihisi baridi. Based on the previous passage, choose the most reasonable effect.\nA:Nilivaa suruali nyepesi.\nB:Nilikunywa bilauri ya maji.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMama alimnyamazisha mtoto wake wa kiume. Based on the previous passage, choose the most reasonable cause.\nA:Mtoto wake alitabasamu.\nB:Mtoto wake alilalamika.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTobo lilizuka katika jinzi yangu. Based on the previous passage, choose the most reasonable cause.\nA:Nilifunga zipu jinzi yangu.\nB:Nilisakama katika njia ya wapitao kwa miguu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMvulana alivaa gango. Based on the previous passage, choose the most reasonable effect.\nA:Alipata kijishimo kwenye meno.\nB:Meno yake yakawa sawa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nJana nilifanya bidii katika mazoezi. Based on the previous passage, choose the most reasonable effect.\nA:Leo niliamka na maumivu ya misuli.\nB:Leo niliamka na maumivu ya koo.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMsichana alinong'ona na kuenea kwa kila mtu katika meza ya chakula cha mchana. Based on the previous passage, choose the most reasonable effect.\nA:Wanafunzi wengine walikaa kitako katika meza ya chakula cha mchana.\nB:Wanafunzi wengine katika meza ya chakula walijisikia kuondoka.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMtoto alishuka hadi kwenye trampolini. Based on the previous passage, choose the most reasonable effect.\nA:Aliruka kurudi angani.\nB:Aliamua kujaribu kupinduka hewani.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNilituma barua katika sanduku la barua. Based on the previous passage, choose the most reasonable effect.\nA:Ofisi ya posta ilipokea barua.\nB:Ofisi ya posta iliiharakisha barua.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMcheza kamari alikuwa anajiamini. Based on the previous passage, choose the most reasonable effect.\nA:Aliweka dau pesa zake zote.\nB:Alikwenda nyumbani amefilisika.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMoto wa msitu ulienea. Based on the previous passage, choose the most reasonable cause.\nA:Upepo ulikuwa mwingi.\nB:Wachomaji walichukuliwa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMtoto alibambua ngozi nyayo yake. Based on the previous passage, choose the most reasonable effect.\nA:Mama yake alimpeleka chumbani mwake.\nB:Mama yake aliweka bendeji juu ya kidonda.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamme alinusurika mauti ya ugonjwa. Based on the previous passage, choose the most reasonable cause.\nA:Alitia saini wasia (ridhaa) wake.\nB:Alipokea uhamisho wa kiungo.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNilipiga chubuo ya kahawa moto. Based on the previous passage, choose the most reasonable effect.\nA:Nilipiga ulimi wangu.\nB:Niliunguza ulimi wangu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMhariri alimfukuza kazi mwandishi. Based on the previous passage, choose the most reasonable cause.\nA:Mwandishi aliepuka upendeleo katika stori zake.\nB:Mwandishi alikosa tarehe ya mwisho.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNilijihisi nimechoka. Based on the previous passage, choose the most reasonable cause.\nA:Nililala siku nzima.\nB:Nilisoma siku nzima.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nDaktari alimtambua mgonjwa. Based on the previous passage, choose the most reasonable cause.\nA:Alibaini dalili za mgonjwa.\nB:Aliandika vidonge kwa mgonjwa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNilikwaruza ngozi yangu. Based on the previous passage, choose the most reasonable cause.\nA:Ilikuwa natoka jasho.\nB:Ilikuwa inawasha.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamme alifanya upasuaji wa dharura. Based on the previous passage, choose the most reasonable cause.\nA:Alipoteza hasira zake.\nB:Alisumbuliwa na mapigo ya moyo.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMisuli ya mikono ya mwanamme ilituna. Based on the previous passage, choose the most reasonable cause.\nA:Alipindisha mikono yake.\nB:Alisukuma mikono yake.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamme aliinua nyusi zake. Based on the previous passage, choose the most reasonable cause.\nA:Alikuwa anashangaa.\nB:Alijisikia kuvunjika moyo.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNilisamehe kosa la menzangu. Based on the previous passage, choose the most reasonable cause.\nA:Niliamini nia yake ilikuwa nzuri.\nB:Niliamini kuwa alitambua bora.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamme aliacha kuvuta sigaraa. Based on the previous passage, choose the most reasonable effect.\nA:Alianza kufanya mazoezi zaidi.\nB:Alianza kutembea kwa miguu mapema.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamke alimpiga mshambulizi wake puani. Based on the previous passage, choose the most reasonable effect.\nA:Mwili wa mshambulizi wake ulikufa.\nB:Mshambulizi alianza kuvuja damu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMshale ulikosa lengo. Based on the previous passage, choose the most reasonable effect.\nA:Mwanaume alilenga vibaya.\nB:Mwanaume alikuwa akishindwa mchezoni.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMmiliki wa nyumba aliadai kuwa muangamizaji anakuja katika nyumba yake. Based on the previous passage, choose the most reasonable cause.\nA:Aligundua panya chini ya nyumba.\nB:Alieka boksi la mchwa katika chumba chake.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNilipendekeza kwa mgeni wangu kuwa tunatoka kwa ajili ya chakula cha usiku. Based on the previous passage, choose the most reasonable cause.\nA:Nilikuwa nimechoka sana kuandaa chochote.\nB:Mgeni wangu alikaa sana.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMsichana alimkamata kaka yake anasoma shajara yake. Based on the previous passage, choose the most reasonable effect.\nA:Alianza kuficha shajara yake.\nB:Alipata shajara mpya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamke alipungukiwa na pesa kwa ajili ya kukodi. Based on the previous passage, choose the most reasonable effect.\nA:Alifanya kazi muda wa ziada.\nB:Aliacha kazi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMkono wa mtoto ulirejeshwa ghafla. Based on the previous passage, choose the most reasonable cause.\nA:Aligusa jiko moto.\nB:Aligusa kichwa cha mtoto wa mbwa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKampuni ilitaka kupima kuridhika kwa wateja. Based on the previous passage, choose the most reasonable effect.\nA:Walitoa ofa ya punguzo kwa wateja wapya.\nB:Walifanya utafiti kwa wateja.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSakafu ya mbao ilipasuka. Based on the previous passage, choose the most reasonable cause.\nA:Kijana alirusha mito wa kochi.\nB:Kijana alikokota kiti katika sakafu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNilikinga uso wangu. Based on the previous passage, choose the most reasonable cause.\nA:Adui yangu alinilaumu mimi.\nB:Adui yangu alifunga ngumi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSanamu maarufu liliungua. Based on the previous passage, choose the most reasonable cause.\nA:Lilikuwa limepigwa na mwangaza.\nB:Watu walikuja kiliekea heshima.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNiliondoa tunda juu ya meza. Based on the previous passage, choose the most reasonable effect.\nA:Tunda lilitoa mbegu.\nB:Nzi walilizunguka tunda.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMcheza bale wa kike aligawika nyuzi. Based on the previous passage, choose the most reasonable cause.\nA:Alionesha vidole vyake vya miguu.\nB:Alitikisa kifundo chake cha mguu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKamba ya kiatu ya mtoto ilifunguliwa. Based on the previous passage, choose the most reasonable cause.\nA:Alijifunza jinsi ya kuifunga.\nB:Alikwenda mbio katika uwanja wa michezo.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNilivutiwa na kitabu. Based on the previous passage, choose the most reasonable effect.\nA:Nilikirejesha kitabu.\nB:Nilipoteza muda mwingi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanaume alikuwa na imani sawa na za wazazi wake. Based on the previous passage, choose the most reasonable effect.\nA:Wazazi wake walimshawishi.\nB:Wazazi wake walimkana.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGari ilianza kusimama polepole. Based on the previous passage, choose the most reasonable cause.\nA:Iliishiwa na gesi.\nB:Dereva alichuliwa na usingizi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamme alikula aiskrimu kwenye jua. Based on the previous passage, choose the most reasonable effect.\nA:Aiskrimu ilipoteza ladha yake.\nB:Aiskrimu ilidondoka kutoka katika koni.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNilining'iniza mchoro chumbani. Based on the previous passage, choose the most reasonable cause.\nA:Kapeti lilionekana chafu.\nB:Kuta zilionekana tupu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNiliacha kazi mapema. Based on the previous passage, choose the most reasonable cause.\nA:Nilikuwa naumwa na kichwa.\nB:Bosi wangu aliendesha mkutano.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMtoto wa mbwa alichafua zulia. Based on the previous passage, choose the most reasonable effect.\nA:Mwenyewe alimkemea yule mtoto wa mbwa.\nB:Mwenyewe alimpa zawadi yule mtoto wa mbwa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNiliomba radhi kwa rafiki yangu. Based on the previous passage, choose the most reasonable effect.\nA:Rafiki yangu alinisamehe.\nB:Rafiki yangu alikuwa na hasira.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanaume alitofautika na umati. Based on the previous passage, choose the most reasonable effect.\nA:Alibeba mfuko wa begani.\nB:Alivaa fulana ya neon.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nShahidi aliongopea katika kiapo. Based on the previous passage, choose the most reasonable effect.\nA:Alikamilisha ushuhuda wake.\nB:Alilipishwa kwa uwongo.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamke alitia rangi nywele zake. Based on the previous passage, choose the most reasonable cause.\nA:Alitaka aonekane mpya.\nB:Alitaka kuzichanganya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWahamiaji walikamatwa wakikaa nchini kinyume na sheria. Based on the previous passage, choose the most reasonable effect.\nA:Walipata ajira.\nB:Waliondolewa kutoka nchi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMzungumzaji wa hadhara alifanya mzaha. Based on the previous passage, choose the most reasonable effect.\nA:Hadhira ililia.\nB:Hadhira ilisimama.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNiliangalia jua. Based on the previous passage, choose the most reasonable effect.\nA:Jua lilinipofua.\nB:Jua lililainisha ngozi yangu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNilijihisi mchovu. Based on the previous passage, choose the most reasonable effect.\nA:Nilivuta pumzi kwanguvu kupitia pua.\nB:Nilienda myayo.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNyama ilikuwa ngumu kukata. Based on the previous passage, choose the most reasonable cause.\nA:Kisu kilikuwa hakipati.\nB:Nyama ilikuwa mbichi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamke alitangaza kufilisika. Based on the previous passage, choose the most reasonable cause.\nA:Alipokea malipo ya masurufu.\nB:Alipewa deni kubwa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTaa katika ghorofa ya rafiki yangu ilikuwa imewashwa. Based on the previous passage, choose the most reasonable effect.\nA:Nilishangaa kama alikuwa nje.\nB:Niliamua kumtembelea.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNilieka ua chini ya pua yangu. Based on the previous passage, choose the most reasonable effect.\nA:Petali zilitoa ua.\nB:Nilichuma harufu ya au.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamke alichukuliwa na fikra zenye hisia nzuri. Based on the previous passage, choose the most reasonable effect.\nA:Alipatana na rafiki yake wa utotoni.\nB:Aliwapigia kelele watoto wake.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanafunzi alikhairisha karatasi. Based on the previous passage, choose the most reasonable effect.\nA:Alipeleka karatasi mapema.\nB:Alipeleka karatasi haijatimia.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nGari yangu ilivunjika. Based on the previous passage, choose the most reasonable effect.\nA:Nilikwenda madukani.\nB:Nilimwita fundi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNilizikataa matini. Based on the previous passage, choose the most reasonable cause.\nA:Ilikuwa hazijulikani.\nB:Ilikuwa hazisomeki.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNdege alipiga mabawa yake. Based on the previous passage, choose the most reasonable effect.\nA:Alizaa mayai.\nB:Alipaa juu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNiliegesha katika njia ndogo ya kwenda gereji. Based on the previous passage, choose the most reasonable cause.\nA:Gereji ilikuwa wazi.\nB:Gereji ilikuwa imejaa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMuhalifu alikusudia kumpiga bunduki  muathirika. Based on the previous passage, choose the most reasonable effect.\nA:Muhalifu aliweka bunduki chini.\nB:Muhalifu alinyanyua juu mkono wake.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNilikuwa naisubiria mwisho wa wikiendi. Based on the previous passage, choose the most reasonable cause.\nA:Nilipanga kuhudhuria mazishi ya mjomba wangu.\nB:Nilipanga kuhudhuria katika harusi ya rafiki yangu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNilipoteza muda mwingi. Based on the previous passage, choose the most reasonable cause.\nA:Nilikuwa na msururu wa mawazo mazuri.\nB:Nilikuwa na kichefuchefu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNakala ilichapwa kwa hati zisizosomeka. Based on the previous passage, choose the most reasonable cause.\nA:Printa ilikuwa na wino kidogo.\nB:Printa ilikuwa haichukui karatasi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWimbo wa taifa ulichezwa kwenye uwanja wa michezo. Based on the previous passage, choose the most reasonable effect.\nA:Mashabili waligeukia bendera.\nB:Mashabiki walikimbia kuelekea uwanjani.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMchuzi ulikosa ladha. Based on the previous passage, choose the most reasonable effect.\nA:Niliushughulikia.\nB:Niliutia chumvi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNililiweka taulo katika mwanga. Based on the previous passage, choose the most reasonable effect.\nA:Taulo ilifyonza kimiminika.\nB:Mwanga ulibakisha mnato.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamke aliingiliwa kati katikati ya kusoma kitabu chake. Based on the previous passage, choose the most reasonable effect.\nA:Aliweka alama katika karatasi.\nB:Alisoma tena kitabu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNdege ilipata mtikisiko. Based on the previous passage, choose the most reasonable effect.\nA:Mwanamme alikaza ukanda wake wa kiti.\nB:Mwanamme aliangalia nje ya dirisha.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKijana alishtuka. Based on the previous passage, choose the most reasonable effect.\nA:Msichana alimpuuza.\nB:Msichana alimguza na kidole.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMadaktari walimpa mgonjwa mguu wa bandia. Based on the previous passage, choose the most reasonable cause.\nA:Walitoa mguu wake.\nB:Walisimamia viungo vyake muhimu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKijana alimfinya msichana kifundo cha mkono. Based on the previous passage, choose the most reasonable effect.\nA:Alifanya juhudi kumsogezea bega lake.\nB:Aliupapatua mkono wake utokane naye.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNilimuomba rafiki yangu ushauri. Based on the previous passage, choose the most reasonable cause.\nA:Nilithamini maoni yake.\nB:Nilitambua nilikuwa sahihi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKijana alikanyaga katika tope. Based on the previous passage, choose the most reasonable effect.\nA:Tope ziliganda katika viatu vyake.\nB:Tope zilimpiga usoni.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMji ulipata inchi kadhaa za theluji. Based on the previous passage, choose the most reasonable effect.\nA:Mashule yalifungwa.\nB:Watu walijificha chini ya ardhi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nZamu za muajiriwa ilimaliza. Based on the previous passage, choose the most reasonable effect.\nA:Alikwenda nyumbani kwa siku moja.\nB:Alitishia kuacha kazi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMti uliharibu nyumba. Based on the previous passage, choose the most reasonable cause.\nA:Mti ulianguka katika paa.\nB:Mti uliweka kivuli uani.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nUkuni ulipasuka katikati. Based on the previous passage, choose the most reasonable effect.\nA:Niliongeza ukuni kwenye moto.\nB:Niliteremsha shoka ili kuulenga ukuni.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nFamilia iliwapongeza wanandoa. Based on the previous passage, choose the most reasonable cause.\nA:Wanandoa walitangaza kuwa wametengana.\nB:Wanandoa walitangaza kuwa wamepata mtoto.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMsichana alimpelekea kijana kadi. Based on the previous passage, choose the most reasonable cause.\nA:Alimpenda yeye.\nB:Alim'busu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNilitikisa kichwa kukubaliana na kauli ya rafiki yangu. Based on the previous passage, choose the most reasonable effect.\nA:Nilichanganyikiwa.\nB:Nilikubaliana naye.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMarafiki walizungusha sarafu. Based on the previous passage, choose the most reasonable cause.\nA:Walitaka kutafuta mwafaka.\nB:Walitaka kufanya maamuzi ya haki.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAlama ya saa ilizima jikoni. Based on the previous passage, choose the most reasonable effect.\nA:Mwanamme alipakua mboga katika jokofu.\nB:Mwanamme alitoa piza katika jiko.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamke aliweka malengo yake aliyoyataka. Based on the previous passage, choose the most reasonable effect.\nA:Hakuyafikia.\nB:Alifanya kazi kwa juhudi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamme tajiri alifariki akiwa na mkongwe. Based on the previous passage, choose the most reasonable effect.\nA:Mtoto wake wa kiume alipata matatizo ya kisheria.\nB:Mtoto wake wa kiume alirithi utajiri wake.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamke alikanyaga juu ya moto. Based on the previous passage, choose the most reasonable effect.\nA:Moto ulizima.\nB:Moshi ulitoka katika moto.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGari ya mwanamke ilikuwa katika sehemu ya matengenezo. Based on the previous passage, choose the most reasonable cause.\nA:Leseni ya dereva ilikuwa imemaliza muda.\nB:Alipata ajali ya gari.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNililala nikavuka kengele yangu ya saa. Based on the previous passage, choose the most reasonable effect.\nA:Nilitayarisha chakula cha asubuhi.\nB:Nilikosa chakula cha asubuhi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwandishi wa habari alitoka nje ya gari la kifahari. Based on the previous passage, choose the most reasonable effect.\nA:Kamera iliangaza katika upande wake.\nB:Familia yake ilihudhuria katika mkutano wa waandishi wa habari.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamke alikaa sana bafuni. Based on the previous passage, choose the most reasonable effect.\nA:Maji ya kukoga yalikuwa ya moto kidogo.\nB:Maji ya kukoga yalitoka nje ya pira.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanafunzi wa chuo kikuu alitaka kuwaona wanafunzi wengune katika kampasi. Based on the previous passage, choose the most reasonable effect.\nA:Aliunga udugu.\nB:Alichukua kozi ya uhandisi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNilinyanyua mto wa kochi. Based on the previous passage, choose the most reasonable cause.\nA:Ilikuwa natafuta sarafu.\nB:Ilikuwa ninipanga tena chumba cha kuishi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNyiga alipaa kumuelekea kijana. Based on the previous passage, choose the most reasonable effect.\nA:Kijana alikimbia.\nB:Kijana alichuma ua.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamke alitiwa hatiani kwa kosa dogo. Based on the previous passage, choose the most reasonable effect.\nA:Aliamuriwa afanye huduma za kijamii.\nB:Aliekwa katika orodha ya waliohukumiwa kifo.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNilikoroga sukari katika chai ya moto. Based on the previous passage, choose the most reasonable effect.\nA:Chai ilipoa.\nB:Sukari iliyeyuka.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMkongwe wa vita alitembea huku akichechemea. Based on the previous passage, choose the most reasonable effect.\nA:Alichukuliwa aingie kwenye vita.\nB:Aliumia vitani.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMuhalifu alimkimbia askari. Based on the previous passage, choose the most reasonable effect.\nA:Askari alikwenda kwa waathirika.\nB:Askari alimkimbiza muhalifu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKompyuta haingewaka. Based on the previous passage, choose the most reasonable effect.\nA:Niliiangusha.\nB:Niliiongezea chaji.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNafasi kwenye chumba cha nguo ilimwishia mwanamke. Based on the previous passage, choose the most reasonable effect.\nA:Alipata nguo mingi.\nB:Alikunja nguo zake.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamme alivunjika moyo. Based on the previous passage, choose the most reasonable cause.\nA:Mke wake alijifungua.\nB:Mke wake alimuacha.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamme alipata shahada. Based on the previous passage, choose the most reasonable effect.\nA:Alipata sifa za kazi aliyoitaka.\nB:Ofa ya kazi yake iliondolewa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSauti ya mwanamme ilifika sehemu zote za hadhira. Based on the previous passage, choose the most reasonable cause.\nA:Aliisalimia hadhira.\nB:Alizungumza kwa kipaza sauti.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNilirusha sarafu katika chemchemi ya maji. Based on the previous passage, choose the most reasonable effect.\nA:Sarafu ilizama chini.\nB:Sarafu iligarika katikati.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMchezaji alipiga mpira kuelekea shimoni. Based on the previous passage, choose the most reasonable effect.\nA:Mpira uliingia shimoni.\nB:Mpira ulirudi kwa mchezaji.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNilivuta pumzi kwenye vumbi katika dari. Based on the previous passage, choose the most reasonable effect.\nA:Nilienda kwikwi.\nB:Nilipiga chafya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMhasibu wa duka aliwapigia usalama. Based on the previous passage, choose the most reasonable cause.\nA:Mteja alitumia pesa bandia.\nB:Mteja aliwacha taa yake ya mbele inawaka.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNilizitupa takataka nje. Based on the previous passage, choose the most reasonable cause.\nA:Takataka zilileta harufu mbaya jikoni.\nB:Kwa bahati mbaya nilitupa orodha yangu ya manunuzi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nFamilia ilikwenda katika bustani ya wanyama. Based on the previous passage, choose the most reasonable effect.\nA:Watoto waliwapenda wanyama.\nB:Watoto waliwakimbiza wanyama.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamme avuta pumzi kwa sauti. Based on the previous passage, choose the most reasonable cause.\nA:Mafigo yalikataa.\nB:Mapafu yalikuwa yameziba.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNilikuwa na tiketi ya ziada kwa ajili ya tamasha. Based on the previous passage, choose the most reasonable effect.\nA:Nilimuomba rafiki yangu anielekeze sehemu ya tukio.\nB:Nilimuuliza rafiki yangu kama angeweza kwenda.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKiyoyozi kiliharibika ndani ya nyumba. Based on the previous passage, choose the most reasonable effect.\nA:Nilivua blangeti.\nB:Nilifungua dirisha.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMgongo wa kijana uliuma. Based on the previous passage, choose the most reasonable cause.\nA:Mfuko wa begani ulikuwa wazi.\nB:Mfuko wa begani ulikuwa mzito.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNilimnunulia mama yangu zawadi. Based on the previous passage, choose the most reasonable cause.\nA:Nilimpambilia keki.\nB:Ilikuwa ni siku yake ya kuzaliwa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMimea ya maua kwenye bustani iliharibiwa. Based on the previous passage, choose the most reasonable effect.\nA:Nyuki alimdunga mkulima.\nB:Chindi walichimbua balbu za ile mimea.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNiliwasha kiberiti. Based on the previous passage, choose the most reasonable effect.\nA:Moto ulififia.\nB:Kiberiti Kilizalisha moto.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nVyama vilivyolumbana viliekeana mkataba. Based on the previous passage, choose the most reasonable cause.\nA:Hawakutaka kulumbana mahakamani.\nB:Walitaka kurudisha uhusiano wao.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWatoto walipelekwa sehemu ya kulelea yatima. Based on the previous passage, choose the most reasonable cause.\nA:Wazazi wao walifariki.\nB:Wazazi wao waliwaharibu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKimondo kiliangukia baharini. Based on the previous passage, choose the most reasonable effect.\nA:Sunami ilitokezea.\nB:Mvua ya mawe ilianza.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMzururaji alikabiliana na nyoka mwenye sumu. Based on the previous passage, choose the most reasonable effect.\nA:Alikosa maji mwilini.\nB:Aliogopa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nJiko lilipata moto. Based on the previous passage, choose the most reasonable cause.\nA:Niliwasha jiko.\nB:Niliteleka sufuria katika jiko.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAlibonyeza ganda la limau. Based on the previous passage, choose the most reasonable effect.\nA:Limau lilifanya ukungu.\nB:Limau lilikamuliwa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNchi iligundua ardhi mpya. Based on the previous passage, choose the most reasonable effect.\nA:Nchi iliibomoa ardhi.\nB:Nchi iliitawala ardhi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBilauri ilianguka juu ya meza. Based on the previous passage, choose the most reasonable effect.\nA:Ilivunjika na kuenea katika sakafu yote.\nB:Iliwekwa katika rundo la nguo zitakazofuliwa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMeza ilitingishika. Based on the previous passage, choose the most reasonable cause.\nA:Sakafu haikuwa sawa sawa.\nB:Sakafu ilikuwa inateleza.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBaba alimkamata mtoto wake wa kiume amelala. Based on the previous passage, choose the most reasonable effect.\nA:Mtoto wake wa kiume alikiri ukweli.\nB:Baba alimuamini mtoto wake wa kiume.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKichwa cha mwanamme kilipata maumivu. Based on the previous passage, choose the most reasonable effect.\nA:Alikunya dawa ya kifua.\nB:Alimeza aspirini.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTreni ilipunguza mwendo. Based on the previous passage, choose the most reasonable cause.\nA:Ilikuwa inakaribia kituoni.\nB:Ilikuwa inatembea kinyume na ratiba yake.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanaume alipita kwenye matibabu. Based on the previous passage, choose the most reasonable effect.\nA:Jamaa yake ina ugonjwa wa akili.\nB:Aligunduliwa kuwa na unyogovu wa akili.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamke alishika koo yake. Based on the previous passage, choose the most reasonable cause.\nA:Alimeza chakula chake.\nB:Alisamwa na chakula.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamke alikuwa na maumivu ya koo. Based on the previous passage, choose the most reasonable effect.\nA:Sauti yake ilikuwa mzito.\nB:Aliongea kwa msisitizo.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMbwa aliangalia pande la nyama juu ya meza. Based on the previous passage, choose the most reasonable effect.\nA:Alitoka mate.\nB:Alilala chini.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBiashara ya mwanamke ilifanikiwa. Based on the previous passage, choose the most reasonable effect.\nA:Aliwafukuza kazi waajiriwa wake.\nB:Alikuwa tajiri.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nWanafunzi walitoka darasani. Based on the previous passage, choose the most reasonable cause.\nA:Kengele ililia.\nB:Mwalimu alitoa kazi ya nyumbani.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamke alidai aliona pepo. Based on the previous passage, choose the most reasonable effect.\nA:Uelewa wake ulionesha mashaka.\nB:Uelewa wake uliendana na yeye.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamme alipoteza usikivu wake. Based on the previous passage, choose the most reasonable cause.\nA:Karibu apotee katika bahari.\nB:Karibu afe katika mripuko.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMtoto alikata kamba ya puto. Based on the previous passage, choose the most reasonable effect.\nA:Puto lilitoka upepo.\nB:Puto lilikwenda hewani.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamme aliputeza uwezo wake wa kuzungumza. Based on the previous passage, choose the most reasonable cause.\nA:Alikuwa na kiharusi.\nB:Alivuta pumzi kubwa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamke alijikwaa katika njia ya wapitao kwa miguu. Based on the previous passage, choose the most reasonable cause.\nA:Kulikuwa na ufa katika saruji.\nB:Alisikia jina lake linaitwa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamme alijitupa katika bwawa. Based on the previous passage, choose the most reasonable effect.\nA:Muokoaji alijitupa baada  yake.\nB:Mwanamme alimrowesha muokoaji.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNilimeza dawa ya kuondoa sumu. Based on the previous passage, choose the most reasonable effect.\nA:Ugonjwa wangu wa kuambukiza uliondoka.\nB:Ugonjwa wangu wa kuambukiza ulienea.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTaa ya trafiki iliwaka rangi ya manjano. Based on the previous passage, choose the most reasonable effect.\nA:Dereva alifunga breki.\nB:Dereva alipiga honi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nChombo cha plastiki kiliyeyuka. Based on the previous passage, choose the most reasonable cause.\nA:Nilikiroweka chombo katika maji moto.\nB:Nilikiweka chombo katika jiko moto.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nGari ilitoboka. Based on the previous passage, choose the most reasonable cause.\nA:Dereva alikanyaga ncha ya simu.\nB:Dereva alitembea wakati taa nyekundu inawaka.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKijana alisoma usiku kutwa. Based on the previous passage, choose the most reasonable effect.\nA:Aliruka mtihani.\nB:Alifaulu mtihani.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMvulana mdogo alijishikilia pembeni mwa bwawa la kuogelea. Based on the previous passage, choose the most reasonable effect.\nA:Aliogopa kuogelea.\nB:Mtunzani wa bwawa alikua pale.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNiliweka mkono wangu kifuani kwangu. Based on the previous passage, choose the most reasonable effect.\nA:Nilihisi mapigo yangu ya moyo.\nB:Kiwango cha mapigo ya moyo kiliongezeka.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nJengo karibu na ofisi yangu ilikuwa linajengwa. Based on the previous passage, choose the most reasonable effect.\nA:Ofisi yangu ilikuwa na watu wengi.\nB:Ofisi yangu ilikuwa na kelele.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nFamilia walitaka kuwajua jirani zao wapya. Based on the previous passage, choose the most reasonable effect.\nA:Familia iliwaalika jirani zao katika chakula cha usiku.\nB:Familia walipunga mikono kwa jirani zao kutoka bustanini kwao.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMaji yalipiga kutoka katika bwawa. Based on the previous passage, choose the most reasonable cause.\nA:Muogeleaji alipiga mbizi katika bwawa.\nB:Muogeleaji alielea katika bwawa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNilitafuna kipande cha tikiti maji. Based on the previous passage, choose the most reasonable effect.\nA:Kwa bahati mbaya nilimeza konde.\nB:Kwa bahati mbaya nilikata jino langu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKijana alijikwaa. Based on the previous passage, choose the most reasonable cause.\nA:Koti lake lilikuwa halijafungwa zipu.\nB:Nyuzi zake za viatu ilikuwa hazijafungwa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamke alivaa kizibo cha masikio. Based on the previous passage, choose the most reasonable cause.\nA:Alikuwa anasumbuliwa na kelele.\nB:Alitoboa masikio yake.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNiliijaza tena chupa yangu ya maji. Based on the previous passage, choose the most reasonable cause.\nA:Nilikunywa maji yote ndani yake.\nB:Niliiweka katika jokofu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nOnesho la televisheni lilitathminiwa lugha yake. Based on the previous passage, choose the most reasonable cause.\nA:Lilikuwa na lugha ya kipuuzi.\nB:Lilikuwa na mjengeko mgumu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMeli ilianguka. Based on the previous passage, choose the most reasonable effect.\nA:Wafanyakazi walizama majini.\nB:Wafanyakazi walikabiliana na maharamia.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKijana alichagizwa na kitendawili. Based on the previous passage, choose the most reasonable effect.\nA:Alitegua kitendawili.\nB:Aliomba kidokezo.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSimu iliita. Based on the previous passage, choose the most reasonable effect.\nA:Mwanamme aliipotezea simu.\nB:Mwanamme aliipokea simu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamke alikuwa ananikodolea. Based on the previous passage, choose the most reasonable effect.\nA:Nilimkumbatia.\nB:Nilijisikia wasiwasi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKundi lilibakia makumbusho. Based on the previous passage, choose the most reasonable cause.\nA:Walichukua picha za maonesho.\nB:Walitazama maonesho yote.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamme alianza hoja na mie. Based on the previous passage, choose the most reasonable effect.\nA:Rafiki yangu alinitambulisha kwa mwanamme.\nB:Rafiki yangu alisimama kwa ajili yangu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMpira katika baskeli yangu ulikuwa umelala. Based on the previous passage, choose the most reasonable effect.\nA:Nilitia upepo katika tairi.\nB:Nilibadilisha gia katika baskeli.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMsichana alionekana ana safura. Based on the previous passage, choose the most reasonable effect.\nA:Baba yake alimsomea hadithi.\nB:Baba yake alimgusa paji la uso.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKalamu ilimaliza wino. Based on the previous passage, choose the most reasonable effect.\nA:Nilitumia penseli.\nB:Nilisaini jina langu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamme alikataliwa kukopa. Based on the previous passage, choose the most reasonable cause.\nA:Alikuwa na deni.\nB:Alianza biashara.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMsichana alikaa nyumbani kutoka skuli. Based on the previous passage, choose the most reasonable cause.\nA:Alikuwa na tetekuwanga.\nB:Alifurahia kusoma hesabu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBegi la takataka lilikuwa limejaa. Based on the previous passage, choose the most reasonable effect.\nA:Nilizipeleka jaani.\nB:Nilizitupa chini ya bakuli la choo.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNilisafisha zulia. Based on the previous passage, choose the most reasonable cause.\nA:Wenzangu katika chumba walimwaga kinywaji.\nB:Mbwa wangu alimwaga nywele.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanaume alikasirika. Based on the previous passage, choose the most reasonable effect.\nA:Alizima tarakilishi yake.\nB:Alirusha kiti kwenye chumba.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMsichana alirusha jani katika kambi ya moto. Based on the previous passage, choose the most reasonable effect.\nA:Jani liliungua.\nB:Moto ulizima.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamme alitoka nje ya mfereji wa kuogea. Based on the previous passage, choose the most reasonable cause.\nA:Maji moto yalikuwa yameisha.\nB:Hakuona taulo.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWazazi walitaka watoto wao waende chuo kikuu. Based on the previous passage, choose the most reasonable effect.\nA:Walitenga pesa kwa ajili ya masomo ya ziada.\nB:Waliwashajihisha watoto wao wacheze nje.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamme alifungua nyuzi viatu vyake. Based on the previous passage, choose the most reasonable effect.\nA:Viatu vililegea.\nB:Viatu vilichafuka.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamme alikula nusu ya sufuria la nyama. Based on the previous passage, choose the most reasonable effect.\nA:Iliyobakia aliiweka katika jokofu.\nB:Alihifadhi mapishi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKifundo changu cha mguu kilikuwa kimevimba. Based on the previous passage, choose the most reasonable effect.\nA:Niliweka barafu juu yake.\nB:Nilipaka losheni juu yake.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMlango wa ofisi yangu ulikuwa wazi. Based on the previous passage, choose the most reasonable effect.\nA:Nilizungumza na wenzangu katika dawati.\nB:Nilisikia mazungumzo katika ukumbi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIlibidi ningoje kwenye foleni. Based on the previous passage, choose the most reasonable effect.\nA:Niliketi.\nB:Nilisoma gazeti kwa kupitia.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMwanamme alimpiga nzi. Based on the previous passage, choose the most reasonable effect.\nA:Nzi alikimbia.\nB:Nzi alibakia palepale.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamme aliandika wasia. Based on the previous passage, choose the most reasonable cause.\nA:Alikuwa anakufa.\nB:Alikuwa amefiliea na mke wake.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanariadha alihisi kana kwamba mpinzani wake alikua anamkaribia. Based on the previous passage, choose the most reasonable effect.\nA:Alitoka kwenye mashindano.\nB:Aliongeza kasi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNilifikiria kwa makini kuhusu tatizo. Based on the previous passage, choose the most reasonable effect.\nA:Niliomba ushauri.\nB:Nilipata suluhisho.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMsafiri alipita katika daraja lililosimamishwa. Based on the previous passage, choose the most reasonable effect.\nA:Alikuwa na hofu.\nB:Alikuwa na furaha.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMwanamme alitegemea ushindi wa kikundi. Based on the previous passage, choose the most reasonable effect.\nA:Alimuona rafiki yake anaangalia mchezo.\nB:Liekeana dau na rafiki yake.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMvulana hangeweza kupata usingizi. Based on the previous passage, choose the most reasonable effect.\nA:Aliweka kengele ya saa yake.\nB:Alihesabu kondoo.\n\nAnswer:\n",
+        "output": "B"
+    }
+]

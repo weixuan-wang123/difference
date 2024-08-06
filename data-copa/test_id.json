@@ -1,0 +1,2002 @@
+[
+    {
+        "input": "Question:\nBarang itu dikemas dalam bungkus gelembung. Based on the previous passage, choose the most reasonable cause.\nA:Barang itu rapuh.\nB:Barang itu kecil.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya kosongkan kantong saya. Based on the previous passage, choose the most reasonable effect.\nA:Saya ambil sebuah potongan tiket.\nB:Saya temukan sebuah senjata.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nRumah saya diserbu oleh rayap. Based on the previous passage, choose the most reasonable effect.\nA:Rayap itu tiada lagi di rumah saya.\nB:Rayap itu memakan kayu rumah saya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPara wisatawan sudah sampai di perbatasan. Based on the previous passage, choose the most reasonable effect.\nA:Paspor mereka diperiksa oleh agen patroli.\nB:Mereka dituduh atas penyelundupan oleh agen patroli.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKantor itu tutup. Based on the previous passage, choose the most reasonable cause.\nA:Saat itu sedang hari libur.\nB:Saat itu sedang musim panas.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGadis itu kehabisan tenaga. Based on the previous passage, choose the most reasonable cause.\nA:Ia telah main catur.\nB:Ia telah main lompat tali.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nWanita itu kehilangan tempatnya di barisan. Based on the previous passage, choose the most reasonable cause.\nA:Banyak orang mengikuti barisan itu.\nB:Ia keluar dari barisan itu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nGadis itu mencubit hidungnya. Based on the previous passage, choose the most reasonable cause.\nA:Bayi itu meneteskan air liur ke kain alasanya.\nB:Bayi itu mengotori popoknya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBand ini memainkan lagu hit mereka. Based on the previous passage, choose the most reasonable effect.\nA:Para penonton bertepuk tangan mengikuti musik.\nB:Para penonton dengan sopan mendengarkan dalam kediaman.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGadis itu ingin berterima kasih kepada guru matematiknya. Based on the previous passage, choose the most reasonable effect.\nA:Gadis itu ditahan setelah sekolah selesai.\nB:Gadis itu memberikan apel kepada gurunya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPara berkemah muda merasa takut. Based on the previous passage, choose the most reasonable cause.\nA:Konselor kamp menceritakan sebuah cerita hantu.\nB:Mereka membakar marshmallow di atas api unggun.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKepala pria itu terbentur. Based on the previous passage, choose the most reasonable effect.\nA:Dia tenggelam dalam pikirannya.\nB:Dia menderita gegar otak.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nCek yang saya tulis ditolak. Based on the previous passage, choose the most reasonable cause.\nA:Rekening bank saya habis.\nB:Saya mendapat kenaikan gaji.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKotak masuk email pria itu penuh dengan spam. Based on the previous passage, choose the most reasonable effect.\nA:Ia hapus spam dari emailnya.\nB:Dia kirim sebuah email massal.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPelaut itu dikarantina. Based on the previous passage, choose the most reasonable cause.\nA:Ia terkena penyakit.\nB:Ia sembuh dari penyakitnya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGadis itu menghafalkan kodenya. Based on the previous passage, choose the most reasonable cause.\nA:Dia membacakannya ke dirinya sendiri.\nB:Ia lupa mencatatnya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya tuang air ke gelas itu. Based on the previous passage, choose the most reasonable effect.\nA:Air itu menghilangkan dahaga saya.\nB:Gelas itu terisi penuh.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPria itu tetap diam ketika temannya selesai berbicara. Based on the previous passage, choose the most reasonable cause.\nA:Ia ingin mendukung temannya.\nB:Ia berpikir tentang apa yang dikatakan temannya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKecelakaan itu salah saya. Based on the previous passage, choose the most reasonable effect.\nA:Saya merasa bersalah.\nB:Saya menuduh orang lain.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nRantai itu terlepas. Based on the previous passage, choose the most reasonable cause.\nA:Rantai itu terlilit di ban.\nB:Salah satu mata rantai terputus.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPasangan itu memutuskan untuk berkompromi. Based on the previous passage, choose the most reasonable cause.\nA:Mereka lelah dengan terus bertengkar.\nB:Mereka menghindari diskusi tentang masalah mereka.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWanita itu memutuskan untuk mencalonkan diri untuk jabatan publik. Based on the previous passage, choose the most reasonable effect.\nA:Dia mempekerjakan seorang manajer kampanye.\nB:Dia bersaksi di pengadilan.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPria itu mengantisipasi adanya cuaca dingin di perjalanannya. Based on the previous passage, choose the most reasonable effect.\nA:Dia mengemas pakaian hangat di kopernya.\nB:Dia bawa koper besar untuk perjalanannya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSiswa itu tahu jawaban  pertanyaan itu. Based on the previous passage, choose the most reasonable effect.\nA:Ia angkat tangannya.\nB:Ia salah.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMata pria itu berkaca-kaca. Based on the previous passage, choose the most reasonable cause.\nA:Debu masuk ke matanya.\nB:Ia pakai kacamata.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPemain itu menang lima pertandingan berturut-turut. Based on the previous passage, choose the most reasonable effect.\nA:Lawannya menuduh dia atas kecurangan.\nB:Lawannya merasa kasihan padanya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGuru itu merobek-robek kertas ujian siswanya. Based on the previous passage, choose the most reasonable cause.\nA:Ia tangkap murid itu menyontek.\nB:Semua jawaban murid itu salah.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya berhenti bicara. Based on the previous passage, choose the most reasonable cause.\nA:Suara saya hilang.\nB:Saya kehilangan napas.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMakanan yang terbeku itu dicairkan. Based on the previous passage, choose the most reasonable cause.\nA:Saya cairkan di dalam microwave.\nB:Saya tutup dengan bungkus plastik.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKaryawan itu pura-pura sakit. Based on the previous passage, choose the most reasonable cause.\nA:Dia mengalami kram perut.\nB:Ia ingin bolos.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nGadis itu tercebur dalam kolam renang. Based on the previous passage, choose the most reasonable cause.\nA:Dia berlari di dek kolam renang.\nB:Dia melompat dari papan loncat.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTiket film itu terjual habis. Based on the previous passage, choose the most reasonable cause.\nA:Itu terjadi ketika hari pembukaan untuk film itu.\nB:Film itu mendapat ulasan buruk.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBerat badan pria itu turun. Based on the previous passage, choose the most reasonable effect.\nA:Orang-orang mengisolasinya.\nB:Orang-orang memujinya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTangan gadis itu  melepuh. Based on the previous passage, choose the most reasonable cause.\nA:Dia mengetik sebuah surat.\nB:Dia memanjat dengan tali.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPemain sirkus itu menyulap sambil mengendarai sepeda roda satu. Based on the previous passage, choose the most reasonable effect.\nA:Penonton bersorak dengan takjub.\nB:Pemain sirkus itu berayun dari trapeze.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya kehilangan kesabaran. Based on the previous passage, choose the most reasonable cause.\nA:Teman saya membuat saya menunggunya.\nB:Teman saya tiba tepat waktu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNegara-negara yang sedang konflik ingin perdamaian. Based on the previous passage, choose the most reasonable effect.\nA:Mereka telah kembangkan senjata nuklir.\nB:Mereka menegosiasikan sebuah perjanjian.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPria itu minum obat tidur. Based on the previous passage, choose the most reasonable effect.\nA:Ia mengantuk.\nB:Ia terkena demam.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWanita itu menabrak sofa. Based on the previous passage, choose the most reasonable effect.\nA:Kaki sofa itu terlepas.\nB:Lututnya pun memar.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBocah itu meremas balon itu. Based on the previous passage, choose the most reasonable effect.\nA:Balon itu meletus.\nB:Balon itu terbang.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPara wisatawan check in ke kamar hotel mereka. Based on the previous passage, choose the most reasonable effect.\nA:Mereka membongkar koper mereka.\nB:Mereka pergi ke bandara udara.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya gigit buah persik itu. Based on the previous passage, choose the most reasonable effect.\nA:Persik itu memar.\nB:Jus keluar dari buah persik itu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTangan saya menjadi lengket. Based on the previous passage, choose the most reasonable cause.\nA:Saya makan sebuah donat.\nB:Saya suka makanan manis.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya dorong pintu itu. Based on the previous passage, choose the most reasonable effect.\nA:Pintu itu terbuka.\nB:Pintu itu terkunci.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPara aktivis memboikot produk itu. Based on the previous passage, choose the most reasonable cause.\nA:Produk itu telah di tes untuk kualitasnya.\nB:Produk-produk tersebut diproduksi oleh pekerja anak.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya mengebor sebuah lubang di dinding. Based on the previous passage, choose the most reasonable effect.\nA:Sebuah tikus keluar dari lubang itu.\nB:Debu berhamburan keluar dari lubang itu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nWanita itu iri dengan saudara perempuannya. Based on the previous passage, choose the most reasonable cause.\nA:Saudaranya bahagia.\nB:Saudaranya telah cerai.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya tumpahkan minguman anggur di baju saya. Based on the previous passage, choose the most reasonable effect.\nA:Saya pakai sebuah celemek.\nB:Saya ganti baju saya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKasir itu membuka mesin kasirnya. Based on the previous passage, choose the most reasonable cause.\nA:Pelanggan itu buka dompetnya.\nB:Pelanggan itu berikannya uang.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSi musisi jalanan menarik perhatian banyak orang. Based on the previous passage, choose the most reasonable effect.\nA:Orang-orang memberikannya uang kecil.\nB:Ia suruh orang-orang untuk pergi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAnak laki itu menangis ke pembantunya. Based on the previous passage, choose the most reasonable cause.\nA:Ia rindu orang tuanya.\nB:Sudah waktunya untuk ia makan camilannya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nRadar pilot mendeteksi adanya badai. Based on the previous passage, choose the most reasonable effect.\nA:Pilot menavigasi agar menghindari badai.\nB:Pilot itu terus terbang menembus badai itu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nDaun rontok dari pohon itu. Based on the previous passage, choose the most reasonable effect.\nA:Daunnya berubah warna.\nB:Daunnya menumpuk di tanah.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBocah itu sedang dalam suasana hati yang nakal. Based on the previous passage, choose the most reasonable effect.\nA:Dia memutuskan untuk bermain kartu dengan saudara perempuannya.\nB:Dia memutuskan untuk memainkan lelucon praktis kepada saudara perempuannya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAnak itu mengeluh bahwa dia harus pergi ke kamar mandi. Based on the previous passage, choose the most reasonable effect.\nA:Ayahnya memberinya minuman soda.\nB:Ayahnya berhentikan mobil di sebuah pompa bensin.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAnak itu menaburkan makanan ikan ke dalam tangki ikan. Based on the previous passage, choose the most reasonable effect.\nA:Ikan itu melompat keluar dari tangki.\nB:Ikan itu berenang menuju makanan.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPandangan politik wanita itu berubah. Based on the previous passage, choose the most reasonable effect.\nA:Dia ganti partainya.\nB:Dia libatkan diri dalam protes.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWastafel kamar mandi tersumbat. Based on the previous passage, choose the most reasonable effect.\nA:Saya nyalakan kerannya.\nB:Saya tuangkan pembersih ke dalamnya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPara penumpang turun dari kereta. Based on the previous passage, choose the most reasonable cause.\nA:Kereta telah tiba di stasiun.\nB:Kereta itu meniup peluitnya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPria itu menekan tutup amplop itu. Based on the previous passage, choose the most reasonable effect.\nA:Ia cap amplop itu.\nB:Ia tutup amplop itu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTeman-teman itu kehilangan kontak. Based on the previous passage, choose the most reasonable cause.\nA:Mereka menikmati kebersamaan satu sama lain.\nB:Mereka pindah ke kota yang berbeda.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAkuntan salah mengelola dana perusahaan. Based on the previous passage, choose the most reasonable effect.\nA:Ia di pecat dari jabatannya.\nB:Ia pergi cuti hamil.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya memandang jam itu. Based on the previous passage, choose the most reasonable cause.\nA:Saya dengar centangan jam itu.\nB:Saya ingin tahu waktu saat itu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTangan saya keram. Based on the previous passage, choose the most reasonable cause.\nA:Saya tulis esai saya di atas kertas.\nB:Saya pengangan tangan dengan istri saya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBaut itu mengencang. Based on the previous passage, choose the most reasonable cause.\nA:Saya ganti baut itu.\nB:Saya putar kunci pas itu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPasangan itu menandatangani kontrak untuk sebuah apartemen. Based on the previous passage, choose the most reasonable effect.\nA:Pasangan itu pindah ke apartemen itu.\nB:Apartemen itu diambil oleh pemerintah kota.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWanita itu duduk dihalamannya. Based on the previous passage, choose the most reasonable cause.\nA:Ia ingin melihat matahari terbenam.\nB:Ia pikir dia melihat kilat.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPria itu mengenakan baju pelampung di air. Based on the previous passage, choose the most reasonable cause.\nA:Ia tidak bisa berenang.\nB:Airnya dangkal.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWanita itu membuat kesalahan ketika mengetik dokumen. Based on the previous passage, choose the most reasonable effect.\nA:Ia hapus dokumen itu.\nB:Ia tekan tombol backspace.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPerempuan itu berlagak di depan teman-temannya. Based on the previous passage, choose the most reasonable cause.\nA:Ia dapat nilai yang buruk.\nB:Ia menangkan sebuah kompetisi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nHalaman itu berlumpur. Based on the previous passage, choose the most reasonable cause.\nA:Ada turun hujan sepanjang malam.\nB:Halaman itu penuh dengan rumput liar.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWanita itu ketiduran. Based on the previous passage, choose the most reasonable cause.\nA:Dia menginap di hotel.\nB:Ia lupa nyalakan weker.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPria itu pakai lotion sunscreen. Based on the previous passage, choose the most reasonable cause.\nA:Iya duduk di tempat yang berteduh.\nB:Ia pergi ke pantai.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPara peneliti membuktikan teorinya. Based on the previous passage, choose the most reasonable effect.\nA:Para peneliti cabutkan teorinya.\nB:Orang-orang menerima teorinya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPara penggemar di pertandingan itu mencemooh. Based on the previous passage, choose the most reasonable cause.\nA:Permainan itu berlembur.\nB:Wasit melakukan panggilan buruk.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya masukkan kode gembok. Based on the previous passage, choose the most reasonable effect.\nA:Saya kunci gembok itu.\nB:Gembok itu terbuka.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPara penonton itu tambah ramai. Based on the previous passage, choose the most reasonable effect.\nA:Sang ayah memberikan uang kepada putranya.\nB:Sang ayah meraih tangan putranya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSalju menghalangi jalanan masuk. Based on the previous passage, choose the most reasonable effect.\nA:Saya kumpulkan salju itu menjadi bola salju.\nB:Saya menyekop salju itu untuk bersihkan jalan.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMereka mendayung di atas kayaknya. Based on the previous passage, choose the most reasonable effect.\nA:Kayak itu pun sampai di pantai.\nB:Kayak mereka terkena gelombang.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGadis itu kehilangan kendali atas sepedanya. Based on the previous passage, choose the most reasonable effect.\nA:Ia lepaskan stang sepedanya.\nB:Ia menabrak sebuah pagar.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya nyalakan kipas angin. Based on the previous passage, choose the most reasonable effect.\nA:Air terciprat di kulit saya.\nB:Saya rasakan udara dingin mengenai saya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPara peselancar kembalik ke pantai. Based on the previous passage, choose the most reasonable cause.\nA:Mereka basah kuyup.\nB:Mereka lihat sebuah hiu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya menarik sumbat saluran air di bak mandi. Based on the previous passage, choose the most reasonable effect.\nA:Air mengalir keluar dari bak mandi.\nB:Air terciprat ke lantai.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSang suami merasa bersalah karena berselingkuh. Based on the previous passage, choose the most reasonable effect.\nA:Ia menuduh istrinya telah selingkuh.\nB:Dia mengakui perselingkuhannya padanya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTinta di poster itu luntur. Based on the previous passage, choose the most reasonable effect.\nA:Saya menunggunya sampai kering.\nB:Saya mencipratkan air ke poster.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAnak itu bangun menjerit. Based on the previous passage, choose the most reasonable cause.\nA:Ia sedang mimpi buruk.\nB:Ia mengompol.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBocah itu menaruh kakinya di atas meja. Based on the previous passage, choose the most reasonable effect.\nA:Ayahnya duduk di meja.\nB:Ayahnya memarahinya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTeman saya menoleh ke arah saya. Based on the previous passage, choose the most reasonable cause.\nA:Saya meneriakkan namanya.\nB:Saya melambaikan tangan.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPemerintah menindas warganya. Based on the previous passage, choose the most reasonable effect.\nA:Warga melakukan pemberontakan.\nB:Warga mendaftarkan diri untuk memilih.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBocah itu tersesat di hutan. Based on the previous passage, choose the most reasonable effect.\nA:Dia mendirikan tenda.\nB:Dia berteriak untuk pertolongan.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nWanita itu bepergian ke luar negeri. Based on the previous passage, choose the most reasonable cause.\nA:Dia ingin belajar cara menggambar.\nB:Dia ingin belajar tentang budaya asing.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPria itu cemburu pada rekan kerjanya. Based on the previous passage, choose the most reasonable cause.\nA:Rekan kerjanya mendapat promosi di kantor.\nB:Rekan kerjanya bekerja lembur.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPria itu melihat adanya alien. Based on the previous passage, choose the most reasonable cause.\nA:Dia berhalusinasi.\nB:Dia sedang bermeditasi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nRambut pria itu menjadi pirang. Based on the previous passage, choose the most reasonable cause.\nA:Ia pakai pemutih di rambutnya.\nB:Ia cuci rambutnya dengan sampo.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nArtis itu menciptakan karya baru. Based on the previous passage, choose the most reasonable cause.\nA:Dia mengkritik pekerjaan sebelumnya.\nB:Dia merasa terinspirasi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAnak lelaki itu pindah dari rumahnya. Based on the previous passage, choose the most reasonable cause.\nA:Dia telah dipulangkan dari militer.\nB:Dia akan kuliah.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBuku-buku jatuh dari rak buku. Based on the previous passage, choose the most reasonable cause.\nA:Rak buku itu berdebu.\nB:Rak buku itu terguncang oleh gempa bumi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nListrik di rumah saya mati. Based on the previous passage, choose the most reasonable effect.\nA:Saya nyalakan lampu.\nB:Saya mereset pemutus arus di rumah saya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKami naik roller coaster. Based on the previous passage, choose the most reasonable cause.\nA:Roller coaster itu tampak menakutkan.\nB:Roller coaster itu terlihat seru.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPopcorn di dalam kantong itu mulai meletus. Based on the previous passage, choose the most reasonable cause.\nA:Saya tuang mentega ke dalam kantong popcorn itu.\nB:Saya hangatkan kantong popcorn itu di dalam microwave.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSebuah pohon jatuhi kabel listrik. Based on the previous passage, choose the most reasonable effect.\nA:Listrik di lingkungan itu padam.\nB:Telah diramal adanya angin kencang.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPembicara membuat komentar yang kurang baik. Based on the previous passage, choose the most reasonable effect.\nA:Dia membuat penonton bosan.\nB:Dia menyinggung penonton.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya menusuk tanganku dengan sebuah pin. Based on the previous passage, choose the most reasonable effect.\nA:Butir keringat menetes dari wajahku.\nB:Setetes darah jatuh dari jari saya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nIkan itu mengapung di permukaan tangki. Based on the previous passage, choose the most reasonable cause.\nA:Ikan itu lapar.\nB:Ikan itu sudah mati.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSuara pria itu terdengar serak. Based on the previous passage, choose the most reasonable cause.\nA:Ia sakit.\nB:Ia telah berhenti merokok.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPintu lift terbuka. Based on the previous passage, choose the most reasonable cause.\nA:Lift telah sampai di lantai yang ditentukan.\nB:Lift itu macet di antara lantai.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nRemaja itu menyelinap keluar dari rumah. Based on the previous passage, choose the most reasonable cause.\nA:Ia bohong kepada orang tuanya.\nB:Ia dihukum oleh orang tuanya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLantai kamar mandi terbanjir. Based on the previous passage, choose the most reasonable cause.\nA:Toilet di kamar mandi bocor.\nB:Pemanas air rusak.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAnak anjing itu tinggal di dekat pemiliknya. Based on the previous passage, choose the most reasonable cause.\nA:Pemilik anjing itu pakaikannya sebuah kalung.\nB:Anjing itu dirantai oleh pemiliknya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPria itu lihat bayangannya sendiri. Based on the previous passage, choose the most reasonable cause.\nA:Ia berdiri di bawah pohon yang besar.\nB:Ia berdiri di tepi kolam yang damai.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya tidak jawab panggilan telepon pacar saya. Based on the previous passage, choose the most reasonable effect.\nA:Saya telpon dia balik.\nB:Saya makan malam dengannya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKeluarga itu mencari tetangga-tetangganya. Based on the previous passage, choose the most reasonable effect.\nA:Anjing mereka kabur dari rumah.\nB:Berlian mereka yang mahal telah hilang dari rumah.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya lihat hembusan napas saya. Based on the previous passage, choose the most reasonable cause.\nA:Cuacanya sedang dingin.\nB:Dada saya terasa kencang.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPara karyawan membentuk serikat pekerja. Based on the previous passage, choose the most reasonable cause.\nA:Mereka menginginkan kondisi kerja yang lebih baik.\nB:Bos mereka menaikkan upah mereka.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya buat sebuah pai apel. Based on the previous passage, choose the most reasonable effect.\nA:Ada bau busuk memenuhi dapur.\nB:Aroma hangat memenuhi dapur.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nWanita itu susah jalan. Based on the previous passage, choose the most reasonable cause.\nA:Ia sedang pakai sepatu dengan hak tinggi.\nB:Ia lepaskan sepatunya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAsap keluar dari panci air panas. Based on the previous passage, choose the most reasonable cause.\nA:Air itu mendidih.\nB:Saya tutup panci itu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSemua kaos kaki saya ada di dalam cucian. Based on the previous passage, choose the most reasonable effect.\nA:Saya pakai sendal.\nB:Saya pakai sepatu boot.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nArgumen politisi itu dianggap absurd. Based on the previous passage, choose the most reasonable effect.\nA:Ia hilang banyak dukungan dari para pemilih.\nB:Ia dituduh telah korupsi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSemua orang tidak setuju dengan tunangan pasangan itu. Based on the previous passage, choose the most reasonable effect.\nA:Pasangan itu hamil.\nB:Pasangan itu kabur untuk menikah.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBangunan itu didedikasikan untuk seorang jutawan. Based on the previous passage, choose the most reasonable cause.\nA:Ia inginkan gedung itu dihancurkan.\nB:Ia telah mendonasikan uang untuk membuat gedung itu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSi penjual menuduh gadis itu telah mencuri. Based on the previous passage, choose the most reasonable cause.\nA:Ia lihat gadis itu menaruh barang dagangan di dompetnya.\nB:Ia bantu gadis itu mencari dompet yang diinginkannya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNegara itu menyatakan perang melawan wilayah tetangga. Based on the previous passage, choose the most reasonable effect.\nA:Tentara dikirim untuk berperang.\nB:Tentara kembali bersatu dengan keluarga mereka.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPengadilan tetap dukung putusan kontroversial tersebut. Based on the previous passage, choose the most reasonable effect.\nA:Kerusuhan pecah di depan gedung pengadilan.\nB:Sepasang suami istri bertukar sumpah di depan gedung pengadilan.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGadis itu mencium sesuatu yang terbakar. Based on the previous passage, choose the most reasonable cause.\nA:Ia ambil biskuit dari sebuah kendi.\nB:Dia tinggalkan masakan biskuitnya di oven terlalu lama.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSedang ada hujan lebat. Based on the previous passage, choose the most reasonable effect.\nA:Badai pun memburuk.\nB:Saya berlari untuk masuk ke gedung.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nGedung itu telah dievakuasi. Based on the previous passage, choose the most reasonable cause.\nA:Lift telah berhenti bekerja.\nB:Alarm kebakaran berbunyi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSang ayah benci alkoholisme putranya. Based on the previous passage, choose the most reasonable effect.\nA:Sang ayah belikan sebuah botol bir untuk anaknya.\nB:Anak itu diusir dari rumahnya oleh ayahnya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSi pengacara naik tangga untuk sampai ke kantornya. Based on the previous passage, choose the most reasonable cause.\nA:Sekretarisnya telah pulang kantor.\nB:Liftnya sedang tidak bekerja.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPria itu sebal dengan temannya. Based on the previous passage, choose the most reasonable cause.\nA:Ia diinterupsi oleh temannya.\nB:Temannya belikannya makan siang.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGadis itu berikan uang kepada kasir. Based on the previous passage, choose the most reasonable effect.\nA:Kasirnya memberikannya kemabalian uangnya.\nB:Kasirnya lupa berikan reset kepada gadis itu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWanita itu menggunakan kursi roda. Based on the previous passage, choose the most reasonable cause.\nA:Ia terparalisis karena sebuah kecelakaan.\nB:Ia masuk ke rumah sakit di atas sebuah stretcher.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPara warga menggantung bendera nasional di luar rumah mereka. Based on the previous passage, choose the most reasonable cause.\nA:Negara itu sedang memperingati kemerdekaannya.\nB:Negara itu sedang menghadapi kesulitan ekonomi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTim itu kalah di turnamennya. Based on the previous passage, choose the most reasonable effect.\nA:Mereka telah mengecewakan penggemarnya.\nB:Mereka menginspirasi penggemarnya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTeman saya memberikan tahu bahwa ada makanan tersangkut di gigi saya. Based on the previous passage, choose the most reasonable effect.\nA:Saya merasa malu.\nB:Saya merasa bangga.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAnak laki itu gagal ujian sejarahnya. Based on the previous passage, choose the most reasonable cause.\nA:Ia selalu memerhatikan gurunya di kelas.\nB:Ia lupa belajar untuk ujiannya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBangunan pusat kota runtuh. Based on the previous passage, choose the most reasonable cause.\nA:Terjadi gempa di kota itu.\nB:Tingkat kejahatan di kota meningkat.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPria itu diputuskan oleh pacarnya. Based on the previous passage, choose the most reasonable effect.\nA:Dia memohon padanya untuk berhubungan kembali.\nB:Dia diperkenalkan kepada orang tua pacarnya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKedua anak itu meraih ke bawa untuk mengambil bola itu. Based on the previous passage, choose the most reasonable effect.\nA:Bola itu terguling menjauhi mereka.\nB:Kepala mereka terbentur.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSebuah rakun menggeledahi tempat sampah. Based on the previous passage, choose the most reasonable cause.\nA:Terdapat kardus di dalam tempat sampah itu.\nB:Tempat sampah itu terbuka.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBocah itu tajamkan pensilnya. Based on the previous passage, choose the most reasonable cause.\nA:Pensilnya murah.\nB:Pensilnya sudah tumpul.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKasir itu menolak permintaan  pengembalian uang untuk gaun wanita itu. Based on the previous passage, choose the most reasonable cause.\nA:Wanita itu telah hilangkan resetnya.\nB:Gaun itu tidak muat dipakai wanita itu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGoresan di kulitku sangat dalam. Based on the previous passage, choose the most reasonable effect.\nA:Goresan itu cepat sembuh.\nB:Goresan itu meinggalkan bekas luka.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPria itu mendapat tatapan aneh dari penumpang di kereta. Based on the previous passage, choose the most reasonable cause.\nA:Ia sedang lihat ke lantai.\nB:Ia sedang berbicara kepada dirinya sendiri.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAnak itu meninggalkan remah-remah roti di lantai. Based on the previous passage, choose the most reasonable effect.\nA:Semut mendatangi remah-remah itu.\nB:Anak itu buang rotinya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWanita itu memberi tisu kepada saudara perempuannya. Based on the previous passage, choose the most reasonable cause.\nA:Saudara perempuan itu melipat tangannya.\nB:Saudara perempuan itu mulai menangis.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPria itu makan sebuah permen mint. Based on the previous passage, choose the most reasonable cause.\nA:Bibirnya kering.\nB:Ia takut mulutnya berbau.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPasangan itu berangkat lebih awal untuk sampai di pertunjukan. Based on the previous passage, choose the most reasonable cause.\nA:Mereka mengantisipasi adanya macet di sekitar teater.\nB:Mereka mendapat petunjuk arah ke teater.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWanita itu bolos dari kantor. Based on the previous passage, choose the most reasonable effect.\nA:Bosnya memujinya.\nB:Rekan kerjanya bantu ambil shift kerjanya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPria itu menandatangani petisi para aktivis. Based on the previous passage, choose the most reasonable cause.\nA:Dia mendukung perjuangan mereka.\nB:Dia mencela mereka karena dikira orang gila.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nHati aktor itu berdebar sebelum penampilannya. Based on the previous passage, choose the most reasonable cause.\nA:Dia mengalami demam panggung.\nB:Ia telah hafalkan dialognya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya hilang. Based on the previous passage, choose the most reasonable effect.\nA:Saya hitung uang saya.\nB:Saya buka sebuah peta.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBuah matang itu ditinggal di bawah sinar matahari. Based on the previous passage, choose the most reasonable effect.\nA:Buah itu telah dimakan.\nB:Buah itu mengkerut.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMobil itu mogok. Based on the previous passage, choose the most reasonable cause.\nA:Saya nyalakan mesin.\nB:Mesinnya telah menjadi terlalu panas.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPunggung laki-laki itu terluka. Based on the previous passage, choose the most reasonable effect.\nA:Dia pergi ke psikiater.\nB:Dia dirawat selama beberapa hari.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya nyalakan api di perapian. Based on the previous passage, choose the most reasonable cause.\nA:Saya kehabisan kayu bakar.\nB:Dalam rumah itu dingin.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nWanita itu berhenti lari. Based on the previous passage, choose the most reasonable cause.\nA:Ia kejang di sisi badanya.\nB:Ia kehilangan napas.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya ketuk pintu tetangga saya. Based on the previous passage, choose the most reasonable effect.\nA:Ia undang saya ke dalam rumahnya.\nB:Ia pergi dari rumahnya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWanita itu menghela nafas frustrasi. Based on the previous passage, choose the most reasonable cause.\nA:Suaminya salah memahami kekhawatirannya.\nB:Suaminya menciumnya selamat tinggal.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGuru itu memuji muridnya. Based on the previous passage, choose the most reasonable cause.\nA:Muridnya jawab pertanyaannya dengan benar.\nB:Muridnya ragu ketika menjawab pertanyaannya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWanita itu kehabisan telur. Based on the previous passage, choose the most reasonable effect.\nA:Ia pergi ke pertanian.\nB:Ia pergi ke supermarket.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya bertemu dengan teman lama. Based on the previous passage, choose the most reasonable effect.\nA:Saya memberi tahukanya sebuah rahasia.\nB:Saya berikannya pelukan.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nWanita itu menghindari pergi ke danau. Based on the previous passage, choose the most reasonable cause.\nA:Ia tangkap sebuah ikan.\nB:Danau itu terlihat terkontaminasi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSiswa tiba di kelas basah kuyup. Based on the previous passage, choose the most reasonable cause.\nA:Payungnya telah rusak.\nB:Sepedanya telah dicuri.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKursor di layar komputer bergerak. Based on the previous passage, choose the most reasonable cause.\nA:Penggunanya mengklik mousenya.\nB:Penggunanya gerakkan mousenya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSopir itu mengambil jalan memutar. Based on the previous passage, choose the most reasonable cause.\nA:Ada kecelakaan terjadi di jalan utama.\nB:Dia mengikuti truk di depannya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya gantungkan kain basah di jemuran. Based on the previous passage, choose the most reasonable effect.\nA:Kain itu telah kering.\nB:Kain itu bernoda.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWanita itu pakai kacamati hitam. Based on the previous passage, choose the most reasonable cause.\nA:Matahari sangat cerah.\nB:Ia panggil sebuah taksi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPria itu menatap ke langit malam. Based on the previous passage, choose the most reasonable cause.\nA:Ia ingin musim panas.\nB:Ia berpikir bahwa langit itu sangat indah.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya merasa lelah. Based on the previous passage, choose the most reasonable effect.\nA:Saya pergi tidur lebih awal.\nB:Saya tidak tidur sepanjang malam.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPria itu pergi ke tukang cukur. Based on the previous passage, choose the most reasonable cause.\nA:Ia biarkan rambutnya tumbuh panjang.\nB:Rambutnya sudah mulai panjang.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBocah itu memainkan tipuan pada teman barunya di kelas. Based on the previous passage, choose the most reasonable cause.\nA:Bocah itu menyambut teman baru sekelasnya dengan baik.\nB:Bocah itu tidak suka dengan teman baru sekelasnya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya ingin minum segelas susu. Based on the previous passage, choose the most reasonable cause.\nA:Saya sedang makan biskuit.\nB:Saya sedang membuat roti.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nHujan mulai turun. Based on the previous passage, choose the most reasonable effect.\nA:Si pengemudi nyalakan lampu mobilnya.\nB:Si pengemudi memendurkan mobilnya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTempat parkir gedung itu kosong. Based on the previous passage, choose the most reasonable effect.\nA:Saya pakir di seberang jalan.\nB:Saya parkir di dekat pintu masuk.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPenulis itu telat menyerahkan submisi drafnya. Based on the previous passage, choose the most reasonable cause.\nA:Dia sedang mendapati blok penulis.\nB:Dia mengedit draftnya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPekerja itu tutup telepon saya. Based on the previous passage, choose the most reasonable cause.\nA:Saya minta bicara dengan pengawasnya.\nB:Saya berikan nomor identifikasi saya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAngin masuk melalui jendela yang terbuka. Based on the previous passage, choose the most reasonable effect.\nA:Bel pintu berbunyi.\nB:Tira-tirai bergetar.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nRumah saya mati lampu. Based on the previous passage, choose the most reasonable cause.\nA:Saya cabut colokan lampu itu.\nB:Saya meniup sekering.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPengangkat besi itu mendengus. Based on the previous passage, choose the most reasonable cause.\nA:Ia besarkan ototnya di depan kaca.\nB:Ia angkat besi di atas kepalanya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSiswa itu coba melakukan perhitungan di kepalanya. Based on the previous passage, choose the most reasonable effect.\nA:Ia keluarkan sebuah kalkulator.\nB:Ia bingung.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBayi itu tidur. Based on the previous passage, choose the most reasonable cause.\nA:Bapaknya ganti popoknya.\nB:Bapaknya ayunkan bayi itu dengan lembut.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPerempuan itu lempar sebuah balon air ke bocah lelaki itu. Based on the previous passage, choose the most reasonable effect.\nA:Bocah itu gegar otak.\nB:Bocah itu basah kuyup.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSang fotografer lupa untuk menggunakan flash ketika mengambil foto. Based on the previous passage, choose the most reasonable effect.\nA:Hasil fotonya buram.\nB:Tidak ada yang senyum di dalam foto-foto itu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya tolak undangan pesta ulang tahun itu. Based on the previous passage, choose the most reasonable cause.\nA:Saya kesepian.\nB:Saya sedang di luar kota.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya olahraga. Based on the previous passage, choose the most reasonable cause.\nA:Saya merasa penuh semangat.\nB:Saya takut.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAku remas sebuah spons basah. Based on the previous passage, choose the most reasonable effect.\nA:Spons itu menyerap air.\nB:Air keluar dari spons itu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPara wisatawan naik feri ke sebuah resor. Based on the previous passage, choose the most reasonable cause.\nA:Resor itu sudah penuh dipesan.\nB:Resor itu di atas sebuah pulau.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAnak muda itu mendapatkan sebuah tato. Based on the previous passage, choose the most reasonable cause.\nA:Ia takut dengan jarum.\nB:Ia ingin memborontak.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSebuah mobil asing parkir di luar rumah saya. Based on the previous passage, choose the most reasonable effect.\nA:Saya menjadi curiga.\nB:Saya telepon polisi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPenjahat itu menyerahkan diri. Based on the previous passage, choose the most reasonable cause.\nA:Bukti-bukti telah melibatkannya dalam kejahatan itu.\nB:Tidak ada bukti yang menentangnya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPria bertubuh kekar itu memutuskan untuk menurunkan berat badannya. Based on the previous passage, choose the most reasonable effect.\nA:Ia berhenti makan makanan manis.\nB:Ia hindari kafein.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPerempuan itu injak es. Based on the previous passage, choose the most reasonable effect.\nA:Ia terselip.\nB:Ia bergemetar.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWanita itu memiliki kantung mata. Based on the previous passage, choose the most reasonable cause.\nA:Ia tidak tidur semalaman.\nB:Dia menidurkan putranya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLava mengalir dari gunung berapi. Based on the previous passage, choose the most reasonable cause.\nA:Gunung api itu meletus.\nB:Gunung berapi itu tidak aktif.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWanita itu pakai sepatunya. Based on the previous passage, choose the most reasonable cause.\nA:Dia kenal semua orang di pesta itu.\nB:Dia ingin berangkat ke pesta.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya berikan bayaran ke pekerja tol. Based on the previous passage, choose the most reasonable effect.\nA:Ia biarkan saya melewati tol.\nB:Dia tahan saya di gerbang tol.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nEksekutif perusahaan itu bangkrut. Based on the previous passage, choose the most reasonable cause.\nA:Ia jual stok perusahaannya.\nB:Dia menyia-nyiakan hartanya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLelaki itu pergi ke dokternya. Based on the previous passage, choose the most reasonable cause.\nA:Dokternya sedang cuti.\nB:Ia merasa sakit.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya keluar lewat jendela kamar saya. Based on the previous passage, choose the most reasonable cause.\nA:Rumah saya kebakaran.\nB:Rumah saya kosong.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nJari-jari anak itu menjadi pucat. Based on the previous passage, choose the most reasonable cause.\nA:Ia mandi lama.\nB:Ia busakan tangannya dengan sabun.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya lepehkan susu. Based on the previous passage, choose the most reasonable cause.\nA:Susu itu berasa asam.\nB:Mulut saya kering.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya ketinggalan bis. Based on the previous passage, choose the most reasonable effect.\nA:Saya datang awal ke kantor.\nB:Saya datang telat ke kantor.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMobil itu bertabrakan dengan sebuah truk. Based on the previous passage, choose the most reasonable effect.\nA:Truk itu melaju cepat.\nB:Mobil itu terhancur.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTim curang dalam kontes demi menang. Based on the previous passage, choose the most reasonable effect.\nA:Mereka pun menang.\nB:Mereka keluar dari kontes itu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBotol soda mendesis. Based on the previous passage, choose the most reasonable cause.\nA:Saya putar balik botol itu.\nB:Saya buka tutup botolnya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBocah itu terkunci di luar rumahnya. Based on the previous passage, choose the most reasonable effect.\nA:Ia masuk lewat jendela yang terbuka.\nB:Ia panjat atap rumahnya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBel pintu berbunyi. Based on the previous passage, choose the most reasonable effect.\nA:Si pengunjung mengetuk di pintu.\nB:Wanita itu mengintip melalui lubang kunci di pintu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPria itu menodai setelan bajunya. Based on the previous passage, choose the most reasonable effect.\nA:Setelan bajunya pun di dry-clean.\nB:Ia gantung setelan baju itu di lemari pakaiannya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGadis itu meremas tabung pasta gigi. Based on the previous passage, choose the most reasonable effect.\nA:Pasta gigi keluar dari tabung itu.\nB:Gadis itu lepehkan pasta gigi itu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKematian warga sipil akibat perang melonjak naik. Based on the previous passage, choose the most reasonable effect.\nA:Para pasifis melakukan protes.\nB:Para pasifis mengadakan parade.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGadis itu menarik pita itu dari rambutnya. Based on the previous passage, choose the most reasonable cause.\nA:Dia ikat pita itu.\nB:Pita itu tampak kekanak-kanakan.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPria itu menjalani operasi plastik. Based on the previous passage, choose the most reasonable effect.\nA:Ia menua.\nB:Ia menjadi terlihat lebih muda.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSeekor bayi ayam keluar dari telur. Based on the previous passage, choose the most reasonable cause.\nA:Telur itu menetas.\nB:Saya pecahkan telur itu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTahanan itu kelaparan. Based on the previous passage, choose the most reasonable effect.\nA:Ia meninggal.\nB:Ia kabur.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPria itu kehilangan keseimbangan di atas tangga. Based on the previous passage, choose the most reasonable effect.\nA:Dia memanjat tangga.\nB:Dia jatuh dari tangga.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAnak itu sendawa. Based on the previous passage, choose the most reasonable cause.\nA:Ia meneguk soda.\nB:Ia buka sebuah kaleng soda.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAngin dingin masuk melalui jendela. Based on the previous passage, choose the most reasonable effect.\nA:Saya tenang.\nB:Saya bergemetar.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSiswa menerima beasiswa untuk kuliah. Based on the previous passage, choose the most reasonable cause.\nA:Teman-teman kelasnya menghormatinya.\nB:Dia mendapat nilai bagus.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nGadis itu mengolok-olok bocah itu. Based on the previous passage, choose the most reasonable cause.\nA:Gadis itu adalah tetangganya.\nB:Gadis itu menaksir dia.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nGelandangan yang lapar itu mencuri makanan. Based on the previous passage, choose the most reasonable cause.\nA:Dia menghasut iba.\nB:Ia tidak memiliki uang.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya memanggil teman saya untuk mengobrol. Based on the previous passage, choose the most reasonable cause.\nA:Saya menginginkan privasi.\nB:Saya merasa kesepian.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPria itu mengulurkan tangannya padaku. Based on the previous passage, choose the most reasonable effect.\nA:Saya jabat tangannya.\nB:Saya tampar dia.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya menunduk. Based on the previous passage, choose the most reasonable cause.\nA:Kembang api berluncur ke udara.\nB:Frisbee itu terbang ke arah kepala saya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nGadis itu menggigit kukunya. Based on the previous passage, choose the most reasonable cause.\nA:Dia khawatir.\nB:Dia terkejut.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya balik halaman kalender itu. Based on the previous passage, choose the most reasonable cause.\nA:Saya menandai sebuah perjanjian di kalender itu.\nB:Sudah waktunya awal bulan baru.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSang suami menemukan bahwa istrinya berselingkuh. Based on the previous passage, choose the most reasonable effect.\nA:Dia pecat pengacaranya.\nB:Dia mengajukan cerai ke istrinya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nGadis itu menjatuhkan sebuah bola karet. Based on the previous passage, choose the most reasonable effect.\nA:Bola itu melambung.\nB:Bola itu bersinar.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGadis itu membuat kesalahan dalam ujiannya. Based on the previous passage, choose the most reasonable effect.\nA:Dia menebak jawabannya.\nB:Dia hapus jawabannya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPemain itu menjatuhkan lawannya. Based on the previous passage, choose the most reasonable effect.\nA:Lawannya menangkap operan dari temannya.\nB:Lawannya jatuh.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya memilih tomat dari tanamannya. Based on the previous passage, choose the most reasonable cause.\nA:Mereka sudah matang.\nB:Saya menyirami mereka.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPria itu ingin bertindak romantis. Based on the previous passage, choose the most reasonable effect.\nA:Dia makan siang dengan mantan pacarnya.\nB:Dia belikan cokelat untuk pacarnya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMerkuri dalam termometer naik. Based on the previous passage, choose the most reasonable cause.\nA:Saya menjatuhkan termometer itu.\nB:Cuaca semakin hangat.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSebuah tornado melewati kota. Based on the previous passage, choose the most reasonable effect.\nA:Atap gedung pengadilan itu tertiup lepas.\nB:Jalan raya menjadi sangat licin karena es.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSiswa itu menerima bimbingan belajar. Based on the previous passage, choose the most reasonable effect.\nA:Angkanya pun naik.\nB:Dia curang saat ujian.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya merasa nyaman. Based on the previous passage, choose the most reasonable cause.\nA:Saya berlutut di tanah.\nB:Aku bungkus diri saya dalam selimut.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya memoles batu itu. Based on the previous passage, choose the most reasonable effect.\nA:Batu itu menjadi licin.\nB:Batu itu menjadi mengkilat.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya tambahkan gula ke kopi itu. Based on the previous passage, choose the most reasonable effect.\nA:Kopi itu memiliki arom yang kuat.\nB:Kopi itu terasa manis.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLaki itu mengolah kertas-kertas itu. Based on the previous passage, choose the most reasonable effect.\nA:Tangannya terpotong oleh kertas-kertas itu.\nB:Dia merobek-robekkan kertas-kertas itu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya memukul paku dengan palu. Based on the previous passage, choose the most reasonable effect.\nA:Paku itu masuk ke dalam kayu.\nB:Paku itu berkarat.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nIkan itu menggigiti senar pancingan itu. Based on the previous passage, choose the most reasonable effect.\nA:Nelayan itu menarik balik ikan itu.\nB:Nelayan itu balikan kembali senar pancingannya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nRemaja itu terlalu malu untuk pergi ke sekolah. Based on the previous passage, choose the most reasonable cause.\nA:Dia punya jerawat.\nB:Dia telah lepaskan kawat giginya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nEkspresi wajahku bersinar. Based on the previous passage, choose the most reasonable cause.\nA:Saya menerima kabar baik.\nB:Saya kehilangan kesabaran.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya usap tangan saya dengan handuk. Based on the previous passage, choose the most reasonable cause.\nA:Handuk itu basah.\nB:Tangan saya basah.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPria itu kehilangan keseimbangan di atas bangku. Based on the previous passage, choose the most reasonable cause.\nA:Bangku itu bergetar di bawahnya.\nB:Dia tumpahkan cat di bangku itu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nRekan-rekan satu tim saling menyalahkan. Based on the previous passage, choose the most reasonable cause.\nA:Mereka kalah di permainan mereka.\nB:Pelatih mereka membatalkan latihan mereka.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya meminta maaf. Based on the previous passage, choose the most reasonable cause.\nA:Saya menyesali kesalahan saya.\nB:Saya telah mencapai tujuan saya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWanita itu bosan dengan teman kencannya. Based on the previous passage, choose the most reasonable cause.\nA:Dia banyak bertanya tentang dirinya.\nB:Dia terus-menerus berbicara tentang dirinya sendiri.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nGadis itu tersenyum. Based on the previous passage, choose the most reasonable effect.\nA:Pipinya memerah.\nB:Lesung pipinya terlihat.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKapal musuh meledak. Based on the previous passage, choose the most reasonable cause.\nA:Kapal itu melewati sebuah ranjau.\nB:Kapal itu berlayar ke pelabuhan.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKaki pria itu tertusuk. Based on the previous passage, choose the most reasonable cause.\nA:Dia berjalan melewati genangan air.\nB:Dia menginjak pecahan kaca.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPara detektif mencari sidik jari di TKP. Based on the previous passage, choose the most reasonable effect.\nA:Mereka menemukan identitas si pembunuh.\nB:Mereka menemukan senjata di TKP.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAda banyak macet di jalan raya. Based on the previous passage, choose the most reasonable effect.\nA:Saya mengambil jalan lintas.\nB:Saya meminta tumpangan.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nEkonomi negara menurun. Based on the previous passage, choose the most reasonable effect.\nA:Banyak orang sakit.\nB:Banyak orang pengangguran.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPenjaga lalu lintas meniup peluitnya pada anak-anak. Based on the previous passage, choose the most reasonable cause.\nA:Mereka hampir berjalan menuju lalu lintas yang sibuk.\nB:Dia mengenali mereka dari lingkungannya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAku memutar mataku ke arah temanku. Based on the previous passage, choose the most reasonable cause.\nA:Dia mengatakan kebenaran.\nB:Dia membuat komentar sarkastik.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMobil itu kehabisan bensin. Based on the previous passage, choose the most reasonable effect.\nA:Pengemudi itu terdampar di jalan.\nB:Pengemudi itu mendapat tumpangan.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWanita itu melahirkan. Based on the previous passage, choose the most reasonable effect.\nA:Bayi itu lahir.\nB:Wanita itu menderita mual di pagi hari.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTopi pria itu tertiup lepas. Based on the previous passage, choose the most reasonable cause.\nA:Dia lepaskan topinya.\nB:Ada banyak angin di luar.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nGadis itu menghadiri pesta ulang tahun teman sekelasnya. Based on the previous passage, choose the most reasonable cause.\nA:Dia menerima undangan.\nB:Dia membelikannya hadiah.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nDahi bocah itu terasa panas. Based on the previous passage, choose the most reasonable effect.\nA:Ibunya mengukur suhu tubuhnya.\nB:Ibunya membawanya ke taman.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPria itu menyemprotkan dirinya sendiri dengan cologne. Based on the previous passage, choose the most reasonable cause.\nA:Dia ingin berkesan kepada teman kencannya.\nB:Dia mengemas rambutnya dengan gel.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nListrik di rumah mati. Based on the previous passage, choose the most reasonable effect.\nA:Saya mencari senter.\nB:Saya ambil sebuah sekop.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKeluarga itu pindah ke rumah yang lebih besar. Based on the previous passage, choose the most reasonable cause.\nA:Putranya telah lulus dari sekolah menengah.\nB:Sang ibu melahirkan anak kembar.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPelari maraton itu berlari dengan lambat. Based on the previous passage, choose the most reasonable cause.\nA:Dia ingin menghemat energinya.\nB:Dia sudah bisa lihat garis akhir.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBocah itu menendang mesin penjual otomatis itu. Based on the previous passage, choose the most reasonable cause.\nA:Banyak kembalian keluar dari mesin itu.\nB:Kantung keripik yang ia beli itu macet di dalam mesin.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAnjing teman saya mati. Based on the previous passage, choose the most reasonable effect.\nA:Aku memutar mataku padanya.\nB:Saya peluk teman saya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKartu kredit milik pengusaha itu ditolak. Based on the previous passage, choose the most reasonable effect.\nA:Dia menulis sebuah surat hutang.\nB:Dia bayar dengan uang cash.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPria itu mengatakan kata-kata kasar. Based on the previous passage, choose the most reasonable cause.\nA:Dia potong kukunya.\nB:Jari kakinya terbentur sesuatu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPria itu bangga dengan saudaranya. Based on the previous passage, choose the most reasonable cause.\nA:Saudaranya bertengkar dengan orang tua mereka.\nB:Saudaranya diterima di sekolah hukum.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nGadis itu ingin belajar tentang tata surya. Based on the previous passage, choose the most reasonable effect.\nA:Dia pergi ke perpustakaan.\nB:Dia melihat bintang-bintang di langit.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPoster itu menempel di dinding. Based on the previous passage, choose the most reasonable cause.\nA:Saya menempatkan poster itu di atas pintu.\nB:Saya menempelkan selotip di bagian belakang poster itu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKlien menyetujui rencana arsitek untuk bangunan itu. Based on the previous passage, choose the most reasonable effect.\nA:Arsitek itu membangun gedung itu.\nB:Arsitek itu pun menyesuaikan rencananya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPria itu menjatuhkan sendoknya. Based on the previous passage, choose the most reasonable cause.\nA:Tangannya bergemetar.\nB:Dia jilat sendok itu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nCEO perusahaan itu telah mengundurkan diri. Based on the previous passage, choose the most reasonable effect.\nA:Dewan direksi bubarkan perusahaan itu.\nB:Dewan direksi telah menemukan penggantinya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya datang terlambat ke kuliah. Based on the previous passage, choose the most reasonable effect.\nA:Saya mengambil tempat duduk di barisan belakang.\nB:Saya mendekati podium.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPria itu dibebaskan dari penjara. Based on the previous passage, choose the most reasonable cause.\nA:Keluarganya telah bayar uang jaminannya.\nB:Dia menyerang seorang narapidana.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKeluarga itu kehilangan semua barang-barang mereka. Based on the previous passage, choose the most reasonable cause.\nA:Mereka jual rumah mereka.\nB:Rumah mereka kebakaran.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya injak kaleng aluminium itu. Based on the previous passage, choose the most reasonable effect.\nA:Kaleng itu didaur ulang.\nB:Kaleng itu hancur.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPerempuan itu ikut tim debat. Based on the previous passage, choose the most reasonable effect.\nA:Ia belajar cara menggunakan komputer.\nB:Dia belajar untuk berkomunikasi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSuasana hatiku membaik. Based on the previous passage, choose the most reasonable cause.\nA:Saya dengarkan musik.\nB:Saya mencuci piring.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBadan amal itu membuat sebuah sasaran untuk penggalangan uang mereka. Based on the previous passage, choose the most reasonable effect.\nA:Mereka memberi makan kepada para tunawisma.\nB:Mereka mengadakan lelang.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nRoller coaster itu jatuh menuruni tebing curam. Based on the previous passage, choose the most reasonable effect.\nA:Para penumpang terkikik.\nB:Para penumpang teriak.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya sangat marah. Based on the previous passage, choose the most reasonable effect.\nA:Saya memeriksa kotak surat sebelum meninggalkan rumah.\nB:Saya membanting pintu ketika meninggalkan rumah.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPria itu ingin menyaksikan matahari terbit. Based on the previous passage, choose the most reasonable effect.\nA:Dia melakukan perjalanan ke utara.\nB:Dia bangun pagi-pagi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya melipat kertas. Based on the previous passage, choose the most reasonable effect.\nA:Saya mendaur ulang kertas.\nB:Kertasnya berkerut.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBangsa itu mengalami bencana alam. Based on the previous passage, choose the most reasonable effect.\nA:Para pemimpin negara lain membentuk sebuah aliansi.\nB:Para pemimpin negara lain mengirimkan bantuan darurat.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPakaian bocah itu basah kuyup. Based on the previous passage, choose the most reasonable cause.\nA:Dia memanjat keluar dari kolam.\nB:Dia jatuh ke kolam.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSiswa itu bergegas untuk menyelesaikan buku itu. Based on the previous passage, choose the most reasonable cause.\nA:Buku itu harus dikembalikan ke perpustakaan.\nB:Dia meminjamnya dari seorang teman.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPenjahat itu dieksekusi. Based on the previous passage, choose the most reasonable cause.\nA:Dia dimasukkan ke penjara.\nB:Dia dihukum karena melakukan pembunuhan.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSinar matahari memasuki ruangan. Based on the previous passage, choose the most reasonable cause.\nA:Saya membuka tirai.\nB:Saya membuka kunci pintu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAku menarik rambut si penipu itu. Based on the previous passage, choose the most reasonable effect.\nA:Wignya terlepas.\nB:Dia botak.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nEditor menulis ulang sebuah kalimat dalam naskah itu. Based on the previous passage, choose the most reasonable cause.\nA:Dia berpikir bahwa naskah itu menarik.\nB:Dia menganggap kalimat itu tidak jelas.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nWanita itu membatalkan akun kartu kreditnya. Based on the previous passage, choose the most reasonable cause.\nA:Dia menyadari bahwa kartu itu hilang.\nB:Dia menyadari bahwa kartu itu sudah kedaluwarsa.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPria dan wanita itu jatuh cinta. Based on the previous passage, choose the most reasonable effect.\nA:Mereka kuliah.\nB:Mereka menikah.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMusiknya terlalu redup untuk didengar. Based on the previous passage, choose the most reasonable effect.\nA:Saya naikkan volumenya.\nB:Saya menyusun lagu saya sendiri.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nRambut anak laki-laki itu mencuat. Based on the previous passage, choose the most reasonable cause.\nA:Gadis itu mengacak-acaknya.\nB:Gadis itu menariknya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSerangga itu tergencet. Based on the previous passage, choose the most reasonable cause.\nA:Saya menyemprot diri saya dengan obat nyamuk.\nB:Saya injak serangga itu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya buka mata saya. Based on the previous passage, choose the most reasonable cause.\nA:Saya terbangun.\nB:Saya merasa tenang.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMusik dari rumah tetangga saya menggelegar. Based on the previous passage, choose the most reasonable effect.\nA:Saya memintanya untuk mengecilkan musiknya.\nB:Saya meminta untuk meminjam CD musik itu darinya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKeluarga pria itu hidup dalam kemiskinan. Based on the previous passage, choose the most reasonable cause.\nA:Dia sangat hemat dengan penghasilannya.\nB:Ia mendapat upah di bawah upah minimum.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSiswa itu lulus dari universitas. Based on the previous passage, choose the most reasonable effect.\nA:Dia mencari pekerjaan.\nB:Dia memulai sebuah hobi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSang seniman mencampur cat warna kuning dengan cat warna biru. Based on the previous passage, choose the most reasonable effect.\nA:Cat berhamburan ke mana-mana.\nB:Catnya berubah menjadi hijau.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya mengubah topik pembicaraan. Based on the previous passage, choose the most reasonable cause.\nA:Saya kehabisan topik untuk dibicarakan.\nB:Pembicaraan itu menjadi tegang.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAdikku telah dikeluarkan dari rumah sakit. Based on the previous passage, choose the most reasonable effect.\nA:Saya menyambutnya kembali ke rumah.\nB:Saya memberinya bahu dingin.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTirai di panggung naik. Based on the previous passage, choose the most reasonable effect.\nA:Adegan pembuka drama itu dimulai.\nB:Para aktor dalam drama itu keluar dari panggung.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSi sandera menyerahkan diri ke mandat penculik mereka. Based on the previous passage, choose the most reasonable cause.\nA:Penculik mengancam akan melukai sandera itu.\nB:Penculik tinggalkan sandera itu sendirian.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSebuah ledakan bergema di panggung. Based on the previous passage, choose the most reasonable cause.\nA:Musisi itu mengetuk kakinya.\nB:Musisi itu memukul drum.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPara orang tua bergegas ke kamar anak mereka. Based on the previous passage, choose the most reasonable cause.\nA:Anak itu terbangun menjerit karena mimpi buruk.\nB:Anak itu takut untuk melihat ke bawah tempat tidurnya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWanita itu berkomunikasi dengan bahasa isyarat. Based on the previous passage, choose the most reasonable cause.\nA:Ia dilahirkan prematur.\nB:Dia dilahirkan tuli.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKekeringan terjadi di wilayah tersebut. Based on the previous passage, choose the most reasonable effect.\nA:Air itu  terkontaminasi.\nB:Hasil panen itu musnah.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKucing itu mengejar burung. Based on the previous passage, choose the most reasonable effect.\nA:Burung itu terbang.\nB:Burung itu menangkap seekor cacing.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGadis itu pindah sekolah. Based on the previous passage, choose the most reasonable cause.\nA:Sekolah libur untuk musim panas.\nB:Dia pindah ke kota baru.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPemilik pabrik itu menolak untuk menaikkan upah karyawan. Based on the previous passage, choose the most reasonable effect.\nA:Pemilik pabrik itu menunjuk seorang manajer baru.\nB:Para karyawan protes.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPemimpin itu membuat geram para ekstrimis di negaranya. Based on the previous passage, choose the most reasonable effect.\nA:Para ekstrimis mempengaruhinya.\nB:Para ekstrimis membunuhnya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAku berjalan di pantai  tanpa alas kaki. Based on the previous passage, choose the most reasonable effect.\nA:Pasir menempel di kakiku.\nB:Ombak menabrak ke tepi pantai.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya terbangun di tengah malam karena kedinginan. Based on the previous passage, choose the most reasonable effect.\nA:Saya pakai celana hangat.\nB:Saya minum segelas air.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSang ibu menenangkan putranya. Based on the previous passage, choose the most reasonable cause.\nA:Putranya tersenyum.\nB:Putranya merengek.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAda sebuah lubang di celana jeans saya. Based on the previous passage, choose the most reasonable cause.\nA:Saya membuka ritsleting celana jeans saya.\nB:Saya tersandung di trotoar.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBocah itu memakai kawat gigi. Based on the previous passage, choose the most reasonable effect.\nA:Ada bolongan di giginya.\nB:Giginya menjadi lurus.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya berolahraga di gym kemarin. Based on the previous passage, choose the most reasonable effect.\nA:Otot saya sakit ketika saya bangun hari ini.\nB:Saya bangun dengan sakit tenggorokan hari ini.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGadis itu berbisik bolak-balik satu sama lain di meja makan siang. Based on the previous passage, choose the most reasonable effect.\nA:Siswa lain duduk di meja makan siang mereka.\nB:Murid-murid lain di meja makan mereka merasa tertinggal.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAnak itu mendarat di trampolin. Based on the previous passage, choose the most reasonable effect.\nA:Dia terlempar kembali ke udara.\nB:Dia mencoba melakukan flip.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya masukkan surat itu di kotak surat. Based on the previous passage, choose the most reasonable effect.\nA:Surat itu di kirim oleh kantor pos.\nB:Surat itu di kirim kilat oleh kantor pos.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPenjudi itu percaya diri. Based on the previous passage, choose the most reasonable effect.\nA:Dia pertaruhkan semua uangnya.\nB:Dia pulang bangkrut.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKebakaran hutan itu menyebar. Based on the previous passage, choose the most reasonable cause.\nA:Angin menjadi lebih kuat.\nB:Para pelaku pembakaran itu ditangkap.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAnak itu menggores lututnya. Based on the previous passage, choose the most reasonable effect.\nA:Ibunya menyruhnya untuk ke kamarnya.\nB:Ibunya balut lukanya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPria itu selamat dari penyakit yang mematikan itu. Based on the previous passage, choose the most reasonable cause.\nA:Dia tandatangani surat wasiatnya.\nB:Dia menerima transplantasi organ.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAku meneguk kopi yang panas itu. Based on the previous passage, choose the most reasonable effect.\nA:Saya menggigit lidah saya.\nB:Saya bakar lidah saya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nEditor itu memecat si penulis. Based on the previous passage, choose the most reasonable cause.\nA:Penulis itu menghindari bias dalam ceritanya.\nB:Penulis itu tidak menyelesaikan pekerjaan pada tenggat waktu yang penting.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya merasa lelah. Based on the previous passage, choose the most reasonable cause.\nA:I slept all day.\nB:Saya belajar sepanjang hari.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nDokter itu mendiagnosis seorang pasien. Based on the previous passage, choose the most reasonable cause.\nA:Dia mengidentifikasi gejala-gejala pasiennya.\nB:Dia meresepkan pil ke pasiennya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya menggaruk kulit saya. Based on the previous passage, choose the most reasonable cause.\nA:Kulit saya berkeringat.\nB:Kulit saya terasa gatal.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPria itu menjalani operasi darurat. Based on the previous passage, choose the most reasonable cause.\nA:Dia kehilangan kesabaran.\nB:Dia menderita serangan jantung.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nOtot lengan pria itu menonjol. Based on the previous passage, choose the most reasonable cause.\nA:Dia kencangkan lengannya.\nB:Dia gosok lengannya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPria itu mengangkat alisnya. Based on the previous passage, choose the most reasonable cause.\nA:Dia kaget.\nB:Dia merasa kecil hati.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya maafkan kesalahan kolega saya. Based on the previous passage, choose the most reasonable cause.\nA:Saya percaya bahwa ia berniat baik.\nB:Saya percaya bahwa dia tahu lebih baik.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPria itu berhenti merokok. Based on the previous passage, choose the most reasonable effect.\nA:Dia mulai lebih sering berolahraga.\nB:Dia mulai bangun lebih awal.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWanita itu memukul hidung penyerangnya. Based on the previous passage, choose the most reasonable effect.\nA:Tubuh penyerang itu menjadi tak bernyawa.\nB:Penyerang itu mulai berdarah.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAnak panah itu tidak mengenai sasarannya. Based on the previous passage, choose the most reasonable cause.\nA:Bidikan pria itu kurang tepat.\nB:Pria itu kalah dalam permainan itu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPemilik rumah itu meminta pembasmi untuk datang ke rumahnya. Based on the previous passage, choose the most reasonable cause.\nA:Dia menemukan tikus di ruang bawah tanah rumahnya.\nB:Dia memiliki sebuah peternakan semut di kamarnya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya menyarankan kepada tamu rumah saya untuk pergi makan malam. Based on the previous passage, choose the most reasonable cause.\nA:Saya terlalu lelah untuk menyiapkan apa pun.\nB:Tamu rumah saya sudah tinggal terlalu lama.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGadis itu menangkap kakaknya sedang membaca buku hariannya. Based on the previous passage, choose the most reasonable effect.\nA:Dia mulai menyembunyikan buku harian itu.\nB:Dia beli buku harian baru.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWanita itu kekurangan uang untuk bayar sewaanya. Based on the previous passage, choose the most reasonable effect.\nA:Dia bekerja lembur.\nB:Dia keluar dari pekerjaannya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTangan anak itu dengan cepat diambil balik. Based on the previous passage, choose the most reasonable cause.\nA:Dia menyentuh kompor panas.\nB:Dia menepuk kepala anak anjing itu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPerusahaan itu ingin mengukur kepuasan pelanggannya. Based on the previous passage, choose the most reasonable effect.\nA:Mereka menawarkan diskon kepada pelanggan baru.\nB:Mereka membagikan survei kepada pelanggannya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLantai kayu itu tergores. Based on the previous passage, choose the most reasonable cause.\nA:Bocah itu melempar bantal sofa ke lantai.\nB:Bocah itu menyeret kursi di lantai.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya melindungi wajah saya. Based on the previous passage, choose the most reasonable cause.\nA:Musuh saya mengejek saya.\nB:Musuh saya mengepalkan tangan.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPatung yang terkenal itu terbakar. Based on the previous passage, choose the most reasonable cause.\nA:Patung itu disambar petir.\nB:Orang-orang datang untuk memuliakannya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya meninggalkan buah itu di atas meja. Based on the previous passage, choose the most reasonable effect.\nA:Buah itu menumpahkan biji.\nB:Lalat-lalat pun mengerumuni buah itu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBalerina itu merobek ligamennya. Based on the previous passage, choose the most reasonable cause.\nA:Dia menunjuk jari-jari kakinya.\nB:Dia memutar pergelangan kakinya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTali sepatu anak itu terlepas. Based on the previous passage, choose the most reasonable cause.\nA:Dia belajar cara mengikatnya.\nB:Dia berlari-lari di taman bermain.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya terpesona dengan buku ini. Based on the previous passage, choose the most reasonable effect.\nA:Saya kembalikan buku itu.\nB:Saya sampai lupa waktu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPria itu memiliki kepercayaan yang sama dengan orang tuanya. Based on the previous passage, choose the most reasonable cause.\nA:Orang tuanya memengaruhinya.\nB:Orang tuanya tidak lagi mengakui dia sebagai anak mereka.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMobil itu perlahan melambat hingga berhenti. Based on the previous passage, choose the most reasonable cause.\nA:Mobil itu kehabisan bensin.\nB:Pengemudinya tertidur.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPria itu makan es krim di bawah sinar matahari. Based on the previous passage, choose the most reasonable effect.\nA:Es krimn itu kehilang rasanya.\nB:Es krim itu menetes dari kerucutnya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya menggantung sebuah karya seni di kamar itu. Based on the previous passage, choose the most reasonable cause.\nA:Karpetnya tampak kotor.\nB:Dinding kamar itu tampak hampa.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya pulang kerja lebih awal. Based on the previous passage, choose the most reasonable cause.\nA:Saya sakit kepala.\nB:Bos saya mengadakan sebuah pertemuan.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAnak anjing itu mengotori karpet. Based on the previous passage, choose the most reasonable effect.\nA:Pemiliknya memarahinya.\nB:Pemiliknya memberinya sebuah hadiah.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya meminta maaf kepada teman saya. Based on the previous passage, choose the most reasonable effect.\nA:Dia memaafkan saya.\nB:Dia menjadi geram.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPria itu menonjol sekali di tengah kerumunan. Based on the previous passage, choose the most reasonable cause.\nA:Dia membawa ransel.\nB:Dia mengenakan rompi neon.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaksi itu berbohong di bawah sumpah. Based on the previous passage, choose the most reasonable effect.\nA:Dia melengkapi kesaksiannya.\nB:Dia didakwa dengan sumpah palsu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nWanita itu mengecat rambutnya. Based on the previous passage, choose the most reasonable cause.\nA:Dia menginginkan sebuah tampilan baru.\nB:Dia ingin berbaur dengan orang lain.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPara imigran ditangkap karena tinggal dengan ilega di negara tersebut. Based on the previous passage, choose the most reasonable effect.\nA:Mereka mendapatkan pekerjaan.\nB:Mereka dideportasi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPembicara itu membuat lelucon. Based on the previous passage, choose the most reasonable effect.\nA:Para hadirin tertawa.\nB:Para hadirin berdiri.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya melihat ke matahari. Based on the previous passage, choose the most reasonable effect.\nA:Matahari membutakanku.\nB:Kulitku terjemur.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya bosan. Based on the previous passage, choose the most reasonable effect.\nA:Saya mendengus.\nB:Saya menguap.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSteak itu sulit dipotong. Based on the previous passage, choose the most reasonable cause.\nA:Pisau yang saya gunakan tumpul.\nB:Steak itu mentah.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWanita itu menyatakan bangkrut. Based on the previous passage, choose the most reasonable cause.\nA:Dia menerima pembayaran tunjangan.\nB:Dia memperoleh hutang besar.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLampu-lampu di apartemen temanku menyala. Based on the previous passage, choose the most reasonable effect.\nA:Saya bertanya-tanya apakah dia berada di luar rumah.\nB:Saya datang untuk mengunjunginya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAku taruh bunga itu di bawah hidungku. Based on the previous passage, choose the most reasonable effect.\nA:Kelopaknya terlepas dari bunga itu.\nB:Saya cium aroma bunga.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nWanita itu merasa nostalgia. Based on the previous passage, choose the most reasonable cause.\nA:Dia bertemu seorang teman masa kecilnya.\nB:Dia berteriak kepada anak-anaknya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSiswa itu menunda-nunda menyelesaikan tugasnya. Based on the previous passage, choose the most reasonable effect.\nA:Dia menyerahkan tugasnya lebih awal.\nB:Dia menyerahkan tugas yang tidak lengkap.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMobil saya mogok. Based on the previous passage, choose the most reasonable effect.\nA:Saya pergi ke mal.\nB:Saya telpon seorang mekanik.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya membuang catatan itu. Based on the previous passage, choose the most reasonable cause.\nA:Catatan itu anonim.\nB:Catatan itu tidak terbaca.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBurung itu mengepakkan sayapnya. Based on the previous passage, choose the most reasonable effect.\nA:Ia bertelur.\nB:Ia terbang ke atas.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya parkir di jalan masuk. Based on the previous passage, choose the most reasonable cause.\nA:Garasinya terbuka.\nB:Garasinya penuh.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSi penjahat mengarahkan pistol ke korbannya. Based on the previous passage, choose the most reasonable effect.\nA:Si penjahat meletakkan senjatanya di tanah.\nB:Korbannya pun mengangkat tangannya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya menantikan akhir pekan. Based on the previous passage, choose the most reasonable cause.\nA:Saya berencana untuk menghadiri pemakaman paman saya.\nB:Saya berencana untuk menghadiri pernikahan teman saya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya lupa waktu. Based on the previous passage, choose the most reasonable cause.\nA:Saya sedang melamun.\nB:Saya mual.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nDokumen yang dicetak itu tidak bisa dibaca. Based on the previous passage, choose the most reasonable cause.\nA:Tinta printer itu hampir habis.\nB:Printernya telah kehabisan kertas.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLagu kebangsaan dimainkan di dalam stadion. Based on the previous passage, choose the most reasonable effect.\nA:Para penggemar berputar badan ke bendera.\nB:Para penggemar bergegas ke lapangan.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaus itu terasa hambar. Based on the previous passage, choose the most reasonable effect.\nA:Saya sajikannya.\nB:Saya tambahkan garam ke saus itu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya taruh handuk kertas di atas tumpahan itu. Based on the previous passage, choose the most reasonable effect.\nA:Handuk kertas itu menyerap cairan yang tumpah.\nB:Tumpahan itu meninggalkan residu lengket.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWanita itu terganggu di tengah-tengah membaca bukunya. Based on the previous passage, choose the most reasonable effect.\nA:Dia menandai halaman yang sedang dibacanya.\nB:Dia membaca ulang buku itu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPesawat itu terkena turbulensi. Based on the previous passage, choose the most reasonable effect.\nA:Pria itu mengencangkan sabuk pengamannya.\nB:Pria itu memandang ke luar jendela.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBocah itu tersentak. Based on the previous passage, choose the most reasonable cause.\nA:Gadis itu mengabaikannya.\nB:Gadis itu menusuknya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPara dokter memberikan  pasien itu sebuah kaki palsu. Based on the previous passage, choose the most reasonable cause.\nA:Mereka telah mengamputasi kakinya.\nB:Mereka memonitor tanda vitalnya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBocah itu mencubit siku gadis itu. Based on the previous passage, choose the most reasonable effect.\nA:Dia mengangkat bahunya ke arah bocah itu.\nB:Dia menyentakkan lengannya darinya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya meminta saran dari teman saya. Based on the previous passage, choose the most reasonable cause.\nA:Saya menghargai pendapatnya.\nB:Saya tahu saya benar.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBocah itu melangkah ke dalam lumpur. Based on the previous passage, choose the most reasonable effect.\nA:Lumpur menempel di sepatunya.\nB:Lumpur itu menerpa wajahnya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBeberapa inci salju jatuh di kota itu. Based on the previous passage, choose the most reasonable effect.\nA:Semua sekolah ditutup.\nB:Orang-orang bersembunyi di bawah tanah.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSift karyawan itu telah berakhir. Based on the previous passage, choose the most reasonable effect.\nA:Dia pulang dari kantor.\nB:Dia mengancam akan berhenti dari pekerjaannya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPohon itu merusak rumah itu. Based on the previous passage, choose the most reasonable cause.\nA:Pohon itu jatuh ke atas atap.\nB:Pohon itu menaungi halaman belakang.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKayu itu terbelah dua. Based on the previous passage, choose the most reasonable cause.\nA:Saya tumpuk kayu di atas perapian itu.\nB:Saya mengayunkan kapak ke kayu tersebut.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKeluarga itu mengucapkan selamat kepada pasangan itu. Based on the previous passage, choose the most reasonable cause.\nA:Pasangan itu mengumumkan bahwa mereka akan berpisah.\nB:Pasangan itu mengumumkan bahwa mereka akan memiliki bayi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nGadis itu mengirim valentine kepada anak laki-laki itu. Based on the previous passage, choose the most reasonable cause.\nA:Dia menyukainya.\nB:Dia menciumnya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya menganggukkan kepala pada pernyataan teman saya. Based on the previous passage, choose the most reasonable cause.\nA:Saya bingung.\nB:Saya setuju dengannya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTeman-teman itu melempar sebuah koin. Based on the previous passage, choose the most reasonable cause.\nA:Mereka ingin menemukan kompromi.\nB:Mereka ingin membuat keputusan yang adil.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTimer di dapur berbunyi. Based on the previous passage, choose the most reasonable effect.\nA:Pria itu menaruh barang-barang belanjaannya ke dalam kulkas.\nB:Pria itu mengeluarkan sebuah pizza dari oven.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nWanita itu menetapkan untuk sampai tujuan ambisius. Based on the previous passage, choose the most reasonable effect.\nA:Dia malas.\nB:Dia bekerja keras.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPria yang kaya itu meninggal karena usia tua. Based on the previous passage, choose the most reasonable effect.\nA:Putranya melarang hukum.\nB:Putranya mewarisi kekayaannya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nWanita itu menginjak api. Based on the previous passage, choose the most reasonable effect.\nA:Nyala api padam.\nB:Asap muncul dari api itu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMobil wanita itu ada di toko. Based on the previous passage, choose the most reasonable cause.\nA:SIM-nya dicabut.\nB:Dia mengalami kecelakaan mobil.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya terus tidur meskipun alarm saya bunyi. Based on the previous passage, choose the most reasonable effect.\nA:Saya membuat sarapan.\nB:Saya kelewatan sarapan.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTokoh publik itu keluar dari limusin. Based on the previous passage, choose the most reasonable effect.\nA:Kamera terpacu ke arahnya.\nB:Keluarganya menghadiri konferensi pers.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWanita itu berlama-lama di bak mandi. Based on the previous passage, choose the most reasonable effect.\nA:Air mandi menjadi kurang hangat.\nB:Air mandi mengalir keluar dari bak mandi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMahasiswa itu ingin bertemu dengan siswa lain di kampus. Based on the previous passage, choose the most reasonable effect.\nA:Dia bergabung dengan persaudaraan.\nB:Dia mengambil jurusan teknik.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya mengangkat bantal sofa. Based on the previous passage, choose the most reasonable cause.\nA:Saya mencari uang receh.\nB:Saya sedang mengatur ulang ruang tamu.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nTawon itu terbang ke arah bocah itu. Based on the previous passage, choose the most reasonable effect.\nA:Bocah itu lari.\nB:Bocah itu memetik bunga.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWanita itu dinyatakan bersalah atas pelanggaran ringan. Based on the previous passage, choose the most reasonable effect.\nA:Dia dijatuhi hukuman melakukan pelayanan masyarakat.\nB:Dia dihukum mati.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya mengaduk gula ke dalam teh yang panas. Based on the previous passage, choose the most reasonable effect.\nA:Teh itu menguap.\nB:Gulanya larut.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nVeteran itu berjalan dengan pincang. Based on the previous passage, choose the most reasonable cause.\nA:Dia direkrut untuk perang.\nB:Dia terluka dalam pertempuran.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPenjahat itu melarikan diri dari polisi. Based on the previous passage, choose the most reasonable effect.\nA:Polisi membantu korbannya.\nB:Polisi mengejar penjahat itu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nLaptop itu tidak mau hidup. Based on the previous passage, choose the most reasonable cause.\nA:Saya menjatuhkannya.\nB:Saya mengisi baterenya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWanita itu kehabisan tempat di lemarinya. Based on the previous passage, choose the most reasonable cause.\nA:Dia mendapatkan lemari pakaian yang luas.\nB:Dia lipat cuciannya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPria itu patah hati. Based on the previous passage, choose the most reasonable cause.\nA:Istrinya melahirkan.\nB:His wife left him.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPria itu memperoleh gelar. Based on the previous passage, choose the most reasonable effect.\nA:Ia memenuhi syarat untuk pekerjaan yang diinginkannya.\nB:Tawaran pekerjaannya dibatalkan.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSuara pria itu terproyeksi dengan jelas di seluruh auditorium. Based on the previous passage, choose the most reasonable cause.\nA:Dia menyapa para hadirin.\nB:Dia berbicara di depan mikrofon.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya melemparkan koin ke dalam air mancur. Based on the previous passage, choose the most reasonable effect.\nA:Koin itu tenggelam ke bawah.\nB:Koin itu pecah menjadi dua.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPemain memukul bola itu ke arah lubang. Based on the previous passage, choose the most reasonable effect.\nA:Bola itu masuk ke dalam lubang.\nB:Bola itu kembali ke pemain.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAku menghirup debu di loteng. Based on the previous passage, choose the most reasonable effect.\nA:Saya cegukan.\nB:Aku bersin.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKasir toko itu panggil tugas keamanan. Based on the previous passage, choose the most reasonable cause.\nA:Pelanggan itu menggunakan uang palsu.\nB:Pelanggan itu membiarkan lampu depan mobilnya menyala.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya mengeluarkan sampah. Based on the previous passage, choose the most reasonable cause.\nA:Sampah itu membuat dapur bau.\nB:Saya tidak sengaja membuang daftar belanjaan saya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKeluarga itu pergi ke kebun binatang. Based on the previous passage, choose the most reasonable effect.\nA:Anak-anaknya mengagumi binatang-binatang.\nB:Anak-anaknya mengejar binatang.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nNapas pria itu keras. Based on the previous passage, choose the most reasonable cause.\nA:Ginjalnya gagal.\nB:Paru-parunya sesak.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya punya tiket ekstra untuk konser. Based on the previous passage, choose the most reasonable effect.\nA:Saya minta arah menuju tempat acara kepada teman saya.\nB:Saya bertanya kepada teman saya bila dia tertarik untuk pergi bersama saya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPendingin udara di rumah rusak. Based on the previous passage, choose the most reasonable effect.\nA:Saya keluarkan selimut.\nB:Saya membuka jendela.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPunggung bocah itu sakit. Based on the previous passage, choose the most reasonable cause.\nA:Ranselnya terbuka.\nB:Ranselnya berat.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya belikan ibuku hadiah. Based on the previous passage, choose the most reasonable cause.\nA:Saya membuatkannya kue.\nB:Itu adalah hari ulang tahunnya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBakung di taman terhancurkan. Based on the previous passage, choose the most reasonable cause.\nA:Seekor lebah menyengat si tukang kebun.\nB:Tupai menggali umbi bakung-bakung itu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya nyalakan korek api. Based on the previous passage, choose the most reasonable effect.\nA:Nyala api memudar.\nB:Korek it menghasilkan nyala api.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPara pihak yang berselisih itu mencapai sebuah penyelesaian. Based on the previous passage, choose the most reasonable cause.\nA:Mereka tidak ingin berdebat di pengadilan.\nB:Mereka ingin memperbaiki hubungan pribadi mereka.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAnak-anak itu dikirim ke panti asuhan. Based on the previous passage, choose the most reasonable cause.\nA:Orang tua mereka meninggal.\nB:Orang tua mereka memanjakan mereka.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSebuah meteorit mendarat di lautan. Based on the previous passage, choose the most reasonable effect.\nA:Tsunami terjadi.\nB:Hujan es mulai terjadi.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPejalan kaki itu menemukan sebuah ular berbisa. Based on the previous passage, choose the most reasonable effect.\nA:Dia mengalami dehidrasi.\nB:Dia panik.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nOvennya memanas. Based on the previous passage, choose the most reasonable effect.\nA:Saya menyalakan oven tersebut.\nB:Saya meletakkan makanan di dalam oven.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAku meremas sebuah irisan lemon. Based on the previous passage, choose the most reasonable effect.\nA:Lemon itu menjadi berjamur.\nB:Lemon itu menyemprot.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nNegara itu menemukan tanah baru. Based on the previous passage, choose the most reasonable effect.\nA:Negara itu meninggalkan tanah itu.\nB:Negara itu menjajah tanah itu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nGelas itu terguling dari meja. Based on the previous passage, choose the most reasonable effect.\nA:Gelas itu terpecah di seluruh lantai.\nB:Gelas itu mendarat di tumpukan cucian.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nMeja itu bergetar. Based on the previous passage, choose the most reasonable cause.\nA:Lantainya tidak rata.\nB:The floor was slippery.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSang ayah menangkap putranya sedang berbohong. Based on the previous passage, choose the most reasonable effect.\nA:Putranya mengakui kebenarannya.\nB:Sang ayah memercayai putranya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKepala pria itu berdenyut kesakitan. Based on the previous passage, choose the most reasonable effect.\nA:Dia minum sirup obat batuk.\nB:He took aspirin.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKereta itu melambat. Based on the previous passage, choose the most reasonable cause.\nA:Kereta itu mendekati stasiun.\nB:Kereta itu berjalan telat di belakang jadwal.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPria itu menjalani terapi. Based on the previous passage, choose the most reasonable cause.\nA:Penyakit mental menimpa keluarganya.\nB:Dia didiagnosis sebagai penderita depresi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nWanita itu mencengkeram tenggorokannya. Based on the previous passage, choose the most reasonable cause.\nA:Dia menelan makanannya.\nB:Dia tersedak karena makanannya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nWanita itu menderita sakit tenggorokan. Based on the previous passage, choose the most reasonable effect.\nA:Suaranya terdengar serak.\nB:Dia berbicara dengan sebuah logat.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAnjing itu memandangi steak lezat yang ada di atas meja. Based on the previous passage, choose the most reasonable effect.\nA:Dia mengiler.\nB:Dia terbaring.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBisnis wanita itu berhasil. Based on the previous passage, choose the most reasonable effect.\nA:Dia memecat karyawannya.\nB:Dia menjadi kaya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPara siswa keluar dari kelas. Based on the previous passage, choose the most reasonable cause.\nA:Bel telah berbunyi.\nB:Sang guru memberikan mereka pekerjaan rumah.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWanita itu mengaku dia telah melihat hantu. Based on the previous passage, choose the most reasonable effect.\nA:Para kenalannya mencurigainya.\nB:Para kenalannya memaklumkannya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPria itu kehilangan pendengarannya. Based on the previous passage, choose the most reasonable cause.\nA:Dia hampir tenggelam di laut.\nB:Dia hampir terbunuh dalam suatu ledakan.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nAnak itu melepaskan tali balon. Based on the previous passage, choose the most reasonable effect.\nA:Balon itu mengempis.\nB:Balon itu naik ke udara.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPria itu kehilangan kemampuannya untuk berbicara. Based on the previous passage, choose the most reasonable cause.\nA:Dia terkena stroke.\nB:Dia ambil napas yang dalam.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPerempuan itu tersanding di trotoar. Based on the previous passage, choose the most reasonable effect.\nA:Ada retakan di lantai trotoar.\nB:Dia mendengar ada orang yang memanggil namanya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPria itu melakukan gaya bola meriam ketika loncat ke  dalam kolam. Based on the previous passage, choose the most reasonable effect.\nA:Penjaga pantai melompat ke dalam kolam setelahnya.\nB:Pria itu membuat penjaga pantai itu basah kuyup.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya minum antibiotik. Based on the previous passage, choose the most reasonable effect.\nA:Infeksi saya sembuh.\nB:Infeksi saya menyebar.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nLampu lalu lintas menjadi kuning. Based on the previous passage, choose the most reasonable effect.\nA:Pengemudi itu ngerem.\nB:Pengemudi itu membunyikan klaksonnya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nWadah plastik itu meleleh. Based on the previous passage, choose the most reasonable cause.\nA:Saya rendam wadah itu dalam air hangat.\nB:Saya menempatkan wadah itu di atas kompor panas.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nMobil itu penyok. Based on the previous passage, choose the most reasonable cause.\nA:Pengemudi menabraknya ke tiang telepon.\nB:Pengemudinya menerobos lampu merah.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBocah itu belajar sepanjang malam. Based on the previous passage, choose the most reasonable effect.\nA:Dia tidak datang ke ujiannya.\nB:Dia lulus ujiannya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBocah laki-laki itu memegang erat pegangan kolam. Based on the previous passage, choose the most reasonable cause.\nA:Dia takut belajar berenang.\nB:Penjaga pantai itu sedang bertugas.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya meletakkan tangan saya di dada. Based on the previous passage, choose the most reasonable effect.\nA:Saya merasakan detak jantung saya.\nB:Detak jantung saya meningkat.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBangunan di dekat kantorku sedang diperbaiki. Based on the previous passage, choose the most reasonable effect.\nA:Kantorku jadi kacau.\nB:Kantorku jadi terganggu.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nKeluarga itu ingin mengenal tetangga baru mereka. Based on the previous passage, choose the most reasonable effect.\nA:Keluarga itu mengundang tetangganya untuk makan malam.\nB:Keluarga itu melambai ke tetangganya dari halaman mereka.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAir terciprat dari kolam. Based on the previous passage, choose the most reasonable cause.\nA:Perenang itu terjun ke kolam.\nB:Perenang itu mengapung di kolam.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya menggigit sepotong semangka. Based on the previous passage, choose the most reasonable effect.\nA:Saya tidak sengaja menelan biji.\nB:Saya tidak sengaja mengeping gigi saya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBocah itu tersandung. Based on the previous passage, choose the most reasonable cause.\nA:Jaket ritsletingnya terbuka.\nB:Tali sepatunya terlepas.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nWanita menggunakan penyumbat telinga. Based on the previous passage, choose the most reasonable cause.\nA:Dia terganggu oleh suara bising.\nB:Dia menindik telinganya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya mengisi ulang botol air saya. Based on the previous passage, choose the most reasonable cause.\nA:Saya minum semua air di dalamnya.\nB:Saya menyimpannya di lemari es.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nAcara televisi itu disensor. Based on the previous passage, choose the most reasonable cause.\nA:Acar itu berisi bahasa vulgar.\nB:Acara itu memiliki plot yang rumit.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKapal itu karam. Based on the previous passage, choose the most reasonable effect.\nA:Para awak kapal tenggelam.\nB:Para awak bertemu dengan bajak laut.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nBocah itu merasa bingung oleh teka-teki itu. Based on the previous passage, choose the most reasonable effect.\nA:Dia memecahkan teka-teki itu.\nB:Dia meminta sebuah petunjuk.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nTelepon berdering. Based on the previous passage, choose the most reasonable effect.\nA:Pria itu menutup teleponnya.\nB:Pria itu mengangkat teleponnya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nWanita itu menatapku. Based on the previous passage, choose the most reasonable effect.\nA:Saya peluknya.\nB:Saya merasa kurang enak.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nRombongan itu meninggalkan museum. Based on the previous passage, choose the most reasonable cause.\nA:Mereka memotret pamerannya.\nB:Mereka mengunjungi semua pameran.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPria itu memulai sebuah pertengkaran denganku. Based on the previous passage, choose the most reasonable effect.\nA:Teman saya memperkenalkan saya kepadanya.\nB:Teman saya membela saya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBan sepeda saya kempes. Based on the previous passage, choose the most reasonable effect.\nA:Saya memompa udara ke ban itu.\nB:Saya mengganti gigi sepeda saya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGadis itu tampak pucat. Based on the previous passage, choose the most reasonable effect.\nA:Ayahnya membacakan sebuah cerita untuknya.\nB:Ayahnya merasakan dahinya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPena itu kehabisan tinta. Based on the previous passage, choose the most reasonable effect.\nA:Saya menggunakan sebuah pensil.\nB:Saya menandatangani nama saya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPria itu ditolak untuk mendapatkan pinjaman. Based on the previous passage, choose the most reasonable cause.\nA:Dia memiliki hutang.\nB:Dia memulai sebuah bisnis.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nGadis itu tidak pergi ke sekolah. Based on the previous passage, choose the most reasonable cause.\nA:Dia menderita cacar air.\nB:Dia menikmati belajar matematika.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nKantong sampah itu sudah penuh. Based on the previous passage, choose the most reasonable effect.\nA:Saya membawanya ke tempat sampah.\nB:Saya membuangnya ke dalam wastafel.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nSaya telah menyedot karpet itu. Based on the previous passage, choose the most reasonable cause.\nA:Teman sekamar saya telah menumpahkan minuman berbuah.\nB:Anjing saya menjatuhkan banyak rambut.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPria itu kehilangan kesabaran. Based on the previous passage, choose the most reasonable effect.\nA:Dia telah matikan komputernya.\nB:Dia telah lempar sebuah kursi ke seberang ruangan.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nGadis itu telah lemparkan sebuah ranting ke api unggun. Based on the previous passage, choose the most reasonable effect.\nA:Ranting itu terbakar.\nB:Api itu padam.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPria itu keluar dari kamar mandi. Based on the previous passage, choose the most reasonable cause.\nA:Air panasnya sudah habis.\nB:Dia tidak bisa menemukan handuknya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nOrang tua itu ingin anak-anak mereka kuliah. Based on the previous passage, choose the most reasonable effect.\nA:Mereka telah menyisihkan dana tabungannya untuk biaya kuliah.\nB:Mereka telah mendorong anak-anak mereka untuk bermain di luar.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPria itu telah lepaskan ikat tali sepatunya. Based on the previous passage, choose the most reasonable effect.\nA:Sepatunya mengendur.\nB:Sepatunya telah menjadi usang.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPria itu telah makan setengah dari hidangan utamanya. Based on the previous passage, choose the most reasonable effect.\nA:Dia telah simpan sisa makanannya di kulkas.\nB:Dia telah menyimpan resepnya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPergelangan kaki saya bengkak. Based on the previous passage, choose the most reasonable effect.\nA:Saya telah menaruh es di atasnya.\nB:Saya telah mengoleskan lotion di atasnya.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPintu kantor saya telah terbuka. Based on the previous passage, choose the most reasonable effect.\nA:Saya telah bicara dengan rekan saya di meja saya.\nB:Saya telah dengar percakapan yang terjadi di aula.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya harus mengantri. Based on the previous passage, choose the most reasonable effect.\nA:Saya telah mengambil tempat duduk.\nB:Saya telah sekilas membaca sebuah majalah.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nPria itu telah menepuk sebuah lalat. Based on the previous passage, choose the most reasonable effect.\nA:Lalat itu telah terbang pergi.\nB:Lalat itu tetap diam.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPria itu sudah menulis surat wasiatnya. Based on the previous passage, choose the most reasonable cause.\nA:Dia telah sekarat.\nB:Dia adalah seorang duda.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPelari itu merasakan bahwa kompetitornya hampir mendekatinya. Based on the previous passage, choose the most reasonable effect.\nA:Dia telah keluar dari perlombaan itu.\nB:Dia telah mempercepat langkahnya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nSaya telah berpikir dengan hati-hati tentang masalah itu. Based on the previous passage, choose the most reasonable effect.\nA:Saya telah meminta saran.\nB:Saya telah menemukan sebuah solusi.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nWisatawan itu berjalan di jembatan gantung yang bergoyah. Based on the previous passage, choose the most reasonable effect.\nA:Dia merasa takut.\nB:Dia merasa sangat gembira.\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nPria itu telah mengantisipasi kemenangan timnya. Based on the previous passage, choose the most reasonable effect.\nA:Dia bertemu dengan teman-temannya untuk menonton pertandingan itu.\nB:Dia telah bertaruh dengan teman-temannya.\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nBocah itu tidak bisa tidur. Based on the previous passage, choose the most reasonable effect.\nA:Dia mengatur jam alarmnya.\nB:Dia telah menghitung domba.\n\nAnswer:\n",
+        "output": "B"
+    }
+]

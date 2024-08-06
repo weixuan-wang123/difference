@@ -1,0 +1,2002 @@
+[
+    {
+        "input": "Question:\n该物品用气泡包装纸包着。 Based on the previous passage, choose the most reasonable cause.\nA:它很易碎。\nB:它很小。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我掏空了口袋。 Based on the previous passage, choose the most reasonable effect.\nA:我找到了一张票根。\nB:我找到了一件武器。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n白蚁入侵了这所房子。 Based on the previous passage, choose the most reasonable effect.\nA:白蚁从房子里消失了。\nB:白蚁吃穿了房子里的木头。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n旅客到达边境。 Based on the previous passage, choose the most reasonable effect.\nA:巡逻员检查了他们的护照。\nB:巡逻人员指控他们走私。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n办公室关门了。 Based on the previous passage, choose the most reasonable cause.\nA:那是个假期。\nB:那是个夏天。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n这个女孩精疲力竭。 Based on the previous passage, choose the most reasonable cause.\nA:她玩了跳棋。\nB:她跳了绳。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那女人排队的位置没有了。 Based on the previous passage, choose the most reasonable cause.\nA:越来越多的人开始排队。\nB:她走出了队外。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那女孩捏了捏鼻子。 Based on the previous passage, choose the most reasonable cause.\nA:婴儿在围嘴上流口水。\nB:婴儿弄脏了尿布。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n乐队演奏了他们的热门歌曲。 Based on the previous passage, choose the most reasonable effect.\nA:观众随着音乐拍手。\nB:观众礼貌地沉默着。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n这个女孩想感谢她的数学老师。 Based on the previous passage, choose the most reasonable effect.\nA:那个女孩放学后被留堂了。\nB:这个女孩给老师带来了一个苹果。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n年轻的露营者们感到害怕。 Based on the previous passage, choose the most reasonable cause.\nA:他们的营地顾问给他们讲了一个鬼故事。\nB:他们在营火上烤了棉花糖。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那人的头撞了一下。 Based on the previous passage, choose the most reasonable effect.\nA:他陷入了沉思。\nB:他得了脑震荡。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我的支票被拒付了。 Based on the previous passage, choose the most reasonable cause.\nA:我的银行帐户是空的。\nB:我加薪了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n该男子的电子邮件收件箱中充斥着垃圾邮件。 Based on the previous passage, choose the most reasonable effect.\nA:他删除了垃圾邮件。\nB:他群发了电子邮件。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n水手被隔离了。 Based on the previous passage, choose the most reasonable cause.\nA:他接触了这种疾病。\nB:他从疾病中康复了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n这个女孩记住了密码。 Based on the previous passage, choose the most reasonable cause.\nA:她背下来给自己听了。\nB:她忘了写下来。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我把水倒进了玻璃杯中。 Based on the previous passage, choose the most reasonable effect.\nA:这水解了我的渴。\nB:玻璃杯变满了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n他的朋友结束讲话的时候，那个人保持着沉默。 Based on the previous passage, choose the most reasonable cause.\nA:他想支持他的朋友。\nB:他在思考他朋友的话。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n这次事故是我的错。 Based on the previous passage, choose the most reasonable effect.\nA:我感到内疚。\nB:我起诉了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n链条破裂了。 Based on the previous passage, choose the most reasonable cause.\nA:链条缠绕在轮胎上。\nB:链条中有一节断开了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n这对夫妇决定妥协。 Based on the previous passage, choose the most reasonable cause.\nA:他们厌倦了争论。\nB:他们避免讨论这个问题。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n该名妇女决定竞选公职。 Based on the previous passage, choose the most reasonable effect.\nA:她雇用了一位竞选策划人。\nB:她在法庭上作证。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n该名男子预计他的旅途中的天气会很冷。 Based on the previous passage, choose the most reasonable effect.\nA:他把保暖的衣服装进行李箱里。\nB:他带着一个大行李箱旅行。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n学生知道这道问题的答案。 Based on the previous passage, choose the most reasonable effect.\nA:他举起了手。\nB:它偷懒了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n这个男人的眼睛流泪了。 Based on the previous passage, choose the most reasonable cause.\nA:他的眼睛进灰了。\nB:他戴上了护目镜。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n这位玩家连续赢得了五场比赛。 Based on the previous passage, choose the most reasonable effect.\nA:她的对手指责她作弊。\nB:她的对手为她感到难过。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n老师撕毁了这位学生的试卷。 Based on the previous passage, choose the most reasonable cause.\nA:他抓住了这位学生作弊。\nB:学生的答案是错误的。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我讲话停了下来了。 Based on the previous passage, choose the most reasonable cause.\nA:我失声了。\nB:我气喘吁吁。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n冷冻食品解冻了。 Based on the previous passage, choose the most reasonable cause.\nA:我把它放进了微波炉里。\nB:我用保鲜膜盖住了它。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n员工假装生病。 Based on the previous passage, choose the most reasonable cause.\nA:他得了胃痉挛。\nB:他想休息一天。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那女孩落在游泳池里。 Based on the previous passage, choose the most reasonable cause.\nA:她在泳池甲板上奔跑。\nB:她跳下了跳水板。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n电影票卖完了。 Based on the previous passage, choose the most reasonable cause.\nA:这是电影的首映日。\nB:这部电影的评论不佳。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n该男子减了肥。 Based on the previous passage, choose the most reasonable effect.\nA:人们孤立他。\nB:人们称赞他。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n女孩的手起了水泡。 Based on the previous passage, choose the most reasonable cause.\nA:她打了一封信。\nB:她爬上了一根绳子。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n马戏团表演者在骑独轮车时玩杂耍。 Based on the previous passage, choose the most reasonable effect.\nA:观众惊讶地欢呼。\nB:杂技演员从空中飞来飞去。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我失去了耐心。 Based on the previous passage, choose the most reasonable cause.\nA:我的朋友一直让我等着。\nB:我的朋友准时到达。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n交战国家要求和平。 Based on the previous passage, choose the most reasonable effect.\nA:他们研发了核武器。\nB:他们商定了一项条约。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那人吃了安眠药。 Based on the previous passage, choose the most reasonable effect.\nA:他变得昏昏欲睡。\nB:他发烧了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那女人撞到沙发上。 Based on the previous passage, choose the most reasonable effect.\nA:沙发的腿松了。\nB:她擦伤了膝盖。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n这个男孩挤气球。 Based on the previous passage, choose the most reasonable effect.\nA:气球破了。\nB:气球飞走了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n旅客入住了他们的旅馆房间。 Based on the previous passage, choose the most reasonable effect.\nA:他们打开了行李箱。\nB:他们去了机场。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我咬了桃子。 Based on the previous passage, choose the most reasonable effect.\nA:桃子坏了。\nB:果汁溅出来了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我的手发粘。 Based on the previous passage, choose the most reasonable cause.\nA:我吃了甜甜圈。\nB:我爱吃甜食。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我推了门。 Based on the previous passage, choose the most reasonable effect.\nA:门开了。\nB:门锁上了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n激进分子抵制了这些产品。 Based on the previous passage, choose the most reasonable cause.\nA:产品通过了质量保证测试。\nB:产品是由童工制造出来的。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我在墙上钻了一个洞。 Based on the previous passage, choose the most reasonable effect.\nA:一只老鼠从洞里爬出来。\nB:灰尘从孔中吹出。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n这个女人羡慕她的妹妹。 Based on the previous passage, choose the most reasonable cause.\nA:她妹妹很高兴。\nB:她妹妹离婚了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我把酒洒在衬衫上了。 Based on the previous passage, choose the most reasonable effect.\nA:我穿上了围裙。\nB:我换了衬衫。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n收银员打开了收银机。 Based on the previous passage, choose the most reasonable cause.\nA:顾客翻找着他的钱包。\nB:顾客把钱递过来了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n街头音乐家吸引了一群人。 Based on the previous passage, choose the most reasonable effect.\nA:人们给了他零钱。\nB:他把人群赶走了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n小男孩向他的保姆哭了。 Based on the previous passage, choose the most reasonable cause.\nA:他想念他的父母。\nB:那是点心时间。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n飞行员的雷达发现了一场风暴。 Based on the previous passage, choose the most reasonable effect.\nA:飞行员避开了风暴。\nB:飞行员飞过了风暴。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n这棵树落叶了。 Based on the previous passage, choose the most reasonable effect.\nA:叶子变色了。\nB:叶子堆积在地面上。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n这个男孩想恶作剧。 Based on the previous passage, choose the most reasonable effect.\nA:他决定和妹妹玩纸牌游戏。\nB:他决定对捉弄妹妹。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n这个孩子抱怨说他必须去洗手间。 Based on the previous passage, choose the most reasonable effect.\nA:父亲给他喝了苏打水。\nB:他的父亲把汽车停在了加油站。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n孩子将鱼食撒进水缸。 Based on the previous passage, choose the most reasonable effect.\nA:鱼从水缸里跳了出来。\nB:鱼游向了食物。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n女人的政治观点发生了变化。 Based on the previous passage, choose the most reasonable effect.\nA:她换了党派。\nB:她参与了抗议。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n浴室的水槽堵塞了。 Based on the previous passage, choose the most reasonable effect.\nA:我打开水龙头。\nB:我向水槽倒入了下水道清洁剂。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n乘客们下了火车。 Based on the previous passage, choose the most reasonable cause.\nA:火车到达了车站。\nB:火车鸣笛。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n该名男子按下信封的湿口。 Based on the previous passage, choose the most reasonable effect.\nA:他在信封上盖了邮票。\nB:他把信封密封好了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n朋友们失去了联系。 Based on the previous passage, choose the most reasonable cause.\nA:他们享受彼此的陪伴。\nB:他们搬去了不同的城市。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n会计师对公司的资金管理不善。 Based on the previous passage, choose the most reasonable effect.\nA:她被解雇了。\nB:她休了产假。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我看着时钟。 Based on the previous passage, choose the most reasonable cause.\nA:我听到时钟的滴答声。\nB:我想查看时间。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我的手紧缩起来。 Based on the previous passage, choose the most reasonable cause.\nA:我手写了论文。\nB:我和妻子牵了手。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n螺栓被拧紧了。 Based on the previous passage, choose the most reasonable cause.\nA:我更换了螺栓。\nB:我扭动了扳手。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n这对夫妇签了一份公寓租约。 Based on the previous passage, choose the most reasonable effect.\nA:这对夫妇搬进了公寓。\nB:市政府将该公寓判为危房。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那个女人坐在门廊外面。 Based on the previous passage, choose the most reasonable cause.\nA:她想看日落。\nB:她以为自己看见了闪电。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n该男子在水中穿着救生衣。 Based on the previous passage, choose the most reasonable cause.\nA:他不会游泳。\nB:水很浅。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那个女人在文字处理器中打了一个错字。 Based on the previous passage, choose the most reasonable effect.\nA:她删除了文件。\nB:她按下了退格键。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n这个女孩向她的朋友吹牛。 Based on the previous passage, choose the most reasonable cause.\nA:她的成绩不好。\nB:她比赛获胜了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n草坪是泥泞的。 Based on the previous passage, choose the most reasonable cause.\nA:下了一夜的雨。\nB:到处都是杂草。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n女人睡过头了。 Based on the previous passage, choose the most reasonable cause.\nA:她在旅馆住了一晚。\nB:她忘了设置闹钟。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n男人涂上了防晒霜。 Based on the previous passage, choose the most reasonable cause.\nA:他坐在阴影里。\nB:他去了海滩。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n研究人员证明了这一理论。 Based on the previous passage, choose the most reasonable effect.\nA:研究人员撤回了这一理论。\nB:大众接受了这一理论。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n比赛中的球迷嘘声高涨。 Based on the previous passage, choose the most reasonable cause.\nA:游戏进入加时赛。\nB:裁判做出了错误的判断。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我在锁上输入了我的组合密码。 Based on the previous passage, choose the most reasonable effect.\nA:我给它上锁了。\nB:锁开了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n人群越来越多。 Based on the previous passage, choose the most reasonable effect.\nA:父亲递给儿子一些钱。\nB:父亲握住儿子的手。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n雪挡住了车道。 Based on the previous passage, choose the most reasonable effect.\nA:我把雪聚成一个雪球。\nB:我把雪铲开了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n皮划艇者划着桨。 Based on the previous passage, choose the most reasonable effect.\nA:皮划艇划到了岸边。\nB:皮划艇遇上了风浪。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那女孩的自行车失控了。 Based on the previous passage, choose the most reasonable effect.\nA:她松开了车把。\nB:她撞上了篱笆。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我打开了风扇。 Based on the previous passage, choose the most reasonable effect.\nA:水洒在我的皮肤上。\nB:我感到凉风拂过。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n冲浪者回到海滩。 Based on the previous passage, choose the most reasonable cause.\nA:他们浑身湿透了。\nB:他们看到了一条鲨鱼。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我拉开了浴缸里的排水塞。 Based on the previous passage, choose the most reasonable effect.\nA:水从浴缸中排出。\nB:水溅到地板上。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n丈夫因欺骗妻子而感到内疚。 Based on the previous passage, choose the most reasonable effect.\nA:他指责她不忠。\nB:他向她坦白了他的不忠。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n海报上的墨水抹开了。 Based on the previous passage, choose the most reasonable cause.\nA:我等着墨水变干。\nB:我在海报上洒了水。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n孩子大叫着起来。 Based on the previous passage, choose the most reasonable cause.\nA:他做了一个噩梦。\nB:他弄湿了床。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n这个男孩把脚放在桌子上。 Based on the previous passage, choose the most reasonable effect.\nA:父亲在桌旁坐下了。\nB:父亲教育了他。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我的朋友朝我的方向转过头。 Based on the previous passage, choose the most reasonable cause.\nA:我喊了他的名字。\nB:我挥舞了双臂。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n政府压迫其公民。 Based on the previous passage, choose the most reasonable effect.\nA:公民发动了叛乱。\nB:公民登记投票。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n这个男孩在树林里迷路了。 Based on the previous passage, choose the most reasonable effect.\nA:他搭了一个帐篷。\nB:他尖叫求救。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n这女人出国旅行了。 Based on the previous passage, choose the most reasonable cause.\nA:她想学习画画。\nB:她想了解其他文化。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n这个男人嫉妒他的同事。 Based on the previous passage, choose the most reasonable cause.\nA:他的同事得到了晋升。\nB:他的同事工作到很晚。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n这男人目睹了外星人。 Based on the previous passage, choose the most reasonable cause.\nA:他那时出现了幻觉。\nB:他那时在冥想。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那男人的头发变成了金色。 Based on the previous passage, choose the most reasonable cause.\nA:他在头发里放了漂白剂。\nB:他在头发里放了洗发水。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n艺术家创作了新作品。 Based on the previous passage, choose the most reasonable cause.\nA:她批评了她以前的作品。\nB:她感到一阵灵感。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n儿子离开了家。 Based on the previous passage, choose the most reasonable cause.\nA:他被退伍。\nB:他要去上大学。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n书从书架上掉了下来。 Based on the previous passage, choose the most reasonable cause.\nA:架子上满是灰尘。\nB:一场地震震动了书架。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我家停电了。 Based on the previous passage, choose the most reasonable effect.\nA:我打开了一盏灯。\nB:我重置了断路器。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我们坐了过山车。 Based on the previous passage, choose the most reasonable cause.\nA:它看起来很吓人。\nB:它看起来很有趣。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n爆米花的袋子开始发出爆裂声。 Based on the previous passage, choose the most reasonable cause.\nA:我把黄油倒进了袋子里。\nB:我用微波炉给它加了热。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n一棵树倒在电线上。 Based on the previous passage, choose the most reasonable effect.\nA:附近停电了。\nB:天气预报说有大风。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n演讲者发表了政治上不正确的评论。 Based on the previous passage, choose the most reasonable effect.\nA:他使听众感到厌烦。\nB:他冒犯了听众。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我用针刺伤了自己。 Based on the previous passage, choose the most reasonable effect.\nA:一滴汗从我脸上滴下来。\nB:我的手指上形成了一滴血。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n鱼漂浮在水箱表面。 Based on the previous passage, choose the most reasonable cause.\nA:它饿了。\nB:它死了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那人的声音听起来嘶哑了。 Based on the previous passage, choose the most reasonable cause.\nA:他感冒了。\nB:他戒烟了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n电梯门开了。 Based on the previous passage, choose the most reasonable cause.\nA:电梯到达指定的楼层。\nB:电梯卡在楼层间。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n少年溜出家门。 Based on the previous passage, choose the most reasonable cause.\nA:他对他的父母撒了谎。\nB:他的父母把他关了禁闭。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n浴室被淹了。 Based on the previous passage, choose the most reasonable cause.\nA:马桶溢出了。\nB:热水器坏了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n小狗呆在主人附近。 Based on the previous passage, choose the most reasonable cause.\nA:主人给小狗戴上了项圈。\nB:主人把小狗拴在狗绳上。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那人看见了他的倒影。 Based on the previous passage, choose the most reasonable cause.\nA:他站在一棵大树下。\nB:他站在平静的湖面上。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我错过了我女朋友的电话。 Based on the previous passage, choose the most reasonable effect.\nA:我给她回了电话。\nB:我与她共进晚餐。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n这家人搜查了附近。 Based on the previous passage, choose the most reasonable cause.\nA:他们的狗离家出走了。\nB:他们家丢失了昂贵的珠宝。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n当我呼出时，我看到了我的呼吸。 Based on the previous passage, choose the most reasonable cause.\nA:天气很冷。\nB:我的胸部感觉很紧。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n雇员们组成了一个工会。 Based on the previous passage, choose the most reasonable cause.\nA:他们想要更好的工作条件。\nB:他们的雇主提高了工资。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我烤了一个苹果派。 Based on the previous passage, choose the most reasonable effect.\nA:厨房弥漫着腐烂的气味。\nB:厨房里弥漫着温暖的香气。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那女人挣扎着走路。 Based on the previous passage, choose the most reasonable cause.\nA:她穿着高跟鞋。\nB:她脱下鞋子。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n蒸汽从锅上升出。 Based on the previous passage, choose the most reasonable cause.\nA:水煮沸了。\nB:我盖上了锅盖。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我所有的袜子都在洗衣房里。 Based on the previous passage, choose the most reasonable effect.\nA:我穿着凉鞋。\nB:我穿着靴子。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那位政治家的论点被认为是荒谬的。 Based on the previous passage, choose the most reasonable effect.\nA:他失去了选民的支持。\nB:他被指控腐败。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n每个人都不赞成这对夫妇的订婚。 Based on the previous passage, choose the most reasonable effect.\nA:这对夫妇怀孕了。\nB:这对夫妇私奔了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n这栋楼是献给这位百万富翁的。 Based on the previous passage, choose the most reasonable cause.\nA:这位百万富翁希望把大楼拆掉。\nB:这位百万富翁捐了钱来建造它。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n售货员指控那个女孩偷窃。 Based on the previous passage, choose the most reasonable cause.\nA:售货员看到那个女孩把商品放在钱包里。\nB:售货员帮助那个女孩找到她喜欢的钱包。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n这个国家向邻国宣战。 Based on the previous passage, choose the most reasonable effect.\nA:士兵被派去战斗。\nB:士兵们与家人团聚。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n法院维持了这项有争议的裁决。 Based on the previous passage, choose the most reasonable effect.\nA:法庭前爆发了一场骚乱。\nB:一对夫妇在法院门前交换了誓言。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n女孩闻到有东西烧焦了。 Based on the previous passage, choose the most reasonable cause.\nA:她把饼干从罐子里拿出来。\nB:她把饼干忘在烤箱里了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n大雨倾盆而下。 Based on the previous passage, choose the most reasonable effect.\nA:暴风雨更猛烈了。\nB:我冲了进去。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n大楼被疏散了。 Based on the previous passage, choose the most reasonable cause.\nA:电梯停止运转。\nB:火警响了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n父亲憎恨儿子酗酒。 Based on the previous passage, choose the most reasonable effect.\nA:父亲给儿子买了一杯啤酒。\nB:父亲把儿子赶出了家门。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n律师爬楼去她的办公室。 Based on the previous passage, choose the most reasonable cause.\nA:秘书这天回家了。\nB:电梯坏了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那人对他的朋友很恼火。 Based on the previous passage, choose the most reasonable cause.\nA:他的朋友打断了他。\nB:他的朋友给他买了午餐。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那个女孩把钱交给了收银员。 Based on the previous passage, choose the most reasonable effect.\nA:收银员把找的钱给了那个女孩。\nB:收银员忘了给那个女孩一张收据。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那女人被放在轮椅上。 Based on the previous passage, choose the most reasonable cause.\nA:她在一次事故中瘫痪了。\nB:她被担架抬进了医院。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n市民们把国旗挂在家门外。 Based on the previous passage, choose the most reasonable cause.\nA:这个国家正在纪念它的独立。\nB:这个国家正面临经济困难。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n该队输掉了比赛。 Based on the previous passage, choose the most reasonable effect.\nA:他们让他们的球迷失望了。\nB:他们鼓舞了他们的球迷。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我的朋友指出我的牙齿里塞了食物。 Based on the previous passage, choose the most reasonable effect.\nA:我感到很尴尬。\nB:我很自豪。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n这个男孩没有通过历史考试。 Based on the previous passage, choose the most reasonable cause.\nA:他在课堂上认真听讲了。\nB:他忘了学习。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n市中心的大楼倒塌了。 Based on the previous passage, choose the most reasonable cause.\nA:一场地震袭击了这个城市。\nB:这个城市的犯罪率上升了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那男人的女朋友和他分手了。 Based on the previous passage, choose the most reasonable effect.\nA:他恳求她再次接受他。\nB:她把他介绍给她的父母。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n两个孩子同时伸手去取回球。 Based on the previous passage, choose the most reasonable effect.\nA:球滚开了。\nB:他们的头相撞了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n熊洗劫了垃圾桶。 Based on the previous passage, choose the most reasonable cause.\nA:垃圾桶里有纸板。\nB:垃圾桶的盖子没盖上。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n男孩把铅笔磨光了。 Based on the previous passage, choose the most reasonable cause.\nA:它很便宜。\nB:它很钝。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n收银员拒绝给那女人退款。 Based on the previous passage, choose the most reasonable cause.\nA:她丢了收据。\nB:这件衣服不合适。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我皮肤上的划痕很深。 Based on the previous passage, choose the most reasonable effect.\nA:它很快愈合了。\nB:它留下了一个疤痕。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n火车上的乘客奇怪地看着他。 Based on the previous passage, choose the most reasonable cause.\nA:他盯着地面。\nB:他在自言自语。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n孩子把面包屑留在了地板上。 Based on the previous passage, choose the most reasonable effect.\nA:蚂蚁爬到了面包屑上。\nB:孩子把面包收了起来。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那个女人递给她的妹妹一张纸巾。 Based on the previous passage, choose the most reasonable cause.\nA:女人的妹妹叠起了她的手。\nB:女人的妹妹哭了起来。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那人拿了薄荷。 Based on the previous passage, choose the most reasonable cause.\nA:他的嘴唇裂开了。\nB:他担心口臭。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n这对夫妇早早地离开去看演出。 Based on the previous passage, choose the most reasonable cause.\nA:他们预计剧院周围会有堵车。\nB:他们知道去剧院的路。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那女人呆在家里没去上班。 Based on the previous passage, choose the most reasonable effect.\nA:她的老板表扬了她。\nB:她的同事帮她掩护。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那人在维权人士的请愿书上签了名。 Based on the previous passage, choose the most reasonable cause.\nA:他支持他们的事业。\nB:他谴责他们疯了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n演员在演出前心慌。 Based on the previous passage, choose the most reasonable cause.\nA:他有上台紧张症。\nB:他记住了他的台词。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我迷路了。 Based on the previous passage, choose the most reasonable effect.\nA:我数了一下我的现金。\nB:我展开了一张地图。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n成熟的果实在阳光下摇动。 Based on the previous passage, choose the most reasonable effect.\nA:它被吃了。\nB:它枯萎了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n汽车抛锚了。 Based on the previous passage, choose the most reasonable cause.\nA:我转动了点火装置。\nB:发动机过热。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那人伤了背部。 Based on the previous passage, choose the most reasonable effect.\nA:他去看精神病医生了。\nB:他在床上呆了几天。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我在壁炉里生了火。 Based on the previous passage, choose the most reasonable cause.\nA:我没柴火了。\nB:房子里很冷。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那女人停止了慢跑。 Based on the previous passage, choose the most reasonable cause.\nA:她一侧身体抽筋了。\nB:她恢复了精力。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我敲了邻居的门。 Based on the previous passage, choose the most reasonable effect.\nA:我的邻居邀请我进来。\nB:我的邻居离开了她的房子。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那女人沮丧地叹了口气。 Based on the previous passage, choose the most reasonable cause.\nA:她丈夫误解了她的顾虑。\nB:她丈夫与她吻别。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n老师表扬了学生。 Based on the previous passage, choose the most reasonable cause.\nA:学生正确回答了问题。\nB:学生犹豫着回答问题。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那女人的鸡蛋用完了。 Based on the previous passage, choose the most reasonable effect.\nA:她去了农场。\nB:她去了超市。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我遇到了一位老朋友。 Based on the previous passage, choose the most reasonable effect.\nA:我向他透露了一个秘密。\nB:我给了他一个拥抱。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那女人避免去湖边。 Based on the previous passage, choose the most reasonable cause.\nA:她钓到了一条鱼。\nB:它看起来被污染了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n学生来上课时浑身湿透了。 Based on the previous passage, choose the most reasonable cause.\nA:他的伞坏了。\nB:他的自行车被偷了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n电脑屏幕上的光标移动了。 Based on the previous passage, choose the most reasonable cause.\nA:用户单击了鼠标。\nB:用户移动了鼠标。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n司机绕道而行。 Based on the previous passage, choose the most reasonable cause.\nA:主干道上发生了一起事故。\nB:她跟着前面的卡车。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我把湿床单挂在户外晾衣绳上。 Based on the previous passage, choose the most reasonable effect.\nA:床单干了。\nB:床单染色了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那女人戴上了她的墨镜。 Based on the previous passage, choose the most reasonable cause.\nA:阳光很大。\nB:她叫了一辆出租车。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那人凝视着夜空。 Based on the previous passage, choose the most reasonable cause.\nA:他希望那是夏天。\nB:他认为它很漂亮。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我感到筋疲力尽。 Based on the previous passage, choose the most reasonable effect.\nA:我很早就上床睡觉了。\nB:我熬夜了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那人去找理发师。 Based on the previous passage, choose the most reasonable cause.\nA:他正在长头发。\nB:他的头发变长了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n这个男孩恶意地捉弄了他的新同学。 Based on the previous passage, choose the most reasonable cause.\nA:这个男孩欢迎这个新同学。\nB:这个男孩不喜欢这个新同学。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我想喝一杯牛奶。 Based on the previous passage, choose the most reasonable cause.\nA:我在吃饼干。\nB:我在烤面包。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n天开始下雨了。 Based on the previous passage, choose the most reasonable effect.\nA:司机打开了大前灯。\nB:司机把车倒过来了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n大楼的停车场是空的。 Based on the previous passage, choose the most reasonable effect.\nA:我把车停在街对面。\nB:我把车停在入口附近。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n作者错过了提交草稿的最后期限。 Based on the previous passage, choose the most reasonable cause.\nA:她犯了写作障碍。\nB:她编辑了草稿。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n同事挂断了我的电话。 Based on the previous passage, choose the most reasonable cause.\nA:我要求与主管谈话。\nB:我提供了我的身份证号码。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n风吹过开着的窗户。 Based on the previous passage, choose the most reasonable effect.\nA:门铃响了。\nB:窗帘抖动了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我家的电停了。 Based on the previous passage, choose the most reasonable cause.\nA:我拔下台灯的插头。\nB:我烧断了保险丝。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n举重运动员发出哼声。 Based on the previous passage, choose the most reasonable cause.\nA:他在镜子里展示他的肌肉。\nB:他把杠铃杆举过头顶。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n这个学生试图心算。 Based on the previous passage, choose the most reasonable effect.\nA:他拿出了一个计算器。\nB:他弄糊涂了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n婴儿睡着了。 Based on the previous passage, choose the most reasonable cause.\nA:父亲换了婴儿的尿布。\nB:父亲轻轻地摇动着婴儿。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n女孩把水气球扔向男孩。 Based on the previous passage, choose the most reasonable effect.\nA:那男孩得了脑震荡。\nB:男孩被淋湿了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n摄影师忘了用相机上的闪光灯。 Based on the previous passage, choose the most reasonable effect.\nA:照片模糊不清。\nB:照片上的每个人都拒绝微笑。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我谢绝了生日聚会的邀请。 Based on the previous passage, choose the most reasonable cause.\nA:我很孤独。\nB:我不在城里。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我锻炼了。 Based on the previous passage, choose the most reasonable cause.\nA:我感到精力充沛。\nB:我很害怕。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我挤压了这个湿海绵。 Based on the previous passage, choose the most reasonable effect.\nA:它浸湿了水。\nB:水从中渗出。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n游客们乘坐渡轮去度假村。 Based on the previous passage, choose the most reasonable cause.\nA:度假村已被预订好。\nB:度假村在一个岛上。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n这个少年有纹身。 Based on the previous passage, choose the most reasonable cause.\nA:她害怕打针。\nB:她想叛逆。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n一辆陌生的车停在我家外面。 Based on the previous passage, choose the most reasonable effect.\nA:我开始起疑了。\nB:我给警察打了电话。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n罪犯自首了。 Based on the previous passage, choose the most reasonable cause.\nA:证据指向了他。\nB:没有不利于他的证据。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那个魁梧的人决定减肥。 Based on the previous passage, choose the most reasonable effect.\nA:他戒了甜食。\nB:他避免咖啡因。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n女孩踩在了冰上。 Based on the previous passage, choose the most reasonable effect.\nA:她滑倒了。\nB:她颤抖着。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那女人眼睛下面有眼袋。 Based on the previous passage, choose the most reasonable cause.\nA:她熬夜了。\nB:她把儿子安顿睡觉了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n熔岩从火山中流出。 Based on the previous passage, choose the most reasonable cause.\nA:火山爆发了。\nB:火山处于休眠状态。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那女人穿上鞋子。 Based on the previous passage, choose the most reasonable cause.\nA:她认识聚会上的每个人。\nB:她想离开聚会。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我向收费站服务员付了费。 Based on the previous passage, choose the most reasonable effect.\nA:她让我通过了收费站。\nB:她在收费站把我拦下了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n执行官破产了。 Based on the previous passage, choose the most reasonable cause.\nA:他卖掉了公司的股票。\nB:他挥霍了他的财产。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那人去看医生了。 Based on the previous passage, choose the most reasonable cause.\nA:医生正在休假。\nB:那人感到不适。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我从窗户离开卧室。 Based on the previous passage, choose the most reasonable cause.\nA:房子着火了。\nB:房子是空的。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n男孩的手指变得皱了。 Based on the previous passage, choose the most reasonable cause.\nA:他洗了很长时间澡。\nB:他用肥皂打手。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我吐出牛奶。 Based on the previous passage, choose the most reasonable cause.\nA:牛奶尝起来很酸。\nB:我的嘴是干的。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我错过了公共汽车。 Based on the previous passage, choose the most reasonable effect.\nA:我很早就去上班了。\nB:我上班迟到了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n卡车与汽车相撞。 Based on the previous passage, choose the most reasonable effect.\nA:卡车加速了。\nB:汽车被撞坏了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n这支队伍以对他们有利的方式操纵了比赛。 Based on the previous passage, choose the most reasonable effect.\nA:他们赢了。\nB:他们退出了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n汽水瓶发出嘘声。 Based on the previous passage, choose the most reasonable cause.\nA:我把瓶子翻了过来。\nB:我拧掉了帽子。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那个男孩被锁在屋外。 Based on the previous passage, choose the most reasonable effect.\nA:他从一扇开着的窗户爬进来。\nB:他爬上屋顶。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n门铃响了。 Based on the previous passage, choose the most reasonable effect.\nA:来访者轻拍门上的门环。\nB:那女人从门上的钥匙孔里窥视着。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那人弄脏了他的西装。 Based on the previous passage, choose the most reasonable effect.\nA:他干洗了。\nB:他把它挂在壁橱里。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n女孩挤了牙膏管。 Based on the previous passage, choose the most reasonable effect.\nA:牙膏从管子里喷出来。\nB:女孩吐出牙膏。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n战争造成的平民死亡人数激增。 Based on the previous passage, choose the most reasonable effect.\nA:和平主义者举行了抗议。\nB:和平主义者举行了游行。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那个女孩把丝带从头发上拉了出来。 Based on the previous passage, choose the most reasonable cause.\nA:她系上丝带。\nB:丝带看起来很幼稚。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那男人做了整形手术。 Based on the previous passage, choose the most reasonable effect.\nA:他老了。\nB:他看起来更年轻。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n一只小鸡从鸡蛋里出来。 Based on the previous passage, choose the most reasonable cause.\nA:鸡蛋孵化了。\nB:我把鸡蛋打碎了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n囚犯饿死了。 Based on the previous passage, choose the most reasonable effect.\nA:他死了。\nB:他逃走了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那人在梯子上失去了平衡。 Based on the previous passage, choose the most reasonable effect.\nA:他爬上梯子。\nB:他从梯子上摔下来了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n孩子打嗝了。 Based on the previous passage, choose the most reasonable cause.\nA:他大喝了一口苏打水。\nB:他打开汽水罐。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n一股冷风从窗户进来。 Based on the previous passage, choose the most reasonable effect.\nA:我放松了。\nB:我颤抖。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n这个学生获得了上大学的奖学金。 Based on the previous passage, choose the most reasonable cause.\nA:她的同学尊敬她。\nB:她成绩很好。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那个女孩打趣那个男孩。 Based on the previous passage, choose the most reasonable cause.\nA:她住在他隔壁。\nB:她迷恋上了他。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n饥饿的流浪汉偷走了食物。 Based on the previous passage, choose the most reasonable cause.\nA:他煽动怜悯。\nB:他没有钱。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我打电话给我的朋友聊天。 Based on the previous passage, choose the most reasonable cause.\nA:我想要隐私。\nB:我感到孤独。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那人向我伸出手来。 Based on the previous passage, choose the most reasonable effect.\nA:我握了握他的手。\nB:我打了他一耳光。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我躲开了。 Based on the previous passage, choose the most reasonable cause.\nA:烟火在空中燃放。\nB:飞盘朝我的头飞去。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那个女孩咬了指甲。 Based on the previous passage, choose the most reasonable cause.\nA:她很担心。\nB:她很惊讶。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我翻了一页日历。 Based on the previous passage, choose the most reasonable cause.\nA:我在日历上标了一个约会。\nB:这是一个新的月的开始。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n丈夫发现他的妻子有外遇。 Based on the previous passage, choose the most reasonable effect.\nA:他解雇了他的律师。\nB:他提出离婚。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那个女孩掉了橡皮球。 Based on the previous passage, choose the most reasonable effect.\nA:球弹了起来。\nB:球闪闪发光。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n这个女孩考试犯了一个错误。 Based on the previous passage, choose the most reasonable effect.\nA:她猜到了答案。\nB:她抹去了她的答案。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那个选手扭倒了对手。 Based on the previous passage, choose the most reasonable effect.\nA:他的对手抓住了传球。\nB:他的对手击倒了地面。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我从藤蔓上摘了西红柿。 Based on the previous passage, choose the most reasonable cause.\nA:他们成熟了。\nB:我给他们浇水。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那人想表现得浪漫。 Based on the previous passage, choose the most reasonable effect.\nA:他和前女友共进午餐。\nB:他给他女朋友买了巧克力。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n温度计中的汞上升。 Based on the previous passage, choose the most reasonable cause.\nA:我把温度计掉了。\nB:天气变暖和了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n龙卷风穿过了整个城镇。 Based on the previous passage, choose the most reasonable effect.\nA:法院的屋顶被吹掉了。\nB:公路可能引起危险地结冰了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n这个学生接受了辅导。 Based on the previous passage, choose the most reasonable effect.\nA:他的成绩提高了。\nB:他在考试中作弊了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我感觉很舒服。 Based on the previous passage, choose the most reasonable cause.\nA:我跪在地上。\nB:我把自己裹在毯子里。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我把石头磨光了。 Based on the previous passage, choose the most reasonable effect.\nA:它变得很滑。\nB:它变得有光泽。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我在咖啡里加了糖。 Based on the previous passage, choose the most reasonable effect.\nA:咖啡闻起来很浓。\nB:咖啡尝起来很甜。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那人翻阅了报纸。 Based on the previous passage, choose the most reasonable effect.\nA:他被纸划了。\nB:他把文件撕碎了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我用锤子敲钉子。 Based on the previous passage, choose the most reasonable effect.\nA:钉子插进了木头里。\nB:钉子生锈了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n鱼咬了线。 Based on the previous passage, choose the most reasonable effect.\nA:渔夫把鱼收了过来。 ?。\nB:渔夫重投了鱼线。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n这个少年上学很尴尬。 Based on the previous passage, choose the most reasonable cause.\nA:她有粉刺。\nB:她脱下了牙套。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我的面部表情亮了起来。 Based on the previous passage, choose the most reasonable cause.\nA:我收到了好消息。\nB:我失去了耐心。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我用毛巾擦了擦手。 Based on the previous passage, choose the most reasonable cause.\nA:毛巾是湿的。\nB:我的手湿了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那人失去了在凳子上的平衡。 Based on the previous passage, choose the most reasonable cause.\nA:凳子在他下面摇晃。\nB:他把油漆洒在凳子上。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n队友们互相指责。 Based on the previous passage, choose the most reasonable cause.\nA:他们输掉了比赛。\nB:他们的教练取消了练习。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我请求宽恕。 Based on the previous passage, choose the most reasonable cause.\nA:我为我的错误感到遗憾。\nB:我实现了我的目标。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n这个女人对她的约会感到厌烦了。 Based on the previous passage, choose the most reasonable cause.\nA:他问她关于自己的问题。\nB:他不停地谈论自己。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n女孩闪过一个微笑。 Based on the previous passage, choose the most reasonable effect.\nA:她的脸颊发红了。\nB:她出现酒窝了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n敌舰爆炸了。 Based on the previous passage, choose the most reasonable cause.\nA:它越过了水雷。\nB:它驶入港口。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那人刺穿了他的脚。 Based on the previous passage, choose the most reasonable cause.\nA:他走进一个水坑。\nB:他踩在碎玻璃上。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n侦探们在犯罪现场撒了粉来显示指纹。 Based on the previous passage, choose the most reasonable effect.\nA:他们发现了凶手的身份。\nB:他们在犯罪现场发现了武器。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n高速公路上交通很拥挤。 Based on the previous passage, choose the most reasonable effect.\nA:我绕道而行。\nB:我要求搭便车。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n国家经济下滑了。 Based on the previous passage, choose the most reasonable effect.\nA:许多人生病了。\nB:许多人面临失业。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n交通指挥向孩子们吹口哨。 Based on the previous passage, choose the most reasonable cause.\nA:他们正要走进迎面而来的车流。\nB:她从她的邻居认出了他们。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我对我的朋友翻了白眼。 Based on the previous passage, choose the most reasonable cause.\nA:他告诉了我真相。\nB:他发表了讽刺性的评论。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n汽车汽油用完了。 Based on the previous passage, choose the most reasonable effect.\nA:司机被困在路上。\nB:司机接了一个搭便车的人。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那女人开始分娩了。 Based on the previous passage, choose the most reasonable effect.\nA:婴儿被接生了。\nB:那女人孕吐了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那人的帽子被吹掉了。 Based on the previous passage, choose the most reasonable cause.\nA:他摘下帽子。\nB:外面刮风。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n这个女孩参加了她同学的生日聚会。 Based on the previous passage, choose the most reasonable cause.\nA:她收到了邀请。\nB:她买了一件礼物。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n男孩的额头很热。 Based on the previous passage, choose the most reasonable effect.\nA:他妈妈给他量了体温。\nB:他妈妈带他去公园。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那人喷了古龙水。 Based on the previous passage, choose the most reasonable cause.\nA:他想给他的约会对象留下深刻印象。\nB:他给头发涂了发胶。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n房子里的电停了。 Based on the previous passage, choose the most reasonable effect.\nA:我找了手电筒。\nB:我拿起一把铲子。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n一家人搬进了一所更大的房子。 Based on the previous passage, choose the most reasonable cause.\nA:儿子高中毕业。\nB:母亲生了双胞胎。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n马拉松运动员保持缓慢的步伐。 Based on the previous passage, choose the most reasonable cause.\nA:她想节省体力。\nB:她看到了终点线。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n男孩踢了自动售货机。 Based on the previous passage, choose the most reasonable cause.\nA:机器吐出零钱。\nB:一袋薯条卡住了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我朋友的狗死了。 Based on the previous passage, choose the most reasonable effect.\nA:我翻了他一个白眼。\nB:我给了他一个拥抱。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n商人的信用卡被拒绝了。 Based on the previous passage, choose the most reasonable effect.\nA:他写了一张借据。\nB:他用现金付了钱。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那男人咒骂了一句。 Based on the previous passage, choose the most reasonable cause.\nA:他剪了指甲。\nB:他踢到了他的脚趾。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那人为他的兄弟感到骄傲。 Based on the previous passage, choose the most reasonable cause.\nA:他哥哥和父母发生了争执。\nB:他哥哥被法学院录取了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n这个女孩想了解太阳系。 Based on the previous passage, choose the most reasonable effect.\nA:她去了图书馆。\nB:她看着星星。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n海报贴在墙上。 Based on the previous passage, choose the most reasonable cause.\nA:我把海报放在门上面。\nB:我在海报的背面贴了胶带。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n客户批准了建筑师的大楼计划。 Based on the previous passage, choose the most reasonable effect.\nA:建筑师建造了这座建筑。\nB:建筑师调整了计划。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那人掉了勺子。 Based on the previous passage, choose the most reasonable cause.\nA:他的手在颤抖。\nB:他舔了舔勺子。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n公司的首席执行官辞职了。 Based on the previous passage, choose the most reasonable effect.\nA:董事会解散了公司。\nB:董事会找到了他的继任者。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我到课时迟到了。 Based on the previous passage, choose the most reasonable effect.\nA:我在后排坐下了。\nB:我走近讲台。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那人从监狱里被释放了。 Based on the previous passage, choose the most reasonable cause.\nA:他的家人付了他的保释金。\nB:他袭击了一个同狱犯。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n这个家庭失去了所有的财产。 Based on the previous passage, choose the most reasonable cause.\nA:他们卖掉了房子。\nB:他们的房子着火了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我踩在铝罐上。 Based on the previous passage, choose the most reasonable effect.\nA:罐被回收了。\nB:罐被压碎了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n这个女孩加入了辩论队。 Based on the previous passage, choose the most reasonable effect.\nA:她学会了使用电脑。\nB:她学会了沟通技巧。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我的心情好转了。 Based on the previous passage, choose the most reasonable cause.\nA:我听了音乐。\nB:我洗了碗。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n慈善机构制定了一个筹款目标。 Based on the previous passage, choose the most reasonable effect.\nA:他们给无家可归的人喂食。\nB:他们举行了一场拍卖会。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n过山车从陡坡上速降下来。 Based on the previous passage, choose the most reasonable effect.\nA:乘客们咯咯地笑。\nB:乘客们尖叫着。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我很生气。 Based on the previous passage, choose the most reasonable effect.\nA:离开家时，我检查了邮箱。\nB:离开家时，我砰地关上了门。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那人想看日出。 Based on the previous passage, choose the most reasonable effect.\nA:他向北旅行。\nB:他起得很早。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我把纸折起来。 Based on the previous passage, choose the most reasonable effect.\nA:我回收了纸。\nB:纸有折痕了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n这个国家经受了一场自然灾害。 Based on the previous passage, choose the most reasonable effect.\nA:其他国家的领导人结成了联盟。\nB:其他国家领导人送去了紧急救援。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那男孩的衣服湿透了。 Based on the previous passage, choose the most reasonable cause.\nA:他爬出了游泳池。\nB:他掉进了游泳池。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n学生急忙读完这本书。 Based on the previous passage, choose the most reasonable cause.\nA:它本来要归还给图书馆的。\nB:他是从一个朋友那里借来的。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n罪犯被处决了。 Based on the previous passage, choose the most reasonable cause.\nA:他被关进了监狱。\nB:他被判犯有谋杀罪。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n阳光照进了房间。 Based on the previous passage, choose the most reasonable cause.\nA:我打开窗帘。\nB:我打开了门。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我拉扯了那个骗子的头发。 Based on the previous passage, choose the most reasonable effect.\nA:她的假发掉了。\nB:她秃了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n编辑在手稿中改写了一句话。 Based on the previous passage, choose the most reasonable cause.\nA:他发现手稿很有说服力。\nB:他认为那句子不清楚。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那女人取消了她的信用卡帐户。 Based on the previous passage, choose the most reasonable cause.\nA:她意识到卡不见了。\nB:她意识到卡过期了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n男人和女人坠入爱河。 Based on the previous passage, choose the most reasonable effect.\nA:他们上了大学。\nB:他们结婚了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n音乐太微弱了，听不见。 Based on the previous passage, choose the most reasonable effect.\nA:我把音量调大了。\nB:我创作了自己的歌曲。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n男孩的头发竖起了。 Based on the previous passage, choose the most reasonable cause.\nA:女孩生气了。\nB:女孩拉了它。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n虫子被压扁了。 Based on the previous passage, choose the most reasonable cause.\nA:我给自己喷了驱虫剂。\nB:我踩到了这个虫子。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我睁开眼睛。 Based on the previous passage, choose the most reasonable cause.\nA:我醒了。\nB:我放松了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我邻居的音乐在巨响。 Based on the previous passage, choose the most reasonable effect.\nA:我请他把它关掉。\nB:我向他借了CD。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那人的家庭生活在贫困之中。 Based on the previous passage, choose the most reasonable cause.\nA:他节俭地使用他的收入。\nB:他挣的钱低于最低工资。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n这个学生从大学毕业了。 Based on the previous passage, choose the most reasonable effect.\nA:他找工作了。\nB:他开始一种爱好。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n艺术家把黄色的油漆混合进蓝色的油漆。 Based on the previous passage, choose the most reasonable effect.\nA:油漆到处飞溅。\nB:油漆变绿了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我改变了谈话的话题。 Based on the previous passage, choose the most reasonable cause.\nA:我用完了要谈的事情。\nB:谈话变得紧张起来。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我哥哥出院了。 Based on the previous passage, choose the most reasonable effect.\nA:我欢迎他回家。\nB:我冷淡地对待他。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n舞台上的帷幕拉开了。 Based on the previous passage, choose the most reasonable effect.\nA:演出的第一幕开始了。\nB:剧中的演员退出了舞台。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n人质服从了绑架者。 Based on the previous passage, choose the most reasonable cause.\nA:绑架者威胁要伤害人质。\nB:绑架者自己离开了人质。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n一阵隆隆声在舞台上回荡。 Based on the previous passage, choose the most reasonable cause.\nA:音乐家轻拍他的脚。\nB:音乐家敲击鼓。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n父母们冲到孩子的卧室。 Based on the previous passage, choose the most reasonable cause.\nA:孩子从噩梦中惊醒尖叫。\nB:那孩子害怕看床底下。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那位妇女用手语交流。 Based on the previous passage, choose the most reasonable cause.\nA:她是早产儿。\nB:她生来就是聋子。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n该地区发生了干旱。 Based on the previous passage, choose the most reasonable effect.\nA:水被污染了。\nB:庄稼死了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n猫追赶那只鸟。 Based on the previous passage, choose the most reasonable effect.\nA:那只鸟飞走了。\nB:那只鸟捉到了虫子。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n女孩换了学校。 Based on the previous passage, choose the most reasonable cause.\nA:学校放学放暑假了。\nB:她搬到了一个新城镇。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n工厂老板拒绝提高雇员的工资。 Based on the previous passage, choose the most reasonable effect.\nA:老板任命了一位新经理。\nB:雇员们继续罢工。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n这位领导人在对抗了他国家里的极端分子。 Based on the previous passage, choose the most reasonable effect.\nA:极端分子影响了他。\nB:极端分子暗杀了他。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我赤脚走在沙滩上。 Based on the previous passage, choose the most reasonable effect.\nA:沙刺到我的脚。\nB:海浪沿着海岸冲来。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我半夜醒来，感觉很冷。 Based on the previous passage, choose the most reasonable effect.\nA:我穿上运动裤。\nB:我喝了一杯水。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n母亲让儿子安静下来。 Based on the previous passage, choose the most reasonable cause.\nA:她的儿子笑了。\nB:她儿子发牢骚。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我的牛仔裤上有个洞。 Based on the previous passage, choose the most reasonable cause.\nA:我拉起牛仔裤。\nB:我在人行道上绊倒了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n男孩戴着牙套。 Based on the previous passage, choose the most reasonable effect.\nA:他有一个空腔。\nB:他的牙齿变得直了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我昨天在健身房锻炼。 Based on the previous passage, choose the most reasonable effect.\nA:我今天醒来时肌肉酸痛。\nB:我今天醒来时喉咙痛。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n女孩在餐桌上互相耳语。 Based on the previous passage, choose the most reasonable effect.\nA:其他学生坐在午餐桌旁。\nB:在餐桌上的其他学生感到被冷落了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n孩子落在蹦床上。 Based on the previous passage, choose the most reasonable effect.\nA:她飞回空中。\nB:她决定尝试做一次翻转。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我把信寄到信箱里了。 Based on the previous passage, choose the most reasonable effect.\nA:邮局把信交付了。\nB:邮局迅速发出了信。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n赌徒很自信。 Based on the previous passage, choose the most reasonable effect.\nA:他赌了所有的钱。\nB:他回家时已经破产了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n森林大火蔓延开来。 Based on the previous passage, choose the most reasonable cause.\nA:风变得更强了。\nB:纵火者被捕了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n这孩子把膝盖破了皮。 Based on the previous passage, choose the most reasonable effect.\nA:他妈妈把他送到他的房间。\nB:他的母亲在伤口上系了绷带。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那人幸免于这种致命的疾病。 Based on the previous passage, choose the most reasonable cause.\nA:他签了个要人。\nB:他接受了器官移植。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我喝了一口滚烫的咖啡。 Based on the previous passage, choose the most reasonable effect.\nA:我咬了舌头。\nB:我烫伤了舌头。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n编辑解雇了作者。 Based on the previous passage, choose the most reasonable cause.\nA:这位作家避免在故事中出现偏见。\nB:作者错过了一个重要的截止日期。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我感到筋疲力尽。 Based on the previous passage, choose the most reasonable cause.\nA:我睡了一整天。\nB:我学习了一整天。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n医生诊断病人。 Based on the previous passage, choose the most reasonable cause.\nA:她确定了病人的症状。\nB:她给病人开了药。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我抓伤了皮肤。 Based on the previous passage, choose the most reasonable cause.\nA:这是汗水。\nB:感觉很痒。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那人接受了紧急手术。 Based on the previous passage, choose the most reasonable cause.\nA:他发脾气了。\nB:他心脏病发作。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那人的手臂肌肉鼓了起来。 Based on the previous passage, choose the most reasonable cause.\nA:他弯曲了双臂。\nB:他揉了揉手臂。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那人扬起眉毛。 Based on the previous passage, choose the most reasonable cause.\nA:他很惊讶。\nB:他感到气馁。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我宽恕了同事的愚蠢错误。 Based on the previous passage, choose the most reasonable cause.\nA:我相信他的意图是好的。\nB:我相信他更清楚。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那人戒烟了。 Based on the previous passage, choose the most reasonable effect.\nA:他开始多锻炼。\nB:他开始早起。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那女人用拳头打袭击者的鼻子。 Based on the previous passage, choose the most reasonable effect.\nA:袭击者的身体没有了生命迹象。\nB:攻击者开始流血。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n飞镖错过了牛眼。 Based on the previous passage, choose the most reasonable cause.\nA:那人没有中目标。\nB:那人输掉了比赛。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n房主要求一个灭害员到他家来。 Based on the previous passage, choose the most reasonable cause.\nA:他在地下室发现了老鼠。\nB:他在房间里养了一个蚂蚁农场。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我建议我的客人出去吃饭。 Based on the previous passage, choose the most reasonable cause.\nA:我太累了，什么都准备不了。\nB:我的客人逗留过于久了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n女孩发现她的哥哥在读她的日记。 Based on the previous passage, choose the most reasonable effect.\nA:她开始把日记藏起来。\nB:她收到一本新日记。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那个女人缺钱付房租。 Based on the previous passage, choose the most reasonable effect.\nA:她加班加点。\nB:她辞职了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n孩子的手很快退缩了。 Based on the previous passage, choose the most reasonable cause.\nA:他碰了热炉子。\nB:他拍了拍小狗的头。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n公司希望衡量客户满意度。 Based on the previous passage, choose the most reasonable effect.\nA:他们为新客户提供折扣。\nB:他们向客户分发了一份调查。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n木地板被划伤。 Based on the previous passage, choose the most reasonable cause.\nA:男孩把垫子从沙发上扔了出去。\nB:男孩把椅子拖过地板。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我遮住了我的脸。 Based on the previous passage, choose the most reasonable cause.\nA:我的敌人嘲笑我。\nB:我的敌人举起拳头。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n这座著名的雕像被烧毁了。 Based on the previous passage, choose the most reasonable cause.\nA:它被闪电击中了。\nB:人们来崇拜它。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我把水果忘在桌子上了。 Based on the previous passage, choose the most reasonable effect.\nA:水果脱落种子。\nB:苍蝇挤满了那水果。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n芭蕾舞选手撕裂了系带。 Based on the previous passage, choose the most reasonable cause.\nA:她指着她的脚趾。\nB:她扭伤了脚踝。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n孩子的鞋带解开了。 Based on the previous passage, choose the most reasonable cause.\nA:他学会了如何把他们绑起来。\nB:他在操场上跑来跑去。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我迷上了这本书。 Based on the previous passage, choose the most reasonable effect.\nA:我还了书。\nB:我忘记了时间。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n这个人有着和父母相似的信仰。 Based on the previous passage, choose the most reasonable cause.\nA:他的父母影响了他。\nB:他的父母抛弃了他。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n汽车逐渐减速停了下来。 Based on the previous passage, choose the most reasonable cause.\nA:汽油用完了。\nB:司机睡着了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那人在阳光下吃了冰淇淋。 Based on the previous passage, choose the most reasonable effect.\nA:冰淇淋失去了味道。\nB:冰淇淋从蛋卷上滴下来。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我把艺术品挂在房间里。 Based on the previous passage, choose the most reasonable cause.\nA:地毯看起来很脏。\nB:墙壁看起来光秃秃的。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我很早就下班了。 Based on the previous passage, choose the most reasonable cause.\nA:我头疼。\nB:我老板召开了一个会议。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n小狗弄脏了地毯。 Based on the previous passage, choose the most reasonable effect.\nA:主人骂了小狗。\nB:主人给小狗一个款待。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我向我的朋友道歉了。 Based on the previous passage, choose the most reasonable effect.\nA:我的朋友原谅了我。\nB:我的朋友很生气。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那人在人群中脱颖而出。 Based on the previous passage, choose the most reasonable cause.\nA:他背着一个背包。\nB:他穿着一件霓虹灯背心。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n证人在宣誓后撒谎。 Based on the previous passage, choose the most reasonable effect.\nA:他完成了他的证词。\nB:他被指控作伪证。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那女人染了头发。 Based on the previous passage, choose the most reasonable cause.\nA:她想要一个新的面貌。\nB:她想融入其中。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n这些移民是非法居住在这个国家的。 Based on the previous passage, choose the most reasonable effect.\nA:他们找到了工作。\nB:他们被驱逐出境了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n公共发言人开了个玩笑。 Based on the previous passage, choose the most reasonable effect.\nA:观众笑了起来。\nB:观众站了起来。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我看着太阳。 Based on the previous passage, choose the most reasonable effect.\nA:太阳使我失明。\nB:太阳晒黑了我的皮肤。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我觉得很无聊。 Based on the previous passage, choose the most reasonable effect.\nA:我哼了一声。\nB:我打哈欠了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n牛排很难切。 Based on the previous passage, choose the most reasonable cause.\nA:刀子很钝。\nB:牛排是生的。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那女人宣布破产了。 Based on the previous passage, choose the most reasonable cause.\nA:她收到了赡养费。\nB:她获得了巨额债务。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我朋友公寓里的灯亮着。 Based on the previous passage, choose the most reasonable effect.\nA:我想知道他是否出去了。\nB:我决定去拜访他。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我把花放在鼻子底下。 Based on the previous passage, choose the most reasonable effect.\nA:花瓣从花瓣上脱落。\nB:我闻到了花的香味。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n女人感到怀旧。 Based on the previous passage, choose the most reasonable cause.\nA:她遇到了一个儿时的朋友。\nB:她对孩子们大喊大叫。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n学生拖延文章。 Based on the previous passage, choose the most reasonable effect.\nA:他早早地提交了论文。\nB:他提交的文件不完整。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我的车抛锚了。 Based on the previous passage, choose the most reasonable effect.\nA:我去了购物中心。\nB:我给一个机械师打了电话。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我丢弃了那张纸条。 Based on the previous passage, choose the most reasonable cause.\nA:是匿名的。\nB:这是难以辨认的。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那只鸟拍打着翅膀。 Based on the previous passage, choose the most reasonable effect.\nA:它产卵了。\nB:它向上上升。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我把车停在车道上。 Based on the previous passage, choose the most reasonable cause.\nA:车库是开着的。\nB:车库满了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n罪犯用枪瞄准他的受害者。 Based on the previous passage, choose the most reasonable effect.\nA:罪犯放下了枪。\nB:受害者举起双手。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我期待着周末。 Based on the previous passage, choose the most reasonable cause.\nA:我计划参加我叔叔的葬礼。\nB:我计划参加我朋友的婚礼。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我忘记了时间。 Based on the previous passage, choose the most reasonable cause.\nA:我在做白日梦。\nB:我恶心。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n文件打印出来后不可辨认。 Based on the previous passage, choose the most reasonable cause.\nA:打印机墨水不足。\nB:印刷品没有纸了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n体育场奏起了国歌。 Based on the previous passage, choose the most reasonable effect.\nA:球迷们转向国旗。\nB:球迷们冲了场。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n蘸料尝起来很平淡。 Based on the previous passage, choose the most reasonable effect.\nA:我把它端上桌。\nB:我放了盐。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我把纸巾放在溢出处。 Based on the previous passage, choose the most reasonable effect.\nA:毛巾吸收了液体。\nB:溢出物留下了粘性残留物。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那个女人在看书时被打断了。 Based on the previous passage, choose the most reasonable effect.\nA:她在那页放上了书签。\nB:她重读了这本书。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n飞机遇上了一些湍流。 Based on the previous passage, choose the most reasonable effect.\nA:那人系紧了安全带。\nB:那人向窗外望去。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n男孩退缩了。 Based on the previous passage, choose the most reasonable cause.\nA:女孩不理他。\nB:女孩戳了他。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n医生给了病人一个假肢。 Based on the previous passage, choose the most reasonable cause.\nA:他们截肢了她的腿。\nB:他们监控着她的生命体征。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n男孩捏了女孩的肘部。 Based on the previous passage, choose the most reasonable effect.\nA:她耸了耸肩膀朝他。\nB:她猛地把手臂从他身上拉开。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我向朋友请教。 Based on the previous passage, choose the most reasonable cause.\nA:我重视他的意见。\nB:我知道我是对的。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n男孩踩在泥里。 Based on the previous passage, choose the most reasonable effect.\nA:泥粘在他的鞋子上。\nB:泥浆溅到了他的脸。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n这个镇下了几英寸的雪。 Based on the previous passage, choose the most reasonable effect.\nA:学校停课了。\nB:人们躲在地下。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n员工的轮班结束。 Based on the previous passage, choose the most reasonable effect.\nA:他回家过一天。\nB:他威胁要辞职。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n树损坏了房子。 Based on the previous passage, choose the most reasonable cause.\nA:树倒在屋顶上。\nB:树在后院被荫覆盖。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n木头劈成两半。 Based on the previous passage, choose the most reasonable cause.\nA:我把木头堆在壁炉里。\nB:我挥斧头砍到木头里。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n家人向这对夫妇表示祝贺。 Based on the previous passage, choose the most reasonable cause.\nA:这对夫妇宣布他们要分居了。\nB:这对夫妇宣布他们要生孩子了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那个女孩给男孩送了个情人节礼物。 Based on the previous passage, choose the most reasonable cause.\nA:她喜欢他。\nB:她吻了他。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我对我的朋友的陈述点头。 Based on the previous passage, choose the most reasonable cause.\nA:我很困惑。\nB:我同意他。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n朋友们掷硬币。 Based on the previous passage, choose the most reasonable cause.\nA:他们想找到一个妥协。\nB:他们想做出一个公平的决定。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n厨房的计时器熄了。 Based on the previous passage, choose the most reasonable effect.\nA:那人把杂货卸到冰箱里。\nB:那人把披萨从烤箱里拿出来。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n这个女人设定了一个雄心勃勃的目标。 Based on the previous passage, choose the most reasonable effect.\nA:她松懈下来。\nB:她工作很努力。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那个有钱人因年老而死。 Based on the previous passage, choose the most reasonable effect.\nA:他的儿子惹上了法律麻烦。\nB:他的儿子继承了他的财产。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那女人踩着火焰。 Based on the previous passage, choose the most reasonable effect.\nA:火焰熄火了。\nB:烟雾从火焰中冒出来。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那个女人的车在商店里。 Based on the previous passage, choose the most reasonable cause.\nA:她的驾驶执照被吊销了。\nB:她出了车祸。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我睡过了闹钟。 Based on the previous passage, choose the most reasonable effect.\nA:我做了早餐。\nB:我错过了早餐。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n公众人物从豪华轿车里出来。 Based on the previous passage, choose the most reasonable effect.\nA:照相机朝他的方向闪着闪光灯。\nB:他的家人出席了记者招待会。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那女人在浴缸里逗留。 Based on the previous passage, choose the most reasonable effect.\nA:洗澡水变得很微温。\nB:洗澡水从浴缸里流出。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n这个大学生想在校园里认识其他学生。 Based on the previous passage, choose the most reasonable effect.\nA:他加入了一个兄弟会。\nB:他主修工程学。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我抬起沙发垫子。 Based on the previous passage, choose the most reasonable cause.\nA:我在寻找零钱。\nB:我正在重新布置客厅。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n黄蜂飞向男孩。 Based on the previous passage, choose the most reasonable effect.\nA:男孩跑了。\nB:男孩摘了一朵花。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n这名妇女被判犯有轻罪。 Based on the previous passage, choose the most reasonable effect.\nA:她被判从事社区服务。\nB:她被关在死囚牢房里。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我把糖搅拌到热茶里。 Based on the previous passage, choose the most reasonable effect.\nA:茶蒸了。\nB:糖溶解了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n老兵走路一跛一拐。 Based on the previous passage, choose the most reasonable cause.\nA:他被征召参战。\nB:他在战斗中受伤了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n罪犯从警察身边逃走了。 Based on the previous passage, choose the most reasonable effect.\nA:警察照顾了受害者。\nB:警察追赶罪犯。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n笔记本电脑无法打开。 Based on the previous passage, choose the most reasonable cause.\nA:我掉了。\nB:我给它充了电。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那女人的衣橱没有空间了。 Based on the previous passage, choose the most reasonable cause.\nA:她买了一个宽敞的衣柜。\nB:她把洗好的衣服折起来。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那人很伤心。 Based on the previous passage, choose the most reasonable cause.\nA:他的妻子生了孩子。\nB:他的妻子离开了他。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那人获得了学位。 Based on the previous passage, choose the most reasonable effect.\nA:他有资格胜任他想要的工作。\nB:他的工作机会被撤销了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那人的声音在礼堂里清晰可见。 Based on the previous passage, choose the most reasonable cause.\nA:他向观众致意。\nB:他讲了话筒。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我把一枚硬币扔进喷泉里。 Based on the previous passage, choose the most reasonable effect.\nA:硬币沉到底部。\nB:硬币折断成一半了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n球员把球打向洞。 Based on the previous passage, choose the most reasonable effect.\nA:球进了洞。\nB:球退回到球员那儿。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我在阁楼的灰尘中呼吸。 Based on the previous passage, choose the most reasonable effect.\nA:我打嗝了。\nB:我打喷嚏。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n商店收银员叫保安。 Based on the previous passage, choose the most reasonable cause.\nA:顾客使用假币。\nB:客户没关前灯。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我把垃圾拿出来。 Based on the previous passage, choose the most reasonable cause.\nA:垃圾使厨房闻起来难闻。\nB:我不小心扔掉了我的购物清单。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n一家人去了动物园。 Based on the previous passage, choose the most reasonable effect.\nA:孩子们赞叹动物。\nB:孩子们追逐动物。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那人的呼吸很响。 Based on the previous passage, choose the most reasonable cause.\nA:他的肾衰竭了。\nB:他的肺充血了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我有一张音乐会的票。 Based on the previous passage, choose the most reasonable effect.\nA:我向我的朋友询问去会场的方向。\nB:我问我的朋友他是否有兴趣去。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n房子里的空调坏了。 Based on the previous passage, choose the most reasonable effect.\nA:我拿出了毯子。\nB:我打开了窗户。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n男孩的背部疼痛。 Based on the previous passage, choose the most reasonable cause.\nA:他的背包是开着的。\nB:他的背包很重。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我给妈妈买了一件礼物。 Based on the previous passage, choose the most reasonable cause.\nA:我给她烤了个蛋糕。\nB:那是她的生日。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n花园里的水仙花被毁坏了。 Based on the previous passage, choose the most reasonable cause.\nA:一条蜜蜂刺伤了园丁。\nB:松鼠挖出了它的根。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我点了根火柴。 Based on the previous passage, choose the most reasonable effect.\nA:火焰熄灭了。\nB:火柴产生了火焰。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n争议双方达成和解。 Based on the previous passage, choose the most reasonable cause.\nA:他们不想在法庭上辩论。\nB:他们想修复他们的个人关系。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n孩子们被送到孤儿院。 Based on the previous passage, choose the most reasonable cause.\nA:他们的父母死了。\nB:他们的父母宠坏了他们。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n一块陨石落在了海里。 Based on the previous passage, choose the most reasonable effect.\nA:海啸发生了。\nB:开始下冰雹。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n徒步旅行者遇到了一条毒蛇。 Based on the previous passage, choose the most reasonable effect.\nA:她脱水了。\nB:她惊慌失措。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n烤箱变热了。 Based on the previous passage, choose the most reasonable cause.\nA:我把烤箱打开。\nB:我把盘子放在烤箱里。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我挤压了柠檬楔子。 Based on the previous passage, choose the most reasonable effect.\nA:柠檬发霉了。\nB:柠檬喷出。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n这个国家发现了新的土地。 Based on the previous passage, choose the most reasonable effect.\nA:这个国家放弃了这块土地。\nB:这个国家殖民了这片土地。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n玻璃杯从桌子上掉下来。 Based on the previous passage, choose the most reasonable effect.\nA:它碎了一地。\nB:它落在一堆衣服上。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n桌子摇晃着。 Based on the previous passage, choose the most reasonable cause.\nA:地板不平。\nB:地板很滑。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n父亲发现他的儿子在撒谎。 Based on the previous passage, choose the most reasonable effect.\nA:他的儿子承认了真相。\nB:父亲信任他的儿子。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那人的头因疼痛而颤动。 Based on the previous passage, choose the most reasonable effect.\nA:他服用了咳嗽糖浆。\nB:他服用了阿司匹林。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n火车慢下来了。 Based on the previous passage, choose the most reasonable cause.\nA:它正接近车站。\nB:它落后于计划。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那人接受了治疗。 Based on the previous passage, choose the most reasonable cause.\nA:他的家族有精神病史。\nB:他被诊断患有抑郁症。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那女人抓住她的喉咙。 Based on the previous passage, choose the most reasonable cause.\nA:她吞下了她的食物。\nB:她被食物呛住了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那女人嗓子疼。 Based on the previous passage, choose the most reasonable effect.\nA:她的声音听起来很刺耳。\nB:她说话带有口音。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n狗看着桌上多汁的牛排。 Based on the previous passage, choose the most reasonable effect.\nA:它流口水。\nB:它躺下了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n这个女人的生意成功了。 Based on the previous passage, choose the most reasonable effect.\nA:她解雇了她的员工。\nB:她变得富有了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n学生们离开了教室。 Based on the previous passage, choose the most reasonable cause.\nA:铃响了。\nB:老师布置了作业。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那个女人声称她看见了鬼。 Based on the previous passage, choose the most reasonable effect.\nA:她的熟人表示怀疑。\nB:她的熟人理解她。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那人失去了听力。 Based on the previous passage, choose the most reasonable cause.\nA:他差点淹死在海里。\nB:他差点在爆炸中丧生。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n孩子放开气球串。 Based on the previous passage, choose the most reasonable effect.\nA:气球放气了。\nB:气球升到空中。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那人失去了说话的能力。 Based on the previous passage, choose the most reasonable cause.\nA:他中风了。\nB:他深吸了一口气。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那女人在人行道上绊倒了。 Based on the previous passage, choose the most reasonable cause.\nA:水泥有裂缝。\nB:她听到她的名字被叫了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那人加农炮式跳入了池子。 Based on the previous passage, choose the most reasonable effect.\nA:救生员在他之后跳了进来。\nB:那人把救生员浸湿了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我服用了抗生素。 Based on the previous passage, choose the most reasonable effect.\nA:我的感染已经清除了。\nB:我的感染蔓延了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n交通灯变黄了。 Based on the previous passage, choose the most reasonable effect.\nA:司机踩了刹车。\nB:司机按响了喇叭。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n塑料容器融化了。 Based on the previous passage, choose the most reasonable cause.\nA:我把容器浸泡在温水中。\nB:我把容器放在热炉子上。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n汽车凹陷了。 Based on the previous passage, choose the most reasonable cause.\nA:司机撞到了电线杆上。\nB:司机闯了红灯。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n这个男孩通宵学习。 Based on the previous passage, choose the most reasonable effect.\nA:他跳过了考试。\nB:他通过了考试。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n小男孩紧紧抓住池子边缘。 Based on the previous passage, choose the most reasonable cause.\nA:他害怕学习游泳。\nB:救生员在值班。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我把手放在胸前。 Based on the previous passage, choose the most reasonable effect.\nA:我感觉到我的心跳。\nB:我的心率加快了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我办公室旁边的大楼正在建设中。 Based on the previous passage, choose the most reasonable effect.\nA:我的办公室很拥挤。\nB:我的办公室很吵。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n这个家庭想了解他们的新邻居。 Based on the previous passage, choose the most reasonable effect.\nA:一家人邀请邻居过来吃饭。\nB:一家人从院子里向邻居们挥手致意。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n水从水池里溅起来。 Based on the previous passage, choose the most reasonable cause.\nA:游泳者跳进游泳池。\nB:游泳者在游泳池里漂浮。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我咬了一片西瓜。 Based on the previous passage, choose the most reasonable effect.\nA:我不小心吞下了一颗种子。\nB:我不小心咬破了牙齿。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n男孩被绊倒了。 Based on the previous passage, choose the most reasonable cause.\nA:他的夹克被解开了。\nB:他的鞋带解开了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那女人把耳塞插了。 Based on the previous passage, choose the most reasonable cause.\nA:她被噪音分散了注意力。\nB:她的耳朵被刺穿了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我重新加了水瓶。 Based on the previous passage, choose the most reasonable cause.\nA:我喝了它里所有的水。\nB:我把它放在冰箱里了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n这个电视节目受到审查。 Based on the previous passage, choose the most reasonable cause.\nA:它包含粗俗的语言。\nB:它有一个复杂的情节。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n船失事了。 Based on the previous passage, choose the most reasonable effect.\nA:船员们淹死了。\nB:船员们遇到了海盗。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n男孩被这个谜语难住了。 Based on the previous passage, choose the most reasonable effect.\nA:他解开了谜语。\nB:他要求一个提示。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n电话铃响了。 Based on the previous passage, choose the most reasonable effect.\nA:那人挂断了电话。\nB:那人拿起电话。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那个女人盯着我看。 Based on the previous passage, choose the most reasonable effect.\nA:我拥抱了她。\nB:我感觉不舒服。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n这群人离开了博物馆。 Based on the previous passage, choose the most reasonable cause.\nA:他们拍了展品的照片。\nB:他们看了所有的展品。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那人和我争吵了。 Based on the previous passage, choose the most reasonable effect.\nA:我的朋友把我介绍给那个人。\nB:我的朋友支持我。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我自行车上的轮胎没气了。 Based on the previous passage, choose the most reasonable effect.\nA:我把空气注入轮胎里。\nB:我换了自行车上的齿轮。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n女孩脸色苍白。 Based on the previous passage, choose the most reasonable effect.\nA:她父亲给她读了一个故事。\nB:她的父亲感觉了下她的额头。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n钢笔墨水用完了。 Based on the previous passage, choose the most reasonable effect.\nA:我用了一支铅笔。\nB:我签了名。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那人被拒绝贷款。 Based on the previous passage, choose the most reasonable cause.\nA:他负债累累。\nB:他开始做生意。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那个女孩放学后呆在家里。 Based on the previous passage, choose the most reasonable cause.\nA:她有水痘。\nB:她喜欢学数学。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n垃圾袋装满了。 Based on the previous passage, choose the most reasonable effect.\nA:我把它带到垃圾箱里。\nB:我把它扔到水槽里了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我把地毯吸了个尘。 Based on the previous passage, choose the most reasonable cause.\nA:我的室友大打出手。\nB:我的狗掉毛了。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那人发脾气了。 Based on the previous passage, choose the most reasonable effect.\nA:他关掉了电脑。\nB:他把一把椅子扔过房间。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那女孩把一根树枝扔进篝火里。 Based on the previous passage, choose the most reasonable effect.\nA:树枝烧焦了。\nB:火熄火了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那人从淋浴里出来。 Based on the previous passage, choose the most reasonable cause.\nA:热水没了。\nB:他找不到毛巾。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n父母希望他们的孩子上大学。 Based on the previous passage, choose the most reasonable effect.\nA:他们拨出一个储蓄基金作为学费。\nB:他们鼓励他们的孩子在外面玩。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那人解开了鞋子。 Based on the previous passage, choose the most reasonable effect.\nA:鞋子松了。\nB:鞋子穿破了。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那人吃了一半的主菜。 Based on the previous passage, choose the most reasonable effect.\nA:他把剩菜冷藏。\nB:他保存了食谱。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我的脚踝肿了。 Based on the previous passage, choose the most reasonable effect.\nA:我冰上放了冰。\nB:我擦了洗液。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n我的办公室门是开着的。 Based on the previous passage, choose the most reasonable effect.\nA:我在办公桌前和同事交谈。\nB:我无意中听到大厅里的谈话。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我不得不排队等候。 Based on the previous passage, choose the most reasonable effect.\nA:我坐了下来。\nB:我浏览了一本杂志。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那人向苍蝇用力击打。 Based on the previous passage, choose the most reasonable effect.\nA:苍蝇嗡嗡飞走。\nB:苍蝇静止不动。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那人写了一份遗嘱。 Based on the previous passage, choose the most reasonable cause.\nA:他快死了。\nB:他是个寡妇。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n赛跑者感觉到他的竞争对手在逼近。 Based on the previous passage, choose the most reasonable effect.\nA:他退出了比赛。\nB:他加快了步伐。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n我仔细考虑了这个问题。 Based on the previous passage, choose the most reasonable effect.\nA:我征求了意见。\nB:我想出了一个解决办法。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n旅行者走在摇摇欲坠的吊桥上。 Based on the previous passage, choose the most reasonable effect.\nA:他感到害怕。\nB:他欣喜若狂。\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\n那人预料到球队会获胜。 Based on the previous passage, choose the most reasonable effect.\nA:他会见了他的朋友看比赛。\nB:他和朋友们打赌。\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\n那男孩睡不着。 Based on the previous passage, choose the most reasonable effect.\nA:他把闹钟定了。\nB:他数着羊。\n\nAnswer:\n",
+        "output": "B"
+    }
+]

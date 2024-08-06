@@ -1,0 +1,2002 @@
+[
+    {
+        "input": "Question:\nสิ่งของถูกห่อไว้ในพลาสติก Based on the previous passage, choose the most reasonable effect.\nA:มันบอบบาง\nB:มันเล็ก\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันเอาของออกจากกระเป๋า Based on the previous passage, choose the most reasonable effect.\nA:ฉันหาขั้วตั๋ว\nB:ฉันเจออาวุธ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nปลวกกินบ้าน Based on the previous passage, choose the most reasonable effect.\nA:ปลวกหายไปจากบ้าน\nB:ปลวกกินไม้ในบ้าน\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nนักท่องเที่ยวเดินทางถึงชายแดน Based on the previous passage, choose the most reasonable effect.\nA:ผู้ตรวจด่านตรวจหนังสือเดินทางของเขา\nB:ผู้ตรวจด่านกล่าวหาว่าเขาแอบนำของออกมา\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nที่ทำงานปิด Based on the previous passage, choose the most reasonable effect.\nA:มันคือวันหยุด\nB:มันเป็นฤดูร้อน\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเด็กผู้หญิงหมดแรง Based on the previous passage, choose the most reasonable effect.\nA:เขาเล่นหมากรุก\nB:เขากระโดดเชือก\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้หญิงเสียที่ในคิว Based on the previous passage, choose the most reasonable effect.\nA:มีคนเข้าคิวมากขึ้น\nB:เขาเดินออกนอกคิวไป\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเด็กผู้หญิงบีบจมูก Based on the previous passage, choose the most reasonable effect.\nA:ทารกนํ้าหลายไหลใส่ผ้ากันเปื้อน\nB:ทารกทำผ้าอ้อมเลอะ\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nวงดนตรีเล่นเพลงดัง Based on the previous passage, choose the most reasonable effect.\nA:คนดูตบมือตาม\nB:คนดูนั่งฟังด้วยมารยาท\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเด็กผู้หญิงอยากจะขอบคุณครูคณิตศาสตร์ Based on the previous passage, choose the most reasonable effect.\nA:เด็กผู้หญิงโดนทำโทษหลังเลืกเรียน\nB:เด็กผู้หญิงเอาแอปเปิ้ลให้คุณครู\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nนักเดินทางรู้สึกกลัว Based on the previous passage, choose the most reasonable effect.\nA:ค่ายของเขาเล่าเรื่องผีให้ฟัง\nB:พวกเขาย่างขนมบนกองไฟ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้ชายกระแทกศีรษะของเขา Based on the previous passage, choose the most reasonable effect.\nA:เขาใจลอย\nB:สมองเขากระทบกระเทือน\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเช็คที่ฉันเขียนเด้ง Based on the previous passage, choose the most reasonable effect.\nA:บัญชีธนาคารของฉันไม่มีเงิน\nB:ฉันได้รับการขึ้นเงินเดือน\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nอีเมล์ของผู้ชายเต็มไปด้วยเมล์ขยะ Based on the previous passage, choose the most reasonable effect.\nA:เขาลบมันออก\nB:เขาส่งเมล์ไปให้หลายคน\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nกะลาสีเรือถูกกักกันโรค Based on the previous passage, choose the most reasonable effect.\nA:เขาเคยเข้าใกล้พื้นที่เสี่ยงโรค\nB:เขาหายจากโรค\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเด็กผู้หญิงจำรหัสลับ Based on the previous passage, choose the most reasonable effect.\nA:เขาท่องจำมัน\nB:เขาลืมจดมันลง\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันเทนํ้าลงในแก้ว Based on the previous passage, choose the most reasonable effect.\nA:นํ้าดับความกระหายของฉัน\nB:แก้วถูกเติมเต็ม\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้ชายยังเงียบหลังจากเพื่อนของเขาพูดจบแล้ว Based on the previous passage, choose the most reasonable effect.\nA:เขาต้องการที่จะสนับสนุนเพื่อนเขา\nB:เขาคิดถึงคำพูดของเพื่อนเขา\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nอุบัติเหตุเป็นความผิดของฉัน Based on the previous passage, choose the most reasonable effect.\nA:ฉันรู้สึกผิด\nB:ฉันจะแจ้งความ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nโซ่หลุดออกจากกัน Based on the previous passage, choose the most reasonable effect.\nA:โซ่ถูกพันไว้รอบล้อรถ\nB:ข้อโซ่หนึ่งข้อหลุดออก\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nคู่รักตัดสินใจที่จะประนีประนอม Based on the previous passage, choose the most reasonable effect.\nA:พวกเขาเหนื่อยที่จะเถียงกัน\nB:พวกเขาเลี่ยงที่จะไม่พูดถึงปัญหา\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้หญิงตัดสินใจที่จะลงเลือกตั้ง Based on the previous passage, choose the most reasonable effect.\nA:เขาจ้างผู้จัดการหาเสียง\nB:เขาให้ปากคำในศาล\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้ชายเตรียมตัวรับมือกับความหนาว Based on the previous passage, choose the most reasonable effect.\nA:เขาเตรียมเสื้อหนาวเอาไว้\nB:เขาเดินทางกับกระเป๋าใบใหญ่\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเด็กนักเรียนรู้คำตอบ Based on the previous passage, choose the most reasonable effect.\nA:เขายกมือขึ้น\nB:เขาเกิดขี้เกียจ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้ชายนํ้าตาไหล Based on the previous passage, choose the most reasonable effect.\nA:ฝุ่นเข้าตาเขา\nB:เขาใส่แว่นตากัน\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nนักกีฬาชนะห้าเกมติดต่อกัน Based on the previous passage, choose the most reasonable effect.\nA:คู่แข่งของเขากล่าวหาว่าเขาโกง\nB:คู่แข่งของเขารู้สึกเสียใจ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nครูฉีกกระดาษข้อสอบนักเรียนทิ้ง Based on the previous passage, choose the most reasonable effect.\nA:เขาพบว่านักเรียนโกงข้อสอบ\nB:คำตอบของนักเรียนผิด\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันหยุดที่จะคิด Based on the previous passage, choose the most reasonable effect.\nA:เสียงฉันหาย\nB:ฉันหายใจไม่ทัน\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nอาหารแช่แข็งละลายแล้ว Based on the previous passage, choose the most reasonable effect.\nA:ฉันเอามันใส่ในเตาอบ\nB:ฉันห่อมันด้วยถุงพลาสติก\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nพนักงานแกล้งป่วย Based on the previous passage, choose the most reasonable effect.\nA:เขาปวดท้อง\nB:เขาต้องการวันหยุด\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเด็กผู้หญิงพุ่งลงไปในสระนํ้า Based on the previous passage, choose the most reasonable effect.\nA:เขาวิ่งบนขอบสระ\nB:เขากระโดดจากที่กระโดด\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nตั๋วภาพยนตร์ขายหมด Based on the previous passage, choose the most reasonable effect.\nA:มันเป็นวันปฐมทัศน์\nB:ภาพยนตร์ได้การตอบรับที่ไม่ดี\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้ชายนํ้าหนักลด Based on the previous passage, choose the most reasonable effect.\nA:คนทอดทิ้งเขา\nB:คนชมเขา\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nมือเด็กผู้หญิงถลอก Based on the previous passage, choose the most reasonable effect.\nA:เขาพิมพ์จดหมาย\nB:เขาปืนด้วยเชือก\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nคนแสดงในละครสัตว์เล่นกลขณะขี่จักรยาน Based on the previous passage, choose the most reasonable effect.\nA:คนดูดูด้วยความทึ่ง\nB:นักกายกรรมโหนจากจั่ว\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันควบคุมอารมณ์ไม่อยู่ Based on the previous passage, choose the most reasonable effect.\nA:เพื่อนของฉันทำให้ฉันรอ\nB:เพื่อนฉันถึงตรงเวลา\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nประเทศที่ขัดแย้งต้องการสันติภาพ Based on the previous passage, choose the most reasonable effect.\nA:พวกเขาพัฒนาอาวุธนิวเคลียร์\nB:พวกเขาต่อรองสนธิสัญญา\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้ชายกินยานอนหลับ Based on the previous passage, choose the most reasonable effect.\nA:เขาง่วง\nB:เขามีไข้\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้หญิงชนโซฟา Based on the previous passage, choose the most reasonable effect.\nA:ขาโซฟาหลุด\nB:เข่าของเขาปวม\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเด็กผู้ชายบีบลูกโป่ง Based on the previous passage, choose the most reasonable effect.\nA:ลูกโป่งแตก\nB:ลูกโป่งลอยไป\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nนักท่องเที่ยวเข้าห้องเขา Based on the previous passage, choose the most reasonable effect.\nA:พวกเขาเอาของออกจากกระเป๋า\nB:พวกเขาไปสนามบิน\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันกัดลูกพีช Based on the previous passage, choose the most reasonable effect.\nA:ลูกพีชชํ้า\nB:นํ้าของมันกระเด็นออกมา\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nมือของฉันเหนียว Based on the previous passage, choose the most reasonable effect.\nA:ฉันกินโดนัท\nB:ฉันชอบกินของหวาน\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันผลักประตู Based on the previous passage, choose the most reasonable effect.\nA:ประตูเปิด\nB:ประตูล็อค\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nนักประท้วงควํ่าบาตรผลิตภัณฑ์ Based on the previous passage, choose the most reasonable effect.\nA:ผลิตภัณฑ์ถูกตรวจเพื่อคุณภาพ\nB:ผลิตภัณฑ์ถูกผลิตโดยแรงงานเด็ก\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันเจาะรูในกําแพง Based on the previous passage, choose the most reasonable effect.\nA:หนูคลานออกมาจากรู\nB:ฝุ่นออกมาจากรู\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้หญิงอิจฉาพี่สาวของเขา Based on the previous passage, choose the most reasonable effect.\nA:พี่สาวของเขามีความสุข\nB:พี่สาวของเขาหย่า\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันทำไวน์หกใส่เสื้อ Based on the previous passage, choose the most reasonable effect.\nA:ฉันใส่ผ้ากันเปื้อน\nB:ฉันเปลี่ยนเสื้อ\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nแคชเชียร์เปิดลิ้นชักเก็บเงิน Based on the previous passage, choose the most reasonable effect.\nA:ลูกค้าหากระเป๋าสตางค์\nB:ลูกค้ายื่นเงินให้\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nนักดนตรีบนถนนเรียกผู้ชม Based on the previous passage, choose the most reasonable effect.\nA:คนให้เงินเขา\nB:เขาไล่คนไป\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเด็กเล็กร้องไห้กับพี่เลี้ยงของเขา Based on the previous passage, choose the most reasonable effect.\nA:เขาคิดถึงพ่อแม่\nB:มันเป็นเวลาอาหารว่าง\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเรดาร์ของนักบินจับสัญญาณพายุได้ Based on the previous passage, choose the most reasonable effect.\nA:นักบินขับเครื่องเลี่ยงพายุ\nB:นักบินพาเครื่องบินฝ่าพายุ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nต้นไม้ผลัดใบ Based on the previous passage, choose the most reasonable effect.\nA:ใบไม้เปลี่ยนสี\nB:ใบใม้ตกมารวมกันบนพื้น\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเด็กผู้ชายกำลังซน Based on the previous passage, choose the most reasonable effect.\nA:เขาตัดสินในเล่นไพ่กับพี่สาว\nB:เขาตัดสินใจว่าจะแกล้งพี่สาว\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเด็กผู้ชายร้องที่จะไปห้องนํ้า Based on the previous passage, choose the most reasonable effect.\nA:พ่อของเขาให้นํ้าหวานเขาดื่ม\nB:พ่อของเขาหยุดรถที่สถานีบริการ\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเด็กโรยอาหารปลาลงบ่อนํ้า Based on the previous passage, choose the most reasonable effect.\nA:ปลากระโดดออกจากบ่อ\nB:ปลาว่ายเข้าไปหาอาหาร\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nทัศนคติทางด้านการเมืองของผู้หญิงเปลี่ยน Based on the previous passage, choose the most reasonable effect.\nA:เขาเปลี่ยนพรรคการเมือง\nB:เขาได้ลงไปประท้วง\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nท่อนํ้าห้องนํ้าตัน Based on the previous passage, choose the most reasonable effect.\nA:ฉันเปิดก๊อกนํ้า\nB:ฉันเทยาล้างท่อลงไป\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้โดยสารลงจากรถไฟ Based on the previous passage, choose the most reasonable effect.\nA:รถไฟถึงสถานีแล้ว\nB:รถไฟส่งเสียงหวูด\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้ชายกดลงไปบนกาวของซองจดหมาย Based on the previous passage, choose the most reasonable effect.\nA:เขาติดแสตมป์ลงบนซองจดหมาย\nB:เขาปิดซองจดหมาย\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเพื่อนไม่ได้ติดต่อกัน Based on the previous passage, choose the most reasonable effect.\nA:เขาเคยชอบอยู่ด้วยกัน\nB:เขาย้ายไปอยู่เมืองอื่น\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nพนักงานบัญชีบริหารการเงินของบริษัทผิดพลาด Based on the previous passage, choose the most reasonable effect.\nA:เขาถูกไล่ออก\nB:เขาลาคลอด\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันดูนาฬิกา Based on the previous passage, choose the most reasonable effect.\nA:ฉันได้ยินนาฬิกาเดิน\nB:ฉันไปดูเวลา\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nมือของฉันเป็นตะคริว Based on the previous passage, choose the most reasonable effect.\nA:ฉันเขียนบทความด้วยมือ\nB:ฉันจับมือภรรยา\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nน็อตถูกขันแน่น Based on the previous passage, choose the most reasonable effect.\nA:ฉันเปลี่ยนน็อต\nB:ฉันบิดประแจ\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nหญิงชายคู่หนึ่งเซ็นสัญญาเช่าห้อง Based on the previous passage, choose the most reasonable effect.\nA:คู่หญิงชายย้ายเข้าไปในห้อง\nB:ที่ทำการจังหวัดต่อว่าเจ้าของห้อง\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้หญิงนั่งข้างนอกบนระเบียง Based on the previous passage, choose the most reasonable effect.\nA:เขาต้องการดูพระอาทิตย์ตก\nB:เขานึกว่าเขาเห็นฟ้าผ่า\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้ชายใส่เสื้อชูชีพในนํ้า Based on the previous passage, choose the most reasonable effect.\nA:เขาว่ายนํ้าไม่เป็น\nB:นํ้าตื้น\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้หญิงพิมพ์คำผิดในโปรแกรม Based on the previous passage, choose the most reasonable effect.\nA:เขาลบไฟล์ออก\nB:เขากดปุ่มลบ\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเด็กผู้หญิงคุยอวดกับเพื่อนเขา Based on the previous passage, choose the most reasonable effect.\nA:เขาได้คะแนนไม่ดี\nB:เขาชนะการประกวด\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nสนามแฉะ Based on the previous passage, choose the most reasonable effect.\nA:ฝนตกทั้งคืน\nB:มีวัชพืชขึ้นเต็มไปหมด\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้หญิงนอนเพลิน Based on the previous passage, choose the most reasonable effect.\nA:เธอนอนค้างคืนที่โรงแรม\nB:เธอลืมตั้งนาฬิกาปลุก\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้ชายทาครีมกันแดด Based on the previous passage, choose the most reasonable effect.\nA:เขานั่งในร่ม\nB:เขาไปชายหาด\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nนักวิจัยพิสูจน์ทฤษฎีสำเร็จ Based on the previous passage, choose the most reasonable effect.\nA:นักวิจัยล้มทฤษฎี\nB:คนยอมรับทฤษฎี\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nแฟนๆ ในการแข่งขันโห่ Based on the previous passage, choose the most reasonable effect.\nA:การแข่งขันเข้าสู่ช่วงต่อเวลา\nB:กรรมการตัดสินผิด\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันใส่รหัสในล็อค Based on the previous passage, choose the most reasonable effect.\nA:ฉันปิดล็อค\nB:ล็อคเปิด\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nคนเริ่มหนาแน่น Based on the previous passage, choose the most reasonable effect.\nA:พ่อยื่นเงินให้ลูกชาย\nB:พ่อจับมือลูกชายแน่น\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nหิมะปิดทางเข้าบ้าน Based on the previous passage, choose the most reasonable effect.\nA:ฉันควักเอาหิมะมาปั้นเป็นก้อน\nB:ฉันโกยหิมะออกจากทางเข้าบ้าน\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nนักพายเรือจ้วงฝีพาย Based on the previous passage, choose the most reasonable effect.\nA:เรือคายัคแล่นเข้าฝั่ง\nB:เรือคายัคปะทะคลื่น\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเด็กหญิงเสียการควบคุมจักรยาน Based on the previous passage, choose the most reasonable effect.\nA:เธอปล่อยแฮนด์จักรยาน\nB:เธอพุ่งเข้าชนรั้ว\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันเปิดพัดลม Based on the previous passage, choose the most reasonable effect.\nA:หยดน้ำพรมลงบนตัวฉัน\nB:ฉันรู้สึกถึงอากาศเย็นพัดผ่านตัว\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nนักเซิร์ฟกลับเข้าชายหาด Based on the previous passage, choose the most reasonable effect.\nA:เขาตัวเปียก\nB:เขาเห็นฉลาม\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันดึงจุกปิดน้ำในอ่างออก Based on the previous passage, choose the most reasonable effect.\nA:น้ำไหลลงท่อจนหมดอ่าง\nB:น้ำกระฉอกลงพื้น\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nสามีรู้สึกผิดที่นอกใจภรรยา Based on the previous passage, choose the most reasonable effect.\nA:เขากล่าวหาว่าเธอคบชู้\nB:เขาสารภาพกับเธอว่าเขาคบชู้\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nหมึกบนโปสเตอร์เลอะกระดาษ Based on the previous passage, choose the most reasonable effect.\nA:ฉันรอให้หมึกแห้ง\nB:ฉันทำน้ำหกใส่โปสเตอร์\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเด็กสะดุ้งตื่นร้องจ้า Based on the previous passage, choose the most reasonable effect.\nA:เขาฝันร้าย\nB:เขาฉี่รดที่นอน\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเด็กชายยกเท้าวางบนโต๊ะ Based on the previous passage, choose the most reasonable effect.\nA:พ่อเขานั่งลงที่โต๊ะ\nB:พ่อเขาสั่งสอนเขา\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเพื่ื่อนหันมาหาฉัน Based on the previous passage, choose the most reasonable effect.\nA:ฉันตะโกนเรียกชื่อเขา\nB:ฉันโบกมือให้เขา\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nรัฐบาลกดขี่ประชาชน Based on the previous passage, choose the most reasonable effect.\nA:ประชาชนปฏิวัติ\nB:ประชาชนลงทะเบียนเลือกตั้ง\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเด็กชายหลงทางในป่า Based on the previous passage, choose the most reasonable effect.\nA:เขาตั้งเต๊นท์\nB:เขาร้องหาคนช่วย\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้หญิงเดินทางไปต่างประเทศ Based on the previous passage, choose the most reasonable effect.\nA:เธออยากเรียนวาดรูป\nB:เธออยากเรียนรู้วัฒนธรรมอื่นๆ\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้ชายอิจฉาเพื่อนร่วมงานเขา Based on the previous passage, choose the most reasonable effect.\nA:เพื่ื่อนร่วมงานเขาได้เลื่อนขั้น\nB:เพื่ื่อนร่วมงานเขาอยู่ทำงานดึก\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้ชายมองเห็นมนุษย์ต่างดาว Based on the previous passage, choose the most reasonable effect.\nA:เขาเห็นภาพหลอน\nB:เขานั่งสมาธิ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผมผุ้ชายเปลี่ยนเป็นสีบลอนด์ Based on the previous passage, choose the most reasonable effect.\nA:เขากัดสีผม\nB:เขาใช้แชมพูสระผม\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nศิลปินสร้างงานใหม่ Based on the previous passage, choose the most reasonable effect.\nA:เธอวิจารณ์งานเก่า\nB:เธอได้แรงบันดาลใจ\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nลูกชายย้ายออกจากบ้าน Based on the previous passage, choose the most reasonable effect.\nA:เขาถูกปลดประจำการจากกองทัพ\nB:เขาจะไปเรียนมหาวิทยาลัย\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nหนังสือร่วงลงมาจากชั้นวางหนังสือ Based on the previous passage, choose the most reasonable effect.\nA:ชั้นวางมีฝุ่นจับ\nB:แผ่นดินไหวสะเทือนชั้นวางหนังสือ\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nไฟฟ้าบ้านฉันดับ Based on the previous passage, choose the most reasonable effect.\nA:ฉันเปิดไฟ\nB:ฉันรีเซ็ตเครื่องตัดไฟ\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเรานั่งรถไฟเหาะ Based on the previous passage, choose the most reasonable effect.\nA:มันดูน่ากลัว\nB:มันดูน่าสนุก\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nข้าวโพดในถุงป๊อปคอร์นเริ่มแตก Based on the previous passage, choose the most reasonable effect.\nA:ฉันเทเนยลงไปในถุง\nB:ฉันเอามันไปอุ่นในไมโครเวฟ\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nต้นไม้โค่นทับสายไฟฟ้า Based on the previous passage, choose the most reasonable effect.\nA:ไฟฟ้าในชุมชนดับ\nB:พยากรณ์อากาศบอกว่าจะมีลมกรรโชกแรง\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้พูดกล่าวคำที่ไม่เหมาะสม Based on the previous passage, choose the most reasonable effect.\nA:เขาทำให้ผู้ชมเบื่อ\nB:เขาทำให้ผู้ชมโกรธ\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันเอาเข็มจิ้มตัวเอง Based on the previous passage, choose the most reasonable effect.\nA:เหงื่อผุดออกมาจากบนหน้าฉัน\nB:หยดเลือดซึมออกมาจากนิ้วฉัน\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nปลาลอยอยู่บนผิวน้ำตู้ปลา Based on the previous passage, choose the most reasonable effect.\nA:มันหิว\nB:มันตายแล้ว\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเสียงผู้ชายแหบ Based on the previous passage, choose the most reasonable effect.\nA:เขาเป็นหวัด\nB:เขาเลิกบุหรี่แล้ว\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nประตูลิฟท์เปิด Based on the previous passage, choose the most reasonable effect.\nA:ลิฟท์ไปยังชั้นที่เลือกไว้\nB:ลิฟท์ติดอยู่ระหว่างชั้น\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nวัยรุ่นแอบหนีออกจากบ้าน Based on the previous passage, choose the most reasonable effect.\nA:เขาโกหกกับพ่อแม่\nB:พ่อแม่กักบริเวณเขา\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nน้ำท่วมห้องน้ำ Based on the previous passage, choose the most reasonable effect.\nA:น้ำในชักโครกล้น\nB:เครื่องทำน้ำร้อนเสีย\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nลูกหมาอยู่ใกล้เจ้าของ Based on the previous passage, choose the most reasonable effect.\nA:เจ้าของใส่ปลอกคอให้ลูกหมา\nB:เจ้าของผูกเชือกลูกหมาเอาไว้\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้ชายสังเกตเห็นเงาสะท้อนตัวเอง Based on the previous passage, choose the most reasonable effect.\nA:เขาอยู่ใต้ต้นไม้ใหญ่\nB:เขายืนอยู่เหนือทะเลสาบน้ำนิ่ง\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันรับโทรศัพท์แฟนไม่ทัน Based on the previous passage, choose the most reasonable effect.\nA:ฉันโทรกลับหาเขา\nB:ฉันนัดเขากินมื้อเย็น\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nครอบครัวตามหาทั่วบริเวณ Based on the previous passage, choose the most reasonable effect.\nA:หมาเขาหนีออกจากบ้าน\nB:เครื่ืองเพชรราคาแพงหายไปจากบ้าน\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันเห็นไอจากลมหายใจตัวเอง Based on the previous passage, choose the most reasonable effect.\nA:อากาศเย็นจัด\nB:ฉันรู้สึกแน่นหน้าอก\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nพนักงานรวมตัวกันเป็นสหภาพ Based on the previous passage, choose the most reasonable effect.\nA:เขาอยากได้สภาพที่ทำงานที่ดีขึ้น\nB:เจ้านายเขาขึ้นเงินเดือนให้\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันอบพายแอปเปิ้ล Based on the previous passage, choose the most reasonable effect.\nA:กลิ่นเน่าคลุ้งเต็มห้องครัว\nB:กลิ่นหอมฟุ้งเต็มห้องครัว\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้หญิงพยายามเดินอย่างยากลำบาก Based on the previous passage, choose the most reasonable effect.\nA:เธอสวมส้นสูง\nB:เธอถอดรองเท้าออก\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nไอน้ำพวยพุ่งขึ้นมาจากหม้อน้ำ Based on the previous passage, choose the most reasonable effect.\nA:น้ำเดือด\nB:ฉันปิดฝาหม้อ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nถุงเท้าฉันซักอยู่ทุกคู่ Based on the previous passage, choose the most reasonable effect.\nA:ฉันใส่รองเท้าแตะ\nB:ฉันใส่รองเท้าบูท\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nประเด็นของนักการเมืองถูกมองว่าไร้สาระ Based on the previous passage, choose the most reasonable effect.\nA:เขาเสียเสียงสนับสนุนจากผู้ลงคะแนน\nB:เขาถูกกล่าวหาว่าคอรัปชั่น\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nทุกคนไม่เห็นด้วยกับการหมั้นของคู่บ่าวสาว Based on the previous passage, choose the most reasonable effect.\nA:คู่บ่าวสาวท้อง\nB:คู่บ่าวสาวหนีตามกัน\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nตึกถูกอุทิศให้แก่เศรษฐี Based on the previous passage, choose the most reasonable effect.\nA:เศรษฐีอยากให้ทุบตึกทิ้ง\nB:เศรษฐีเป็นผู้ร่วมออกเงินสร้างตึก\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nพนักงานขายกล่าวหาว่าเด็กหญิงขโมยของ Based on the previous passage, choose the most reasonable effect.\nA:พนักงานขายเห็นเด็กหญิงหยิบสินค้าใส่กระเป๋าถือตัวเอง\nB:พนักงานขายช่วยเด็กหญิงหากระเป๋าถือที่ชอบ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nประเทศประกาศสงครามกับประเทศเพื่อนบ้าน Based on the previous passage, choose the most reasonable effect.\nA:ทหารถูกส่งไปรบ\nB:ทหารกลับมาพบกับครอบครัว\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nศาลพิพากษายืนตามการตัดสินที่เป็นที่ครหา Based on the previous passage, choose the most reasonable effect.\nA:เกิดเหตุจลาจลหน้าศาลาว่าการ\nB:คู่บ่าวสาวปฏิญาณตนหน้าศาลาว่าการ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเด็กหญิงได้กลิ่นอะไรบางอย่างไหม้ Based on the previous passage, choose the most reasonable effect.\nA:เธอหยิบคุกกี้ออกมาจากโหล\nB:เธอลืมคุกกี้ไว้ในเตาอบ\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฝนตกหนัก Based on the previous passage, choose the most reasonable effect.\nA:พายุโหมหนักขึ้น\nB:ฉันรีบวิ่งเข้าบ้าน\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nคนอพยพออกจากตึก Based on the previous passage, choose the most reasonable effect.\nA:ลิฟท์หยุดทำงาน\nB:สัญญาณเตือนไฟไหม้ดัง\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nพ่อไม่พอใจอาการติดเหล้าของลูกชาย Based on the previous passage, choose the most reasonable effect.\nA:พ่อซื้อเบียร์ให้ลูกชาย\nB:พ่อไล่ลูกชายออกจากบ้าน\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nทนายเดินขึ้นบันไดไปออฟฟิศ Based on the previous passage, choose the most reasonable effect.\nA:เลขานุการกลับบ้านหลังหมดวัน\nB:ลิฟท์เสีย\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้ชายหงุดหงิดเพื่อน Based on the previous passage, choose the most reasonable effect.\nA:เพื่อนขัดคอเขา\nB:เพื่อนเลี้ยงมื้อเที่ยงเขา\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเด็กหญิงยื่นเงินให้แคชเชียร์ Based on the previous passage, choose the most reasonable effect.\nA:แคชเชียร์ให้เงินทอนกับเด็กหญิง\nB:แคชเชียร์ลืมให้ใบเสร็จกับเด็กหญิง\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้หญิงนั่งรถล้อเข็น Based on the previous passage, choose the most reasonable effect.\nA:เธอเป็นอัมพาตจากอุบัติเหตุ\nB:เธอนอนเปลหามมายังโรงพยาบาล\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nประชาชนแขวนธงชาติไว้หน้าบ้าน Based on the previous passage, choose the most reasonable effect.\nA:ประเทศฉลองวันครอบรอบประกาศอิสรภาพ\nB:ประเทศกำลังประสบภาวะเศรษฐกิจฝืดเคือง\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nทีมแพ้ทัวร์นาเมนต์ Based on the previous passage, choose the most reasonable effect.\nA:เขาทำให้แฟนๆ ผิดหวัง\nB:เขาทำให้แฟนๆ มีหวัง\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเพื่อนฉันบอกว่าฉันมีเศษอาหารติดฟัน Based on the previous passage, choose the most reasonable effect.\nA:ฉันรู้สึกอาย\nB:ฉันรู้สึกภูมิใจ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเด็กชายสอบตกวิชาประวัติศาสตร์ Based on the previous passage, choose the most reasonable effect.\nA:เขาตั้งใจเรียน\nB:เขาลืมอ่านหนังสือเรียน\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nตึกกลางเมืองถล่ม Based on the previous passage, choose the most reasonable effect.\nA:แผ่นดินไหวในเมือง\nB:อัตราการเกิดอาชญากรรมในเมืองสูงขึ้น\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nแฟนผู้ชายขอเลิกกับเขา Based on the previous passage, choose the most reasonable effect.\nA:เขาขอร้องให้แฟนกลับมาคืนดี\nB:เธอพาเขาไปทำความรู้จักกับครอบครัว\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเด็กสองคนเอื้อมมือไปหยิบลูกบอลพร้อมกัน Based on the previous passage, choose the most reasonable effect.\nA:ลูกบอลกลิ้งหายไป\nB:หัวเด็กทั้งสองชนกัน\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nแรคคูนคุ้ยถังขยะ Based on the previous passage, choose the most reasonable effect.\nA:มีกระดาษลังอยู่ในถังขยะ\nB:ฝาถังขยะเปิดอยู่\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเด็กชายเหลาดินสอ Based on the previous passage, choose the most reasonable effect.\nA:ดินสอราคาถูก\nB:ดินสอทู่\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nแคชเชียร์ปฏิเสธไม่คืนเงินค่าชุดให้ผู้หญิง Based on the previous passage, choose the most reasonable effect.\nA:เธอทำใบเสร็จหาย\nB:ชุดใส่ไม่พอดี\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nแผลข่วนบนผิวฉันลึก Based on the previous passage, choose the most reasonable effect.\nA:แผลสมานเร็ว\nB:แผลกลายเป็นแผลเป็น\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้ชายถูกผู้โดยสารคนอื่นบนรถไฟมองแปลกๆ Based on the previous passage, choose the most reasonable effect.\nA:เขาก้มมองพื้นอยู่\nB:เขาพูดกับตัวเองอยู่\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเด็กทิ้งเศษขนมไว้บนพื้น Based on the previous passage, choose the most reasonable effect.\nA:มดขึ้นเศษขนม\nB:เด็กชายเอาขนมปังไปเก็บ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้หญิงยื่นกระดาษทิชชู่ให้น้องสาว Based on the previous passage, choose the most reasonable effect.\nA:น้องสาวผู้หญิงกอดอก\nB:น้องสาวผู้หญิงเริ่มร้องไห้\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้ชายอมลูกอม Based on the previous passage, choose the most reasonable effect.\nA:ริมฝีปากเขาแห้งเป็นขุย\nB:เขาเป็นกังวลเรื่องกลิ่นปาก\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nคู่หนุ่มสาวออกจากบ้านเร็วเพื่อไปดูการแสดง Based on the previous passage, choose the most reasonable effect.\nA:เขาคาดว่ารถจะติดรอบๆ โรงละคร\nB:เขาได้เส้นทางไปโรงละคร\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้หญิงอยู่บ้านไม่ไปทำงาน Based on the previous passage, choose the most reasonable effect.\nA:เจ้านายชมเชยเธอ\nB:เพื่อนร่วมงานช่วยทำงานแทนเธอ\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้ชายเซ็นคำร้องของนักรณรงค์ Based on the previous passage, choose the most reasonable effect.\nA:เขาสนับสนุนการกระทำของนักรณรงค์\nB:เขาประณามนักรณรงค์ว่าเป็นคนบ้า\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nนักแสดงใจหายก่อนขึ้นแสดง Based on the previous passage, choose the most reasonable effect.\nA:เขามีอาการตื่นเวที\nB:เขาจำบทพูดตัวเองได้\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันหลงทาง Based on the previous passage, choose the most reasonable effect.\nA:ฉันนับเงินตัวเอง\nB:ฉันคลี่แผนที่ออกดู\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผลไม้สุกงอมอยู่กลางแดด Based on the previous passage, choose the most reasonable effect.\nA:ผลไม้ถูกกิน\nB:ผลไม้เหี่ยว\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nรถเสีย Based on the previous passage, choose the most reasonable effect.\nA:ฉันบิดกุญแจสตาร์ทรถ\nB:เครื่องยนต์ร้อนเกิน\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้ชายปวดหลัง Based on the previous passage, choose the most reasonable effect.\nA:เขาไปพบจิตแพทย์\nB:เขานอนเตียงอยู่หลายวัน\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันจุดไฟในเตาผิง Based on the previous passage, choose the most reasonable effect.\nA:ฉันไม่มีฟืน\nB:ในบ้านมันหนาว\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้หญิงหยุดวิ่ง Based on the previous passage, choose the most reasonable effect.\nA:เธอเป็นตะคริว\nB:เธอมีแรงเฮือกที่สอง\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันเคาะประตูเพื่อนบ้าน Based on the previous passage, choose the most reasonable effect.\nA:เพื่อนบ้านเชิญฉันเข้าบ้าน\nB:เพื่อนบ้านออกไปจากบ้านตัวเอง\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้หญิงถอนหายใจด้วยความหงุดหงิด Based on the previous passage, choose the most reasonable effect.\nA:สามีเธอเข้าใจเจตนาดีของเธอผิด\nB:สามีเธอจูบลาเธอ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nครูชมเชยนักเรียน Based on the previous passage, choose the most reasonable effect.\nA:นักเรียนตอบคำถามถูกต้อง\nB:นักเรียนลังเลที่จะตอบคำถาม\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้หญิงไม่มีไข่เหลือ Based on the previous passage, choose the most reasonable effect.\nA:เธอไปที่ฟาร์ม\nB:เธอไปที่ซูเปอร์มาร์เก็ต\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันพบกับเพื่อนเก่า Based on the previous passage, choose the most reasonable effect.\nA:ฉันบอกความลับให้เขารู้\nB:ฉันกอดเขา\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้หญิงเลี่ยงไม่ลงไปในทะเลสาบ Based on the previous passage, choose the most reasonable effect.\nA:เธอจับปลาได้\nB:ทะเลสาบดูปนเปื้อน\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nนักเรียนมาถึงห้องด้วยตัวเปียกชุ่ม Based on the previous passage, choose the most reasonable effect.\nA:ร่มเขาหัก\nB:จักรยานเขาถูกขโมย\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nลูกศรบนหน้าจอคอมพิวเตอร์ขยับ Based on the previous passage, choose the most reasonable effect.\nA:ผู้ใช้คลิกเมาส์\nB:ผู้ใช้เลื่อนเมาส์\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nคนขับไปทางลัด Based on the previous passage, choose the most reasonable effect.\nA:เกิดอุบัติเหตุบนถนนหลัก\nB:เธอขับตามรถบรรทุกข้างหน้า\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันตากผ้าปูที่นอนเปียกไว้ที่ราวนอกบ้าน Based on the previous passage, choose the most reasonable effect.\nA:ผ้าปูที่นอนแห้ง\nB:ผ้าปูที่นอนเลอะ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้หญิงสวมแว่นกันแดด Based on the previous passage, choose the most reasonable effect.\nA:แสงแดดสว่างจ้า\nB:เธอโบกเรียกแท็กซี่\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้ชายมองดูท้องฟ้ายามกลางคืน Based on the previous passage, choose the most reasonable effect.\nA:เขาอยากให้เป็นฤดูร้อน\nB:เขาคิดว่ามันสวยมาก\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันรู้สึกหมดแรง Based on the previous passage, choose the most reasonable effect.\nA:ฉันเข้านอนเร็ว\nB:ฉันตื่นอยู่ทั้งคืน\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้ชายไปที่ร้านตัดผม Based on the previous passage, choose the most reasonable effect.\nA:เขาจะไว้ผมยาว\nB:ผมเขาเริ่มยาว\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเด็กชายแกล้งเพื่อนร่วมชั้นคนใหม่ Based on the previous passage, choose the most reasonable effect.\nA:เด็กชายต้อนรับเพื่อนร่วมชั้นคนใหม่\nB:เด็กชายไม่ชอบเพื่อนร่วมชั้นคนใหม่\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันอยากดื่มนมแก้วหนึ่ง Based on the previous passage, choose the most reasonable effect.\nA:ฉันกินคุกกี้อยู่\nB:ฉันอบขนมปังอยู่\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฝนเริ่มตก Based on the previous passage, choose the most reasonable effect.\nA:คนขับเปิดไฟหน้า\nB:คนขับเข้าเกียร์ถอยหลัง\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nลานจอดรถหน้าตึกโล่ง Based on the previous passage, choose the most reasonable effect.\nA:ฉันจอดรถฝั่งตรงข้าม\nB:ฉันจอดรถใกล้ทางเข้า\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nนักเขียนพลาดเส้นตายส่งงานร่างแรก Based on the previous passage, choose the most reasonable effect.\nA:เธอสมองตัน\nB:เธอแก้ร่าง\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nพนักงานวางสายใส่ฉัน Based on the previous passage, choose the most reasonable effect.\nA:ฉันขอคุยกับผู้ดูแล\nB:ฉันแจ้งเลขประจำตัวให้เขา\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nลมพัดเข้ามาทางหน้าต่าง Based on the previous passage, choose the most reasonable effect.\nA:เสียงกริ่งประตูดัง\nB:ผ้าม่านปลิว\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nไฟฟ้าในบ้านฉันดับ Based on the previous passage, choose the most reasonable effect.\nA:ฉันดึงปลั๊กโคมไฟออก\nB:ฉันทำฟิวส์ขาด\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nนักยกน้ำหนักคำราม Based on the previous passage, choose the most reasonable effect.\nA:เขาเบ่งกล้ามหน้ากระจก\nB:เขายกคานขึ้นเหนือหัว\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nนักเรียนพยายามคิดเลขในใจ Based on the previous passage, choose the most reasonable effect.\nA:เขาหยิบเครื่องคิดเลขออกมา\nB:เขาสับสน\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเด็กทารกหลับ Based on the previous passage, choose the most reasonable effect.\nA:พ่อเปลี่ยนผ้าอ้อมให้เด็กทารก\nB:พ่อไกวเปลให้เด็กทารกอย่างนุ่มนวล\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเด็กหญิงปาลูกโป่งน้ำใส่เด็กชาย Based on the previous passage, choose the most reasonable effect.\nA:เด็กชายสมองกระทบกระเทือน\nB:เด็กชายตัวเปียกชุ่ม\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nช่างภาพลืมเปิดแฟลชที่กล้อง Based on the previous passage, choose the most reasonable effect.\nA:รูปภาพมัว\nB:ทุกคนในรูปไม่ยอมยิ้ม\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันปฏิเสธคำเชิญไปงานวันเกิด Based on the previous passage, choose the most reasonable effect.\nA:ฉันเหงา\nB:ฉันไปนอกเมือง\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันออกกำลังกาย Based on the previous passage, choose the most reasonable effect.\nA:ฉันรู้สึกมีพลัง\nB:ฉันกลัว\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันบีบฟองน้ำเปียก Based on the previous passage, choose the most reasonable effect.\nA:มันดูดซับน้ำ\nB:น้ำไหลออกมา\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nนักท่องเที่ยวนั่งเรือด่วนไปรีสอร์ท Based on the previous passage, choose the most reasonable effect.\nA:รีสอร์ทถูกจองเต็ม\nB:รีสอร์ทอยู่บนเกาะ\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nวัยรุ่นไปสัก Based on the previous passage, choose the most reasonable effect.\nA:เธอกลัวเข็ม\nB:เธออยากทำตัวขบถ\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nรถไม่คุ้นตาจอดอยู่หน้าบ้านฉัน Based on the previous passage, choose the most reasonable effect.\nA:ฉันระแวง\nB:ฉันโทรเรียกตำรวจ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nอาชญากรเข้ามอบตัว Based on the previous passage, choose the most reasonable effect.\nA:หลักฐานชี้ไปที่เขา\nB:ไม่มีหลักฐานปรักปรำเขา\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nชายอ้วนตัดสินใจลดน้ำหนัก Based on the previous passage, choose the most reasonable effect.\nA:เขาลดของหวาน\nB:เขาเลี่ยงคาเฟอีน\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเด็กหญิงเหยียบน้ำแข็ง Based on the previous passage, choose the most reasonable effect.\nA:เธอลื่น\nB:เธอหนาวสั่น\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้หญิงมีรอยคล้ำใต้ตา Based on the previous passage, choose the most reasonable effect.\nA:เธอไม่นอนทั้งคืน\nB:เธอส่งลูกชายเข้านอน\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nลาวาไหลออกมาจากภูเขาไฟ Based on the previous passage, choose the most reasonable effect.\nA:ภูเขาไฟระเบิด\nB:ภูเขาไฟสงบอยู่\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้หญิงสวมรองเท้า Based on the previous passage, choose the most reasonable effect.\nA:เธอรู้จักทุกคนในงานเลี้ยง\nB:เธออยากไปจากงานเลี้ยง\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันจ่ายเงินให้พนักงานทางด่วน Based on the previous passage, choose the most reasonable effect.\nA:เธอปล่อยให้ฉันผ่านตู้ทางด่วนไปได้\nB:เธอกักฉันไว้ที่ตู้ทางด่วน\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้บริหารล้มละลาย Based on the previous passage, choose the most reasonable effect.\nA:เขาขายหุ้นบริษัท\nB:เขาใช้เงินอย่างสุรุ่ยสุร่าย\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้ชายไปหาหมอ Based on the previous passage, choose the most reasonable effect.\nA:หมอลางานอยู่\nB:ผู้ชายรู้สึกไม่สบาย\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันออกจากห้องนอนทางหน้าต่าง Based on the previous passage, choose the most reasonable effect.\nA:บ้านไฟไหม้\nB:บ้านไม่มีใครอยู่\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nนิ้วเด็กชายเหี่ยว Based on the previous passage, choose the most reasonable effect.\nA:เขาอาบน้ำนาน\nB:เขาถูสบู่จนขึ้นฟอง\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันบ้วนนมออกมา Based on the previous passage, choose the most reasonable effect.\nA:นมมีรสเปรี้ยว\nB:ฉันปากแห้ง\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันพลาดรถเมล์ Based on the previous passage, choose the most reasonable effect.\nA:ฉันไปถึงทีทำงานเร็ว\nB:ฉันไปถึงที่ทำงานสาย\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nรถบรรทุกชนกับรถเก๋ง Based on the previous passage, choose the most reasonable effect.\nA:รถบรรทุกเร่งความเร็ว\nB:รถเก๋งยับเยิน\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nทีมโกงการแข่งขันให้ตนเองได้เปรียบ Based on the previous passage, choose the most reasonable effect.\nA:เขาชนะ\nB:เขายอมแพ้\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nขวดน้ำอัดลมมีเสียงฟู่ Based on the previous passage, choose the most reasonable effect.\nA:ฉันพลิกขวด\nB:ฉันบิดฝาเปิด\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเด็กชายถูกขังอยู่นอกบ้าน Based on the previous passage, choose the most reasonable effect.\nA:เขาคลานเข้าบ้านจากหน้าต่างที่เปิดอยู่\nB:เขาปีนขึ้นไปบนหลังคา\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nกริ่งหน้าประตูดัง Based on the previous passage, choose the most reasonable effect.\nA:แขกเคาะด้วยที่เคาะประตู\nB:ผู้หญิงมองผ่านรูกุญแจประตู\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้ชายทำสูทเลอะ Based on the previous passage, choose the most reasonable effect.\nA:เขาเอาไปซักแห้ง\nB:เขาเอาไปแขวนในตู้เสื้อผ้า\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเด็กหญิงบีบหลอดยาสีฟัน Based on the previous passage, choose the most reasonable effect.\nA:ยาสีฟันทะลักออกมาจากหลอด\nB:เด็กหญิงบ้วนยาสีฟันทิ้ง\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nจำนวนพลเรือนที่เสียชีวิตจากสงครามพุ่งสูง Based on the previous passage, choose the most reasonable effect.\nA:ผู้รักสงบเดินขบวนประท้วง\nB:ผู้รักสงบจัดเดินขบวนพาเหรด\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเด็กหญิงกระชากริบบิ้นออกจากผม Based on the previous passage, choose the most reasonable effect.\nA:เธอผูกริบบิ้น\nB:ริบบิ้นดูเหมือนเด็กเกินไป\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้ชายไปทำศัลยกรรมหน้า Based on the previous passage, choose the most reasonable effect.\nA:เขาอายุมากขึ้น\nB:เขาดูเด็กลง\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nลูกไก่โผล่ออกมาจากไข่ Based on the previous passage, choose the most reasonable effect.\nA:ไข่ฟักออกมา\nB:ฉันตอกไข่\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nนักโทษอดอาหาร Based on the previous passage, choose the most reasonable effect.\nA:เขาตาย\nB:เขาหนีไป\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้ชายเสียการทรงตัวขณะอยู่บนบันได Based on the previous passage, choose the most reasonable effect.\nA:เขาปีนขึ้นบันได\nB:เขาตกบันได\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเด็กเรอ Based on the previous passage, choose the most reasonable effect.\nA:เขาดื่มน้ำอัดลมอึกหนึ่ง\nB:เขาเปิดกระป๋องน้ำอัดลม\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nลมหนาวพัดลอดหน้าต่างเข้ามา Based on the previous passage, choose the most reasonable effect.\nA:ฉันผ่อนคลาย\nB:ฉันหนาวสั่น\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nนักเรียนได้รับทุนศึกษาต่อในมหาวิทยาลัย Based on the previous passage, choose the most reasonable effect.\nA:เพื่อนร่วมชั้นเคารพเธอ\nB:เธอสอบได้คะแนนดี\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเด็กหญิงล้อเด็กชายสนุกๆ Based on the previous passage, choose the most reasonable effect.\nA:เธออยู่ข้างบ้านเขา\nB:เธอแอบชอบเขา\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nคนเร่ร่อนขโมยอาหาร Based on the previous passage, choose the most reasonable effect.\nA:เขาเป็นที่สงสาร\nB:เขาไม่มีเงิน\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันโทรคุยกับเพื่อน Based on the previous passage, choose the most reasonable effect.\nA:ฉันต้องการความเป็นส่วนตัว\nB:ฉันเหงา\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้ชายยื่นมือให้ฉัน Based on the previous passage, choose the most reasonable effect.\nA:ฉันจับมือกับเขา\nB:ฉันตบเขา\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันก้มหลบ Based on the previous passage, choose the most reasonable effect.\nA:พลุถูกจุดขึ้นฟ้า\nB:จานร่อนบินมาทางฉัน\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเด็กหญิงกัดเล็บตัวเอง Based on the previous passage, choose the most reasonable effect.\nA:เธอเป็นกังวล\nB:เธอประหลาดใจ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันพลิกหน้าปฏิทิน Based on the previous passage, choose the most reasonable effect.\nA:ฉันกาวันนัดบนปฏิทิน\nB:เข้าเดือนใหม่\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nสามีพบว่าภรรยาคบชู้ Based on the previous passage, choose the most reasonable effect.\nA:เขาไล่ทนายออก\nB:เขาฟ้องหย่า\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเด็กหญิงปล่อยลูกบอลยางตก Based on the previous passage, choose the most reasonable effect.\nA:ลูกบอลกระเด้ง\nB:ลูกบอลเรืองแสง\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเด็กหญิงทำข้อสอบพลาด Based on the previous passage, choose the most reasonable effect.\nA:เธอเดาคำตอบ\nB:เธอลบคำตอบออก\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้เล่นเข้าสกัดฝ่ายตรงข้าม Based on the previous passage, choose the most reasonable effect.\nA:ฝ่ายตรงข้ามรับลูกได้\nB:ฝ่ายตรงข้ามล้มลง\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันเด็ดมะเขือเทศจากต้น Based on the previous passage, choose the most reasonable effect.\nA:มันสุกแล้ว\nB:ฉันรดน้ำให้มัน\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้ชายต้องการทำตัวโรแมนติก Based on the previous passage, choose the most reasonable effect.\nA:เขานัดกินมื้อเที่ยงกับแฟนเก่า\nB:เขาซื้อช็อคโกแลตให้แฟน\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nปรอทในเทอร์โมมิเตอร์สูงขึ้น Based on the previous passage, choose the most reasonable effect.\nA:ฉันทำเทอร์โมมิเตอร์ตก\nB:อากาศอุ่นขึ้น\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nพายุทอร์นาโดพัดผ่านเมือง Based on the previous passage, choose the most reasonable effect.\nA:หลังคาศาลาว่าการถูกพัดหายไป\nB:ทางหลวงกลายเป็นน้ำแข็งจนอันตราย\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nนักเรียนเรียนพิเศษ Based on the previous passage, choose the most reasonable effect.\nA:คะแนนเขาดีขึ้น\nB:เขาโกงข้อสอบ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันรู้สึกสบายตัว Based on the previous passage, choose the most reasonable effect.\nA:ฉันคุกเข่าลงกับพื้น\nB:ฉันห่อตัวในผ้าห่ม\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันขัดหิน Based on the previous passage, choose the most reasonable effect.\nA:หินลื่นขึ้น\nB:หินกลายเป็นมันเงา\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันเติมน้ำตาลลงในกาแฟ Based on the previous passage, choose the most reasonable effect.\nA:กาแฟกลิ่นแรง\nB:กาแฟมีรสหวาน\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้ชายพลิกดูเอกสาร Based on the previous passage, choose the most reasonable effect.\nA:เขาถูกกระดาษบาด\nB:เขาฉีกกระดาษทิ้ง\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันใช้ค้อนตอกตะปู Based on the previous passage, choose the most reasonable effect.\nA:ตะปูจมลงไปในเนื้อไม้\nB:ตะปูขึ้นสนิม\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nปลากินเบ็ด Based on the previous passage, choose the most reasonable effect.\nA:ชาวประมงลากปลาเข้ามา\nB:ชาวประมงเหวี่ยงเบ็ดใหม่\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nวัยรุ่นอายที่ต้องไปโรงเรียน Based on the previous passage, choose the most reasonable effect.\nA:เธอมีสิว\nB:เธอถอดเหล็กดัดแล้ว\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nหน้าฉันมีประกายขึ้นมา Based on the previous passage, choose the most reasonable effect.\nA:ฉันได้ข่าวดี\nB:ฉันหมดความอดทน\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันเช็ดมือกับผ้าขนหนู Based on the previous passage, choose the most reasonable effect.\nA:ผ้าขนหนูเปียกอยู่\nB:มือฉันเปียกอยู่\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้ชายเสียการทรงตัวขณะอยู่บนเก้าอี้ Based on the previous passage, choose the most reasonable effect.\nA:เก้าอี้โยกเยกอยู่ใต้ตัวเขา\nB:เขาทำสีหกบนเก้าอี้\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเพื่อนร่วมทีมกล่าวโทษกันเอง Based on the previous passage, choose the most reasonable effect.\nA:เขาแพ้การแข่ง\nB:โค้ชสั่งยกเลิกการซ้อม\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันขอให้เขายกโทษให้ Based on the previous passage, choose the most reasonable effect.\nA:ฉันเสียใจกับสิ่งที่ทำพลาดไป\nB:ฉันบรรลุเป้าหมายตัวเอง\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้หญิงเบื่อคู่นัด Based on the previous passage, choose the most reasonable effect.\nA:เขาถามถึงเรื่องของเธอ\nB:เขาพูดเรื่องตัวเองไม่หยุด\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเด็กหญิงยิ้ม Based on the previous passage, choose the most reasonable effect.\nA:แก้มเธอแดงขึ้น\nB:ลักยิ้มเธอปรากฏขึ้น\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเรือข้าศึกระเบิด Based on the previous passage, choose the most reasonable effect.\nA:มันแล่นผ่านกับระเบิด\nB:มันแล่นเข้าเทียบท่า\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้ชายถูกของแหลมตำเท้า Based on the previous passage, choose the most reasonable effect.\nA:เขาเดินย่ำแอ่งน้ำ\nB:เขาเดินย่ำกระจกแตก\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nนักสืบตรวจหาลายนิ้วมือในที่เกิดเหตุ Based on the previous passage, choose the most reasonable effect.\nA:เขาค้นพบตัวฆาตกร\nB:เขาพบอาวุธก่อเหตุในที่เกิดเหตุ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nมีจราจรหนาแน่นบนทางหลวง Based on the previous passage, choose the most reasonable effect.\nA:ฉันไปทางลัด\nB:ฉันโบกรถ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเศรษฐกิจประเทศถดถอย Based on the previous passage, choose the most reasonable effect.\nA:คนจำนวนมากล้มป่วย\nB:คนจำนวนมากตกงาน\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nการ์ดข้ามถนนเป่านกหวีดใส่เด็กๆ Based on the previous passage, choose the most reasonable effect.\nA:เด็กๆ กำลังจะข้ามถนนขณะมีรถ\nB:เธอจำเด็กคนหนึ่งจากแถวบ้านได้\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันกลอกตาใส่เพื่อน Based on the previous passage, choose the most reasonable effect.\nA:เขาบอกความจริงกับฉัน\nB:เขาพูดจาเหน็บแนม\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nรถน้ำมันหมด Based on the previous passage, choose the most reasonable effect.\nA:คนขับติดอยู่กลางถนน\nB:คนขับรับนักโบกรถ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้หญิงกำลังจะคลอด Based on the previous passage, choose the most reasonable effect.\nA:เด็กคลอด\nB:ผู้หญิงแพ้ท้อง\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nหมวกผู้ชายถูกลมพัดปลิว Based on the previous passage, choose the most reasonable effect.\nA:เขาถอดหมวกออก\nB:ข้างนอกลมแรง\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเด็กหญิงไปงานวันเกิดเพื่อน Based on the previous passage, choose the most reasonable effect.\nA:เธอได้รับคำเชิญ\nB:เธอซื้อของขวัญ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเด็กชายตัวร้อน Based on the previous passage, choose the most reasonable effect.\nA:แม่เขาวัดไข้\nB:แม่เขาพาไปเดินในสวน\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้ชายฉีดน้ำหอมให้ตัวเอง Based on the previous passage, choose the most reasonable effect.\nA:เขาอยากให้คู่นัดประทับใจ\nB:เขาใส่เจลใส่ผม\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nไฟฟ้าในบ้านดับ Based on the previous passage, choose the most reasonable effect.\nA:ฉันหาไฟฉาย\nB:ฉันหยิบพลั่ว\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nครอบครัวย้ายไปบ้านที่ใหญ่ขึ้น Based on the previous passage, choose the most reasonable effect.\nA:ลูกชายเรียนจบมัธยม\nB:แม่คลอดลูกแฝด\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nนักวิ่งมาราธอนวิ่งช้าๆ Based on the previous passage, choose the most reasonable effect.\nA:เธอต้องการเก็บแรงไว้\nB:เธอมองเห็นเส้นชัย\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเด็กชายเตะตู้ขายของอัตโนมัติ Based on the previous passage, choose the most reasonable effect.\nA:ตู้ขายของทอนเหรียญ\nB:ถุงมันฝรั่งทอดติดอยู่ในเครื่อง\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nหมาเพื่อนฉันตาย Based on the previous passage, choose the most reasonable effect.\nA:ฉันกลอกตาใส่เขา\nB:ฉันกอดเขา\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nบัตรเครดิตนักธุรกิจรูดไม่ผ่าน Based on the previous passage, choose the most reasonable effect.\nA:เขาเขียนใบแจ้งหนี้\nB:เขาจ่ายด้วยเงินสด\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผุ้ชายสบถ Based on the previous passage, choose the most reasonable effect.\nA:เขาตัดเล็บ\nB:เขานิ้วเท้าซ้น\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้ชายภูมิใจกับน้องชาย Based on the previous passage, choose the most reasonable effect.\nA:น้องชายเถียงกับพ่อแม่\nB:น้องชายสอบติดคณะนิติศาสตร์\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเด็กหญิงอยากรู้เกี่ยวกับระบบสุริยจักรวาล Based on the previous passage, choose the most reasonable effect.\nA:เธอไปห้องสมุด\nB:เธอมองดูดาว\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nโปสเตอร์ติดกำแพง Based on the previous passage, choose the most reasonable effect.\nA:ฉันวางตำแหน่งโปสเตอร์ไว้บนประตู\nB:ฉันแปะเทปด้านหลังโปสเตอร์\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nลูกค้าอนุมัติแผนสร้างตึกของสถาปนิก Based on the previous passage, choose the most reasonable effect.\nA:สถาปนิกสร้างตึก\nB:สถาปนิกปรับแผน\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้ชายทำช้อนตกพื้น Based on the previous passage, choose the most reasonable effect.\nA:มือเขาสั่น\nB:เขาเลียช้อน\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้จัดการทั่วไปของบริษัทลาออก Based on the previous passage, choose the most reasonable effect.\nA:บอร์ดบริหารสั่งยุบบริษัท\nB:บอร์ดบริหารหาตัวแทนได้\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันเข้าเรียนสาย Based on the previous passage, choose the most reasonable effect.\nA:ฉันนั่งที่แถวหลัง\nB:ฉันเดินไปที่แท่นบรรยาย\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้ชายถูุกปล่อยตัวจากเรือนจำ Based on the previous passage, choose the most reasonable effect.\nA:ครอบครัวเขาจ่ายค่าประกัน\nB:เขาทำร้ายเพื่อนนักโทษ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nครอบครัวสูญเสียสมบัติทั้งหมด Based on the previous passage, choose the most reasonable effect.\nA:เขาขายบ้าน\nB:บ้านเขาไฟไหม้\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันกระทืบกระป๋องอะลูมิเนียม Based on the previous passage, choose the most reasonable effect.\nA:กระป่องถูกนำไปรีไซเคิล\nB:กระป๋องถูกเหยียบแบน\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเด็กหญิงเข้าร่วมทีมโต้วาที Based on the previous passage, choose the most reasonable effect.\nA:เธอฝึกใช้คอมพิวเตอร์\nB:เธอฝึกทักษะการสื่อสาร\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nอารมณ์ฉันดีขึ้น Based on the previous passage, choose the most reasonable effect.\nA:ฉันฟังเพลง\nB:ฉันล้างจาน\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nองค์กรการกุศลตั้งเป้าจะเรี่ยไรเงิน Based on the previous passage, choose the most reasonable effect.\nA:เขาทำอาหารแจกคนเร่ร่อน\nB:เขาจัดประมูลของ\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nรถไฟเหาะพุ่งดิ่งลงทางลาดชัน Based on the previous passage, choose the most reasonable effect.\nA:คนนั่งหัวเราะคิกคัก\nB:คนนั่งกรีดร้อง\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันโกรธจัด Based on the previous passage, choose the most reasonable effect.\nA:ฉันตรวจตู้จดหมายก่อนออกจากบ้าน\nB:ฉันกระแทกประตูปิดก่อนออกจากบ้าน\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้ชายอยากดูพระอาทิตย์ขึ้น Based on the previous passage, choose the most reasonable effect.\nA:เขาเดินทางขึ้นเหนือ\nB:เขาตื่นแต่เช้า\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันพับกระดาษ Based on the previous passage, choose the most reasonable effect.\nA:ฉันรีไซเคิลกระดาษ\nB:กระดาษมีรอยยับ\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nประเทศประสบภัยพิบัติ Based on the previous passage, choose the most reasonable effect.\nA:ผู้นำประเทศอื่นรวมตัวเป็นพันธมิตรกัน\nB:ผู้นำประเทศอื่นส่งความช่วยเหลือ\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเสื้อของเด็กชายเปียกโชก Based on the previous passage, choose the most reasonable effect.\nA:เขาปีนออกมาจากสระน้ำ\nB:เขาตกลงไปในสระน้ำ\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nนักเรียนรีบอ่านหนังสือให้จบ Based on the previous passage, choose the most reasonable effect.\nA:ครบกำหนดส่งคืนห้องสมุด\nB:เขายืมหนังสือมาจากเพื่อน\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nอาชญากรถูกประหาร Based on the previous passage, choose the most reasonable effect.\nA:เขาถูกจับขัง\nB:เขาถูกพิพากษาผิดฐานฆาตกรรม\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nแสงแดดส่องเข้ามาในห้อง Based on the previous passage, choose the most reasonable effect.\nA:ฉันเปิดม่าน\nB:ฉันปลดกลอนประตู\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันกระชากผมจากตัวปลอม Based on the previous passage, choose the most reasonable effect.\nA:วิกผมเธอหลุดออก\nB:เธอหัวล้าน\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nบรรณาธิการตรวจแก้คำในต้นฉบับ Based on the previous passage, choose the most reasonable effect.\nA:เขาพบว่าต้นฉบับน่าอ่านมาก\nB:เขาคิดว่าประโยคนั้นกำกวม\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้หญิงปิดบัญชีบัตรเครดิต Based on the previous passage, choose the most reasonable effect.\nA:เธอพบว่าบัตรหายไป\nB:เธอพบว่าบัตรหมดอายุ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้ชายกับผู้หญิงรักกัน Based on the previous passage, choose the most reasonable effect.\nA:เขาเรียนมหาวิทยาลัยด้วยกัน\nB:เขาแต่งงานกัน\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเสืยงดนตรีเบาเกินจนไม่ได้ยิน Based on the previous passage, choose the most reasonable effect.\nA:ฉันเร่งเสียง\nB:ฉันแต่งเพลงเอง\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผมเด็กชายชี้ฟู Based on the previous passage, choose the most reasonable effect.\nA:เด็กหญิงขยี้ผมเขา\nB:เด็กหญิงดึงผมเขา\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nแมลงถูกบี้แบน Based on the previous passage, choose the most reasonable effect.\nA:ฉันฉีดยากันแมลง\nB:ฉันเหยียบแมลง\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันลืมตา Based on the previous passage, choose the most reasonable effect.\nA:ฉันตื่นขึ้น\nB:ฉันผ่อนคลายลง\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเสียงเพลงจากเพื่อนบ้านดังลั่น Based on the previous passage, choose the most reasonable effect.\nA:ฉันขอให้เขาลดเสียงลง\nB:ฉันขอยืมซีดีจากเขา\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nครอบครัวของผู้ชายอยู่อย่างยากจน Based on the previous passage, choose the most reasonable effect.\nA:เขาใช้จ่ายอย่างประหยัด\nB:เขามีรายได้ต่ำกว่าค่าเฉลี่ย\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nนักศึกษาจบการศึกษาจากมหาวิทยาลัย Based on the previous passage, choose the most reasonable effect.\nA:เขาหางานทำ\nB:เขาหางานอดิเรกทำ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nศิลปินผสมสีเหลืองกับสีน้ำเงิน Based on the previous passage, choose the most reasonable effect.\nA:สีกระเซ็นไปทั่ว\nB:สีกลายเป็นสีเขียว\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันเปลี่ยนเรื่องคุย Based on the previous passage, choose the most reasonable effect.\nA:ฉันหมดเรื่องคุย\nB:เรื่องที่คุยเริ่มตึงเครียด\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nน้องชายฉันออกจากโรงพยาบาล Based on the previous passage, choose the most reasonable effect.\nA:ฉันต้อนรับเขากลับบ้าน\nB:ฉันไม่สนใจเขา\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผ้าม่านเวทีลอยขึ้น Based on the previous passage, choose the most reasonable effect.\nA:ฉากเปิดละครเริ่มขึ้น\nB:นักแสดงในละครเดินออกจากเวที\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nตัวประกันยอมตามข้อเรียกร้องของโจรลักพาตัว Based on the previous passage, choose the most reasonable effect.\nA:โจรลักพาตัวขู่ทำร้ายตัวประกัน\nB:โจรลักพาตัวไม่ทำอะไรตัวประกัน\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเสียงตึงดังสนั่นเวที Based on the previous passage, choose the most reasonable effect.\nA:นักดนตรีเคาะเท้า\nB:นักดนตรีตีกลอง\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nพ่อแม่วิ่งไปยังห้องนอนลูก Based on the previous passage, choose the most reasonable effect.\nA:ลูกตื่นจากฝันร้ายร้องลั่น\nB:ลูกกลัวการดูใต้เตียง\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้หญิงสื่อสารด้วยภาษามือ Based on the previous passage, choose the most reasonable effect.\nA:เธอคลอดก่อนกำหนด\nB:เธอหูหนวกตั้งแต่เกิด\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเกิดภาวะน้ำแล้งขึ้นในภูมิภาค Based on the previous passage, choose the most reasonable effect.\nA:น้ำปนเปื้อนสารพิษ\nB:พืชผลล้มตาย\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nแมววิ่งไล่นก Based on the previous passage, choose the most reasonable effect.\nA:นกบินหนีไหป\nB:นกจับหนอนได้\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเด็กหญิงย้ายโรงเรียน Based on the previous passage, choose the most reasonable effect.\nA:โรงเรียนปิดหน้าร้อน\nB:เธอย้ายเมือง\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเจ้าของโรงงานปฏิเสธไม่ยอมขึ้นเงินเดือนให้พนักงาน Based on the previous passage, choose the most reasonable effect.\nA:เจ้าของแต่งตั้งผู้จัดการคนใหม่\nB:พนักงานนัดหยุดงาน\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้นำต่อต้านกลุ่มหัวรุนแรงในประเทศ Based on the previous passage, choose the most reasonable effect.\nA:กลุ่มหัวรุนแรงมีอิทธิพลต่อเขา\nB:กลุ่มหัวรุนแรงลอบสังหารเขา\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันเดินเท้าเปล่าบนชายหาด Based on the previous passage, choose the most reasonable effect.\nA:ทรายติดเท้าฉัน\nB:คลื่นซัดกระทบฝั่ง\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันตื่นมากลางดึกหนาวสั่น Based on the previous passage, choose the most reasonable effect.\nA:ฉันใส่กางเกงวอร์มทับ\nB:ฉันดื่มน้ำหนึ่งแก้ว\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nแม่ปลอบให้ลูกหยุดร้อง Based on the previous passage, choose the most reasonable effect.\nA:ลูกยิ้ม\nB:ลูกร้องไห้\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nกางเกงยีนส์ฉันขาดเป็นรู Based on the previous passage, choose the most reasonable effect.\nA:ฉันรูดซิปกางเกงยีนส์\nB:ฉันเดินสะดุดทางเท้า\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเด็กชายใส่เหล็กดัดฟัน Based on the previous passage, choose the most reasonable effect.\nA:เขาฟันผุ\nB:ฟันเขาตรง\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเมื่อวานนี้ฉันออกกำลังในยิม Based on the previous passage, choose the most reasonable effect.\nA:วันนี้ฉันตื่นมาปวดกล้ามเนื้อ\nB:วันนี้ฉันตื่นมาเจ็บคอ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเด็กหญิงกระซิบโต้ตอบกันบนโต๊ะอาหาร Based on the previous passage, choose the most reasonable effect.\nA:เด็กคนอื่นนั่งลงที่โต๊ะอาหาร\nB:เด็กคนอื่นในโต๊ะอาหารรู้สึกแปลกแยก\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเด็กหล่นลงบนแทรมโปลีน Based on the previous passage, choose the most reasonable effect.\nA:เธอกระเด้งกลับขึ้นไปในอากาศ\nB:เธอตัดสินใจลองตีลังกา\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันสอดจดหมายลงในตู้ไปรษณีย์ Based on the previous passage, choose the most reasonable effect.\nA:บุรุษไปรษณีย์นำส่งจดหมาย\nB:ไปรษณีย์ส่งจดหมายด่วน\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nนักพนันมีความมั่นใจ Based on the previous passage, choose the most reasonable effect.\nA:เขาเดิมพันเงินทั้งหมด\nB:เขาถังแตกกลับบ้าน\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nไฟป่าลุกลาม Based on the previous passage, choose the most reasonable effect.\nA:ลมกรรโชกแรงขึ้น\nB:ผู้วางเพลิงถูกจับกุม\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเด็กชายเข่าถลอก Based on the previous passage, choose the most reasonable effect.\nA:แม่เขาส่งเขาขึ้นห้อง\nB:แม่เขาพันแผล\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้ชายรอดจากโรคร้าย Based on the previous passage, choose the most reasonable effect.\nA:เขาเซ็นพินัยกรรม\nB:เขาได้รับการปลูกถ่ายอวัยวะ\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันจิบกาแฟร้อนจัด Based on the previous passage, choose the most reasonable effect.\nA:ฉันกัดลิ้น\nB:ฉันทำกาแฟลวกลิ้น\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nบรรณาธิการไล่นักเขียนออก Based on the previous passage, choose the most reasonable effect.\nA:นักเขียนเลี่ยงการเขียนบทความลำเอียง\nB:นักเขียนส่งงานไม่ทันเส้นตายสำคัญ\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันรู้สึกหมดแรง Based on the previous passage, choose the most reasonable effect.\nA:ฉันนอนหลับทั้งวัน\nB:ฉันอ่านหนังสือเรียนทั้งวัน\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nแพทย์วินิจฉัยโรคผู้ป่วย Based on the previous passage, choose the most reasonable effect.\nA:เธอสังเกตอาการผู้ป่วย\nB:เธอสั่งยาให้ผู้ป่วย\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันเกาผิวตัวเอง Based on the previous passage, choose the most reasonable effect.\nA:มันชุ่มเหงื่อ\nB:มันคัน\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้ชายเข้ารับการรักษาฉุกเฉิน Based on the previous passage, choose the most reasonable effect.\nA:เขาอารมณ์เสีย\nB:เขาหัวใจวาย\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nกล้ามเนื้อผู้ชายปูดออกมา Based on the previous passage, choose the most reasonable effect.\nA:เขาเบ่งกล้ามแขน\nB:เขาถูแขน\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้ชายเลิกคิ้ว Based on the previous passage, choose the most reasonable effect.\nA:เขาประหลาดใจ\nB:เขาท้อแท้\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันยกโทษให้ความผิดพลาดของเพื่อนร่วมงาน Based on the previous passage, choose the most reasonable effect.\nA:ฉันเชื่อว่าเขาเจตนาดี\nB:ฉันเชื่อว่าเขารู้ดีกว่านั้น\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้ชายเลิกสูบบุหรี่ Based on the previous passage, choose the most reasonable effect.\nA:เขาเริ่มออกกำลังกายมากขึ้น\nB:เขาเริ่มตื่นเช้าขึ้น\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้หญิงชกคนลวนลามเข้าที่จมูก Based on the previous passage, choose the most reasonable effect.\nA:คนลวนลามสลบเหมือด\nB:คนลวนลามเริ่มเลือดออก\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nลูกดอกพลาดเป้า Based on the previous passage, choose the most reasonable effect.\nA:ผู้ชายเล็งพลาด\nB:ผู้ชายกำลังจะแพ้เกมปาเป้า\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเจ้าของบ้านเรียกหน่วยกำจัดหนูมาที่บ้าน Based on the previous passage, choose the most reasonable effect.\nA:เขาพบหนูอยู่ใต้ถุนบ้าน\nB:เขาเลี้ยงรังมดไว้ในห้อง\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันเสนอกับแขกว่าควรออกไปกินข้าวข้างนอกกัน Based on the previous passage, choose the most reasonable effect.\nA:ฉันเหนื่อยเกินจะทำอาหาร\nB:แขกอยู่เกินเวลา\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเด็กหญิงจับได้ว่าพี่ชายแอบอ่านไดอารี่ Based on the previous passage, choose the most reasonable effect.\nA:เธอเริ่มซ่อนไดอารี่\nB:เธอซื้อไดอารี่ใหม่\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้หญิงไม่มีเงินจ่ายค่าเช่าบ้าน Based on the previous passage, choose the most reasonable effect.\nA:เธอทำงานล่วงเวลา\nB:เธอลาออกจากงาน\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเด็กชายรีบหดมือกลับ Based on the previous passage, choose the most reasonable effect.\nA:เขาแตะเตาไฟร้อนๆ\nB:เขาลูบหัวลูกหมา\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nบริษัทอยากวัดความพึงพอใจของลูกค้า Based on the previous passage, choose the most reasonable effect.\nA:เขาเสนอส่วนลดให้ลูกค้าใหม่\nB:เขาแจกจ่ายแบบสอบถามให้ลูกค้า\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nพื้นไม้มีรอยขีดข่วน Based on the previous passage, choose the most reasonable effect.\nA:เด็กชายปาเบาะลงจากโซฟา\nB:เด็กชายลากเก้าอี้ไปตามพื้น\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันยกมือป้องหน้า Based on the previous passage, choose the most reasonable effect.\nA:คู่ต่อสู้ท้าทายฉัน\nB:คู่ต่อสู้ง้างหมัด\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nรูปปั้นชื่อดังถูกไฟไหม้ Based on the previous passage, choose the most reasonable effect.\nA:มันถูกฟ้าผ่าใส่\nB:ผู้คนพากันมาชื่นชมบูชา\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันวางผลไม้ทิ้งไว้บนโต๊ะ Based on the previous passage, choose the most reasonable effect.\nA:ผลไม้แตกเมล็ด\nB:แมลงวันตอมผลไม้\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nนักเต้นบัลเล่ต์ทำเอ็นฉีก Based on the previous passage, choose the most reasonable effect.\nA:เธอเขย่งเท้า\nB:เธอข้อเท้าแพลง\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเชือกรองเท้าของเด็กคลายปมออก Based on the previous passage, choose the most reasonable effect.\nA:เขาหัดผูกเชือกรองเท้า\nB:เขาวิ่งเล่นในสนามเด็กเล่น\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันอ่านหนังสือจนติด Based on the previous passage, choose the most reasonable effect.\nA:ฉันนำหนังสือไปคืน\nB:ฉันหลงเวลา\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้ชายมีความเชื่อเหมือนพ่อแม่เขา Based on the previous passage, choose the most reasonable effect.\nA:พ่อแม่เขามีอิทธิพลต่อเขา\nB:พ่อแม่เขาตัดเขาออกจากกองมรดก\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nรถค่อยๆ ชะลอลงจนหยุด Based on the previous passage, choose the most reasonable effect.\nA:รถน้ำมันหมด\nB:คนขับหลับใน\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้ชายกินไอศกรีมกลางแดด Based on the previous passage, choose the most reasonable effect.\nA:ไอศกรีมเสียรส\nB:ไอศกรีมไหลลงมาตามโคน\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันแขวนงานศิลปะในห้อง Based on the previous passage, choose the most reasonable effect.\nA:พรมดูสกปรก\nB:กำแพงดูโล่ง\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันเลิกงานเร็ว Based on the previous passage, choose the most reasonable effect.\nA:ฉันปวดหัว\nB:เจ้านายฉันนัดประชุม\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nลูกหมาทำพรมเลอะเทอะ Based on the previous passage, choose the most reasonable effect.\nA:เจ้าของดุลูกหมา\nB:เจ้าของให้ขนมลูกหมา\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันขอโทษเพื่อน Based on the previous passage, choose the most reasonable effect.\nA:เพื่อนยกโทษให้ฉัน\nB:เพื่อนโกรธ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้ชายโดดเด่นออกมาจากฝูงคน Based on the previous passage, choose the most reasonable effect.\nA:เขาสะพายเป้\nB:เขาใส่เสื้อกั๊กสีสะท้อนแสง\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nพยานโกหกทั้งที่สาบานตนไว้ Based on the previous passage, choose the most reasonable effect.\nA:เขาให้การจนจบ\nB:เขาถูกตั้งข้อหาให้การเท็จในศาล\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้หญิงย้อมผม Based on the previous passage, choose the most reasonable effect.\nA:เธออยากได้ลุคใหม่\nB:เธออยากกลมกลืนกับคนอื่น\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้อพยพถูกจับได้ว่าอาศัยในประเทศโดยผิดกฎหมาย Based on the previous passage, choose the most reasonable effect.\nA:เขาได้งาน\nB:เขาถููกส่งตัวกลับประเทศ\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nนักพูดเล่าเรื่องตลก Based on the previous passage, choose the most reasonable effect.\nA:ผู้ชมหัวเราะ\nB:ผู้ชมยืนขึ้น\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันมองดวงอาทิตย์ Based on the previous passage, choose the most reasonable effect.\nA:แสงอาทิตย์ทำฉันตาพร่า\nB:แสงอาทิตย์ทำฉันผิวคล้ำ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันเบื่อ Based on the previous passage, choose the most reasonable effect.\nA:ฉันสำลัก\nB:ฉันหาว\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nสเต็กหั่นยาก Based on the previous passage, choose the most reasonable effect.\nA:มีดทื่อ\nB:สเต็กยังดิบอยู่\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้หญิงประกาศว่าล้มละลาย Based on the previous passage, choose the most reasonable effect.\nA:เธอได้ค่าชดเชยจากการหย่า\nB:เธอมีหนี้สินก้อนใหญ่\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nไฟในอพาร์ตเมนต์ของเพื่อนฉันเปิดอยู่ Based on the previous passage, choose the most reasonable effect.\nA:ฉันสงสัยว่าเขาออกไปข้างนอกหรือเปล่า\nB:ฉันตัดสินใจจะไปหาเขา\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันถือดอกไม้ไว้ใต้จมูก Based on the previous passage, choose the most reasonable effect.\nA:กลีบดอกไม้หลุดร่วง\nB:ฉันได้กลิ่นดอกไม้\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้หญิงรู้สึกโหยหาอดีต Based on the previous passage, choose the most reasonable effect.\nA:เธอบังเอิญพบกับเพื่อนวัยเด็ก\nB:เธอตะโกนว่าลูกๆ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nนักศึกษาขอผัดผ่อนกำหนดส่งรายงาน Based on the previous passage, choose the most reasonable effect.\nA:เขาส่งรายงานก่อนกำหนด\nB:เขาส่งรายงานไม่ครบ\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nรถฉันเสีย Based on the previous passage, choose the most reasonable effect.\nA:ฉันไปเที่ยวห้าง\nB:ฉันโทรเรียกช่าง\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันโยนโน้ตทิ้ง Based on the previous passage, choose the most reasonable effect.\nA:มันไม่มีชื่อคนเขียน\nB:มันอ่านไม่ออก\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nนกกระพือปีก Based on the previous passage, choose the most reasonable effect.\nA:นกวางไข่\nB:นกตัวลอยขึ้น\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันจอดรถบนถนน Based on the previous passage, choose the most reasonable effect.\nA:โรงรถเปิดอยู่\nB:โรงรถที่จอดเต็ม\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nอาชญากรเล็งปืนใส่เหยื่อ Based on the previous passage, choose the most reasonable effect.\nA:อาชญากรวางปืนลง\nB:เหยื่อยกมือขึ้น\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันเฝ้ารอสุดสัปดาห์ที่จะมาถึง Based on the previous passage, choose the most reasonable effect.\nA:ฉันวางแผนจะไปงานศพลุง\nB:ฉันวางแผนจะไปงานแต่งงานเพื่อน\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันหลงเวลา Based on the previous passage, choose the most reasonable effect.\nA:ฉันใจลอย\nB:ฉันคลื่นไส้\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเอกสารพิมพ์ออกมาอ่านไม่รู้เรื่อง Based on the previous passage, choose the most reasonable effect.\nA:ปรินเตอร์หมึกหมด\nB:ปรินเตอร์กระดาษหมด\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nในสนามเปิดเพลงชาติ Based on the previous passage, choose the most reasonable effect.\nA:แฟนๆ หันหาธงชาติ\nB:แฟนๆ แห่กันลงไปในสนาม\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nน้ำจิ้มรสชาติจืด Based on the previous passage, choose the most reasonable effect.\nA:ฉันเอาไปเสิร์ฟ\nB:ฉันใส่เกลือเพิ่ม\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันเอากระดาษซับสิ่งที่หก Based on the previous passage, choose the most reasonable effect.\nA:กระดาษซับของเหลว\nB:สิ่งที่หกเหลือเป็นคราบเหนียว\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้หญิงถูกขัดจังหวะขณะกำลังอ่านหนังสือ Based on the previous passage, choose the most reasonable effect.\nA:เธอใส่ที่คั่นหนังสือ\nB:เธอเริ่มอ่านหนังสือซ้ำ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเครื่องบินเจอสภาพอากาศแปรปรวน Based on the previous passage, choose the most reasonable effect.\nA:ผู้ชายรัดเข็มขัดนิรภัยแน่น\nB:ผู้ชายมองออกไปนอกหน้าต่าง\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเด็กชายสะดุ้ง Based on the previous passage, choose the most reasonable effect.\nA:เด็กหญิงไม่สนใจเขา\nB:เด็กหญิงจิ้มเขา\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nหมอติดขาเทียมให้คนไข้ Based on the previous passage, choose the most reasonable effect.\nA:เขาตัดขาเธอ\nB:เขาวัดชีพจรเธอ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเด็กชายหยิกข้อศอกเด็กหญิง Based on the previous passage, choose the most reasonable effect.\nA:เด็กหญิงยักไหล่ใส่เขา\nB:เด็กหญิงดึงแขนออกห่างจากเขา\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันขอคำแนะนำจากเพื่อน Based on the previous passage, choose the most reasonable effect.\nA:ฉันให้ความสำคัญกับความเห็นเขา\nB:ฉันรู้ว่าฉันคิดถูก\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเด็กชายย่ำโคลน Based on the previous passage, choose the most reasonable effect.\nA:โคลนติดรองเท้าเขา\nB:โคลนกระเด็นใส่หน้าเขา\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nหิมะตกในเมืองหนาหลายนิ้ว Based on the previous passage, choose the most reasonable effect.\nA:โรงเรียนปิด\nB:ผู้คนหลบภัยใต้ดิน\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nพนักงานอยู่หมดกะ Based on the previous passage, choose the most reasonable effect.\nA:หมดวันเขากลับบ้าน\nB:เขาขู่จะลาออกจากงาน\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nต้นไม้ทำบ้านเสียหาย Based on the previous passage, choose the most reasonable effect.\nA:ต้นไม้โค่นทับหลังคา\nB:ต้นไม้ให้ร่มเงาบริเวณหลังบ้าน\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nไม้ฟืนขาดครึ่ง Based on the previous passage, choose the most reasonable effect.\nA:ฉันเรียงไม้ฟืนในเตาผิง\nB:ฉันเหวี่ยงขวานจามไม้ฟืน\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nครอบครัวแสดงความยินดีกับคู่รัก Based on the previous passage, choose the most reasonable effect.\nA:คู่รักประกาศว่าเขาจะแยกทางกัน\nB:คู่รักประกาศว่าเขากำลังจะมีลูก\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเด็กหญิงส่งของขวัญวาเลนไทน์ให้เด็กชาย Based on the previous passage, choose the most reasonable effect.\nA:เธอชอบเขา\nB:เธอจูบเขา\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันพยักหน้าให้กับคำพูดของเพื่อนฉัน Based on the previous passage, choose the most reasonable effect.\nA:ฉันสับสน\nB:ฉันเห็นด้วยกับเขา\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเพื่อนๆ โยนเหรียญเสี่ยงทาย Based on the previous passage, choose the most reasonable effect.\nA:เขาอยากหาทางประนีประนอมกัน\nB:เขาอยากให้ตัดสินกันอย่างยุติธรรม\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nนาฬิกาจับเวลาในห้องครัวดัง Based on the previous passage, choose the most reasonable effect.\nA:ผู้ชายจัดของสดเข้าตู้เย็น\nB:ผู้ชายเอาพิซซ่าออกมาจากเตาอบ\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้หญิงตั้งเป้าด้วยความทะเยอทะยาน Based on the previous passage, choose the most reasonable effect.\nA:เธอขี้เกียจ\nB:เธอทำงานหนัก\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nคนรวยเสียชีวิตด้วยโรคชรา Based on the previous passage, choose the most reasonable effect.\nA:ลูกชายของเขามีคดีความ\nB:ลูกชายของเขาได้รับเงินมรดก\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้หญิงย่ำไฟ Based on the previous passage, choose the most reasonable effect.\nA:ไฟมอดดับ\nB:ควันลอยขึ้นจากไฟ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nรถของผู้หญิงอยู่ในร้าน Based on the previous passage, choose the most reasonable effect.\nA:ใบขับขี่ของเธอถูกยึด\nB:เธอประสบอุบัติเหตุ\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันหลับนาฬิกาปลุกไม่ตื่น Based on the previous passage, choose the most reasonable effect.\nA:ฉันทำอาหารเช้า\nB:ฉันพลาดอาหารเช้า\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nบุคคลสาธารณะก้าวออกมาจากรถลิมูซีน Based on the previous passage, choose the most reasonable effect.\nA:แสงแฟลชกล้องหันไปทางเขา\nB:ครอบครัวของเขาเข้าร่วมงานแถลงข่าว\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้หญิงแช่น้ำในอ่างอยู่นาน Based on the previous passage, choose the most reasonable effect.\nA:น้ำในอ่างเย็นลง\nB:น้ำในอ่างไหลออกจากอ่างจนหมด\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nนักศึกษามหาวิทยาลัยอยากพบกับนักศึกษาคนอื่นในวิทยาเขต Based on the previous passage, choose the most reasonable effect.\nA:เขาเข้าร่วมสโมสรนักศึกษา\nB:เขาเลือกวิชาเอกวิศวกรรม\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันยกเบาะโซฟาขึ้น Based on the previous passage, choose the most reasonable effect.\nA:ฉันหาเศษเหรียญ\nB:ฉันจัดห้องรับแขกใหม่\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nต่อบินเข้าหาเด็กชาย Based on the previous passage, choose the most reasonable effect.\nA:เด็กชายวิ่งหนี\nB:เด็กชายเด็ดดอกไม้\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้หญิงมีความผิดลหุโทษ Based on the previous passage, choose the most reasonable effect.\nA:เธอถูกพิพากษาให้ทำงานชุมชน\nB:เธอถูกตัดสินประหารชีวิต\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันคนน้ำตาลลงในชาร้อน Based on the previous passage, choose the most reasonable effect.\nA:ชามีไอน้ำลอยขึ้นมา\nB:น้ำตาลละลาย\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nทหารผ่านศึกเดินกะเผลก Based on the previous passage, choose the most reasonable effect.\nA:เขาถูกเกณฑ์ไปร่วมสงคราม\nB:เขาได้รับบาดเจ็บในการรบ\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nอาชญากรวิ่งหนีตำรวจ Based on the previous passage, choose the most reasonable effect.\nA:ตำรวจดูแลเหยื่อ\nB:ตำรวจวิ่งไล่อาชญากร\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nคอมพิวเตอร์แลปท็อปเปิดไม่ติด Based on the previous passage, choose the most reasonable effect.\nA:ฉันทำคอมพิวเตอร์แลปท็อปตก\nB:ฉันเสียบปลั๊กชาร์จคอมพิวเตอร์แลปท็อป\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้หญิงไม่เหลือที่ว่างในตู้เสื้อผ้าเธอ Based on the previous passage, choose the most reasonable effect.\nA:เธอซื้อเสื้อผ้าเป็นจำนวนมาก\nB:เธอพับเสื้อผ้า\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้ชายใจสลาย Based on the previous passage, choose the most reasonable effect.\nA:ภรรยาเขาคลอดลูก\nB:ภรรยาเขาทิ้งเขา\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้ชายได้ใบปริญญา Based on the previous passage, choose the most reasonable effect.\nA:เขามีคุณสมบัติครบสำหรับสมัครงานที่เขาอยากได้\nB:ข้อเสนอรับเข้าทำงานของเขาถูกยกเลิก\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเสียงผู้ชายดังกังวานทั่วห้อง Based on the previous passage, choose the most reasonable effect.\nA:เขากล่าวทักทายผู้ชม\nB:เขาพูดใส่ไมโครโฟน\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันโยนเหรียญลงไปในบ่อน้ำพุ Based on the previous passage, choose the most reasonable effect.\nA:เหรียญจมลงก้นบ่อ\nB:เหรียญหักครึ่ง\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้เล่นตีลูกบอลไปยังหลุม Based on the previous passage, choose the most reasonable effect.\nA:ลูกบอลลงหลุม\nB:ลูกบอลไหลกลับไปยังผู้เล่น\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันสูดเอาฝุ่นห้องใต้หลังคาเข้าไป Based on the previous passage, choose the most reasonable effect.\nA:ฉันสะอึก\nB:ฉันจาม\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nพ่นักงานคิดเงินเรียกหน่วยรักษาความปลอดภัย Based on the previous passage, choose the most reasonable effect.\nA:ลูกค้าใช้ธนบัตรปลอม\nB:ลูกค้าเปิดไฟหน้ารถทิ้งไว้\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันเอาขยะออกไปทิ้ง Based on the previous passage, choose the most reasonable effect.\nA:ขยะทำให้ห้องครัวมีกลิ่นเหม็น\nB:ฉันเผลอโยนรายการซื้อของทิ้งไป\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nครอบครัวไปเที่ยวสวนสัตว์ Based on the previous passage, choose the most reasonable effect.\nA:เด็กๆ ชื่นชมสัตว์ต่างๆ\nB:เด็กๆ วิ่งไล่สัตว์ต่างๆ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้ชายหายใจเสียงดัง Based on the previous passage, choose the most reasonable effect.\nA:เขาไตวาย\nB:ปอดเขามีน้ำคั่ง\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันมีตั๋วคอนเสิร์ตเหลือหนึ่งใบ Based on the previous passage, choose the most reasonable effect.\nA:ฉันถามทางไปสถานที่จัดคอนเสิร์ตจากเพื่อน\nB:ฉันถามเพื่อนว่าเขาสนใจจะไปหรือไม่\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเครื่องปรับอากาศในบ้านเสีย Based on the previous passage, choose the most reasonable effect.\nA:ฉันเอาผ้าห่มออกมา\nB:ฉันเปิดหน้าต่าง\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเด็กชายปวดหลัง Based on the previous passage, choose the most reasonable effect.\nA:เป้ของเขาเปิดอยู่\nB:เป้ของเขาหนัก\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันซื้อของขวัญให้แม่ Based on the previous passage, choose the most reasonable effect.\nA:ฉันอบเค้กให้แม่\nB:มันเป็นวันเกิดแม่\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nดอกแดฟโฟดิลในสวนถูกทำลายเสียหาย Based on the previous passage, choose the most reasonable effect.\nA:ผึ้่งต่อยคนสวน\nB:กระรอกขุดหน่อดอกไม้\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันจุดไม้ขีด Based on the previous passage, choose the most reasonable effect.\nA:ไฟมอดดับ\nB:ไม้ขีดติดไฟ\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nคู่กรณีไกล่เกลี่ยสำเร็จ Based on the previous passage, choose the most reasonable effect.\nA:พวกเขาไม่อยากสู้คดีในศาล\nB:พวกเขาอยากฟื้นฟูความสัมพันธ์ส่วนตัว\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเด็กๆ ถูกส่งไปสถานเลี้ยงเด็กกำพร้า Based on the previous passage, choose the most reasonable effect.\nA:พ่อแม่ของเด็กเสียชีวิต\nB:พ่อแม่ของเด็กตามใจเด็ก\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nอุกกาบาตตกในทะเล Based on the previous passage, choose the most reasonable effect.\nA:เกิดสึนามิ\nB:ลูกเห็บเริ่มตก\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nนักปีนเขาพบงูพิษ Based on the previous passage, choose the most reasonable effect.\nA:เธอขาดน้ำ\nB:เธอเสียขวัญ\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเตาอบร้อน Based on the previous passage, choose the most reasonable effect.\nA:ฉันเปิดเตาอบ\nB:ฉันเอาจานเข้าเตาอบ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันบีบซีกมะนาว Based on the previous passage, choose the most reasonable effect.\nA:มะนาวขึ้นรา\nB:น้ำมะนาวไหลออกมา\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nประเทศค้นพบดินแดนใหม่ Based on the previous passage, choose the most reasonable effect.\nA:ประเทศทิ้งดินแดนใหม่\nB:ประเทศยึดครองดินแดนใหม่\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nแก้วกลิ้งตกจากโต๊ะ Based on the previous passage, choose the most reasonable effect.\nA:แก้วแตกกระจายทั่วพื้น\nB:แก้วตกลงบนกองผ้า\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nโต๊ะโยก Based on the previous passage, choose the most reasonable effect.\nA:พื้นไม่สม่ำเสมอ\nB:พื้นลื่น\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nพ่อจับได้ว่าลูกชายเขาโกหก Based on the previous passage, choose the most reasonable effect.\nA:ลูกชายสารภาพ\nB:พ่อไว้ใจลูกชาย\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nศีรษะผู้ชายเต้นตุบๆ ด้วยความเจ็บปวด Based on the previous passage, choose the most reasonable effect.\nA:เขากินยาแก้ไอ\nB:เขากินยาแอสไพริน\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nรถไฟชะลอลง Based on the previous passage, choose the most reasonable effect.\nA:รถไฟกำลังเข้าสู่สถานี\nB:รถไฟวิ่งช้ากว่ากำหนด\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้ชายเข้ารับการบำบัด Based on the previous passage, choose the most reasonable effect.\nA:ครอบครัวเขามักมีอาการป่วยทางจิต\nB:เขาได้รับวินิจฉันว่าเป็นโรคซึมเศร้า\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้หญิงยกมือกุมคอ Based on the previous passage, choose the most reasonable effect.\nA:เธอกลืนอาหาร\nB:เธอสำลักอาหาร\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้หญิงเจ็บคอ Based on the previous passage, choose the most reasonable effect.\nA:เธอเสียงแหบ\nB:เธอพูดด้วยสำเนียงแปลก\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nหมาจ้องมองสเต็กบนโต๊ะ Based on the previous passage, choose the most reasonable effect.\nA:น้ำลายมันไหล\nB:มันนอนลง\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nธุรกิจของผู้หญิงประสบความสำเร็จ Based on the previous passage, choose the most reasonable effect.\nA:เธอไล่พนักงานออก\nB:เธอมีฐานะร่ำรวยขึ้น\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเด็กนักเรียนเดินออกจากห้อง Based on the previous passage, choose the most reasonable effect.\nA:เสียงออดดัง\nB:ครูสั่งการบ้าน\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้หญิงอ้างว่าเธอเห็นผี Based on the previous passage, choose the most reasonable effect.\nA:คนรู้จักเธอตั้งข้อสงสัย\nB:คนรู้จักเธอเข้าอกเข้าใจ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้ชายสูญเสียการได้ยิน Based on the previous passage, choose the most reasonable effect.\nA:เขาเกือบจมน้ำในมหาสมุทร\nB:เขาเกือบตายจากแรงระเบิด\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเด็กปล่อยมือจากเชือกลูกโป่ง Based on the previous passage, choose the most reasonable effect.\nA:ลูกโป่งแฟบ\nB:ลูกโป่งลอยขึ้นในอากาศ\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้ชายสูญเสียความสามารถในการพูด Based on the previous passage, choose the most reasonable effect.\nA:เส้นเลือดในสมองเขาแตก\nB:เขาสูดหายใจลึกๆ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้หญิงเดินสะดุดบนทางเท้า Based on the previous passage, choose the most reasonable effect.\nA:มีรอยแตกบนพื้นปูน\nB:เธอได้ยินคนเรียกชื่อ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้ชายกระโดดลงสระ Based on the previous passage, choose the most reasonable effect.\nA:ไลฟ์การ์ดกระโดดลงสระตามเขาไป\nB:ไลฟ์การ์ดตัวเปียกชุ่ม\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันกินยาปฏิชีวนะ Based on the previous passage, choose the most reasonable effect.\nA:แผลติดเชื้อหาย\nB:แผลติดเชื้อลุกลาม\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nไฟจราจรเปลี่ยนเป็นสีเหลือง Based on the previous passage, choose the most reasonable effect.\nA:คนขับเหยียบเบรค\nB:คนขับบีบแตร\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nกล่องพลาสติกละลาย Based on the previous passage, choose the most reasonable effect.\nA:ฉันนำกล่องแช่น้ำอุ่น\nB:ฉันวางกล่องบนเตาไฟร้อนๆ\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nรถมีรอยบุบ Based on the previous passage, choose the most reasonable effect.\nA:คนขับขับชนเสาโทรศัพท์\nB:คนขับขับฝ่าไฟแดง\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเด็กชายอ่านหนังสือเรียนทั้งคืน Based on the previous passage, choose the most reasonable effect.\nA:เขาโดดสอบ\nB:เขาสอบผ่าน\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเด็กชายเกาะขอบสระแน่น Based on the previous passage, choose the most reasonable effect.\nA:เขากลัวการหัดว่ายน้ำ\nB:ไลฟ์การ์ดอยู่เวร\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันเอามือทาบอก Based on the previous passage, choose the most reasonable effect.\nA:ฉันรู้สึกถึงหัวใจเต้น\nB:หัวใจฉันเต้นเร็วขึ้น\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nตึกข้างออฟฟิศฉันอยู่ในระหว่างก่อสร้าง Based on the previous passage, choose the most reasonable effect.\nA:ออฟฟิศฉันคนแน่น\nB:ออฟฟิศฉันเสียงดัง\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nครอบครัวอยากทำความรู้จักกับเพื่อนบ้าน Based on the previous passage, choose the most reasonable effect.\nA:ครอบครัวเชิญเพื่อนบ้านมากินมื้อเย็น\nB:ครอบครัวโบกมือทักทายเพื่อนจากสนามหน้าบ้าน\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nนํ้ากระเซ็นขึ้นมาจากสระ Based on the previous passage, choose the most reasonable effect.\nA:นักว่ายนํ้ากระโดดลงไปในสระ\nB:นักว่ายนํ้าลอยในสระ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันกินแต่งโมหนึ่งเสี้ยว Based on the previous passage, choose the most reasonable effect.\nA:ฉันกลืนเม็ดแตงโมโดยบังเอิญ\nB:ฟันของฉันหักโดยบังเอิญ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเด็กผู้ชายสะดุด Based on the previous passage, choose the most reasonable effect.\nA:เสื้อคลุมของเขาไม่ได้รูดซิป\nB:เขาไม่ได้ผูกเชือกรองเท้า\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้หญิงใส่ที่อุดหู Based on the previous passage, choose the most reasonable effect.\nA:เธอถูกรบกวนด้วยเสียง\nB:เธอเจาะหู\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันเติมนํ้าลงขวด Based on the previous passage, choose the most reasonable effect.\nA:ฉันดื่มนํ้าในขวดจนหมด\nB:ฉันเก็บมันไว้ในตู้เย็น\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nรายการทีวีถูกเซ็นเซอร์เนื้อหา Based on the previous passage, choose the most reasonable effect.\nA:มันมีคำไม่สุภาพ\nB:มันมีเนื้อเรื่องที่ซับซ้อน\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเรืออับปาง Based on the previous passage, choose the most reasonable effect.\nA:ลูกเรือจมนํ้า\nB:ลูกเรือเจอโจรสลัด\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเด็กผู้ชายรู้สึกท้อแท้กับปริศนา Based on the previous passage, choose the most reasonable effect.\nA:เขาหาคำตอบได้\nB:เขาขอคำใบ้\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nโทรศัพท์ดัง Based on the previous passage, choose the most reasonable effect.\nA:ผู้ชายวางโทรศัพท์\nB:ผู้ชายรับโทรศัพท์\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้หญิงจ้องฉัน Based on the previous passage, choose the most reasonable effect.\nA:ฉันกอดเธอ\nB:ฉันรู้สึกไม่สบายใจ\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nกลุ่มคนออกจากพิพิธภัณฑ์ Based on the previous passage, choose the most reasonable effect.\nA:พวกเขาถ่ายรูปศิลปะ\nB:พวกเขาดูศิลปะครบทุกชิ้น\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้ชายเริ่มเถียงกับฉัน Based on the previous passage, choose the most reasonable effect.\nA:เพื่อนของฉันแนะนำให้ฉันรู้จักผู้ชาย\nB:เพื่อนของฉันปกป้องฉัน\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nยางรถจักรยานของฉันแบน Based on the previous passage, choose the most reasonable effect.\nA:ฉันเติมลมเข้าไปในล้อ\nB:ฉันเปลี่ยนเกียร์รถ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเด็กหญิงดูซีด Based on the previous passage, choose the most reasonable effect.\nA:พ่อของเธออ่านหนังสือให้ฟัง\nB:พ่อของเธอจับหน้าผากของเธอ\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nปากกาหมึกหมด Based on the previous passage, choose the most reasonable effect.\nA:ฉันใช้ดินสอ\nB:ฉันเซ็นชื่อของฉัน\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้ชายถูกปฎิเสธสินเชื่อ Based on the previous passage, choose the most reasonable effect.\nA:เขามีหนี้สิน\nB:เขาเริ่มธุรกิจใหม่\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nเด็กหญิงไม่ไปโรงเรียน Based on the previous passage, choose the most reasonable effect.\nA:เธอเป็นอีสุกอีใส\nB:เธอชอบเรียนเลข\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nถุงขยะเต็มแล้ว Based on the previous passage, choose the most reasonable effect.\nA:ฉันเอามันไปทิ้ง\nB:ฉันทิ้งมันลงอ่างล้างจาน\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nฉันดูดฝุ่นพรม Based on the previous passage, choose the most reasonable effect.\nA:เพื่อนร่วมห้องฉันทำนํ้าผลไม้หก\nB:หมาของฉันขนร่วง\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้ชายอารมณ์เสีย Based on the previous passage, choose the most reasonable effect.\nA:เขาปิดคอมฟึวเตอร์\nB:เขาทุ่มเก้าอี้ข้ามห้อง\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเด็กผู้หญิงโยนก้านไม้เข้ากองไฟ Based on the previous passage, choose the most reasonable effect.\nA:ก้านไม้ไหม้\nB:ไฟมอดดับ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้ชายออกมาจากห้องอาบน้ำ Based on the previous passage, choose the most reasonable effect.\nA:นํ้าร้อนหมด\nB:เขาหาผ้าเช็ดตัวไม่เจอ\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้ปกครองอยากให้ลูกเข้าเรียนมหาวิทยาลัย Based on the previous passage, choose the most reasonable effect.\nA:พวกเขาเก็บเงินไว้สำหรับค่าเล่าเรียน\nB:เขาสนับสนุนให้ลูกเล่นข้างนอก\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้ชายแกะเชือกรองเท้า Based on the previous passage, choose the most reasonable effect.\nA:รองเท้าหลวมขึ้น\nB:รองเท้าเก่าลง\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้ชาบกินอาหารเรียกน้ำย่อยไปครึ่งจาน Based on the previous passage, choose the most reasonable effect.\nA:เขาเอาอาหารเหลือแช่ตู้เย็น\nB:เขาเก็บสูตรทำอาหารไว้\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nข้อเท้าของฉันบวม Based on the previous passage, choose the most reasonable effect.\nA:ฉันประคบน้ำแข็งบนข้อเท้า\nB:ฉันทาโลชั่นบนข้อเท้า\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nประตูห้องทำงานของฉันเปิดอยู่ Based on the previous passage, choose the most reasonable effect.\nA:ฉันพูดกับเพื่อนร่วมงานที่โต๊ะ\nB:ฉันได้ยินการสนทนาในห้องโถง\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันต้องรอในแถว Based on the previous passage, choose the most reasonable effect.\nA:ฉันนั่งรอ\nB:ฉันนั่งอ่านนิตยสาร\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nผู้ชายตีแมลงวัน Based on the previous passage, choose the most reasonable effect.\nA:แมลงวันบินหนีไป\nB:แมลงวันอยู่นิ่ง\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้ชายเขียนพินัยกรรม Based on the previous passage, choose the most reasonable effect.\nA:เขากำลังจะตาย\nB:เขาเป็นพ่อม่าย\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nนักวิ่งรู้สึกว่าคู่แข่งของเขากำลังไล่ตามมา Based on the previous passage, choose the most reasonable effect.\nA:เขาออกจากการแข่งขัน\nB:เขาวิ่งเร็วขึ้น\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nฉันทบทวนปัญหาอย่างรอบคอบ Based on the previous passage, choose the most reasonable effect.\nA:ฉันต้องการคำแนะนำ\nB:ฉันหาคำตอบได้\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nนักท่องเที่ยวเดินบนสะพานแขวนที่โยกเยก Based on the previous passage, choose the most reasonable effect.\nA:เขากลัวมาก\nB:เขารู้สึกตื่นเต้น\n\nAnswer:\n",
+        "output": "A"
+    },
+    {
+        "input": "Question:\nผู้ชายคาดว่าทีมเขาจะชนะ Based on the previous passage, choose the most reasonable effect.\nA:เขานัดเจอเพื่อนเขาเพื่อที่จะดูการแข่งขัน\nB:เขาพนันกับเพื่อนของเขา\n\nAnswer:\n",
+        "output": "B"
+    },
+    {
+        "input": "Question:\nเด็กผู้ชายนอนไม่หลับ Based on the previous passage, choose the most reasonable effect.\nA:เขาตั้งนาฬิกาปลุก\nB:เขานับแกะ\n\nAnswer:\n",
+        "output": "B"
+    }
+]
